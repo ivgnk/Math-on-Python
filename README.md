@@ -1,9 +1,13 @@
-# Math
-Small math problems on Python
+# Math             
+Small math problems on Python             
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
 https://www.youtube.com/@PBVmaths/videos                                      
 
-## testing the operation of functions from scipy.optimize
-the_minimize_scalar - optimize.minimize_scalar
+## testing the operation of functions from scipy.optimize          
+the_minimize_scalar - optimize.minimize_scalar: Univariate 1D function minimizers
+'brent', 'goldeb' - Unconstrained minimization methods
+'bounded' - Bounded (constrained) minimization
+
+
