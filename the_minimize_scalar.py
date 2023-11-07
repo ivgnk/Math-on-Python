@@ -14,7 +14,7 @@
 # minimize_scalar(method=’golden’) - golden section method
 
 # https://docs.scipy.org/doc/scipy/tutorial/optimize.html#bounded-minimization-method-bounded
-# minimize_scalar(method=’'bounded) - The interval constraint allows the minimization
+# minimize_scalar(method='bounded') - The interval constraint allows the minimization
 # to occur only between two fixed endpoints, specified using the mandatory bounds parameter.
 
 # Вывод по optimize.minimize_scalar(f, method='brent')
