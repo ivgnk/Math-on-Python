@@ -13,12 +13,12 @@ def my_1D_medfilt():
     x = rng.standard_normal(250)
 
     fig, ax = plt.subplots(figsize=(10, 8))
-    plt.plot(x)
+    plt.plot(x,label='ini')
     lst = [5, 15, 25, 35]  # range(5,30,8)
     for i in lst:
         print(i)
         y = signal.medfilt(x, i)
-        plt.plot(y)
+        plt.plot(y,label='medfilt '+str(i))
     # y = signal.medfilt(x, 15)
     # plt.plot(y)
     plt.legend()
