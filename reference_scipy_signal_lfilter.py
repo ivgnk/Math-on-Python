@@ -39,7 +39,7 @@ def ref_1D_lfilter():
 
     # --(2)------------ Plotting
     # Plot the original signal and the various filtered versions:
-    plt.figure
+    # plt.figure
     plt.plot(t, xn, 'b', alpha=0.75)
     plt.plot(t, z, 'r--', t, z2, 'r', t, y, 'k')
     plt.legend(('noisy signal', 'lfilter, once', 'lfilter, twice',
@@ -48,24 +48,6 @@ def ref_1D_lfilter():
     plt.grid(True)
     plt.show()
 
-
-def my_1D_lfilter():
-    # https://numpy.org/doc/stable/reference/random/index.html
-    rng = np.random.default_rng() # Generator start
-    x = rng.standard_normal(250)
-
-    fig, ax = plt.subplots(figsize=(10, 8))
-    plt.plot(x,label='ini')
-    lst = [5, 15, 25, 35]  # range(5,30,8)
-    for i in lst:
-        print(i)
-        y = signal.wiener(x, i)
-        plt.plot(y,label='wiener '+str(i))
-    # y = signal.medfilt(x, 15)
-    # plt.plot(y)
-    plt.legend()
-    plt.grid()
-    plt.show()
 
 ref_1D_lfilter()
 # my_1D_wienerfilt()
