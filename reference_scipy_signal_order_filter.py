@@ -33,4 +33,5 @@ def reference_2D():
     #        [ 20.,  21.,  22.,  23.,  24.]])
 
 
-reference_2D()
+if __name__ == "__main__":
+    reference_2D()
