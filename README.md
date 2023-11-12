@@ -11,9 +11,9 @@ https://www.youtube.com/@PBVmaths/videos
 **Testing of optimization functions is necessary
 because optimization as a kind of solving [incorrect problems]
 can give solutions much different from the real ones**               
-```
-$${\color{red}Red}$$
-(https://en.wikipedia.org/wiki/Well-posed_problem)             
+```              
+$${\color{red}Red}$$               
+(https://en.wikipedia.org/wiki/Well-posed_problem)                     
 
 https://docs.scipy.org/doc/scipy/reference/optimize.html                       
 **https://docs.scipy.org/doc/scipy/tutorial/optimize.html**                     
