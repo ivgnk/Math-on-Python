@@ -6,6 +6,11 @@ https://www.youtube.com/@Postupashki/videos
 https://www.youtube.com/@PBVmaths/videos                                      
 
 ## testing the operation of functions from scipy.optimize                 
+
+**Testing of optimization functions is necessary, 
+because optimization as a kind of solving incorrect problems 
+can give solutions much different from the real ones**
+
 https://docs.scipy.org/doc/scipy/reference/optimize.html                       
 **https://docs.scipy.org/doc/scipy/tutorial/optimize.html**                     
 2019, Habr: **[SciPy, оптимизация / SciPy, optimization](https://habr.com/ru/articles/439288)**            
