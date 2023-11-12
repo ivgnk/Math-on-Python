@@ -24,9 +24,9 @@ a1 = 5
 b1 = 8
 c1 = 5
 st_  = 1
-end_ = 55
+end_ = 15
 x = np.arange(st_, end_, 1)
-y = a1*np.exp(b1*x)+c1
+y = a1*np.exp(-b1*x)+c1
 print(x)
 
 [a, b, c], pcov = curve_fit(func, x, y)
