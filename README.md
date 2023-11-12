@@ -7,8 +7,8 @@ https://www.youtube.com/@PBVmaths/videos
 
 ## testing the operation of functions from scipy.optimize                 
 
-'''
-**Testing of optimization functions is necessary, in red              
+'''diff
+**Testing of optimization functions is necessary in red      
 because optimization as a kind of solving [incorrect problems](https://en.wikipedia.org/wiki/Well-posed_problem)             
 can give solutions much different from the real ones**               
 '''
