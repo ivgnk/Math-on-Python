@@ -8,10 +8,11 @@ https://www.youtube.com/@PBVmaths/videos
 ## testing the operation of functions from scipy.optimize                 
 
 ```diff
-**'Testing of optimization functions is necessary' in red      
-because optimization as a kind of solving [incorrect problems](https://en.wikipedia.org/wiki/Well-posed_problem)             
+**Testing of optimization functions is necessary
+because optimization as a kind of solving [incorrect problems]
 can give solutions much different from the real ones**               
 ```
+(https://en.wikipedia.org/wiki/Well-posed_problem)             
 
 https://docs.scipy.org/doc/scipy/reference/optimize.html                       
 **https://docs.scipy.org/doc/scipy/tutorial/optimize.html**                     
