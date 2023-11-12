@@ -7,13 +7,13 @@ https://www.youtube.com/@PBVmaths/videos
 
 ## testing the operation of functions from scipy.optimize                 
 
-$${\color{red}
+
 **
 Testing of optimization functions is necessary
 because optimization as a kind of solving [incorrect problems]
 can give solutions much different from the real ones               
 **
-}$$
+$${\color{red}}$$
 
 
 (https://en.wikipedia.org/wiki/Well-posed_problem)                     
