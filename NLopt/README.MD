@@ -25,6 +25,7 @@ https://research-instruments.github.io/JNotebooks/Nlopt/
 https://progi.pro/nlopt-t25820
 
 Eng             
+**https://www.youtube.com/results?search_query=nlopt+python**                
 **https://python.hotexamples.com/examples/nlopt/-/opt/python-opt-function-examples.html**                              
 https://esa.github.io/pygmo2/tutorials/nlopt_basics.html             
 
