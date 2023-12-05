@@ -10,7 +10,7 @@ https://github.com/ivgnk/Math-on-Python/blob/master/2D_functions/Himmelblau_func
 **https://en.wikipedia.org/wiki/Test_functions_for_optimization**                   
 
 #### Sites & blogs                
-[www.indusmic.com/blog](https://www.indusmic.com/blog/page/11) (last page of list of entries)              
+[www.indusmic.com/blog](https://www.indusmic.com/blog/page/11) (view from last page of list of entries)              
 
 ## Output and input from file with Numpy functions                     
 ### Sources
