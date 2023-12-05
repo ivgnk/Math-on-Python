@@ -7,4 +7,11 @@ Functions:
 ## Output and input from file with Numpy functions
 
 ## Sources
-**1) https://en.wikipedia.org/wiki/Test_functions_for_optimization**
+
+### Wikipedia       
+https://en.wikipedia.org/wiki/Category:Mathematical_optimization
+https://en.wikipedia.org/wiki/Category:Convex_optimization
+
+https://en.wikipedia.org/wiki/Category:Constraint_programming
+
+**https://en.wikipedia.org/wiki/Test_functions_for_optimization** 
