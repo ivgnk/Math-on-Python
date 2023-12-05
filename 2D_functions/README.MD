@@ -19,3 +19,6 @@ https://en.wikipedia.org/wiki/Category:Convex_optimization
 https://en.wikipedia.org/wiki/Category:Constraint_programming                   
 
 **https://en.wikipedia.org/wiki/Test_functions_for_optimization**                   
+
+### Sites & blogs                
+[www.indusmic.com/blog](https://www.indusmic.com/blog/page/11) (last page of list of entries)              
