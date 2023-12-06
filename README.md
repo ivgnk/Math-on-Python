@@ -23,9 +23,9 @@ the_minimize_scalar - optimize.minimize_scalar: Univariate 1D function minimizer
 'brent', 'goldeb' - Unconstrained minimization methods                        
 'bounded' - Bounded (constrained) minimization                          
 
-## testing the operation of functions from scipy.signal
-https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
-**https://docs.scipy.org/doc/scipy/reference/signal.html**
+## testing the operation of functions from scipy.signal                   
+https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering                    
+**https://docs.scipy.org/doc/scipy/reference/signal.html**             
 
 
 
