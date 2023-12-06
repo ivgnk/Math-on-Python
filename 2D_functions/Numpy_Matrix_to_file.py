@@ -21,6 +21,7 @@ def output_1():
     # np.savetxt('test1_x_fmt.txt', x, fmt='%1.4e')   # use exponential notation
     np.savetxt(fname=fn3, X=x, fmt='%4.2f')  # use fixed notation
 
+
     # https://pythonru.com/osnovy/fajly-v-python-vvod-vyvod
     # https://numpy.org/doc/stable/reference/generated/numpy.ndarray.tofile.html#numpy.ndarray.tofile
     with open(fn4, 'w') as f:
@@ -31,7 +32,7 @@ def output_1():
 def input_1(fn1, fn2, fn3, fn4):
     # --1-- full 1D input
     x = np.loadtxt(fn1)
-    print(x,'\n')
+    print(x,'\nloadtxt')
 
     # --2-- full 2D input
     y2D = np.loadtxt(fn2)
@@ -43,6 +44,7 @@ def input_1(fn1, fn2, fn3, fn4):
         for j in range(y2D.shape[1]):
             print((i,j),end=' ')
         print()
+    # print('another after loadtxt')
 
     print('\nfull matrix input')
     for i in range(y2D.shape[0]):
