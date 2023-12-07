@@ -11,11 +11,26 @@ https://github.com/Davide-sd
 https://github.com/Davide-sd/sympy-book                        
 
 # Sites    
-## Main sources
+## RU - Main sources
 Язык Python 3 для научных исследований (18 из 90 стр.) [**PDF**](http://vgupetrova.ru/wp-content/uploads/2019/11/SymPy2017.pdf)               
 Основы матанализа (модули scipy.integrate и scipy.fftpack) (23 стр) [**PDF**](http://www.osc.phys.msu.ru/mediawiki/upload/Khalili/calculus.pdf)            
-SymPy tutorial point (69 стр) [**PDF**](https://www.tutorialspoint.com/sympy/sympy_tutorial.pdf)
+SymPy tutorial point (69 стр) [**PDF**](https://www.tutorialspoint.com/sympy/sympy_tutorial.pdf)                      
 
+2020 Библиотека Sympy: символьные вычисления в Python             
+https://pythonist.ru/biblioteka-sympy-simvolnye-vychisleniya-v-python           
+2020 Математическая библиотека Python SymPy            
+https://pythonru.com/biblioteki/sympy-v-python              
+
+https://ru.wikiversity.org/wiki/Программирование_и_научные_вычисления_на_языке_Python/§19              
+
+2018 Символьные вычисления средствами Python. Часть1. Основы                    
+https://habr.com/ru/post/423731                
+2018 Символьное решение линейных дифференциальных уравнений и систем методом преобразований Лапласа c применением SymPy             
+https://habr.com/ru/post/426041                 
+
+https://russianblogs.com/search SymPy                  
+Sympy Начало работы          
+https://russianblogs.com/article/96151738002/              
 
 ## En
 https://www.sympy.org/en/index.html - May 10, 2023 Version 1.12 released          
