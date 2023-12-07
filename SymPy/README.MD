@@ -12,9 +12,9 @@ https://github.com/Davide-sd/sympy-book
 
 # Sites    
 ## Main sources
-[Язык Python 3 для научных исследований (18 из 90 стр.) PDF](http://vgupetrova.ru/wp-content/uploads/2019/11/SymPy2017.pdf)               
-[Основы матанализа (модули scipy.integrate и scipy.fftpack) (23 стр) PDF](http://www.osc.phys.msu.ru/mediawiki/upload/Khalili/calculus.pdf)            
-[SymPy tutorial point (69 стр) **PDF**](https://www.tutorialspoint.com/sympy/sympy_tutorial.pdf)
+Язык Python 3 для научных исследований (18 из 90 стр.) [**PDF**](http://vgupetrova.ru/wp-content/uploads/2019/11/SymPy2017.pdf)               
+Основы матанализа (модули scipy.integrate и scipy.fftpack) (23 стр) [**PDF**](http://www.osc.phys.msu.ru/mediawiki/upload/Khalili/calculus.pdf)            
+SymPy tutorial point (69 стр) [**PDF**](https://www.tutorialspoint.com/sympy/sympy_tutorial.pdf)
 
 
 ## En
