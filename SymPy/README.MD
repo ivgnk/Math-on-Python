@@ -20,6 +20,13 @@ https://stackoverflow.com/questions/tagged/sympy
 https://www.quora.com/topic/SymPy?q=sympy        
 https://www.reddit.com/r/sympy          
 
+### Plot
+https://pypi.org/project/sympy-plot-backends
+https://sympy-plot-backends.readthedocs.io/en/latest/
+https://sympy-plot-backends.readthedocs.io/en/latest/overview.html#plotting-functions
+
+https://stackforgeeks.com/blog/how-can-i-manually-specify-text-for-legends-in-sympyplottingplot
+
 
 ## Ru       
 https://ru.stackoverflow.com/questions/tagged/sympy               
