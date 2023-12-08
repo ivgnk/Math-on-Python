@@ -68,4 +68,69 @@ def fun_2():
     print(f'\nWith sum of modules < {tol}')
     print(exact_res,' from '+str(n))
 
-fun_2()
+def fun_3():
+    '''
+    https://www.youtube.com/watch?v=H_Zqk7Esl7g
+    4*x**4-16*x**3+3*x**2+4*x-1=0
+    '''
+    x = Symbol('x')
+    print(f'{solve(4*x**4-16*x**3+3*x**2+4*x-1, x) = }')   # [-1/2, 1/2, 2 - sqrt(3), sqrt(3) + 2]
+
+def fun_4():
+    '''
+    https://www.youtube.com/watch?v=Dx9qkJXd9OE
+    (2*x**2-3*x+4)**(1/2) - (2*x**2+x+3)**(1/2)=1-4*x
+    '''
+    x = Symbol('x')
+    print(f'{solve((2*x**2-3*x+4)**(1/2) - (2*x**2+x+3)**(1/2)-1+4*x, x) = }') # [0.25]
+
+def fun_5():
+    '''
+    https://www.youtube.com/watch?v=2g5I0H0JMSQ
+    (x+6)!/(x+2)! -1680
+    https://ru.wikipedia.org/wiki/Факториал
+    https://ru.wikipedia.org/wiki/Факториал#Связь_с_гамма-функцией
+    '''
+    x = Symbol('x')
+    # f1= Symbol('(x+3)*(x+4)*(x+5)*(x+6)-1680')
+    f1 = (x+3)*(x+4)*(x+5)*(x+6)-1680
+    res_lst = solve(f1, x)
+    print(f'All results {res_lst = }') # [-11, 2, -9/2 - sqrt(159)*I/2, -9/2 + sqrt(159)*I/2]
+    n = len(res_lst);
+    good_lst = []
+    # выделение нужногоответа - неотрицательного числа
+    for i in range(n):
+        zz = complex(res_lst[i])
+        if (zz.imag ==0) and (zz.real>0):
+            good_lst.append(zz.real)
+    print('True results')
+    print(good_lst)    # [2]
+
+def fun_6():
+    '''
+    https://www.youtube.com/watch?v=PxTaSH9tPEw
+    ( 2**(1/2))**(x**(1/2)) + 2**(1/2)**(y**(1/2) ) = 504
+    x and y are positive integers
+    '''
+    from math import sqrt, pow
+    good_res = []
+    nn = 1100
+    dat = sqrt(2)
+    for i in range(0,nn):
+        for j in range(0, nn):
+            d1 = pow(dat,sqrt(i))
+            d2 = pow(dat,sqrt(j))
+            f = d1 - d2 - 504
+            # print(i,' ',j,'  ',d1,'  ',d2,'  ',f)
+            if abs(f) <1e-10: good_res.append([i,j,f])
+    n = len(good_res)
+    print(f'{n=}')
+    print('True results')
+    print(good_res)
+    print(f'{sqrt(good_res[0][0]) = }  {sqrt(good_res[0][1]) = }')
+    print('Test = ',2**9-2**3)
+
+
+
+
+fun_6()
