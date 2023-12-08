@@ -33,7 +33,7 @@ def fun_2():
         return y**3 - x*y*z -2
 
     def f3c(x,y,z)->float:
-        return y**3 - x*y*z -21
+        return z**3 - x*y*z -21
 
     f1 = x**3 - x*y*z + 5
     f2 = y**3 - x*y*z - 2
@@ -44,19 +44,28 @@ def fun_2():
     n = len(lst)
     print(f'\n{n=}')
 
+    exact_res = []
     # testing result for 1 equation
+    tol = 1e-14
     for i in range(n):
         the_sl = lst[i]
         print('\n',i)
         print(the_sl) # type(the_sl)
         print('x=', the_sl[x],'  y=', the_sl[y],'  z=', the_sl[z])
-        print('x=', type(the_sl[x]), '  y=', type(the_sl[y]), '  z=', type(the_sl[z]))
+        # print('x=', type(the_sl[x]), '  y=', type(the_sl[y]), '  z=', type(the_sl[z]))
         x1 = complex(the_sl[x])
         y1 = complex(the_sl[y])
         z1 = complex(the_sl[z])
         print(f'{x1=}    {y1=}    {z1=}')
-        resf = f1c(x1,y1,z1)
-        mod_res = abs(resf)
-        print(f'{ resf= }  {mod_res = }')
+        resf1 = f1c(x1,y1,z1)
+        resf2 = f2c(x1,y1,z1)
+        resf3 = f3c(x1,y1,z1)
+        mod_res = abs(resf1) + abs(resf2) + abs(resf3)
+        if mod_res < tol: exact_res.append(i)
+        print(f'{resf1= }  {resf2= }  ')
+        print(f'{resf3= }  {mod_res = }')
+
+    print(f'\nWith sum of modules < {tol}')
+    print(exact_res,' from '+str(n))
 
 fun_2()
