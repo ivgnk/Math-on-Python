@@ -106,7 +106,7 @@ def fun_5():
     print('True results')
     print(good_lst)    # [2]
 
-def fun_6():
+def fun_6_not_sympy():
     '''
     https://www.youtube.com/watch?v=PxTaSH9tPEw
     ( 2**(1/2))**(x**(1/2)) + 2**(1/2)**(y**(1/2) ) = 504
@@ -130,7 +130,175 @@ def fun_6():
     print(f'{sqrt(good_res[0][0]) = }  {sqrt(good_res[0][1]) = }')
     print('Test = ',2**9-2**3)
 
+def fun_7_not_sympy():
+    '''
+    x**5 = 9**x
+    https://www.youtube.com/watch?v=tOPVVOjgx5w
+    '''
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+    good_res = []
+    nn = 1.5
+    dat = np.linspace(-nn,nn, round(145*(nn+1)))
+    fres = np.linspace(-nn, nn, round(145 * (nn + 1)))
+    for i,x in enumerate(dat):
+        f = x**5 - 9**x
+        fres[i] = f
+        if abs(f) < 1e-1:
+            print(i,'  ',i**5,'  ',9**i)
+
+    plt.plot(dat,fres)
+    plt.grid()
+    plt.show()
+    print('test =',0**5 - 9**0)
+
+def fun_7_with_sympy():
+    '''
+    x**5 = 9**x
+    https://www.youtube.com/watch?v=tOPVVOjgx5w
+    '''
+    x = Symbol('x')
+    f1 = x**5 - 9**x
+    res_lst = solve(f1, x)
+    print(f'All results {res_lst = }') #
 
 
+def fun_8():
+    '''
+    x**x = 100
+    https://www.youtube.com/watch?v=vieSDhMFJPM
+    '''
+    x = Symbol('x')
+    f1 = x**x - 100
+    res_lst = solve(f1, x)
+    print(f'All results {res_lst = }') #
+    print(complex(res_lst[0]))
+    r = float(res_lst[0])
+    print(r,' ',r**r)
 
-fun_6()
+def fun_8_not_sympy():
+    '''
+    x**x = 100
+    https://www.youtube.com/watch?v=vieSDhMFJPM
+    '''
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+    good_res = []
+    nn = 5
+    dat = np.linspace(0,nn, round(11145*(nn+1)))
+    fres = np.linspace(0, nn, round(11145 * (nn + 1)))
+    for i,x in enumerate(dat):
+        f = x**x - 100
+        fres[i] = f
+        if abs(f) < 0.01:
+            print(i,'  ',x,'  ',f)
+
+    plt.plot(dat,fres)
+    plt.grid()
+    plt.show()
+    # print('test =',0**5 - 9**0)
+
+def fun_9():  ## BAD Function
+    '''
+    (7-4*sqrt(3))**(x+sqrt(x+2)) = (2-sqrt(3))**((2*x+4)**(1/(x+3)))
+    https://www.youtube.com/watch?v=6HNjc5MzwCc
+    '''
+    from math import sqrt
+    x = Symbol('x')
+    dat1 = 7-4*(sqrt(3))
+    dat2 = 2-sqrt(3)
+    f1 = dat1**(x+(x+2)**0.5) -dat2**((2*x+4)**(x+1/3))
+    res_lst = solve(f1, x)
+    print(f'All results {res_lst = }') #
+
+def fun_9_not_sympy(): ## BAD Function
+    '''
+    (7-4*sqrt(3))**(x+sqrt(x+2)) = (2-sqrt(3))**((2*x+4)**(1/(x+3)))
+    https://www.youtube.com/watch?v=6HNjc5MzwCc
+    '''
+    import numpy as np
+    import matplotlib.pyplot as plt
+    from math import sqrt
+
+    good_res = []
+    nn = 5
+    dat = np.linspace(-2,nn, round(11145*(nn+1)))
+    fres = np.linspace(-2, nn, round(11145 * (nn + 1)))
+    for i,x in enumerate(dat):
+        f = (7-4*sqrt(3))**(x+sqrt(x+2)) - (2-sqrt(3))**((2*x+4)**(x+1/3))
+        fres[i] = f
+        if abs(f) < 1e-5:
+            print(i,'  ',x,'  ',f)
+
+    plt.plot(dat,fres)
+    plt.grid()
+    plt.show()
+    # print('test =',0**5 - 9**0)
+
+def fun_10():
+    '''
+    x**2+y**2 = 31
+    x**3+y**3 = 154
+    https://www.youtube.com/watch?v=09nYaqupTjk
+    '''
+    f1 = x**2 + y**2 - 31
+    f2 = x**3 + y**3 - 154
+    lst = solve([f1, f2])
+    # pp(lst)
+    n = len(lst)
+    print(f'\n{n=}')
+    print(lst)
+
+def fun_11():  ## BAD - NotImplementedError: could not solve y**(5 - y) + (5 - y)**y - 17
+    '''
+    x**y + y**x = 17
+    x+y = 5
+    https://www.youtube.com/watch?v=9ivsSVbWyfQ
+    decision x = 2, y = 3
+    '''
+    x = Symbol('x')
+    y = Symbol('y')
+    f1 = x**y + y**x - 17
+    f2 = x + y - 5
+    # lst = solve([f1, f2])
+    lst = solve([x**y + y**x - 17, x + y - 5])
+    # pp(lst)
+    n = len(lst)
+    print(f'\n{n=}')
+    print(lst)
+
+def fun_12():
+    '''
+    https://www.youtube.com/watch?v=Qrvt2HT-W28
+    4**(x**2-x-6) = 7
+    '''
+    lst = solve([4**(x**2-x-6) - 7])
+    n = len(lst)
+    print(f'\n{n=}')
+    print(lst)
+
+def fun_13():
+    '''
+    3**(x**2) = 27
+    '''
+    lst = solve([3**(x**2) - 27])
+    n = len(lst)
+    print(f'\n{n=}')
+    print(lst)
+
+def fun_14():  ## BAD
+    '''
+    9**y - 6**y = 4**y
+    https://www.youtube.com/watch?v=UmnBh5wk0iU
+    '''
+    x = Symbol('x')
+    lst = solve([9**x - 6**x - 4**x])
+    n = len(lst)
+    print(f'\n{n=}')
+    print(lst)
+
+
+fun_14()
