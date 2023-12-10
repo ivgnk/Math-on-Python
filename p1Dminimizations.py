@@ -107,8 +107,12 @@ def desic4_minimize_scalar_golden(minx:float, maxx:float, minf:types.FunctionTyp
     print('\n',inspect.currentframe().f_code.co_name)
     global fff;  fff = minf
     the_work=True; n =1
-    result = optimize.minimize_scalar(minf2, method='golden', options={'maxiter':10000,'disp':True}) #
-    print(result)
+    try:
+        result = optimize.minimize_scalar(minf2, method='golden', options={'maxiter':10000,'disp':True}) #
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
+        result = None
+    print(f'{result=}')
 
 
 def desic5_optimize_golden(minx:float, maxx:float, minf:types.FunctionType):
@@ -121,14 +125,22 @@ def desic5_optimize_golden(minx:float, maxx:float, minf:types.FunctionType):
 def desic6_minimize_scalar(minf:types.FunctionType):
     global fff;  fff = minf
     print('\n',inspect.currentframe().f_code.co_name)
-    result = optimize.minimize_scalar(minf2)
-    print(result)
+    try:
+        result = optimize.minimize_scalar(minf2)
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
+        result = None
+    print(f'{result=}')
 
 def desic7_minimize_scalar_brent(minf:types.FunctionType):
     global fff;  fff = minf
     print('\n',inspect.currentframe().f_code.co_name)
-    result = optimize.minimize_scalar(minf2,method='brent')
-    print(result)
+    try:
+        result = optimize.minimize_scalar(minf2,method='brent')
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
+        result = None
+    print(f'{result=}')
 
 def desic8_minimize_scalar_brent(minx:float, maxx:float, minf:types.FunctionType):
     global fff;  fff = minf
@@ -149,25 +161,40 @@ def desic10_optimize_root_scalar(minx:float, maxx:float, minf:types.FunctionType
     print('\n',inspect.currentframe().f_code.co_name)
     # print(minf(minx), minf(maxx))
     print('\nbrentq')
-    sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='brentq')
-    print(f'{sol.root=}  {minf(sol.root)=}')
+    try:
+        sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='brentq')
+        print(f'{sol.root=}  {minf(sol.root)=}')
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
 
     print('\nbrenth')
-    sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='brenth')
-    print(f'{sol.root=}  {minf(sol.root)=}')
+    try:
+        sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='brenth')
+        print(f'{sol.root=}  {minf(sol.root)=}')
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
 
     print('\nbisect')
-    sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='bisect')
-    print(f'{sol.root=}  {minf(sol.root)=}')
+    try:
+        sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='bisect')
+        print(f'{sol.root=}  {minf(sol.root)=}')
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
 
     print('\nridder')
-    sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='ridder')
-    print(f'{sol.root=}  {minf(sol.root)=}')
+    try:
+        sol = optimize.root_scalar(minf, bracket=(minx, maxx), method='ridder')
+        print(f'{sol.root=}  {minf(sol.root)=}')
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
 
     s='toms748'
     print('\n'+s)
-    sol = optimize.root_scalar(minf, bracket=(minx, maxx), method=s)
-    print(f'{sol.root=}  {minf(sol.root)=}')
+    try:
+        sol = optimize.root_scalar(minf, bracket=(minx, maxx), method=s)
+        print(f'{sol.root=}  {minf(sol.root)=}')
+    except Exception:
+        print('Error in ',inspect.currentframe().f_code.co_name)
 
 def all_minimizations_testing(n:int, minx:float, maxx:float, minf:types.FunctionType, name_:str)->None:
     print(name_)
