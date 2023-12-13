@@ -6,6 +6,9 @@ https://docs.sympy.org/latest/modules/solvers/solvers.html
 from sympy.solvers import solve
 from sympy import Symbol
 from pprint import pp
+import numpy as np
+import matplotlib.pyplot as plt
+from math import sqrt
 
 x = Symbol('x')
 y = Symbol('y')
@@ -219,10 +222,6 @@ def fun_9_not_sympy(): ## BAD Function
     (7-4*sqrt(3))**(x+sqrt(x+2)) = (2-sqrt(3))**((2*x+4)**(1/(x+3)))
     https://www.youtube.com/watch?v=6HNjc5MzwCc
     '''
-    import numpy as np
-    import matplotlib.pyplot as plt
-    from math import sqrt
-
     good_res = []
     nn = 5
     dat = np.linspace(-2,nn, round(11145*(nn+1)))
@@ -300,5 +299,59 @@ def fun_14():  ## BAD
     print(f'\n{n=}')
     print(lst)
 
+def fun_15():
+    '''
+    x**6 - x**3 = 2
+    https://www.youtube.com/watch?v=cwZbT2BgFxc
+    '''
+    lst = solve([x**6 - x**3 - 2])
+    n = len(lst)
+    print(f'\n{n=}')
+    print(lst)
 
-fun_14()
+def fun_16():
+    '''
+    https://www.youtube.com/watch?v=V3NBSQCCSlQ
+    sqrt(x-2) = 5
+    (x-2)**0.5 = x+3
+    x**(1/3) - x = 1
+    '''
+    lst = solve([(x-2)**0.5 - 5]);     print(lst)
+    lst = solve([(x-2)**0.5 - x+3]);    print(lst)
+    lst = solve([x**(1/3) - x - 1]);    print(lst)
+    lst = solve([(x+1)*3 - x]);    print(lst)
+    lst = solve([3**(1/2)*x - 2**(1/2)]);    print(lst)
+    # - - -
+    lst = solve([(15-2*x)**(1/2) - 3]);    print(lst)
+
+
+def fun_16_not_sympy():
+    '''
+    x**(1/3) - x = 1
+    '''
+    good_res = []
+    nn = 5
+    dat = np.linspace(0,nn, round(11145*(nn+1)))
+    fres = np.linspace(0, nn, round(11145 * (nn + 1)))
+    for i,x in enumerate(dat):
+        f = x**(1/3) - x - 1
+        fres[i] = f
+        if abs(f) < 1e-5:
+            print(i,'  ',x,'  ',f)
+
+    plt.plot(dat,fres)
+    plt.grid()
+    plt.show()
+
+def fun_17():
+    '''
+    https://www.youtube.com/watch?v=w1Vl63siU3s
+    x**(2/3) - 9*x**(1/3)+8
+    x = 1
+    x = 512
+    '''
+    lst = solve([x**(2/3) - 9*x**(1/3)+8]);     print(lst)
+
+
+fun_17()
+# fun_16_not_sympy()
