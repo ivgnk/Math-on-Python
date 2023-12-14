@@ -35,6 +35,9 @@ def for_eq014f_pr(x):
 def for_eq015f(x):
     return (x**(2/3) - 9*x**(1/3)+8)
 
+def for_eq016f(x):
+    return ((x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 - 5*x + 6)
+
 
 def for_eq014f(x):
     top =  (7**x - 11**x)
@@ -89,9 +92,20 @@ def getEq015_f()->tuple:
     name_ = 'x**(2/3) - 9*x**(1/3)+8'
     return (nnn, min_,max_, for_eq015f, name_)
 
+def getEq016_f()->tuple:
+    nnn = 6300
+    min_ = 1.75
+    max_ = 50
+    name_ = '(x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 - 5*x + 6'
+    return (nnn, min_,max_, for_eq016f, name_)
+
 def for_eq015f_test():
     m = 1;    print(m,' ',for_eq015f(m) )
     m = 512;  print(m,' ',for_eq015f(m) )
+
+def for_eq016f_test():
+    m = 1.75;    print(m,' ',for_eq016f(m) )
+    m = 2;  print(m,' ',for_eq016f(m) )
 
 
 def create_function_list():
@@ -100,8 +114,9 @@ def create_function_list():
     # lst_func.append(getEq013_f())
     # lst_func.append(getEq014_pr_f())
     # lst_func.append(getEq014_f())
-    lst_func.append(getEq015_f())
+    # lst_func.append(getEq015_f())
+    lst_func.append(getEq016_f())
     print(lst_func)
 
 if __name__ == "__main__":
-    for_eq015f_test()
+    for_eq016f_test()
