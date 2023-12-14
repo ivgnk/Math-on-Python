@@ -352,6 +352,15 @@ def fun_17():
     '''
     lst = solve([x**(2/3) - 9*x**(1/3)+8]);     print(lst)
 
+def fun_18():
+    '''
+    https://www.youtube.com/watch?v=orDjrxeTP2A
+    sqrt(x-1) + sqrt(2*x-3) + sqrt(3*x-5) + sqrt(4*x-7) -5*x+6
+    :return:
+    '''
+    # lst = solve([((x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5)**2 - (5*x + 6)**2 ])
+    lst = solve([(x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 + 5*x - 6])
+    print(lst)
 
-fun_17()
+fun_18()
 # fun_16_not_sympy()
