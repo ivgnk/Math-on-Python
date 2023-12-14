@@ -3,12 +3,15 @@ Linear equations solving
 https://docs.sympy.org/latest/modules/solvers/solvers.html
 '''
 
-from sympy.solvers import solve
+import sympy as sym
+from sympy.solvers import solve, solveset
 from sympy import Symbol
 from pprint import pp
 import numpy as np
 import matplotlib.pyplot as plt
 from math import sqrt
+from sympy import reduce_inequalities
+from sympy import root, real_root, sqrt, roots
 
 x = Symbol('x')
 y = Symbol('y')
@@ -358,8 +361,23 @@ def fun_18():
     sqrt(x-1) + sqrt(2*x-3) + sqrt(3*x-5) + sqrt(4*x-7) -5*x+6
     :return:
     '''
-    # lst = solve([((x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5)**2 - (5*x + 6)**2 ])
-    lst = solve([(x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 + 5*x - 6])
+    # lst = solve([((x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5)**2 - (5*x - 6)**2 ])
+    # lst = solve([(x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 - (5*x - 6)])
+    # lst = solve([((x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5)**2 - (5*x - 6)**2])
+    x = Symbol('x', positive=True, real=True)
+    # z1 = Symbol('z1')
+    # z1 = sym.simplify(((x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5)**2)
+    # z2 = Symbol('z2')
+    # z2= sym.simplify((5*x - 6)**2)
+    # lst = solve([z1-z2])
+    # print(lst)
+    f1 = (real_root(x-1,2,1) + real_root(2*x-3,2,1) +
+          real_root(3*x-5, 2,1) + real_root(4*x-7,2,1) - (5*x - 6))
+    lst = solve(f = [f1], Force = True, check=False)
+    # lst = solveset(sqrt(x-1) + sqrt(2*x-3) + sqrt(3*x-5) + sqrt(4*x-7) -5*x+6)
+    # lst = roots(sqrt(x-1) + sqrt(2*x-3) + sqrt(3*x-5) + sqrt(4*x-7) -5*x+6,x)
+
+    # lst = reduce_inequalities([(x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 - (5*x - 6), x>1.75])
     print(lst)
 
 fun_18()
