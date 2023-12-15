@@ -6,6 +6,9 @@ https://github.com/topics/computer-algebra
 **https://github.com/topics/sympy**                   
 **https://github.com/sympy**                   
 
+### Repo 
+**[symfit](https://github.com/tBuLi/symfit)** - Symbolic Fitting;
+
 ## Authors                       
 https://github.com/Davide-sd                 
 https://github.com/Davide-sd/sympy-book                        
