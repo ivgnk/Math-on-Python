@@ -37,6 +37,12 @@ def Reducing_a_System_of_Inequalities_for_a_Single_Variable_Algebraically():
     a = reduce_inequalities([x >= 0, x ** 2 <= pi], x) #  (0 <= x) & (x <= sqrt(pi))
     print(a)
 
+def Reducing_One_Inequality_for_a_Single_Variable_Algebraically():
+    x = symbols('x')
+    a = reduce_inequalities(x ** 2 <= pi, x)
+    print(f'{a=}  {type(a)=}')
+
 if __name__ == "__main__":
     # thetest_symbols()
-    Reducing_a_System_of_Inequalities_for_a_Single_Variable_Algebraically()
+    # Reducing_a_System_of_Inequalities_for_a_Single_Variable_Algebraically()
+    Reducing_One_Inequality_for_a_Single_Variable_Algebraically()
