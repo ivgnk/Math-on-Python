@@ -7,7 +7,9 @@ https://github.com/topics/computer-algebra
 **https://github.com/sympy**                   
 
 ### Repo 
-**[symfit](https://github.com/tBuLi/symfit)** - Symbolic Fitting;
+**[symfit](https://github.com/tBuLi/symfit)** - Symbolic Fitting               
+**[tensorwaves](https://github.com/ComPWA/tensorwaves)** -  optimizer package that can ‘fit’ mathematical models (expressed with sympy) to data distributions using a variety of computational back-ends, optimizers, and estimator functions            
+https://tensorwaves.readthedocs.io                    
 
 ## Authors                       
 https://github.com/Davide-sd                 
