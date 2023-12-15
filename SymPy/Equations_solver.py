@@ -380,5 +380,15 @@ def fun_18():
     # lst = reduce_inequalities([(x-1)**0.5 + (2*x-3)**0.5 + (3*x-5)**0.5 + (4*x-7)**0.5 - (5*x - 6), x>1.75])
     print(lst)
 
-fun_18()
+def fun_19():
+    '''
+    https://www.youtube.com/watch?v=j8iYHgWtnMQ
+    '''
+    x = Symbol('x')
+    lst = solve(f = [x**(x**3)-36]) # [{x: 6**(1/3)}]
+    print(lst)
+
+
+
+fun_19()
 # fun_16_not_sympy()
