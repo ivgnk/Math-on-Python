@@ -33,8 +33,10 @@ Sympy Начало работы
 https://russianblogs.com/article/96151738002/              
 
 ## En
+**SymPy’s documentation**
 https://www.sympy.org/en/index.html - May 10, 2023 Version 1.12 released          
 https://docs.sympy.org/latest/index.html          
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **https://github.com/sympy/sympy/releases/download/sympy-1.12/sympy-docs-pdf-1.12.pdf**
 
 https://stackoverflow.com/questions/tagged/sympy                    
         
