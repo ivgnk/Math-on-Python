@@ -11,6 +11,10 @@ https://github.com/topics/computer-algebra
 **[tensorwaves](https://github.com/ComPWA/tensorwaves)** -  optimizer package that can ‘fit’ mathematical models (expressed with sympy) to data distributions using a variety of computational back-ends, optimizers, and estimator functions            
 https://tensorwaves.readthedocs.io                    
 
+#### Deep Learning 
+https://github.com/patrick-kidger/sympytorch                  
+https://github.com/pietrobarbiero/pytorch_explain                         
+
 ## Authors                       
 https://github.com/Davide-sd                 
 https://github.com/Davide-sd/sympy-book                        
