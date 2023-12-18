@@ -19,6 +19,17 @@ https://github.com/pietrobarbiero/pytorch_explain
 https://github.com/Davide-sd                 
 https://github.com/Davide-sd/sympy-book                        
 
+# Pypi
+**https://pypi.org/project/Algebra-with-SymPy**     **https://gutow.github.io/Algebra_with_Sympy**      **https://github.com/gutow/Algebra_with_Sympy**         
+mathematical equations. They consist of a left hand side (lhs) and a right hand side (rhs) connected by the relation operator "=". 
+In addition, it sets some convenient defaults and provides some useful controls of output formatting that may be useful even 
+if you do not use the Equation class (see Conveniences for SymPy).
+This tool applies operations to both sides of the equation simultaneously, 
+just as students are taught to do when attempting to isolate (solve for) a variable. 
+Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rhs/b
+
+****
+
 # Sites    
 ## RU - Main sources
 Язык Python 3 для научных исследований (18 из 90 стр.) [**PDF**](http://vgupetrova.ru/wp-content/uploads/2019/11/SymPy2017.pdf)               
