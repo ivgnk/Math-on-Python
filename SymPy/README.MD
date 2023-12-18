@@ -29,7 +29,8 @@ This tool applies operations to both sides of the equation simultaneously,
 just as students are taught to do when attempting to isolate (solve for) a variable. 
 Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rhs/b
 
-**https://sympy-plot-backends.readthedocs.io/**             
+**https://pypi.org/project/sympy-plot-backends**                          
+**https://sympy-plot-backends.readthedocs.io**             
 
 
 
