@@ -30,7 +30,7 @@ just as students are taught to do when attempting to isolate (solve for) a varia
 Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rhs/b
 
 **https://pypi.org/project/sympy-plot-backends**                          
-**https://sympy-plot-backends.readthedocs.io**             
+**https://sympy-plot-backends.readthedocs.io           https://github.com/Davide-sd/sympy-plot-backends/**             
 
 
 
