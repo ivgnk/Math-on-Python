@@ -1,5 +1,5 @@
 # Math             
-Small math problems on Python             
+Small and not only small mathematical problems on Python             
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
