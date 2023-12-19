@@ -4,7 +4,7 @@
 
 ## Sponsored-projects
 
-### ML & Math
+### ML & Math (mainly Bayesian)
 
 #### Scikit–learn 
 is a Python library for machine learning
@@ -14,6 +14,9 @@ It provides efficient implementation of all standard ML algorithm
 
 #### mlpack             
 machine learning library suitable for both data science prototyping and deployment                 
+
+#### SciML          
+is an open source software organization created to unify the packages for scientific machine learning                     
 
 ### Visualisation & image analysis
 
@@ -38,6 +41,9 @@ is a platform for Bayesian modeling, inference, and visualization on the frontie
 #### PyMC
 statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms                   
 
+#### ArviZ
+A unified codebase for Exploratory analysis of Bayesian models                
+             
 - - - 
 
 ### Tools (unclude FEM)
