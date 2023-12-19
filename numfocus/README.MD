@@ -14,5 +14,10 @@ is a platform for Bayesian modeling, inference, and visualization on the frontie
 statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms                   
 
 ## Shogun Machine Learning Toolbox
-It provides efficient implementation of all standard ML algorithm                  
+It provides efficient implementation of all standard ML algorithm           
+
+## FEniCS                 
+is an automated finite element library used to solve equations used in modeling, featuring a domain-specific language and automated code generation.              
+Users input a problem that looks very much like mathematical notation;              
+FEniCS then translates that into computer code. It solves problems for which there is no analytical (exact) solution numerically              
 
