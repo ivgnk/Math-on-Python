@@ -116,11 +116,13 @@ is a web accessible scientific computing software platform designed for scientis
 ### 📘 Open Journals               
 Journal of Open Source Software · https://joss.theoj.org                          
 Journal of Open Source Education · https://jose.theoj.org                    
+- - - 
 
 ## Affiliated-projects
 **https://numfocus.org/sponsored-projects/affiliated-projects**               
 
-
+- - - 
+https://gist.github.com/rxaviers/7360908
 
 
 
