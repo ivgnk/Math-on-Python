@@ -41,7 +41,7 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
  **https://pypi.org/project/optlang    https://optlang.readthedocs.io**         
  for solving mathematical optimization problems, i.e. maximizing or minimizing an objective function over a set of variables subject to a number of constraints               
 
-[semopy](https://pypi.org/project/semopy/) - Structural Equation Modelling (SEM) technique ( Structural Equation Models Optimization)             
+[semopy](https://pypi.org/project/semopy/) - Structural Equation Modelling (SEM) technique ( Structural Equation Models Optimization)  ? https://www.activeloop.ai/resources/glossary/structural-causal-models-scm           
 https://semopy.com/                
 https://en.wikipedia.org/wiki/Structural_equation_modeling - set of methods used by scientists doing both observational and experimental research.              
 SEM is used mostly in the social and behavioral sciences but it is also used in epidemiology, business,and other fields                       
