@@ -34,14 +34,16 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
 
 [bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference            
 [causing](https://pypi.org/project/causing/) -  multivariate graphical analysis tool helping you to interpret the **causal effects of a given equation system**                 
+[cy-root](https://pypi.org/project/cy-root/) -  root-finding package
 [complex-curve-fit-gui](https://pypi.org/project/complex-curve-fit-gui/)                   
 [kingdon](https://pypi.org/project/kingdon/) - Geometric Algebra (**Analytical geometry**)                               
 [mystic](https://pypi.org/project/mystic/) - collection of optimization algorithms and tools that allows the user to more robustly (and easily) solve hard **optimization problems**                        
 [radioactivedecay](https://pypi.org/project/radioactivedecay/)  - **radioactive decay calculations**                           
 pyfvm - Creating finite volume equation systems                         
-[py-polynomial](https://pypi.org/project/py-polynomial/) - single-variable **polynomials and operations** with them                       
+[py-polynomial](https://pypi.org/project/py-polynomial/) - single-variable **polynomials and operations** with them                                           
 [pycvodes](https://pypi.org/project/pycvodes) -  Python binding to the **Ordinary Differential Equation integration** routines from cvodes in the SUNDIALS suite                 
-[pyodesys](https://pypi.org/project/pyodesys) - numerically integrating systems of ordinary differential equations (initial value problems)                 
+[pyodesys](https://pypi.org/project/pyodesys) - **numerically integrating systems of ordinary differential equations** (initial value problems)                 
+[pysr](https://pypi.org/project/pysr/) -  High-Performance **Symbolic Regression**                        
 
 
 
