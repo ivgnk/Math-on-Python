@@ -4,7 +4,7 @@
 
 ## Sponsored-projects
 
-### ML & Math (mainly Bayesian)
+⭐ ### ML & Math (mainly Bayesian)
 
 #### Scikit–learn 
 is a Python library for machine learning
@@ -63,7 +63,7 @@ Users input a problem that looks very much like mathematical notation;
 FEniCS then translates that into computer code. It solves problems for which there is no analytical (exact) solution numerically              
 
 - - - 
-###  Sciences
+🔬 ###  Sciences
 
 #### QuantEcon            
 economic modeling https://quantecon.org               
@@ -79,7 +79,7 @@ Engineering Models and Software
 
 - - - 
 
-### Open Journals               
+📘 ### Open Journals               
 Journal of Open Source Software · https://joss.theoj.org                          
 Journal of Open Source Education · https://jose.theoj.org                    
 
