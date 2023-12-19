@@ -39,8 +39,12 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
 
 [semopy](https://pypi.org/project/semopy/) - Structural Equation Modelling (SEM) technique ( Structural Equation Models Optimization)             
 https://semopy.com/                
-https://en.wikipedia.org/wiki/Structural_equation_modeling - set of methods used by scientists doing both observational and experimental research. 
-SEM is used mostly in the social and behavioral sciences but it is also used in epidemiology, business,and other fields
+https://en.wikipedia.org/wiki/Structural_equation_modeling - set of methods used by scientists doing both observational and experimental research.              
+SEM is used mostly in the social and behavioral sciences but it is also used in epidemiology, business,and other fields                       
+               
+[PARMESAN](https://pypi.org/project/parmesan/) - Python Atmospheric Research program for MEteorological Scientific ANalysis,  including time series analysis                
+         
+
 
 
 [bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference            
@@ -58,6 +62,13 @@ pyfvm - Creating finite volume equation systems
 [pysolve](https://pypi.org/project/pysolve/) - Solving systems of equations
 [pysr](https://pypi.org/project/pysr/) -  High-Performance **Symbolic Regression**                        
 [radioactivedecay](https://pypi.org/project/radioactivedecay/)  - **radioactive decay calculations**      
+
+[SOSPy](https://pypi.org/project/SOSPy) -  a Python version of MATLAB TOOLBOX SOSTOOLS (sums of squares (SOS) optimization)                                  
+https://github.com/zm2404/SOSPy
+https://www.cds.caltech.edu/sostools
+https://github.com/oxfordcontrol/SOSTOOLS
+
+[stemlab](https://pypi.org/project/stemlab/) - library for performing mathematical computations
 [suncal](https://pypi.org/project/suncal/) -  UNcertainty CALculator (**Probability theory**),   https://sandiapsl.github.io  https://conference.scipy.org/proceedings/scipy2012/pdfs/matthew_rocklin.pdf                                 
 
 
