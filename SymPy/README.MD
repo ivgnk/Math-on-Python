@@ -47,6 +47,9 @@ https://en.wikipedia.org/wiki/Structural_equation_modeling - set of methods used
 SEM is used mostly in the social and behavioral sciences but it is also used in epidemiology, business,and other fields                       
                
 [PARMESAN](https://pypi.org/project/parmesan/) - Python Atmospheric Research program for MEteorological Scientific ANalysis,  including time series analysis                
+
+[PySR](https://pypi.org/project/pysr/) -  High-Performance **Symbolic Regression**      https://astroautomata.com/PySR                                  
+https://github.com/MilesCranmer/PySR                    
 - - -                   
 
 
@@ -66,7 +69,6 @@ pyfvm - Creating finite volume equation systems
 [pyneqsys](https://pypi.org/project/pyneqsys/) -  class for representing and solving non-linear equation systems from symbolic expressions                      
 [pyodesys](https://pypi.org/project/pyodesys) - **numerically integrating systems of ordinary differential equations** (initial value problems)                 
 [pysolve](https://pypi.org/project/pysolve/) - Solving systems of equations
-[pysr](https://pypi.org/project/pysr/) -  High-Performance **Symbolic Regression**                        
 [radioactivedecay](https://pypi.org/project/radioactivedecay/)  - **radioactive decay calculations**      
 
 [SOSPy](https://pypi.org/project/SOSPy) -  a Python version of MATLAB TOOLBOX SOSTOOLS (sums of squares (SOS) optimization)                                  
