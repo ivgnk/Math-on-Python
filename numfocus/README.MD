@@ -4,7 +4,7 @@
 
 ## Sponsored-projects
 
-⭐ ### ML & Math (mainly Bayesian)
+### ⭐ ML & Math (mainly Bayesian)
 
 #### Scikit–learn 
 is a Python library for machine learning
