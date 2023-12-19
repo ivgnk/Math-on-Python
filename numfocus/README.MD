@@ -118,10 +118,30 @@ Journal of Open Source Software · https://joss.theoj.org
 Journal of Open Source Education · https://jose.theoj.org                    
 - - - 
 
-## Affiliated-projects
+## 👏 Affiliated-projects
 **https://numfocus.org/sponsored-projects/affiliated-projects**               
 
-**Later**
+### ⭐ ML 
+
+- - - 
+
+### 📊 Visualisation, image & sound analysis
+#### Bqplot 
+2-D plotting library for Jupyter
+
+#### Asteroid 
+is a Pytorch-based audio source separation toolkit that enables fast experimentation on common datasets
+
+- - - 
+
+
+
+### 🔩 Tools (unclude FEM)
+
+#### Aesara 
+to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays
+
+
 
 - - - 
 https://gist.github.com/rxaviers/7360908
