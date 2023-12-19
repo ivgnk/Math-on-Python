@@ -46,6 +46,9 @@ is an interactive visualization library
 #### napari 
 is an n-dimensional image viewer in Python               
 
+#### HoloViz 
+for making sense of data at any scale, primarily through visualization in a web browser
+
 #### scikit-image              
 for scientific image analysis                
 
@@ -90,6 +93,9 @@ is an open source project to make working with geospatial data in Python easier.
 
 #### QuantEcon            
 economic modeling https://quantecon.org               
+
+#### PETSc 
+to write scientific simulations
 
 #### Econ-ARK            
 project is to make it easier for social scientists to do ‘structural modeling’ of economic choice behavior                     
