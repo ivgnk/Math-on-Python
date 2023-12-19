@@ -1,4 +1,5 @@
-# ![Numfocus.org](https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png) Numfocus.org interesting projects  
+![Numfocus.org](https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png) 
+# Numfocus.org interesting projects  
 (Other then main packets as NumPy, Scipy, SymPy, Matplotlib, Pandas, Jupyter, IPython, Julia)
 
 ## Sponsored-projects
