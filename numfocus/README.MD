@@ -4,7 +4,7 @@
 
 ## Sponsored-projects
 
-### ⭐ ML & Math (mainly Bayesian)
+### ⭐ ML 
 
 #### Scikit–learn 
 is a Python library for machine learning
@@ -14,6 +14,11 @@ It provides efficient implementation of all standard ML algorithm
 
 #### mlpack             
 machine learning library suitable for both data science prototyping and deployment                 
+
+### ➕ Math (mainly Bayesian)
+
+#### NetworkX 
+creation, manipulation, and study of the structure, dynamics, and functions of complex networks
 
 #### SciML          
 is an open source software organization created to unify the packages for scientific machine learning                     
