@@ -1,7 +1,7 @@
 ![Numfocus.org](https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png) 
 # Numfocus.org interesting projects  
-(Other then other packets & programms such as as NumPy, Scipy, SymPy, Astropy, Matplotlib, Pandas, Jupyter, IPython, Julia, GNU Octave, Spyder, Conda 
-and different biological and astrophysical packages)
+(Other then packets & programms such as as NumPy, Scipy, SymPy, Astropy, Matplotlib, Pandas, Jupyter, IPython, Julia, GNU Octave, Spyder, Conda 
+and different chemical, biological, medical, ecological (green),  astrophysical & satellite, mechanical and microscope packages)
 
 ## 💰 Sponsored-projects
 **https://numfocus.org/sponsored-projects**                         
@@ -121,37 +121,94 @@ Journal of Open Source Education · https://jose.theoj.org
 ## 👏 Affiliated-projects
 **https://numfocus.org/sponsored-projects/affiliated-projects**               
 
-### ⭐ ML 
+### ⭐ ML/DL & DS
+#### Catalyst                  
+is a PyTorch framework for Deep Learning Research and Development                 
+
+#### Gensim 
+statistical semantics, analysis of plain-text documents for semantic structure, and retrieval of semantically similar documents                           
+                                                           
+#### GeomScale 
+lies at the intersection of data science, optimization, geometric and statistical computing                        
+
+#### Orange
+data visualization and data analysis
+
+#### Project Optuna             
+develops tools for optimizing deep learning and other tasks that use hyperparameters                    
+
+#### PyTorch-Ignite            
+to help with training neural networks in PyTorch              
+- - - 
+
+### ➕ Math 
+#### Devito 
+to implement optimized stencil computation (e.g., finite differences, image processing, machine learning) from high-level symbolic problem definitions
+
+#### igraph               
+network analysis tools                        
+
+#### Statsmodels              
+package that provides a complement to Scipy for statistical computations                 
+
+
+#### pomegranate 
+for fast and flexible probabilistic modeling inspired by the design of scikit-learn
+
+#### PyLops 
+solving large-scale inverse problems                               
+
+#### Effective Quadratures
+for uncertainty quantification, machine learning, optimisation, numerical integration and dimension reduction – all using orthogonal polynomials
+
+#### Geomstats 
+for computations and statistics on manifolds (многообразия)
+
+#### Clawpack
+(“Conservation Laws Package”) is a collection of finite volume methods for linear and nonlinear hyperbolic systems of conservation laws
+
+#### CVXPY                       
+modeling language for convex optimization problems                  
 
 - - - 
 
-### 📊 Visualisation, image & sound analysis
-#### Bqplot 
-2-D plotting library for Jupyter
+### 📊 Visualisation, image & sound analysis and transformation                  
+#### Dash 
+framework for building analytical web applications                    
 
-#### Asteroid 
-is a Pytorch-based audio source separation toolkit that enables fast experimentation on common datasets
+#### Bqplot                     
+2-D plotting library for Jupyter                           
+
+#### ipyvizzu                  
+data visualization tool that empowers data scientists and analysts to employ animation as a means of storytelling with data using Python                                  
+
+#### Manim 
+for creating (mathematical) animations
+
+#### Asteroid                           
+is a Pytorch-based audio source separation toolkit that enables fast experimentation on common datasets                                                          
+
+#### Colour 
+package providing a comprehensive number of algorithms and datasets for colour science (incl. photo)
+
+#### GNU Radio 
+provides signal processing blocks to implement software radios                     
 
 - - - 
-
-
 
 ### 🔩 Tools (unclude FEM)
+
+#### Data Retriever is a package manager for data                                
+It downloads, cleans, and stores publicly available data, so that analysts spend less time cleaning and managing data, and more time analyzing it            
 
 #### Aesara 
 to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays
 
-
-
 - - - 
-https://gist.github.com/rxaviers/7360908
 
+### 🌍 Geosciences
+#### ObsPy
+framework for processing seismological
 
-
-
-
-
-
-
-
-
+#### PySAL 
+for geospatial data science               
