@@ -3,8 +3,8 @@
 (Other then other packets & programms such as as NumPy, Scipy, SymPy, Astropy, Matplotlib, Pandas, Jupyter, IPython, Julia, GNU Octave, Spyder, Conda 
 and different biological and astrophysical packages)
 
-## Sponsored-projects
-**https://numfocus.org/sponsored-projects**
+## 💰 Sponsored-projects
+**https://numfocus.org/sponsored-projects**                         
 
 ### ⭐ ML 
 
@@ -117,7 +117,9 @@ is a web accessible scientific computing software platform designed for scientis
 Journal of Open Source Software · https://joss.theoj.org                          
 Journal of Open Source Education · https://jose.theoj.org                    
 
-## Sponsored-projects
+## Affiliated-projects
+**https://numfocus.org/sponsored-projects/affiliated-projects**               
+
 
 
 
