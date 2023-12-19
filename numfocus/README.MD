@@ -1,6 +1,7 @@
 ![Numfocus.org](https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png) 
 # Numfocus.org interesting projects  
-(Other then other packets & programms such as as NumPy, Scipy, SymPy, Astropy, Matplotlib, Pandas, Jupyter, IPython, Julia, GNU Octave, Spyder, Conda)
+(Other then other packets & programms such as as NumPy, Scipy, SymPy, Astropy, Matplotlib, Pandas, Jupyter, IPython, Julia, GNU Octave, Spyder, Conda 
+and different biological and astrophysical packages)
 
 ## Sponsored-projects
 
@@ -42,6 +43,9 @@ Initially developed for use by professional astronomers, yt can be applied in a 
 #### Bokeh 
 is an interactive visualization library               
 
+#### napari 
+is an n-dimensional image viewer in Python               
+
 #### scikit-image              
 for scientific image analysis                
 
@@ -67,8 +71,22 @@ is an automated finite element library used to solve equations used in modeling,
 Users input a problem that looks very much like mathematical notation;              
 FEniCS then translates that into computer code. It solves problems for which there is no analytical (exact) solution numerically              
 
+#### CuPy             
+is a GPU-based Python library for data analysis in numerical computing. CuPy shares the same API as NumPy and SciPy                 
+
 - - - 
-### 🔬 Sciences
+
+### 🌍 Geosciences
+
+#### GDAL
+the Geospatial Data Abstraction Library   https://gdal.org           
+
+#### GeoPandas 
+is an open source project to make working with geospatial data in Python easier. It combines the capabilities of pandas and shapely, providing geospatial operations in pandas and a high-level interface to multiple geometries to shapely
+
+- - - 
+
+### 🔬 Other sciences
 
 #### QuantEcon            
 economic modeling https://quantecon.org               
@@ -82,6 +100,8 @@ solve problems involving thermodynamics, chemical reaction rates, and fluid tran
 #### OpenMBEE 
 Engineering Models and Software      
 
+#### Galaxy                
+is a web accessible scientific computing software platform designed for scientists to manage, visualise, analyse and share their own data with minimal technical effort                       
 - - - 
 
 ### 📘 Open Journals               
