@@ -4,6 +4,7 @@
 and different biological and astrophysical packages)
 
 ## Sponsored-projects
+**https://numfocus.org/sponsored-projects**
 
 ### ⭐ ML 
 
@@ -15,6 +16,8 @@ It provides efficient implementation of all standard ML algorithm
 
 #### mlpack             
 machine learning library suitable for both data science prototyping and deployment                 
+
+- - -
 
 ### ➕ Math (mainly Bayesian)
 
@@ -33,6 +36,7 @@ statistical modeling tool for Bayesian statistical modeling and Probabilistic Ma
 #### ArviZ
 A unified codebase for Exploratory analysis of Bayesian models                
 
+- - -
 
 ### 📊 Visualisation & image analysis
 
@@ -54,7 +58,6 @@ for scientific image analysis
 
 #### ITK 
 image analysis              
-                      
             
 - - - 
 
@@ -114,7 +117,7 @@ is a web accessible scientific computing software platform designed for scientis
 Journal of Open Source Software · https://joss.theoj.org                          
 Journal of Open Source Education · https://jose.theoj.org                    
 
-
+## Sponsored-projects
 
 
 
