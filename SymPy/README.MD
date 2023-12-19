@@ -19,7 +19,7 @@ https://github.com/pietrobarbiero/pytorch_explain
 https://github.com/Davide-sd                 
 https://github.com/Davide-sd/sympy-book                        
 
-# Pypi (main last year active projects)
+# Pypi (last year active main projects with SymPy)
 **https://pypi.org/project/Algebra-with-SymPy**     
 **https://gutow.github.io/Algebra_with_Sympy**      **https://github.com/gutow/Algebra_with_Sympy**         
 mathematical equations. They consist of a left hand side (lhs) and a right hand side (rhs) connected by the relation operator "=". 
@@ -32,10 +32,11 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
 **https://pypi.org/project/sympy-plot-backends**                          
 **https://sympy-plot-backends.readthedocs.io           https://github.com/Davide-sd/sympy-plot-backends/**             
 
-bayesloop - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference.
-mystic - collection of optimization algorithms and tools that allows the user to more robustly (and easily) solve hard **optimization problems**
+[bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference.
+[mystic](https://pypi.org/project/mystic/) - collection of optimization algorithms and tools that allows the user to more robustly (and easily) solve hard **optimization problems**
+[radioactivedecay](https://pypi.org/project/radioactivedecay/)  - radioactive decay calculations
 pyfvm - Creating finite volume equation systems 
-py-polynomial - single-variable **polynomials and operations** with them
+[py-polynomial](https://pypi.org/project/py-polynomial/) - single-variable **polynomials and operations** with them
 
 
 # Sites    
