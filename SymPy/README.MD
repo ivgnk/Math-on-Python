@@ -31,8 +31,12 @@ This tool applies operations to both sides of the equation simultaneously,
 just as students are taught to do when attempting to isolate (solve for) a variable. 
 Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rhs/b
 
+**https://pypi.org/project/analysistoolbox/** - ools in Python for data collection and processing, statisitics, analytics, and intelligence analysis                
+
 **https://pypi.org/project/sympy-plot-backends**                          
 **https://sympy-plot-backends.readthedocs.io           https://github.com/Davide-sd/sympy-plot-backends/**             
+
+**https://pypi.org/project/numx** - importing useful numbers, as the Nth prime, prime lists, random numbers, fibonacci, e, pi, ...
 
  **https://pypi.org/project/optlang    https://optlang.readthedocs.io**         
  for solving mathematical optimization problems, i.e. maximizing or minimizing an objective function over a set of variables subject to a number of constraints               
@@ -46,11 +50,12 @@ SEM is used mostly in the social and behavioral sciences but it is also used in 
          
 
 
-
+[autora](https://pypi.org/project/autora) - (Automated Research Assistant) is an open-source framework for automating multiple stages of the empirical research process, including model discovery, experimental design, data collection, and documentation              
 [bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference            
 [causing](https://pypi.org/project/causing/) -  multivariate graphical analysis tool helping you to interpret the **causal effects of a given equation system**                 
 [cy-root](https://pypi.org/project/cy-root/) -  root-finding package
 [complex-curve-fit-gui](https://pypi.org/project/complex-curve-fit-gui/)                   
+[encomp](https://pypi.org/project/encomp) -  for engineering computations                     https://encomp.readthedocs.io                        
 [kingdon](https://pypi.org/project/kingdon/) - Geometric Algebra (**Analytical geometry**)                               
 [mystic](https://pypi.org/project/mystic/) - collection of optimization algorithms and tools that allows the user to more robustly (and easily) solve hard **optimization problems**                        
 [optimtool](https://pypi.org/project/optimtool/) - optimization (Chinese)                           
