@@ -50,16 +50,16 @@ SEM is used mostly in the social and behavioral sciences but it is also used in 
 - - -                   
 
 
-[autora](https://pypi.org/project/autora) - (Automated Research Assistant) is an open-source framework for automating multiple stages of the empirical research process, including model discovery, experimental design, data collection, and documentation              
+[autora](https://pypi.org/project/autora) - (Automated Research Assistant) is an open-source framework for **automating multiple stages of the empirical research process**, including model discovery, experimental design, data collection, and documentation              
 [bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference            
-[BurnMan](https://pypi.org/project/burnman/) -  thermoelastic and thermodynamic toolkit for the Earth and planetary sciences (library for generating thermodynamic and thermoelastic models of planetary interiors)                    https://burnman.readthedocs.io                          
+[BurnMan](https://pypi.org/project/burnman/) -  thermoelastic and thermodynamic toolkit for the Earth and planetary sciences (library for generating **thermodynamic and thermoelastic models of planetary interiors**)                    https://burnman.readthedocs.io                          
 [causing](https://pypi.org/project/causing/) -  multivariate graphical analysis tool helping you to interpret the **causal effects of a given equation system**                 
 [cy-root](https://pypi.org/project/cy-root/) -  root-finding package
 [complex-curve-fit-gui](https://pypi.org/project/complex-curve-fit-gui/)                   
 [encomp](https://pypi.org/project/encomp) -  for engineering computations                     https://encomp.readthedocs.io                        
 [kingdon](https://pypi.org/project/kingdon/) - Geometric Algebra (**Analytical geometry**)                               
 [mystic](https://pypi.org/project/mystic/) - collection of optimization algorithms and tools that allows the user to more robustly (and easily) solve hard **optimization problems**                        
-[optimtool](https://pypi.org/project/optimtool/) - optimization (Chinese)                           
+[optimtool](https://pypi.org/project/optimtool/) - **optimization** (Chinese)                           
 pyfvm - Creating finite volume equation systems                         
 [py-polynomial](https://pypi.org/project/py-polynomial/) - single-variable **polynomials and operations** with them                                           
 [pycvodes](https://pypi.org/project/pycvodes) -  Python binding to the **Ordinary Differential Equation integration** routines from cvodes in the SUNDIALS suite                 
