@@ -18,6 +18,16 @@ machine learning library suitable for both data science prototyping and deployme
 #### SciML          
 is an open source software organization created to unify the packages for scientific machine learning                     
 
+#### Stan           
+is a platform for Bayesian modeling, inference, and visualization on the frontiers of applied statistics                   
+
+#### PyMC
+statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms                   
+
+#### ArviZ
+A unified codebase for Exploratory analysis of Bayesian models                
+
+
 ### 📊 Visualisation & image analysis
 
 #### yt                   
@@ -32,18 +42,8 @@ for scientific image analysis
 
 #### ITK 
 image analysis              
-                 
-                    
-                       
-#### Stan           
-is a platform for Bayesian modeling, inference, and visualization on the frontiers of applied statistics                   
-
-#### PyMC
-statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms                   
-
-#### ArviZ
-A unified codebase for Exploratory analysis of Bayesian models                
-             
+                      
+            
 - - - 
 
 ### 🔩 Tools (unclude FEM)
