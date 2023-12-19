@@ -37,6 +37,12 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
  **https://pypi.org/project/optlang    https://optlang.readthedocs.io**         
  for solving mathematical optimization problems, i.e. maximizing or minimizing an objective function over a set of variables subject to a number of constraints               
 
+[semopy](https://pypi.org/project/semopy/) - Structural Equation Modelling (SEM) technique ( Structural Equation Models Optimization)             
+https://semopy.com/                
+https://en.wikipedia.org/wiki/Structural_equation_modeling - set of methods used by scientists doing both observational and experimental research. 
+SEM is used mostly in the social and behavioral sciences but it is also used in epidemiology, business,and other fields
+
+
 [bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference            
 [causing](https://pypi.org/project/causing/) -  multivariate graphical analysis tool helping you to interpret the **causal effects of a given equation system**                 
 [cy-root](https://pypi.org/project/cy-root/) -  root-finding package
@@ -47,10 +53,12 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
 pyfvm - Creating finite volume equation systems                         
 [py-polynomial](https://pypi.org/project/py-polynomial/) - single-variable **polynomials and operations** with them                                           
 [pycvodes](https://pypi.org/project/pycvodes) -  Python binding to the **Ordinary Differential Equation integration** routines from cvodes in the SUNDIALS suite                 
+[pyneqsys](https://pypi.org/project/pyneqsys/) -  class for representing and solving non-linear equation systems from symbolic expressions                      
 [pyodesys](https://pypi.org/project/pyodesys) - **numerically integrating systems of ordinary differential equations** (initial value problems)                 
+[pysolve](https://pypi.org/project/pysolve/) - Solving systems of equations
 [pysr](https://pypi.org/project/pysr/) -  High-Performance **Symbolic Regression**                        
 [radioactivedecay](https://pypi.org/project/radioactivedecay/)  - **radioactive decay calculations**      
-[suncal](https://pypi.org/project/suncal/) -  UNcertainty CALculator (**Probability theory**),   https://sandiapsl.github.io            
+[suncal](https://pypi.org/project/suncal/) -  UNcertainty CALculator (**Probability theory**),   https://sandiapsl.github.io  https://conference.scipy.org/proceedings/scipy2012/pdfs/matthew_rocklin.pdf                                 
 
 
 
