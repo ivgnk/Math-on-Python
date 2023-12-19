@@ -19,7 +19,9 @@ https://github.com/pietrobarbiero/pytorch_explain
 https://github.com/Davide-sd                 
 https://github.com/Davide-sd/sympy-book                        
 
-# Pypi (last 1.5 year active main projects with SymPy)
+# Pypi (last 1.5 year active main projects with SymPy)                                       
+**[Projects using SymPy](https://www.sympy.org/en/index.html)**                  
+              
 **https://pypi.org/project/Algebra-with-SymPy**     
 **https://gutow.github.io/Algebra_with_Sympy**      **https://github.com/gutow/Algebra_with_Sympy**         
 mathematical equations. They consist of a left hand side (lhs) and a right hand side (rhs) connected by the relation operator "=". 
