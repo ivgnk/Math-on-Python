@@ -18,7 +18,7 @@ machine learning library suitable for both data science prototyping and deployme
 #### SciML          
 is an open source software organization created to unify the packages for scientific machine learning                     
 
-### Visualisation & image analysis
+### 📊 Visualisation & image analysis
 
 #### yt                   
 is a tool for **querying, analyzing and visualizing objects or regions** of interest to identify emergent properties in data available in a variety of real-world research data formats.             
@@ -46,7 +46,7 @@ A unified codebase for Exploratory analysis of Bayesian models
              
 - - - 
 
-### Tools (unclude FEM)
+### 🔩 Tools (unclude FEM)
 
 #### nteract              
 is a stand-alone desktop application for developing computational notebooks. nteract allows users to craft narratives involving text, code, images, and data on the desktop rather than through a web application                  
