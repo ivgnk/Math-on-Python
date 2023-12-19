@@ -47,7 +47,7 @@ https://en.wikipedia.org/wiki/Structural_equation_modeling - set of methods used
 SEM is used mostly in the social and behavioral sciences but it is also used in epidemiology, business,and other fields                       
                
 [PARMESAN](https://pypi.org/project/parmesan/) - Python Atmospheric Research program for MEteorological Scientific ANalysis,  including time series analysis                
-         
+- - -                   
 
 
 [autora](https://pypi.org/project/autora) - (Automated Research Assistant) is an open-source framework for automating multiple stages of the empirical research process, including model discovery, experimental design, data collection, and documentation              
