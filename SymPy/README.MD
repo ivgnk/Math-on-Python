@@ -19,7 +19,7 @@ https://github.com/pietrobarbiero/pytorch_explain
 https://github.com/Davide-sd                 
 https://github.com/Davide-sd/sympy-book                        
 
-# Pypi (last year active main projects with SymPy)
+# Pypi (last 1.5 year active main projects with SymPy)
 **https://pypi.org/project/Algebra-with-SymPy**     
 **https://gutow.github.io/Algebra_with_Sympy**      **https://github.com/gutow/Algebra_with_Sympy**         
 mathematical equations. They consist of a left hand side (lhs) and a right hand side (rhs) connected by the relation operator "=". 
@@ -33,8 +33,9 @@ Thus the statement Equation/b yields a new equation Equation.lhs/b = Equation.rh
 **https://sympy-plot-backends.readthedocs.io           https://github.com/Davide-sd/sympy-plot-backends/**             
 
 [bayesloop](https://pypi.org/project/bayesloop/) - focuses on **fitting time series models** with time-varying parameters and model selection based on **Bayesian** inference            
+[causing](https://pypi.org/project/causing/) -  multivariate graphical analysis tool helping you to interpret the **causal effects of a given equation system**                 
 [complex-curve-fit-gui](https://pypi.org/project/complex-curve-fit-gui/)                   
-[kingdon](https://pypi.org/project/kingdon/) - Geometric Algebra (**Analytical geometry**) Package
+[kingdon](https://pypi.org/project/kingdon/) - Geometric Algebra (**Analytical geometry**)                               
 [mystic](https://pypi.org/project/mystic/) - collection of optimization algorithms and tools that allows the user to more robustly (and easily) solve hard **optimization problems**                        
 [radioactivedecay](https://pypi.org/project/radioactivedecay/)  - **radioactive decay calculations**                           
 pyfvm - Creating finite volume equation systems                         
