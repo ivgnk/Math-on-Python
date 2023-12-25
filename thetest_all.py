@@ -13,7 +13,14 @@ def all_bigger_than0(x):
 
 
 # print(all_not_equal_to_200_million())
-x = np.linspace(-5,5,201)
-print(x)
+x = np.linspace(-5,5,201) # print(x)
+y = all_bigger_than0(x)
+print(f'{y[0]=} \n {y[1]=}')
+
+x = np.linspace(0,5,201) # print(x)
+y = all_bigger_than0(x)
+print(f'{y[0]=} \n {y[1]=}')
+
+x = np.linspace(0.1,5,201) # print(x)
 y = all_bigger_than0(x)
 print(f'{y[0]=} \n {y[1]=}')
