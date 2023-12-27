@@ -1,0 +1,1 @@
+Some triks of NumPy
