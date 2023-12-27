@@ -1,1 +1,1 @@
-Some triks of NumPy
+Some triks of NumPy in https://stackoverflow.com/questions/tagged/numpy         
