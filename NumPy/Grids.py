@@ -1,7 +1,10 @@
 import numpy as np
+import inspect
 import matplotlib.pyplot as plt
 # https://stackoverflow.com/questions/24943991/change-grid-interval-and-specify-tick-labels
 from matplotlib.ticker import MultipleLocator
+import warnings
+from pprint import *
 
 def for_square_matr2D_multiplication(m1:np.ndarray, m2:np.ndarray)->np.ndarray:
     # Only for 2D matrix
@@ -45,7 +48,7 @@ def two_tests_for_2d_sq2_matrix():
     res = for_square_matr_multiplication(a, b, 2)
     print('Формульное умножение 2 = \n',res)
 
-def tests_for_2d_sq3_matrix():
+def thetests_for_2d_sq3_matrix():
     matrix1 = np.array([[1, 2, 3],
                         [3, 4, 5],
                         [7, 6, 4]])
@@ -59,6 +62,8 @@ def tests_for_2d_sq3_matrix():
     print('np.dot умножение\n',res,'\n')
     res = matrix1 @ matrix2
     print('@ умножение\n',res,'\n')
+    # res = np.outer(matrix1, matrix2)
+    # print('np.outer умножение\n',res,'\n') # Возвращает: out(M, N) ndarray, out[i, j] = a[i] * b[j]
     res = np.matmul(matrix1, matrix2)
     print('np.matmul умножение\n',res,'\n')
     # [[36 32 32]
@@ -66,7 +71,7 @@ def tests_for_2d_sq3_matrix():
     #  [93 74 100]]
     return res
 
-def tests_for_1d_3_matrix():
+def thetests_for_1d_3_matrix():
     # Алгоритм_Строка-на-столбец_для1D.png
     a1 = np.array([2, -5,  3])
     a2 = np.array([7,  0, -4])
@@ -112,11 +117,62 @@ def imshow_visu_matr(matr:np.ndarray):
 
     plt.show()
 
+def the_meshgrid():
+    print('\n', inspect.currentframe().f_code.co_name)
+    # warnings.filterwarnings("ignore")
+    fig, ax = plt.subplots(1, 1, figsize=(8, 8))
+    x = np.arange(-5, 5, 0.5)
+    y = np.arange(-5, 5, 0.5)
+    xx, yy = np.meshgrid(x, y, sparse=True)
+    try:
+        z = np.sin(xx ** 2 + yy ** 2) / (xx ** 2 + yy ** 2)
+    except Exception:
+        print('some Error')
+    print(f'{np.nanmin(z)=}    {np.nanmax(z)=} ')
+    h = plt.contourf(x, y, z)
+    fig.colorbar(h)
+    plt.grid()
+    plt.show()
 
+def the_broadcast():
+    # https://numpy.org/doc/stable/reference/generated/numpy.broadcast.html
+    x = np.array([[1], [2], [3]])
+    y = np.array([4, 5, 6])
+    b = np.broadcast(x, y)
+    out = np.empty(b.shape)
+    out.flat = [u+v for (u,v) in b]
+    print(out)
+
+
+def the_meshgrid2():
+    print('\n', inspect.currentframe().f_code.co_name)
+    fig, ax = plt.subplots(1, 1, figsize=(8, 8))
+    x = np.arange(-5, 5, 1); xlen = len(x); print(f'{xlen=}')
+    y = np.arange(-5, 5, 1); ylen = len(y); print(f'{ylen=}')
+    xx, yy = np.meshgrid(x, y, sparse=True); xxshape = xx.shape; yyshape = yy.shape
+    zz = xx+yy
+    print(f'{xxshape=}');     print(f'{yyshape=}')
+    # print(f'{zz=}')
+    pp(zz)
+
+    h = plt.contourf(x, y, zz)
+    # plt.axis('scaled')
+    plt.colorbar()
+    plt.show()
+
+    # z = x.+y
+    # h = plt.contourf(x, y, z)
+    # fig.colorbar(h)
+    # plt.grid()
+    # plt.show()
+
+#---1
 # tests_for_1d_3_matrix()
-res = tests_for_2d_sq3_matrix()
-imshow_visu_matr(res)
+#---2
+# res = tests_for_2d_sq3_matrix()
+# imshow_visu_matr(res)
 
+the_meshgrid2()
 
 # x0 = np.linspace(-2, 2, 21)
 # x1 = np.linspace(-2, 2, 21)
