@@ -59,7 +59,7 @@ https://pypi.org/project/testflows.combinatorics/
 https://pypi.org/project/dyce/ -  dice outcomes and other finite discrete probabilities          
 https://pypi.org/project/infEGE 
 
-### Calculation 
+### :memo: Calculation 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy            
 https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm
 https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic
@@ -109,7 +109,7 @@ https://pypi.org/project/abcpmc
 ## Cellular Automata           
 https://pypi.org/project/GameOfLife                        
 
-## :chains: Monte Carlo simulation / Markov Chains         
+## Monte Carlo simulation / ⛓️ Markov Chains         
 https://pypi.org/project/percolate           
 https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
