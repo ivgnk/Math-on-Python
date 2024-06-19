@@ -37,7 +37,8 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 https://pypi.org/project/mathpy                    
 https://github.com/mauriceling/copads         
 https://github.com/whym1here/Algopylib               
-https://github.com/AlgebraixData/algebraixlib              
+https://github.com/AlgebraixData/algebraixlib    
+        
 
 ## 🔢 Number theory
 https://pypi.org/project/more-itertools                  
@@ -65,6 +66,8 @@ https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the
 https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic
 https://pypi.org/project/epicycler - Compute and draw epicycler in Python            
 https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic           
+https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions         
+https://pypi.org/project/VISualMAth 
 
 ### As itertools
 **https://pypi.org/project/more-itertools**
@@ -84,6 +87,8 @@ https://pypi.org/project/measurement-stats  -  Measurement statistics with uncer
 ## ODE / PDE
 **https://computing.llnl.gov/projects/sundials**
 https://pypi.org/project/desolvex/
+https://pypi.org/project/pylsewave/         
+https://pypi.org/project/ader         
 
 ## Optimization / Fitting  / Regression          
 https://pypi.org/project/pyswarm             
@@ -93,10 +98,8 @@ https://pypi.org/project/pyeq2/
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/DFOGN/
 
-### :chart_with_upwards_trend: Regression 
+### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
-
-
 
 ### global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
@@ -146,7 +149,8 @@ https://github.com/bryangraham/netrics
 https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
 https://pypi.org/project/paramnet       
-https://pypi.org/project/grinpy                
+https://pypi.org/project/grinpy         
+https://pypi.org/project/stdog - Structure and Dynamics on Graphs              
 
 ## 👁️‍🗨️ Visualization           
 https://pypi.org/project/mapper (2017)      
