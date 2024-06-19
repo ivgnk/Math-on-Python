@@ -79,6 +79,7 @@ https://pypi.org/project/autoregression
 https://pypi.org/project/pysurvival            https://square.github.io/pysurvival                
 https://pypi.org/project/PyNonpar - Nonparametric Test Statistics       
 https://pypi.org/project/mgcpy/           https://mgc.neurodata.io          
+https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation
 
 ## ODE / PDE
 **https://computing.llnl.gov/projects/sundials**
@@ -125,7 +126,7 @@ https://github.com/quantmind/awesome-open-finance
 https://pypi.org/project/dynts (2011)        
 https://github.com/quantopian/pyfolio           
 
-## Filtering /  Signal Processing                                     
+:timer_clock: ## Filtering /  Signal Processing                                     
 https://pypi.org/project/kaftools/                
 https://pypi.org/project/PyGSP/            
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
