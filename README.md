@@ -39,7 +39,7 @@ https://github.com/mauriceling/copads
 https://github.com/whym1here/Algopylib               
 https://github.com/AlgebraixData/algebraixlib              
 
-## :1234: Number theory
+## 🔢 Number theory
 https://pypi.org/project/more-itertools                  
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
 https://pypi.org/project/PyRival       
@@ -48,7 +48,7 @@ https://pypi.org/project/pyprimesieve
 https://pypi.org/project/utools (2016)              
 https://pypi.org/project/x2x (2016)              
 
-## Combinatorics 
+## :arrows_clockwise: Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
 
 https://pypi.org/project/trotter/
