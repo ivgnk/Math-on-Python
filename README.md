@@ -120,7 +120,7 @@ https://github.com/simon-r/PyParticles
 ## Flows              
 https://pypi.org/project/CubeFlow/
 
-## :moneybag: Quantitative Finance                      
+## 💰 Quantitative Finance                      
 https://github.com/quantmind                          
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
