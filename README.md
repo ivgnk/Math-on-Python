@@ -126,7 +126,7 @@ https://github.com/quantmind/awesome-open-finance
 https://pypi.org/project/dynts (2011)        
 https://github.com/quantopian/pyfolio           
 
-## ⏲️ Filtering /  Signal Processing                                     
+## ⏲️ Signal Processing / Time Series / Filtering                                                                
 https://pypi.org/project/kaftools/                
 https://pypi.org/project/PyGSP/            
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
@@ -142,7 +142,7 @@ https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (
 https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library            
 
-## Networks / Graphs               
+## :wheel_of_dharma: Networks / Graphs               
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
