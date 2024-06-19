@@ -137,12 +137,12 @@ https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Ti
 ## Waves              
 https://pypi.org/project/wafo (2006)                
 
-## Geometry          
+## :straight_ruler: Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library            
 
-## :wheel_of_dharma: Networks / Graphs               
+## ☸️ Networks / Graphs               
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
