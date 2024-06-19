@@ -126,7 +126,7 @@ https://github.com/quantmind/awesome-open-finance
 https://pypi.org/project/dynts (2011)        
 https://github.com/quantopian/pyfolio           
 
-⏲️ ## Filtering /  Signal Processing                                     
+## ⏲️ Filtering /  Signal Processing                                     
 https://pypi.org/project/kaftools/                
 https://pypi.org/project/PyGSP/            
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
