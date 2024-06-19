@@ -63,11 +63,17 @@ https://pypi.org/project/influence/
 https://pypi.org/project/ccc-calculator/
 https://pypi.org/project/seqgentools/
 
-## ODE
+## Statistics               
+https://pypi.org/project/pyerf             
+
+## ODE / PDE
 **https://computing.llnl.gov/projects/sundials**
+https://pypi.org/project/desolvex/
 
 ## Optimization            
 https://pypi.org/project/pyswarm             
+https://pypi.org/project/ncpol2sdpa    
+https://github.com/mauriceling/copads         
 
 ## Bayesian                
 https://github.com/pymc-devs    
@@ -83,10 +89,16 @@ https://pypi.org/project/discreteMarkovChain/
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles             
 
+## Flows              
+https://pypi.org/project/CubeFlow/
+
 ## Quantitative Finance                      
 https://github.com/quantmind                          
 https://github.com/quantmind/awesome-open-finance               
 https://pypi.org/project/dynts (2011)            
+
+## Filtering                            
+https://pypi.org/project/kaftools/
 
 ## Waves              
 https://pypi.org/project/wafo (2006)                
@@ -94,7 +106,11 @@ https://pypi.org/project/wafo (2006)
 ## Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 
+## Networks
+https://github.com/bryangraham/netrics                
 
+## Visualization           
+https://pypi.org/project/mapper (2017)       
 
 
 
