@@ -134,10 +134,10 @@ https://pypi.org/project/average - Moving averaging schemes (exponentially weigh
 https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
 
 
-## Waves              
+## :aquarius: Waves              
 https://pypi.org/project/wafo (2006)                
 
-## :straight_ruler: Geometry          
+## 📏 Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library            
