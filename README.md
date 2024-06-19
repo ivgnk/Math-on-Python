@@ -59,7 +59,7 @@ https://pypi.org/project/testflows.combinatorics/
 https://pypi.org/project/dyce/ -  dice outcomes and other finite discrete probabilities          
 https://pypi.org/project/infEGE 
 
-### :memo: Calculation 
+### 📝 Calculation 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy            
 https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm
 https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic
@@ -93,14 +93,13 @@ https://pypi.org/project/pyeq2/
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/DFOGN/
 
-### Regression 
+### :chart_with_upwards_trend: Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
 
 
 
 ### global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
-
 
 ## Bayesian                
 https://github.com/pymc-devs    
