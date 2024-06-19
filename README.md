@@ -38,7 +38,9 @@ https://pypi.org/project/more-itertools
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
 https://pypi.org/project/PyRival       
 https://pypi.org/project/PySieve      
-https://pypi.org/project/pyprimesieve                  
+https://pypi.org/project/pyprimesieve         
+https://pypi.org/project/utools (2016)              
+https://pypi.org/project/x2x (2016)              
 
 ## Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
@@ -50,6 +52,9 @@ https://github.com/whym1here/Algopylib
 https://pypi.org/project/testflows.combinatorics/
 https://pypi.org/project/dyce/ -  dice outcomes and other finite discrete probabilities          
 https://pypi.org/project/infEGE 
+
+### Calculation 
+https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm
 
 ### As itertools
 **https://pypi.org/project/more-itertools**
@@ -65,11 +70,15 @@ https://pypi.org/project/seqgentools/
 https://pypi.org/project/pyswarm             
 
 ## Bayesian                
-https://github.com/pymc-devs                      
+https://github.com/pymc-devs    
+https://pypi.org/project/abcpmc           
 
 ## Cellular Automata           
 https://pypi.org/project/GameOfLife                        
 
+## Monte Carlo simulation / Markov Chains         
+https://pypi.org/project/percolate           
+https://pypi.org/project/discreteMarkovChain/
 
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles             
@@ -80,7 +89,12 @@ https://github.com/quantmind/awesome-open-finance
 https://pypi.org/project/dynts (2011)            
 
 ## Waves              
-https://pypi.org/project/wafo (2006)                    
+https://pypi.org/project/wafo (2006)                
+
+## Geometry          
+https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
+
+
 
 
 
