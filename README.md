@@ -117,7 +117,7 @@ https://pypi.org/project/bmcc
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles             
 
-## Flows              
+## :ocean: Flows              
 https://pypi.org/project/CubeFlow/
 
 ## 💰 Quantitative Finance                      
