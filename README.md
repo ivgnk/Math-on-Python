@@ -48,7 +48,7 @@ https://pypi.org/project/pyprimesieve
 https://pypi.org/project/utools (2016)              
 https://pypi.org/project/x2x (2016)              
 
-## :arrows_clockwise: Combinatorics 
+## 🔃 Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
 
 https://pypi.org/project/trotter/
@@ -109,7 +109,7 @@ https://pypi.org/project/abcpmc
 ## Cellular Automata           
 https://pypi.org/project/GameOfLife                        
 
-## Monte Carlo simulation / Markov Chains         
+## :chains: Monte Carlo simulation / Markov Chains         
 https://pypi.org/project/percolate           
 https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
