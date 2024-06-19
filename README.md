@@ -39,7 +39,7 @@ https://github.com/mauriceling/copads
 https://github.com/whym1here/Algopylib               
 https://github.com/AlgebraixData/algebraixlib              
 
-## Number theory
+## :1234: Number theory
 https://pypi.org/project/more-itertools                  
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
 https://pypi.org/project/PyRival       
@@ -117,7 +117,7 @@ https://pypi.org/project/bmcc
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles             
 
-## :ocean: Flows              
+## 🌊 Flows              
 https://pypi.org/project/CubeFlow/
 
 ## 💰 Quantitative Finance                      
