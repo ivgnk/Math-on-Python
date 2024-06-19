@@ -32,7 +32,13 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://docs.scipy.org/doc/scipy/reference/signal.html**             
 
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
-🏠 # PyPi
+🏠 # PyPi                                  
+## Algo & Structurs collections                   
+https://pypi.org/project/mathpy                    
+https://github.com/mauriceling/copads         
+https://github.com/whym1here/Algopylib               
+https://github.com/AlgebraixData/algebraixlib              
+
 ## Number theory
 https://pypi.org/project/more-itertools                  
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
@@ -54,7 +60,11 @@ https://pypi.org/project/dyce/ -  dice outcomes and other finite discrete probab
 https://pypi.org/project/infEGE 
 
 ### Calculation 
+**https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy            
 https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm
+https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic
+https://pypi.org/project/epicycler - Compute and draw epicycler in Python            
+https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic           
 
 ### As itertools
 **https://pypi.org/project/more-itertools**
@@ -64,16 +74,32 @@ https://pypi.org/project/ccc-calculator/
 https://pypi.org/project/seqgentools/
 
 ## Statistics               
-https://pypi.org/project/pyerf             
+https://pypi.org/project/pyerf        
+https://pypi.org/project/autoregression  
+https://pypi.org/project/pysurvival            https://square.github.io/pysurvival                
+https://pypi.org/project/PyNonpar - Nonparametric Test Statistics       
+https://pypi.org/project/mgcpy/           https://mgc.neurodata.io          
 
 ## ODE / PDE
 **https://computing.llnl.gov/projects/sundials**
 https://pypi.org/project/desolvex/
 
-## Optimization            
+## Optimization / Fitting  / Regression          
 https://pypi.org/project/pyswarm             
 https://pypi.org/project/ncpol2sdpa    
-https://github.com/mauriceling/copads         
+https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
+https://pypi.org/project/pyeq2/
+**https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
+https://pypi.org/project/DFOGN/
+
+### Regression 
+https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
+
+
+
+### global minimum 
+https://pypi.org/project/tgo - Finds the global minimum           
+
 
 ## Bayesian                
 https://github.com/pymc-devs    
@@ -85,6 +111,7 @@ https://pypi.org/project/GameOfLife
 ## Monte Carlo simulation / Markov Chains         
 https://pypi.org/project/percolate           
 https://pypi.org/project/discreteMarkovChain/
+https://pypi.org/project/bmcc       
 
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles             
@@ -94,23 +121,37 @@ https://pypi.org/project/CubeFlow/
 
 ## Quantitative Finance                      
 https://github.com/quantmind                          
-https://github.com/quantmind/awesome-open-finance               
-https://pypi.org/project/dynts (2011)            
+https://github.com/quantmind/awesome-open-finance                            
+https://pypi.org/project/dynts (2011)        
+https://github.com/quantopian/pyfolio           
 
-## Filtering                            
-https://pypi.org/project/kaftools/
+## Filtering /  Signal Processing                                     
+https://pypi.org/project/kaftools/                
+https://pypi.org/project/PyGSP/            
+https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
+https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
+https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
+
 
 ## Waves              
 https://pypi.org/project/wafo (2006)                
 
 ## Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
+https://pypi.org/project/pyhull -
+https://pypi.org/project/tess - A 3D cell-based Voronoi library            
 
-## Networks
-https://github.com/bryangraham/netrics                
+## Networks / Graphs               
+https://github.com/bryangraham/netrics                 
+https://pypi.org/project/PyGSP/      
+https://pypi.org/project/postman_problems           
+https://pypi.org/project/paramnet       
+https://pypi.org/project/grinpy                
 
 ## Visualization           
-https://pypi.org/project/mapper (2017)       
+https://pypi.org/project/mapper (2017)      
+https://github.com/gtaylor/python-colormath    
+https://pypi.org/project/Tree          
 
 
 
