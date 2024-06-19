@@ -97,6 +97,9 @@ https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net
 https://pypi.org/project/pyeq2/
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/DFOGN/
+https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
+https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
+https://pypi.org/project/ponio - numerical integrators for solve linear transport equation              
 
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
@@ -120,7 +123,8 @@ https://pypi.org/project/bmcc
 https://github.com/simon-r/PyParticles             
 
 ## 🌊 Flows              
-https://pypi.org/project/CubeFlow/
+https://pypi.org/project/CubeFlow
+https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
 ## 💰 Quantitative Finance                      
 https://github.com/quantmind                          
@@ -134,6 +138,7 @@ https://pypi.org/project/PyGSP/
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
 https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
+https://pypi.org/project/anko/ - anomaly detection algorithm on 1D time series          
 
 
 ## ♒ Waves              
