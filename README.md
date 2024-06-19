@@ -47,7 +47,8 @@ https://pypi.org/project/PyRival
 https://pypi.org/project/PySieve      
 https://pypi.org/project/pyprimesieve         
 https://pypi.org/project/utools (2016)              
-https://pypi.org/project/x2x (2016)              
+https://pypi.org/project/x2x (2016)       
+https://pypi.org/project/factorcalc  
 
 ## 🔃 Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
@@ -68,6 +69,10 @@ https://pypi.org/project/epicycler - Compute and draw epicycler in Python
 https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic           
 https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions         
 https://pypi.org/project/VISualMAth 
+
+https://pypi.org/project/python-intervals - Data structure and operations for intervals
+**https://pypi.org/project/portion/** - Data structure and operations for intervals
+
 
 ### As itertools
 **https://pypi.org/project/more-itertools**
@@ -99,10 +104,13 @@ https://pypi.org/project/pyeq2/
 https://pypi.org/project/DFOGN/
 https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
-https://pypi.org/project/ponio - numerical integrators for solve linear transport equation              
+https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
+https://pypi.org/project/smogn/  
+https://pypi.org/project/psopy/ - Particle Swarm Optimization                
 
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
+https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods           
 
 ### global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
@@ -130,7 +138,8 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 https://github.com/quantmind                          
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
-https://github.com/quantopian/pyfolio           
+https://github.com/quantopian/pyfolio       
+**https://pypi.org/project/appelpy/** 
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
 https://pypi.org/project/kaftools/                
