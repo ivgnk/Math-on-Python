@@ -134,7 +134,7 @@ https://pypi.org/project/average - Moving averaging schemes (exponentially weigh
 https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
 
 
-## :aquarius: Waves              
+## ♒ Waves              
 https://pypi.org/project/wafo (2006)                
 
 ## 📏 Geometry          
@@ -149,7 +149,7 @@ https://pypi.org/project/postman_problems
 https://pypi.org/project/paramnet       
 https://pypi.org/project/grinpy                
 
-## Visualization           
+## :eye_speech_bubble: Visualization           
 https://pypi.org/project/mapper (2017)      
 https://github.com/gtaylor/python-colormath    
 https://pypi.org/project/Tree          
