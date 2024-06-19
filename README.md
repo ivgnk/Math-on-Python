@@ -120,7 +120,7 @@ https://github.com/simon-r/PyParticles
 ## Flows              
 https://pypi.org/project/CubeFlow/
 
-## Quantitative Finance                      
+## :moneybag: Quantitative Finance                      
 https://github.com/quantmind                          
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
@@ -149,7 +149,7 @@ https://pypi.org/project/postman_problems
 https://pypi.org/project/paramnet       
 https://pypi.org/project/grinpy                
 
-## :eye_speech_bubble: Visualization           
+## 👁️‍🗨️ Visualization           
 https://pypi.org/project/mapper (2017)      
 https://github.com/gtaylor/python-colormath    
 https://pypi.org/project/Tree          
