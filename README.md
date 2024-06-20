@@ -49,6 +49,7 @@ https://pypi.org/project/optproblems
 https://pypi.org/project/machine-learning-lab-dashboard                
 
 ## 🔢 Number theory
+**https://pypi.org/project/libnum - Working with numbers (primes, modular, etc.)**           
 https://pypi.org/project/more-itertools                  
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
 https://pypi.org/project/PyRival       
@@ -58,7 +59,9 @@ https://pypi.org/project/utools (2016)
 https://pypi.org/project/x2x (2016)       
 https://pypi.org/project/factorcalc  
 https://pypi.org/project/prime-gen - A prime generator and checker            
-https://pypi.org/project/pyprimer - prime number related functions               
+https://pypi.org/project/pyprimer - prime number related functions
+https://pypi.org/project/primecount 
+https://pypi.org/project/nprime             
 
 ## 🔃 Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
@@ -81,11 +84,12 @@ https://pypi.org/project/mathtoolspy - for mathematically operations, like integ
 https://pypi.org/project/VISualMAth
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)              
 
-
-
 https://pypi.org/project/python-intervals - Data structure and operations for intervals
 **https://pypi.org/project/portion/** - Data structure and operations for intervals
+_**https://github.com/bjodah/pyneqsys - solving non-linear equation systems from symbolic expressions**_            
 
+#### Propagate uncertainty in calculations
+https://pypi.org/project/uncvalue/
 
 ### As itertools
 **https://pypi.org/project/more-itertools**
@@ -104,6 +108,7 @@ https://pypi.org/project/mgcpy/           https://mgc.neurodata.io
 https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation
 https://pypi.org/project/distimate 
 https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
+https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%26R             
 
 
 
@@ -111,6 +116,7 @@ https://pypi.org/project/hypothetical - **Hypothesis testing and other testing m
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
 https://pypi.org/project/gwr-inversion                     
+https://github.com/JoshKarpel/idesolver        
 
 https://pypi.org/project/desolvex/
 https://pypi.org/project/pylsewave/         
@@ -130,8 +136,18 @@ https://pypi.org/project/light-famd/ - includes a variety of methods including p
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/smogn/  
 https://pypi.org/project/psopy/ - Particle Swarm Optimization                
-https://pypi.org/project/dfoalgos/ - Derivative-free optimization      
-https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms         
+https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms     
+https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm.
+
+### Dynamic programming          
+https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
+
+
+### Derivative-free optimization           
+https://pypi.org/project/dfbgn              
+https://pypi.org/project/dfoalgos           
+https://pypi.org/project/SQSnobFit/       
+https://pypi.org/project/SQImFil/      
 
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
@@ -147,6 +163,7 @@ https://github.com/pymc-devs
 https://pypi.org/project/abcpmc      
 https://pypi.org/project/bayes-tda/
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
+https://pypi.org/project/naivebayesgauss/      
 
 ## Cellular Automata           
 https://pypi.org/project/GameOfLife (GOL)                       
@@ -156,6 +173,7 @@ https://pypi.org/project/pyseagull - GOL
 https://pypi.org/project/percolate           
 https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
+https://github.com/eigenfoo/littlemcmc             
 
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles 
@@ -171,6 +189,7 @@ https://github.com/quantmind/awesome-open-finance
 https://pypi.org/project/dynts (2011)        
 https://github.com/quantopian/pyfolio       
 **https://pypi.org/project/appelpy/** 
+https://github.com/quantopian/empyrical -  financial risk metrics          
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
 https://pypi.org/project/kaftools/                
@@ -179,9 +198,14 @@ https://pypi.org/project/filterpy - Kalman filters and other optimal and non-opt
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
 https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
 https://pypi.org/project/anko/ - anomaly detection algorithm on 1D time series          
-https://github.com/tcassou/causal_impact - **Causal inference using Bayesian structural time-series models**
+https://github.com/tcassou/causal_impact - **Causal inference using Bayesian structural time-series models**             
+https://pypi.org/project/sigmet -  **find and measure negative price shocks in financial time-series data**            
+https://pypi.org/project/stsb2 - **structural time series grammar and models**           
+**https://pypi.org/project/uniqed - anomaly detection method**              
+**https://github.com/jarrahl/tp-analyzer - analyze time series data through a selected subset of turning points**         
 
-
+## Maps          
+https://pypi.org/search/?q=SIFT             
 
 ## ♒ Waves              
 https://pypi.org/project/wafo (2006)                
@@ -190,9 +214,11 @@ https://pypi.org/project/wafo (2006)
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library
-https://pypi.org/project/npeuclid/ - 
+https://pypi.org/project/npeuclid/ -
+https://pypi.org/project/right-triangle 
 
 ## ☸️ Networks / Graphs               
+**https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
@@ -200,15 +226,25 @@ https://pypi.org/project/paramnet
 https://pypi.org/project/grinpy         
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs      
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
-https://pypi.org/project/graspy/ - A set of python modules for graph statistics                   
+https://pypi.org/project/graspy/ - A set of python modules for graph statistics  
+https://pypi.org/project/jgrapht/               
+
+## Games
+https://pypi.org/project/opener - Solve open the lock puzzle            
+https://pypi.org/project/dicetables
 
 
+## Dynamic systems    
+https://pypi.org/project/apecosm        
 
 ## 👁️‍🗨️ Visualization           
 https://pypi.org/project/mapper (2017)      
 https://github.com/gtaylor/python-colormath    
 https://pypi.org/project/Tree          
+https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
 
+
+   
 
 
 
