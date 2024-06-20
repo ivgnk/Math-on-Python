@@ -2,8 +2,9 @@
 Small and not only small mathematical problems on Python             
 
 ## OrG                 
-https://sandialabs.github.io/                  
-https://github.com/LLNL/sundials/releases       
+**https://sandialabs.github.io/                  
+https://github.com/LLNL/sundials/releases**                 
+**https://www.pyomo.org**
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -37,8 +38,15 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 https://pypi.org/project/mathpy                    
 https://github.com/mauriceling/copads         
 https://github.com/whym1here/Algopylib               
-https://github.com/AlgebraixData/algebraixlib    
+https://github.com/AlgebraixData/algebraixlib      
+https://pypi.org/project/dmppl            
+**https://pypi.org/project/PyUtilib/**
+
         
+## 🔺 Complex
+https://pypi.org/project/MDP -  library of widely used data processing algorithms, and the possibility to combine them together to form pipelines for building more complex data processing software           
+https://pypi.org/project/optproblems       
+https://pypi.org/project/machine-learning-lab-dashboard                
 
 ## 🔢 Number theory
 https://pypi.org/project/more-itertools                  
@@ -49,6 +57,8 @@ https://pypi.org/project/pyprimesieve
 https://pypi.org/project/utools (2016)              
 https://pypi.org/project/x2x (2016)       
 https://pypi.org/project/factorcalc  
+https://pypi.org/project/prime-gen - A prime generator and checker            
+https://pypi.org/project/pyprimer - prime number related functions               
 
 ## 🔃 Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
@@ -68,7 +78,10 @@ https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithme
 https://pypi.org/project/epicycler - Compute and draw epicycler in Python            
 https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic           
 https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions         
-https://pypi.org/project/VISualMAth 
+https://pypi.org/project/VISualMAth
+https://pypi.org/project/pyroots/ -    single variable function solvers (roots)              
+
+
 
 https://pypi.org/project/python-intervals - Data structure and operations for intervals
 **https://pypi.org/project/portion/** - Data structure and operations for intervals
@@ -82,18 +95,28 @@ https://pypi.org/project/ccc-calculator/
 https://pypi.org/project/seqgentools/
 
 ## Statistics               
+https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
 https://pypi.org/project/autoregression  
 https://pypi.org/project/pysurvival            https://square.github.io/pysurvival                
 https://pypi.org/project/PyNonpar - Nonparametric Test Statistics       
 https://pypi.org/project/mgcpy/           https://mgc.neurodata.io          
 https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation
+https://pypi.org/project/distimate 
+https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
 
-## ODE / PDE
+
+
+## ODE / PDE / SDE
 **https://computing.llnl.gov/projects/sundials**
+**https://pypi.org/project/pdepy/**   
+https://pypi.org/project/gwr-inversion                     
+
 https://pypi.org/project/desolvex/
 https://pypi.org/project/pylsewave/         
-https://pypi.org/project/ader         
+https://pypi.org/project/ader     
+
+https://github.com/mattloper/chumpy     
 
 ## Optimization / Fitting  / Regression          
 https://pypi.org/project/pyswarm             
@@ -107,20 +130,27 @@ https://pypi.org/project/light-famd/ - includes a variety of methods including p
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/smogn/  
 https://pypi.org/project/psopy/ - Particle Swarm Optimization                
+https://pypi.org/project/dfoalgos/ - Derivative-free optimization      
+https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms         
 
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
-https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods           
+https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods  
+
+https://pypi.org/project/concepts/
 
 ### global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
 
 ## Bayesian                
 https://github.com/pymc-devs    
-https://pypi.org/project/abcpmc           
+https://pypi.org/project/abcpmc      
+https://pypi.org/project/bayes-tda/
+https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
 
 ## Cellular Automata           
-https://pypi.org/project/GameOfLife                        
+https://pypi.org/project/GameOfLife (GOL)                       
+https://pypi.org/project/pyseagull - GOL                    
 
 ## Monte Carlo simulation / ⛓️ Markov Chains         
 https://pypi.org/project/percolate           
@@ -128,7 +158,8 @@ https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
 
 ## Particle simulation                    
-https://github.com/simon-r/PyParticles             
+https://github.com/simon-r/PyParticles 
+https://pypi.org/project/cromosim/        
 
 ## 🌊 Flows              
 https://pypi.org/project/CubeFlow
@@ -148,6 +179,8 @@ https://pypi.org/project/filterpy - Kalman filters and other optimal and non-opt
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
 https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
 https://pypi.org/project/anko/ - anomaly detection algorithm on 1D time series          
+https://github.com/tcassou/causal_impact - **Causal inference using Bayesian structural time-series models**
+
 
 
 ## ♒ Waves              
@@ -156,7 +189,8 @@ https://pypi.org/project/wafo (2006)
 ## 📏 Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 https://pypi.org/project/pyhull -
-https://pypi.org/project/tess - A 3D cell-based Voronoi library            
+https://pypi.org/project/tess - A 3D cell-based Voronoi library
+https://pypi.org/project/npeuclid/ - 
 
 ## ☸️ Networks / Graphs               
 https://github.com/bryangraham/netrics                 
@@ -164,7 +198,11 @@ https://pypi.org/project/PyGSP/
 https://pypi.org/project/postman_problems           
 https://pypi.org/project/paramnet       
 https://pypi.org/project/grinpy         
-https://pypi.org/project/stdog - Structure and Dynamics on Graphs              
+https://pypi.org/project/stdog - Structure and Dynamics on Graphs      
+https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
+https://pypi.org/project/graspy/ - A set of python modules for graph statistics                   
+
+
 
 ## 👁️‍🗨️ Visualization           
 https://pypi.org/project/mapper (2017)      
