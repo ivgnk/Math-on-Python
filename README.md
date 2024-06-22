@@ -46,7 +46,11 @@ https://pypi.org/project/dmppl
 https://pypi.org/project/jheaps - various heap implementations                
 https://pypi.org/project/polyrat - Polynomial and rational function library           
 
-
+### ◀️Numeric intervals▶️
+**https://pypi.org/project/portion/** - Data structure and operations for intervals
+https://pypi.org/project/pynterval/
+https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic                   
+https://pypi.org/project/python-intervals - Data structure and operations for intervals
 
         
 ## 🔺 Complex
@@ -73,6 +77,7 @@ https://pypi.org/project/primecount
 https://pypi.org/project/nprime   
 https://pypi.org/project/number-comparator         
 https://pypi.org/project/gaussianprimes - Generate Gaussian primes               
+https://pypi.org/project/trprimes       
 
 
 
@@ -90,15 +95,12 @@ https://pypi.org/project/infEGE
 ### 📝 Calculation 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy            
 https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm              
-https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic                   
 https://pypi.org/project/epicycler - Compute and draw epicycler in Python            
 https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic                    
 https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions            
 https://pypi.org/project/VISualMAth                  
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
 
-https://pypi.org/project/python-intervals - Data structure and operations for intervals
-**https://pypi.org/project/portion/** - Data structure and operations for intervals
 _**https://github.com/bjodah/pyneqsys - solving non-linear equation systems from symbolic expressions**_            
 
 #### Propagate uncertainty in calculations
@@ -128,14 +130,8 @@ https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution function
 https://pypi.org/project/causaldag/
 
 **https://pypi.org/project/gsa-framework/** - Generic framework for global sensitivity analysis            
-
-
-
-
-
-
-
-
+https://pypi.org/project/pysloth - Probabilistic Predictions              
+**https://pypi.org/project/abracadabra** -  Making hypothesis and AB testing magically simple!          
 
 
 ## 🎩 ODE / PDE / SDE
@@ -155,7 +151,10 @@ https://pypi.org/project/integral
 
 
 ## 🎬 Optimization / Fitting  / Regression          
+https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort=
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
+**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
+
 https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
 https://pypi.org/project/pyeq2/
@@ -250,13 +249,18 @@ https://pypi.org/project/stsb2 - **structural time series grammar and models**
 https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers           
 
 ## ✳️ Maps          
-https://pypi.org/search/?q=SIFT             
+https://pypi.org/search/?q=SIFT     
+https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
+
+
+
 
 ## ♒ Waves              
 https://pypi.org/project/wafo (2006)         
 https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms           
 
-
+## ⚡ Physics  
+https://pypi.org/project/unitcalc/
 
 ## 📏 Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
@@ -268,6 +272,7 @@ https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status
 https://pypi.org/project/twod          
 https://pypi.org/project/Polygon3 - 
 https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
+https://pypi.org/project/vectometry - 
 
    
 
@@ -311,11 +316,15 @@ https://pypi.org/project/apecosm
 
 
 ## 👁️‍🗨️ Visualization           
+**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 https://pypi.org/project/mapper (2017)      
 https://github.com/gtaylor/python-colormath    
 https://pypi.org/project/Tree          
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
+
+
+
 
 
 
