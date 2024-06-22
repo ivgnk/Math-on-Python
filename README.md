@@ -33,7 +33,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://docs.scipy.org/doc/scipy/reference/signal.html**             
 
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
-🏠 # PyPi                                  
+# 🏠 PyPi                                  
 ## ♏ Algo & Structurs collections                   
 https://pypi.org/project/mathpy                    
 https://github.com/mauriceling/copads         
