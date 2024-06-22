@@ -6,7 +6,7 @@ Small and not only small mathematical problems on Python
 https://github.com/LLNL/sundials/releases**                 
 **https://www.pyomo.org**
 **https://www.dagitty.net** - draw and analyze causal diagrams             
-
+**https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -214,6 +214,9 @@ https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
 https://github.com/eigenfoo/littlemcmc        
 https://pypi.org/project/paramonte         
+https://pypi.org/project/mchmm - Markov chains and Hidden Markov models           
+
+
 
 ## 🎨 Particle simulation                    
 https://github.com/simon-r/PyParticles 
@@ -231,6 +234,7 @@ https://pypi.org/project/pyfolio-qa
 https://github.com/quantopian/pyfolio       
 **https://pypi.org/project/appelpy/** 
 https://github.com/quantopian/empyrical -  financial risk metrics          
+https://pypi.org/project/beacon-trellis           
 
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
@@ -251,7 +255,7 @@ https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers
 ## ✳️ Maps          
 https://pypi.org/search/?q=SIFT     
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
-
+**https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
 
 
 
@@ -272,7 +276,8 @@ https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status
 https://pypi.org/project/twod          
 https://pypi.org/project/Polygon3 - 
 https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
-https://pypi.org/project/vectometry - 
+https://pypi.org/project/vectometry 
+https://pypi.org/project/BDSpace -  to simplify positioning, movement, and trajectory calculation for many different technical problems             
 
    
 
@@ -322,6 +327,7 @@ https://github.com/gtaylor/python-colormath
 https://pypi.org/project/Tree          
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
+https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analysis  https://kepler-mapper.scikit-tda.org/en/latest/                           
 
 
 
