@@ -5,6 +5,8 @@ Small and not only small mathematical problems on Python
 **https://sandialabs.github.io/                  
 https://github.com/LLNL/sundials/releases**                 
 **https://www.pyomo.org**
+**https://www.dagitty.net** - draw and analyze causal diagrams             
+
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -87,13 +89,13 @@ https://pypi.org/project/infEGE
 
 ### 📝 Calculation 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy            
-https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm
-https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic
+https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm              
+https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic                   
 https://pypi.org/project/epicycler - Compute and draw epicycler in Python            
-https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic           
-https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions         
-https://pypi.org/project/VISualMAth
-https://pypi.org/project/pyroots/ -    single variable function solvers (roots)              
+https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic                    
+https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions            
+https://pypi.org/project/VISualMAth                  
+https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
 
 https://pypi.org/project/python-intervals - Data structure and operations for intervals
 **https://pypi.org/project/portion/** - Data structure and operations for intervals
@@ -121,7 +123,17 @@ https://pypi.org/project/distimate
 https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
 https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%26R             
 https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution functions          
-**https://pypi.org/project/probfit/**
+**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                   
+**https://pypi.org/project/boisgera-pioupiou/** - A nano probabilistic programming language for Python            
+https://pypi.org/project/causaldag/
+
+**https://pypi.org/project/gsa-framework/** - Generic framework for global sensitivity analysis            
+
+
+
+
+
+
 
 
 
@@ -138,6 +150,9 @@ https://pypi.org/project/pylsewave/
 https://pypi.org/project/ader     
 
 https://github.com/mattloper/chumpy     
+https://pypi.org/project/integrators 
+https://pypi.org/project/integral     
+
 
 ## 🎬 Optimization / Fitting  / Regression          
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
@@ -154,6 +169,7 @@ https://pypi.org/project/peak-engines - Machine learning framework built on seco
 https://pypi.org/project/peerless       
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
+https://pypi.org/project/sqnomad -     
 
 ### 🐝 Particle Swarm Optimization 🐜                       
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
@@ -162,15 +178,15 @@ https://pypi.org/project/pyswarms/
 https://pypi.org/project/psopy
 https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm.
 
-### Dynamic programming          
-https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
-
 ### Derivative-free optimization           
 https://pypi.org/project/dfbgn              
 https://pypi.org/project/dfoalgos           
 https://pypi.org/project/SQSnobFit/       
 https://pypi.org/project/SQImFil/      
 https://github.com/mjhough/dfo_alg       
+
+### 💢 Dynamic programming          
+https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
 
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
@@ -180,6 +196,7 @@ https://pypi.org/project/concepts/
 
 ### ⬇️ global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
+https://pypi.org/project/organisms         
 
 ## 🔠 Bayesian                
 https://github.com/pymc-devs    
@@ -236,7 +253,10 @@ https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers
 https://pypi.org/search/?q=SIFT             
 
 ## ♒ Waves              
-https://pypi.org/project/wafo (2006)                
+https://pypi.org/project/wafo (2006)         
+https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms           
+
+
 
 ## 📏 Geometry          
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
@@ -246,10 +266,16 @@ https://pypi.org/project/npeuclid/ -
 https://pypi.org/project/right-triangle 
 https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status for a set of vertices VERT and a general polygon (PSLG) embedded in the two-dimensional plane            
 https://pypi.org/project/twod          
+https://pypi.org/project/Polygon3 - 
+https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
+
+   
 
 ## ☸️ Networks / Graphs               
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 **https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
+
+
 
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
@@ -262,16 +288,25 @@ https://pypi.org/project/graspy/ - A set of python modules for graph statistics
 https://pypi.org/project/jgrapht/               
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks        
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs            
+https://pypi.org/project/metagraph - Graph algorithm solver                  
+
 
 
 
 ## 🏀 Games
+**https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
+
+
 https://pypi.org/project/opener - Solve open the lock puzzle            
 https://pypi.org/project/dicetables
 
 
+
 ## 🎡 Dynamic systems    
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
+↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
+
+
 https://pypi.org/project/apecosm  
 
 
