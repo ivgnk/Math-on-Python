@@ -42,6 +42,9 @@ https://github.com/AlgebraixData/algebraixlib
 https://pypi.org/project/dmppl            
 **https://pypi.org/project/PyUtilib/**                  
 https://pypi.org/project/jheaps - various heap implementations                
+https://pypi.org/project/polyrat - Polynomial and rational function library           
+
+
 
         
 ## 🔺 Complex
@@ -110,6 +113,8 @@ https://pypi.org/project/measurement-stats  -  Measurement statistics with uncer
 https://pypi.org/project/distimate 
 https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
 https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%26R             
+https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution functions          
+
 
 
 
@@ -119,6 +124,7 @@ https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%2
 https://pypi.org/project/gwr-inversion                     
 https://github.com/JoshKarpel/idesolver        
 
+https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
 https://pypi.org/project/pylsewave/         
 https://pypi.org/project/ader     
@@ -126,11 +132,7 @@ https://pypi.org/project/ader
 https://github.com/mattloper/chumpy     
 
 ## Optimization / Fitting  / Regression          
-**https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
-
-
-https://pypi.org/project/pyswarm             
 https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
 https://pypi.org/project/pyeq2/
@@ -139,11 +141,15 @@ https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algori
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/smogn/  
-https://pypi.org/project/psopy/ - Particle Swarm Optimization                
 https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms     
-https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm.
 https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization
 
+### Particle Swarm Optimization                
+**https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
+https://pypi.org/project/pyswarm             
+https://pypi.org/project/pyswarms/
+https://pypi.org/project/psopy
+https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm.
 
 ### Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
@@ -154,6 +160,7 @@ https://pypi.org/project/dfbgn
 https://pypi.org/project/dfoalgos           
 https://pypi.org/project/SQSnobFit/       
 https://pypi.org/project/SQImFil/      
+https://github.com/mjhough/dfo_alg       
 
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
@@ -179,7 +186,8 @@ https://pypi.org/project/pyseagull - GOL
 https://pypi.org/project/percolate           
 https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
-https://github.com/eigenfoo/littlemcmc             
+https://github.com/eigenfoo/littlemcmc        
+https://pypi.org/project/paramonte         
 
 ## Particle simulation                    
 https://github.com/simon-r/PyParticles 
@@ -235,6 +243,7 @@ https://pypi.org/project/stdog - Structure and Dynamics on Graphs
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
 https://pypi.org/project/graspy/ - A set of python modules for graph statistics  
 https://pypi.org/project/jgrapht/               
+https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks        
 
 ## Games
 https://pypi.org/project/opener - Solve open the lock puzzle            
@@ -249,6 +258,9 @@ https://pypi.org/project/mapper (2017)
 https://github.com/gtaylor/python-colormath    
 https://pypi.org/project/Tree          
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
+https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
+
+
 
 
    
