@@ -34,7 +34,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
 🏠 # PyPi                                  
-## Algo & Structurs collections                   
+## ♏ Algo & Structurs collections                   
 https://pypi.org/project/mathpy                    
 https://github.com/mauriceling/copads         
 https://github.com/whym1here/Algopylib               
@@ -155,7 +155,7 @@ https://pypi.org/project/peerless
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 
-### Particle Swarm Optimization                
+### 🐝 Particle Swarm Optimization 🐜                       
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
 https://pypi.org/project/pyswarm             
 https://pypi.org/project/pyswarms/
@@ -164,7 +164,6 @@ https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, w
 
 ### Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
-
 
 ### Derivative-free optimization           
 https://pypi.org/project/dfbgn              
@@ -179,28 +178,28 @@ https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, w
 
 https://pypi.org/project/concepts/
 
-### global minimum 
+### ⬇️ global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
 
-## Bayesian                
+## 🔠 Bayesian                
 https://github.com/pymc-devs    
 https://pypi.org/project/abcpmc      
 https://pypi.org/project/bayes-tda/
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
 https://pypi.org/project/naivebayesgauss/      
 
-## Cellular Automata           
+## ♏ Cellular Automata           
 https://pypi.org/project/GameOfLife (GOL)                       
 https://pypi.org/project/pyseagull - GOL                    
 
-## Monte Carlo simulation / ⛓️ Markov Chains         
+## 🎲 Monte Carlo simulation / ⛓️ Markov Chains         
 https://pypi.org/project/percolate           
 https://pypi.org/project/discreteMarkovChain/
 https://pypi.org/project/bmcc       
 https://github.com/eigenfoo/littlemcmc        
 https://pypi.org/project/paramonte         
 
-## Particle simulation                    
+## 🎨 Particle simulation                    
 https://github.com/simon-r/PyParticles 
 https://pypi.org/project/cromosim/        
 
@@ -233,7 +232,7 @@ https://pypi.org/project/stsb2 - **structural time series grammar and models**
 **https://github.com/jarrahl/tp-analyzer - analyze time series data through a selected subset of turning points**         
 https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers           
 
-## Maps          
+## ✳️ Maps          
 https://pypi.org/search/?q=SIFT             
 
 ## ♒ Waves              
@@ -266,12 +265,12 @@ https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs
 
 
 
-## Games
+## 🏀 Games
 https://pypi.org/project/opener - Solve open the lock puzzle            
 https://pypi.org/project/dicetables
 
 
-## Dynamic systems    
+## 🎡 Dynamic systems    
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
 https://pypi.org/project/apecosm  
 
