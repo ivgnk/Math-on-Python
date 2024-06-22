@@ -211,11 +211,14 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 https://github.com/quantmind                          
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
+https://pypi.org/project/pyfolio-qa             
 https://github.com/quantopian/pyfolio       
 **https://pypi.org/project/appelpy/** 
 https://github.com/quantopian/empyrical -  financial risk metrics          
 
+
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
+**https://github.com/deeptime-ml/deeptime**
 https://pypi.org/project/kaftools/                
 https://pypi.org/project/PyGSP/            
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
@@ -268,7 +271,9 @@ https://pypi.org/project/dicetables
 
 
 ## Dynamic systems    
-https://pypi.org/project/apecosm        
+**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
+https://pypi.org/project/apecosm  
+
 
 ## 👁️‍🗨️ Visualization           
 https://pypi.org/project/mapper (2017)      
