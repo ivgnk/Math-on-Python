@@ -50,7 +50,10 @@ https://pypi.org/project/polyrat - Polynomial and rational function library
 ## 🔺 Complex
 https://pypi.org/project/MDP -  library of widely used data processing algorithms, and the possibility to combine them together to form pipelines for building more complex data processing software           
 https://pypi.org/project/optproblems       
-https://pypi.org/project/machine-learning-lab-dashboard                
+https://pypi.org/project/machine-learning-lab-dashboard          
+https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures as easily as Numpy                 
+
+            
 
 ## 🔢 Number theory
 **https://pypi.org/project/libnum - Working with numbers (primes, modular, etc.)**           
@@ -65,7 +68,11 @@ https://pypi.org/project/factorcalc
 https://pypi.org/project/prime-gen - A prime generator and checker            
 https://pypi.org/project/pyprimer - prime number related functions
 https://pypi.org/project/primecount 
-https://pypi.org/project/nprime             
+https://pypi.org/project/nprime   
+https://pypi.org/project/number-comparator         
+https://pypi.org/project/gaussianprimes - Generate Gaussian primes               
+
+
 
 ## 🔃 Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
@@ -140,9 +147,12 @@ https://pypi.org/project/DFOGN/
 https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
-https://pypi.org/project/smogn/  
-https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms     
-https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization
+https://pypi.org/project/smogn/    
+https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms      
+https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization          
+https://pypi.org/project/peerless       
+https://pypi.org/project/optimization-dashboard           
+https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 
 ### Particle Swarm Optimization                
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
@@ -217,6 +227,7 @@ https://pypi.org/project/sigmet -  **find and measure negative price shocks in f
 https://pypi.org/project/stsb2 - **structural time series grammar and models**           
 **https://pypi.org/project/uniqed - anomaly detection method**              
 **https://github.com/jarrahl/tp-analyzer - analyze time series data through a selected subset of turning points**         
+https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers           
 
 ## Maps          
 https://pypi.org/search/?q=SIFT             
@@ -231,9 +242,12 @@ https://pypi.org/project/tess - A 3D cell-based Voronoi library
 https://pypi.org/project/npeuclid/ -
 https://pypi.org/project/right-triangle 
 https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status for a set of vertices VERT and a general polygon (PSLG) embedded in the two-dimensional plane            
+https://pypi.org/project/twod          
 
 ## ☸️ Networks / Graphs               
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
+**https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
+
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
@@ -244,6 +258,9 @@ https://pypi.org/project/pynetworks -  provides structure for networks of interc
 https://pypi.org/project/graspy/ - A set of python modules for graph statistics  
 https://pypi.org/project/jgrapht/               
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks        
+https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs            
+
+
 
 ## Games
 https://pypi.org/project/opener - Solve open the lock puzzle            
