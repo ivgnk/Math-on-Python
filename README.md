@@ -40,7 +40,8 @@ https://github.com/mauriceling/copads
 https://github.com/whym1here/Algopylib               
 https://github.com/AlgebraixData/algebraixlib      
 https://pypi.org/project/dmppl            
-**https://pypi.org/project/PyUtilib/**
+**https://pypi.org/project/PyUtilib/**                  
+https://pypi.org/project/jheaps - various heap implementations                
 
         
 ## 🔺 Complex
@@ -125,11 +126,14 @@ https://pypi.org/project/ader
 https://github.com/mattloper/chumpy     
 
 ## Optimization / Fitting  / Regression          
+**https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
+**https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
+
+
 https://pypi.org/project/pyswarm             
 https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
 https://pypi.org/project/pyeq2/
-**https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/DFOGN/
 https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
@@ -138,6 +142,8 @@ https://pypi.org/project/smogn/
 https://pypi.org/project/psopy/ - Particle Swarm Optimization                
 https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms     
 https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm.
+https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization
+
 
 ### Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
@@ -216,6 +222,7 @@ https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library
 https://pypi.org/project/npeuclid/ -
 https://pypi.org/project/right-triangle 
+https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status for a set of vertices VERT and a general polygon (PSLG) embedded in the two-dimensional plane            
 
 ## ☸️ Networks / Graphs               
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
