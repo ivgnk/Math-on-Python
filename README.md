@@ -132,6 +132,9 @@ https://pypi.org/project/causaldag/
 **https://pypi.org/project/gsa-framework/** - Generic framework for global sensitivity analysis            
 https://pypi.org/project/pysloth - Probabilistic Predictions              
 **https://pypi.org/project/abracadabra** -  Making hypothesis and AB testing magically simple!          
+https://github.com/nudomarinero/wquantiles - Weighted quantiles, including weighted median, based on numpy              
+**https://pypi.org/project/tsdst/** -  statistical utility tool         
+https://pypi.org/project/benford-py - https://en.wikipedia.org/wiki/Benford%27s_law        
 
 
 ## 🎩 ODE / PDE / SDE
@@ -154,6 +157,9 @@ https://pypi.org/project/integral
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort=
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
+**https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
+
+
 
 https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
@@ -169,6 +175,9 @@ https://pypi.org/project/peerless
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 https://pypi.org/project/sqnomad -     
+https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
+
+
 
 ### 🐝 Particle Swarm Optimization 🐜                       
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
@@ -281,11 +290,10 @@ https://pypi.org/project/BDSpace -  to simplify positioning, movement, and traje
 
    
 
-## ☸️ Networks / Graphs               
+## ☸️ Networks / Graphs / Tree              
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 **https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
-
-
+**https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree
 
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
@@ -299,7 +307,7 @@ https://pypi.org/project/jgrapht/
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks        
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs            
 https://pypi.org/project/metagraph - Graph algorithm solver                  
-
+https://pypi.org/project/graphhierarchy/
 
 
 
