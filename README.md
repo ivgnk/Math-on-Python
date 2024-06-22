@@ -109,7 +109,7 @@ https://pypi.org/project/influence/
 https://pypi.org/project/ccc-calculator/
 https://pypi.org/project/seqgentools/
 
-## Statistics               
+## 📊 Statistics               
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
 https://pypi.org/project/autoregression  
@@ -121,11 +121,12 @@ https://pypi.org/project/distimate
 https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
 https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%26R             
 https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution functions          
+**https://pypi.org/project/probfit/**
 
 
 
 
-## ODE / PDE / SDE
+## 🎩 ODE / PDE / SDE
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
 https://pypi.org/project/gwr-inversion                     
@@ -138,7 +139,7 @@ https://pypi.org/project/ader
 
 https://github.com/mattloper/chumpy     
 
-## Optimization / Fitting  / Regression          
+## 🎬 Optimization / Fitting  / Regression          
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
