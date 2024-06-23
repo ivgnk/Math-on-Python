@@ -12,9 +12,19 @@ https://github.com/LLNL/sundials/releases**
 ## ✨ repositories
 https://en.wikipedia.org/wiki/List_of_preprint_repositories             
 **https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics                  
+https://synthical.com/ - computer science, mathematics, economics, physics, cryptography                
+
+**https://en.wikipedia.org/wiki/EarthArXiv** -  Earth Science               
+https://essopenarchive.org -  Earth and Space Science Open Archive        
+
 **https://en.wikipedia.org/wiki/EngrXiv** - engineering                  
 **https://ru.wikipedia.org/wiki/SSRN** -  social sciences, humanities, life sciences, and health sciences              
+https://en.wikipedia.org/wiki/EconStor - Economics and Business Studies            
+https://en.wikipedia.org/wiki/Research_Papers_in_Economics (RePEc)            
+https://en.wikipedia.org/wiki/ScienceOpen         
+https://en.wikipedia.org/wiki/Zenodo     
 
+https://ru.wikipedia.org/wiki/ViXra -  unorthodox and fringe science           
 
 
 ## testing the operation of functions from scipy.optimize                 
