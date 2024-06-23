@@ -1,12 +1,19 @@
 # Math             
 Small and not only small mathematical problems on Python             
 
-## OrG                 
+https://en.wikipedia.org/wiki/List_of_preprint_repositories
+**https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics
+**https://en.wikipedia.org/wiki/EngrXiv** - engineering      
+**https://ru.wikipedia.org/wiki/SSRN** -  social sciences, humanities, life sciences, and health sciences           
+
+## ⭐ OrG                 
 **https://sandialabs.github.io/                  
 https://github.com/LLNL/sundials/releases**                 
 **https://www.pyomo.org**
 **https://www.dagitty.net** - draw and analyze causal diagrams             
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
+
+## ✨ repositories
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -80,7 +87,7 @@ https://pypi.org/project/nprime
 https://pypi.org/project/number-comparator         
 https://pypi.org/project/gaussianprimes - Generate Gaussian primes               
 https://pypi.org/project/trprimes       
-
+https://pypi.org/project/pyunionfind - A union-find disjoint sets data structure            
 
 ### 🌌 Random data
 https://pypi.org/project/pyrandwalk -  Random Walks           
@@ -110,6 +117,7 @@ https://pypi.org/project/VISualMAth
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
 **https://pypi.org/project/sym/** - wrapper for symbolic manipulation libraries in Python               
 https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
+
 
 
 _**https://github.com/bjodah/pyneqsys - solving non-linear equation systems from symbolic expressions**_            
@@ -149,6 +157,16 @@ https://pypi.org/project/benford-py - https://en.wikipedia.org/wiki/Benford%27s_
 https://pypi.org/project/benfordviz                
 https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
 **https://pypi.org/project/powerlaw** -  Analysis of Heavy-Tailed Distributions           
+https://pypi.org/project/applied-stats - compute MLEs / probabilities         
+
+### 🔠 Bayesian                
+https://github.com/pymc-devs    
+https://pypi.org/project/abcpmc      
+https://pypi.org/project/bayes-tda/
+https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
+https://pypi.org/project/naivebayesgauss/   
+**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
+https://pypi.org/project/suftware - implementation of Bayesian Field Theory algorithms for low-dimensional statistical inference
 
 
 
@@ -168,11 +186,16 @@ https://pypi.org/project/integrators
 https://pypi.org/project/integral    
 https://pypi.org/project/FDGPU - inite difference derivatives in any number of dimensions       
 https://pypi.org/project/finitediff - Finite difference weights for any derivative order on arbitrarily spaced grids        
+https://pypi.org/project/desolver - Differential Equation System Solver        
+https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions          
+
+
 
 
 ## 🎬 Optimization / Fitting  / Regression          
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort=
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
+https://pypi.org/project/benchmark-functions/ - benchmark functions collection  for assessing the performances of optimisation problems on deterministic functions
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 **https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
@@ -196,6 +219,7 @@ https://pypi.org/project/conv-opt - High-level Python package for solving linear
 
 
 
+
 ### 🐝 Particle Swarm Optimization 🐜                       
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
 https://pypi.org/project/pyswarm             
@@ -216,20 +240,15 @@ https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprog
 ### 📈 Regression 
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
 https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods  
+https://pypi.org/project/regressions - Generates statistical regression models for data sets         
+
+
 
 https://pypi.org/project/concepts/
 
 ### ⬇️ global minimum 
 https://pypi.org/project/tgo - Finds the global minimum           
 https://pypi.org/project/organisms         
-
-## 🔠 Bayesian                
-https://github.com/pymc-devs    
-https://pypi.org/project/abcpmc      
-https://pypi.org/project/bayes-tda/
-https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
-https://pypi.org/project/naivebayesgauss/   
-**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 
 ## ♏ Cellular Automata           
 https://pypi.org/project/GameOfLife (GOL)                       
@@ -263,6 +282,9 @@ https://github.com/quantopian/pyfolio
 https://github.com/quantopian/empyrical -  financial risk metrics          
 https://pypi.org/project/beacon-trellis          
 https://pypi.org/project/trapeza - financial transactions and trading                         
+### Enegy
+https://pypi.org/project/aristop - optimization of energy systems             
+
 
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
@@ -280,6 +302,9 @@ https://pypi.org/project/stsb2 - **structural time series grammar and models**
 **https://github.com/jarrahl/tp-analyzer - analyze time series data through a selected subset of turning points**         
 https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers           
 https://pypi.org/project/pecuzal-embedding - PECUZAL automatic embedding of uni- and multivariate time series           
+https://pypi.org/project/csaps - Cubic spline approximation (smoothing)       
+
+https://pypi.org/project/chainfix -  data types for signal processing and blockchain applications     
 
 ## ✳️ Maps / Images / Tomography         
 https://pypi.org/search/?q=SIFT     
@@ -295,6 +320,9 @@ https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing
 
 https://pypi.org/project/gratopy -  tomographic projections, Radon transforms               
 https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
+https://pypi.org/project/pftracker - Face tracking based on particle filter        
+
+https://pypi.org/project/pycontour -  2D Contour Processing       
 
  
 
