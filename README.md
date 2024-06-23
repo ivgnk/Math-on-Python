@@ -1,10 +1,6 @@
 # Math             
 Small and not only small mathematical problems on Python             
 
-https://en.wikipedia.org/wiki/List_of_preprint_repositories
-**https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics
-**https://en.wikipedia.org/wiki/EngrXiv** - engineering      
-**https://ru.wikipedia.org/wiki/SSRN** -  social sciences, humanities, life sciences, and health sciences           
 
 ## ⭐ OrG                 
 **https://sandialabs.github.io/                  
@@ -14,6 +10,11 @@ https://github.com/LLNL/sundials/releases**
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
 
 ## ✨ repositories
+https://en.wikipedia.org/wiki/List_of_preprint_repositories             
+**https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics                  
+**https://en.wikipedia.org/wiki/EngrXiv** - engineering                  
+**https://ru.wikipedia.org/wiki/SSRN** -  social sciences, humanities, life sciences, and health sciences              
+
 
 ## Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
