@@ -1,14 +1,6 @@
 # Math             
 Small and not only small mathematical problems on Python             
 
-
-## ⭐ OrG                 
-**https://sandialabs.github.io/                  
-https://github.com/LLNL/sundials/releases**                 
-**https://www.pyomo.org**
-**https://www.dagitty.net** - draw and analyze causal diagrams             
-**https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
-
 ## ✨ repositories
 https://en.wikipedia.org/wiki/List_of_preprint_repositories             
 **https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics                  
@@ -25,6 +17,14 @@ https://en.wikipedia.org/wiki/ScienceOpen
 https://en.wikipedia.org/wiki/Zenodo     
 
 https://ru.wikipedia.org/wiki/ViXra -  unorthodox and fringe science           
+
+
+## ⭐ OrG                 
+**https://sandialabs.github.io/                  
+https://github.com/LLNL/sundials/releases**                 
+**https://www.pyomo.org**
+**https://www.dagitty.net** - draw and analyze causal diagrams             
+**https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
 
 
 ## testing the operation of functions from scipy.optimize                 
