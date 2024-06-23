@@ -16,19 +16,11 @@ https://en.wikipedia.org/wiki/List_of_preprint_repositories
 **https://ru.wikipedia.org/wiki/SSRN** -  social sciences, humanities, life sciences, and health sciences              
 
 
-## Solving problems from the video channels                  
-https://www.youtube.com/@Postupashki/videos              
-https://www.youtube.com/@PBVmaths/videos                                      
 
 ## testing the operation of functions from scipy.optimize                 
-
-
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **Testing of optimization functions is necessary                      
 because optimization as a kind of solving [incorrect problems](https://en.wikipedia.org/wiki/Well-posed_problem)                                         
 can give solutions much different from the real ones**
-
-
-                 
 
 https://docs.scipy.org/doc/scipy/reference/optimize.html                       
 **https://docs.scipy.org/doc/scipy/tutorial/optimize.html**                     
@@ -118,6 +110,10 @@ https://pypi.org/project/VISualMAth
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
 **https://pypi.org/project/sym/** - wrapper for symbolic manipulation libraries in Python               
 https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
+
+#### Solving problems from the video channels                  
+https://www.youtube.com/@Postupashki/videos              
+https://www.youtube.com/@PBVmaths/videos                                      
 
 
 
