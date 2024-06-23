@@ -45,6 +45,8 @@ https://pypi.org/project/dmppl
 **https://pypi.org/project/PyUtilib/**                  
 https://pypi.org/project/jheaps - various heap implementations                
 https://pypi.org/project/polyrat - Polynomial and rational function library           
+https://github.com/discretegames/DSAs - sorting      
+https://pypi.org/project/cog-suspect/ - Special Structure Detection          
 
 ### ◀️Numeric intervals▶️
 **https://pypi.org/project/portion/** - Data structure and operations for intervals
@@ -80,6 +82,12 @@ https://pypi.org/project/gaussianprimes - Generate Gaussian primes
 https://pypi.org/project/trprimes       
 
 
+### 🌌 Random data
+https://pypi.org/project/pyrandwalk -  Random Walks           
+
+
+
+
 
 ## 🔃 Combinatorics 
 **[emlib](https://pypi.org/project/emlib/)**
@@ -100,6 +108,9 @@ https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operat
 https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions            
 https://pypi.org/project/VISualMAth                  
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
+**https://pypi.org/project/sym/** - wrapper for symbolic manipulation libraries in Python               
+https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
+
 
 _**https://github.com/bjodah/pyneqsys - solving non-linear equation systems from symbolic expressions**_            
 
@@ -134,10 +145,14 @@ https://pypi.org/project/pysloth - Probabilistic Predictions
 **https://pypi.org/project/abracadabra** -  Making hypothesis and AB testing magically simple!          
 https://github.com/nudomarinero/wquantiles - Weighted quantiles, including weighted median, based on numpy              
 **https://pypi.org/project/tsdst/** -  statistical utility tool         
-https://pypi.org/project/benford-py - https://en.wikipedia.org/wiki/Benford%27s_law        
+https://pypi.org/project/benford-py - https://en.wikipedia.org/wiki/Benford%27s_law          
+https://pypi.org/project/benfordviz                
+https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
+**https://pypi.org/project/powerlaw** -  Analysis of Heavy-Tailed Distributions           
 
 
-## 🎩 ODE / PDE / SDE
+
+## 🎩 ODE / PDE / SDE /  derivatives / integrals   
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
 https://pypi.org/project/gwr-inversion                     
@@ -150,7 +165,9 @@ https://pypi.org/project/ader
 
 https://github.com/mattloper/chumpy     
 https://pypi.org/project/integrators 
-https://pypi.org/project/integral     
+https://pypi.org/project/integral    
+https://pypi.org/project/FDGPU - inite difference derivatives in any number of dimensions       
+https://pypi.org/project/finitediff - Finite difference weights for any derivative order on arbitrarily spaced grids        
 
 
 ## 🎬 Optimization / Fitting  / Regression          
@@ -158,9 +175,9 @@ https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort=
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 **https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
+**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 
-
-
+https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
 https://pypi.org/project/pyeq2/
@@ -211,7 +228,8 @@ https://github.com/pymc-devs
 https://pypi.org/project/abcpmc      
 https://pypi.org/project/bayes-tda/
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
-https://pypi.org/project/naivebayesgauss/      
+https://pypi.org/project/naivebayesgauss/   
+**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 
 ## ♏ Cellular Automata           
 https://pypi.org/project/GameOfLife (GOL)                       
@@ -243,7 +261,8 @@ https://pypi.org/project/pyfolio-qa
 https://github.com/quantopian/pyfolio       
 **https://pypi.org/project/appelpy/** 
 https://github.com/quantopian/empyrical -  financial risk metrics          
-https://pypi.org/project/beacon-trellis           
+https://pypi.org/project/beacon-trellis          
+https://pypi.org/project/trapeza - financial transactions and trading                         
 
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
@@ -260,11 +279,32 @@ https://pypi.org/project/stsb2 - **structural time series grammar and models**
 **https://pypi.org/project/uniqed - anomaly detection method**              
 **https://github.com/jarrahl/tp-analyzer - analyze time series data through a selected subset of turning points**         
 https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers           
+https://pypi.org/project/pecuzal-embedding - PECUZAL automatic embedding of uni- and multivariate time series           
 
-## ✳️ Maps          
+## ✳️ Maps / Images / Tomography         
 https://pypi.org/search/?q=SIFT     
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
+https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
+https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
+**https://github.com/lightly-ai/lightly** - self-supervised learning on images                
+**https://pypi.org/project/scikit-tda/** - Topological Data Analysis for humans        
+https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer          
+https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
+**https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
+
+https://pypi.org/project/gratopy -  tomographic projections, Radon transforms               
+https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
+
+ 
+
+
+
+
+
+
+
+
 
 
 
@@ -274,8 +314,12 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 
 ## ⚡ Physics  
 https://pypi.org/project/unitcalc/
+https://pypi.org/project/ounce/ - manipulating units of measure        
+https://pypi.org/project/kanonpy - History of astronomy library                
 
-## 📏 Geometry          
+
+
+## 📏 Geometry 🌑                      
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library
@@ -287,6 +331,16 @@ https://pypi.org/project/Polygon3 -
 https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
 https://pypi.org/project/vectometry 
 https://pypi.org/project/BDSpace -  to simplify positioning, movement, and trajectory calculation for many different technical problems             
+https://pypi.org/project/angle-headings - calculations with angles              
+https://pypi.org/project/trjtrypy - Distance between trajectories              
+**https://pypi.org/project/vg/** - vector-geometry and linear-algebra toolbelt               
+https://pypi.org/project/pygamer     
+**https://pypi.org/project/Geom8ry** - computational geometry Geom8ry can handle various 2D - geometrical constructs like Points, Lines, Line Segments,               
+Polygons, Circles, Fourier Transforms, Matrices, Graphs, Triangulations, and Polynomials, etc.                  
+https://pypi.org/project/EventGeometry -  computing the Energy Mover's Distance and related geometric quantities          
+https://pypi.org/project/Geometry3D -  3D Geometry Lib        
+
+
 
    
 
@@ -308,12 +362,13 @@ https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs            
 https://pypi.org/project/metagraph - Graph algorithm solver                  
 https://pypi.org/project/graphhierarchy/
-
-
+https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
+https://pypi.org/project/IdealFlowNetwork          
+https://pypi.org/project/paper-network - random networks           
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
-
+https://pypi.org/project/TicTacToe3/
 
 https://pypi.org/project/opener - Solve open the lock puzzle            
 https://pypi.org/project/dicetables
