@@ -5,6 +5,7 @@ Small and not only small mathematical problems on Python
 ## 🚗 ML / DL / AI / DS      
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
+https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
 
 https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022                    
 https://pypi.org/project/xmos-ai-tools-beta 20/03/2022              
@@ -132,7 +133,9 @@ https://pypi.org/project/pyrandwalk -  Random Walks
 https://pypi.org/project/codeviking.random -  random number generators with many useful random number generation methods      
 
 ### Bool logic
+**https://pypi.org/project/quine-mccluskey-tomas789** - https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm
 https://pypi.org/project/normal-form/ -  working with Conjunctive Normal Form (CNFs) and Boolean Satisfiability        
+
 
 
 ## 🔃 Combinatorics 
@@ -212,11 +215,14 @@ https://pypi.org/project/applied-stats - compute MLEs / probabilities
 https://pypi.org/project/causality - causal inference
 https://pypi.org/project/wasserstein - Wasserstein distances - https://en.wikipedia.org/wiki/Wasserstein_metric            
 
+https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
+
 ### 📈 Regression 📉
 https://pypi.org/project/clogistic/ - Constrained Logistic Regression
 https://pypi.org/project/gaussian-proc - Gaussian process regression     
 https://pypi.org/project/autoregression  
 **https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                   
+https://pypi.org/project/ropwr - Robust Piecewise Regression - Звёзд: 10             
 
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
@@ -234,6 +240,7 @@ https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models
 ### Queueing theory / Теория массового обслуживания        
 https://pypi.org/project/queueing-tool -  Звёзд: 63 
 https://pypi.org/project/queueing-systems/
+
 
 
 
@@ -259,13 +266,14 @@ https://pypi.org/project/tensordiff -  finite difference derivatives in any numb
 https://pypi.org/project/bquadpy - Numerical integration, quadrature for various domains           
 https://pypi.org/project/pinns - Solve differntial equations using neural networks -  Звёзд: 6           
 https://github.com/scaomath/galerkin-transformer - Звёзд: 211          
-
+https://pypi.org/project/elvet - neural network-based differential equation and variational problem solver
 
 
 
 
 
 ## 🎬 Optimization / Fitting  
+**https://pypi.org/project/pyeq3/** - equation, curve and surface fitting library - Звёзд: 5       
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort=
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/benchmark-functions/ - benchmark functions collection  for assessing the performances of optimisation problems on deterministic functions
@@ -427,6 +435,8 @@ https://pypi.org/project/pftracker - Face tracking based on particle filter
 https://pypi.org/project/pycontour -  2D Contour Processing       
 https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis and Testing in Python - A collection of scalar functions       
 https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20        
+https://pypi.org/project/pywoc - 2-D comparison            
+
 
  
 
@@ -486,6 +496,7 @@ https://pypi.org/project/Geometry3D -  3D Geometry Lib
 https://pypi.org/project/beizer-curves - or generating beizer curves       
 https://pypi.org/project/polliwog - 2D and 3D computational geometry library       
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language         
+https://pypi.org/project/PyAbel - forward and inverse Abel transforms - Звёзд: 91          
 
     
 
@@ -524,6 +535,7 @@ https://pypi.org/project/emgraph/ - graph representation learning (graph embeddi
 ### 🌳 Tree 
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
 https://pypi.org/project/c45-decision-tree  12/07/2023 
+https://pypi.org/project/dm-tree -  library for working with nested data structures -  921 stars               
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
