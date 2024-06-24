@@ -1,6 +1,14 @@
 # Math             
 Small and not only small mathematical problems on Python             
 
+
+## 🚗 ML / DL/ AI             
+https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022
+https://pypi.org/project/xmos-ai-tools-beta 20/03/2022
+https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022           
+
+
+
 ## ✨ repositories
 https://en.wikipedia.org/wiki/List_of_preprint_repositories             
 **https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics                  
@@ -95,7 +103,10 @@ https://pypi.org/project/primefac - factoring integers into primes
 
 ### 🌌 Random data
 https://pypi.org/project/pyrandwalk -  Random Walks           
+**https://pypi.org/project/SyncRNG** - Generate the same random numbers in R and Python - Звёзд: 19            
 
+
+https://pypi.org/project/codeviking.random -  random number generators with many useful random number generation methods      
 
 
 
@@ -121,6 +132,8 @@ https://pypi.org/project/VISualMAth
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
 **https://pypi.org/project/sym/** - wrapper for symbolic manipulation libraries in Python               
 https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
+https://pypi.org/project/bcpseg - Bayesian Change Point Segmentation            
+
 
 #### Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -208,6 +221,7 @@ https://pypi.org/project/benchmark-functions/ - benchmark functions collection  
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 **https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
+**https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox          
 
 https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
@@ -228,6 +242,12 @@ https://pypi.org/project/conv-opt - High-level Python package for solving linear
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
 https://pypi.org/project/gaussian-proc - Gaussian process regression     
 https://pypi.org/project/cyclicbm - Cyclic Boosting         
+https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
+
+### ❄️ Clustering 
+https://pypi.org/project/fastcluster - Fast hierarchical clustering routines for R and Python
+https://pypi.org/project/infostop - Temporospatial clustering in Python. Well suited for mobility data        
+
 
 
 
@@ -262,9 +282,10 @@ https://pypi.org/project/concepts/
 https://pypi.org/project/tgo - Finds the global minimum           
 https://pypi.org/project/organisms         
 
-## ♏ Cellular Automata           
+## ♏ Cellular Automata /  finite state machines           
 https://pypi.org/project/GameOfLife (GOL)                       
-https://pypi.org/project/pyseagull - GOL                    
+https://pypi.org/project/pyseagull - GOL         
+https://pypi.org/project/finite-state-machines - manipulating finite state machines            
 
 ## 🎲 Monte Carlo simulation / ⛓️ Markov Chains         
 https://pypi.org/project/percolate           
@@ -317,6 +338,7 @@ https://pypi.org/project/pecuzal-embedding - PECUZAL automatic embedding of uni-
 https://pypi.org/project/csaps - Cubic spline approximation (smoothing)       
 
 https://pypi.org/project/chainfix -  data types for signal processing and blockchain applications     
+https://pypi.org/project/timexseries-clustering/ - time-series-clustering      
 
 ## ✳️ Maps / Images / Tomography         
 https://pypi.org/search/?q=SIFT     
@@ -356,6 +378,7 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 https://pypi.org/project/unitcalc/
 https://pypi.org/project/ounce/ - manipulating units of measure        
 https://pypi.org/project/kanonpy - History of astronomy library                
+https://pypi.org/project/Unum - Units in Python          
 
 
 
@@ -379,7 +402,11 @@ https://pypi.org/project/pygamer
 Polygons, Circles, Fourier Transforms, Matrices, Graphs, Triangulations, and Polynomials, etc.                  
 https://pypi.org/project/EventGeometry -  computing the Energy Mover's Distance and related geometric quantities          
 https://pypi.org/project/Geometry3D -  3D Geometry Lib        
-https://pypi.org/project/beizer-curves - or generating beizer curves        
+https://pypi.org/project/beizer-curves - or generating beizer curves       
+https://pypi.org/project/polliwog - 2D and 3D computational geometry library       
+**https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language         
+
+    
 
 
    
@@ -407,6 +434,8 @@ https://pypi.org/project/BisPy - computation of the maximum bisimulation of dire
 https://pypi.org/project/IdealFlowNetwork          
 https://pypi.org/project/paper-network - random networks           
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs          
+https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time Series Data on Complex Networks           
+https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
