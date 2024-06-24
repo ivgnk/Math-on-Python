@@ -130,7 +130,8 @@ https://pypi.org/project/pyrandwalk -  Random Walks
 
 https://pypi.org/project/codeviking.random -  random number generators with many useful random number generation methods      
 
-
+### Bool logic
+https://pypi.org/project/normal-form/ -  working with Conjunctive Normal Form (CNFs) and Boolean Satisfiability        
 
 
 ## 🔃 Combinatorics 
@@ -156,7 +157,8 @@ https://pypi.org/project/pyroots/ -    single variable function solvers (roots)
 https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
 https://pypi.org/project/bcpseg - Bayesian Change Point Segmentation            
 https://pypi.org/project/equadratures  - Polynomial approximations         
-
+https://pypi.org/project/cardano-method -  cubic equation solver       
+https://github.com/stephenhky/MoguNumerics - Exponential and sigmoid curve fitting; Dynamic programming: Damerau-Levenshtein distance; Topological data analysis; Multivariate Gaussian distribution sampling; Probability crosswalk;                 
 
 #### Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -218,7 +220,9 @@ https://pypi.org/project/suftware - implementation of Bayesian Field Theory algo
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
 
-
+### Queueing theory / Теория массового обслуживания        
+https://pypi.org/project/queueing-tool -  Звёзд: 63 
+https://pypi.org/project/queueing-systems/
 
 
 
@@ -239,9 +243,11 @@ https://pypi.org/project/integral
 https://pypi.org/project/FDGPU - inite difference derivatives in any number of dimensions       
 https://pypi.org/project/finitediff - Finite difference weights for any derivative order on arbitrarily spaced grids        
 https://pypi.org/project/desolver - Differential Equation System Solver        
-https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions          
+https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions               
 
-https://pypi.org/project/bquadpy - Numerical integration, quadrature for various domains - 
+https://pypi.org/project/bquadpy - Numerical integration, quadrature for various domains           
+https://pypi.org/project/pinns - Solve differntial equations using neural networks -  Звёзд: 6           
+
 
 
 
@@ -331,6 +337,7 @@ https://pypi.org/project/bmcc
 https://github.com/eigenfoo/littlemcmc        
 https://pypi.org/project/paramonte         
 https://pypi.org/project/mchmm - Markov chains and Hidden Markov models           
+https://pypi.org/project/pyemma - Emma's Markov Model Algorithms            
 
 
 
@@ -381,8 +388,11 @@ https://pypi.org/project/chainfix -  data types for signal processing and blockc
 https://pypi.org/project/timexseries-clustering/ - time-series-clustering      
 https://pypi.org/project/nsgt - Non-Stationary Gabor Transform (NSGT) https://grrrr.org/research/software/nsgt/       https://en.wikipedia.org/wiki/Gabor_transform             
 
+https://pypi.org/project/pydaddy - analyse stochastic time series data
+
 ## ✳️ Maps / Images / Tomography         
 https://pypi.org/search/?q=SIFT     
+**https://pypi.org/project/pygalmesh/** - Create high-quality meshes            
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
@@ -392,6 +402,7 @@ https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mes
 https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer          
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
+https://pypi.org/project/traja - trajectory analysis and visualization tool     
 
 https://pypi.org/project/gratopy -  tomographic projections, Radon transforms               
 https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
@@ -486,6 +497,7 @@ https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time
 https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
 https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звёзд: 33           
 https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
+**https://pypi.org/project/graph-theory/** - Звёзд: 81
 
 ### 🌳 Tree 
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
