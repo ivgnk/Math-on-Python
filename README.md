@@ -3,19 +3,19 @@ Small and not only small mathematical problems on Python
 
 
 ## 🚗 ML / DL / AI / DS      
-https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51          
-https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3       
+https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
+https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
 
-https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022
-https://pypi.org/project/xmos-ai-tools-beta 20/03/2022
-https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022           
+https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022                    
+https://pypi.org/project/xmos-ai-tools-beta 20/03/2022              
+https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022                       
 
-https://pypi.org/project/wnetron - Viewer for neural network, deep learning, and machine learning models -  Звёзд: 26688       
+https://pypi.org/project/wnetron - Viewer for neural network, deep learning, and machine learning models -  Звёзд: 26688          
 
-https://pypi.org/project/cauldron-notebook -  Data Analysis Environment  01/04/2022     
-https://pypi.org/project/diffsort - Differentiable Sorting Networks - 22/03/2022           
-https://pypi.org/project/recsim-ng - https://pypi.org/project/recsim-ng -  Звёзд: 115        
-https://pypi.org/project/occamypy - Object-Oriented Optimization Framework for Large-Scale Inverse Problems -  Звёзд: 55  
+https://pypi.org/project/cauldron-notebook -  Data Analysis Environment  01/04/2022              
+https://pypi.org/project/diffsort - Differentiable Sorting Networks - 22/03/2022                
+https://pypi.org/project/recsim-ng - https://pypi.org/project/recsim-ng -  Звёзд: 115           
+https://pypi.org/project/occamypy - Object-Oriented Optimization Framework for Large-Scale Inverse Problems -  Звёзд: 55            
 
 https://pypi.org/project/vulpes - classification, regression models and clustering algorithms           
 https://github.com/waikato-ufdl -  Deep Learning at the University of Waikato, NZ                
