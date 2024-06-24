@@ -72,6 +72,9 @@ https://pypi.org/project/pynterval/
 https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic                   
 https://pypi.org/project/python-intervals - Data structure and operations for intervals
 
+### 📀💿 DataBase 💾
+https://pypi.org/project/PyPika - A SQL query builder API for Python
+
         
 ## 🔺 Complex
 https://pypi.org/project/MDP -  library of widely used data processing algorithms, and the possibility to combine them together to form pipelines for building more complex data processing software           
