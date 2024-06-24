@@ -22,7 +22,8 @@ https://github.com/waikato-ufdl -  Deep Learning at the University of Waikato, N
 https://pypi.org/project/mxnet -  ultra-scalable deep learning framework - 18/05/2022        
 https://attic.apache.org/projects/mxnet.html        
 
-### ❓❗ Algorithm for Recommendation        
+### ❓❗ Algorithm for Recommendation   
+**https://pypi.org/search/?q=Algorithm+for+Recommendation**
 https://pypi.org/project/pysarplus/          
 
 
@@ -144,6 +145,9 @@ https://github.com/whym1here/Algopylib
 https://pypi.org/project/testflows.combinatorics/
 https://pypi.org/project/dyce/ -  dice outcomes and other finite discrete probabilities          
 https://pypi.org/project/infEGE 
+https://pypi.org/project/permutation - Permutations of finitely many positive integers - Звёзд: 16           
+
+
 
 ### 📝 Calculation 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy            
@@ -283,6 +287,7 @@ https://pypi.org/project/gaussian-proc - Gaussian process regression
 https://pypi.org/project/cyclicbm - Cyclic Boosting         
 https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
+https://pypi.org/project/aeecde - Adaptive Differential Evolution      
 
 ### ❄️ Clustering 
 https://pypi.org/project/fastcluster - Fast hierarchical clustering routines for R and Python
@@ -432,9 +437,10 @@ https://pypi.org/project/ounce/ - manipulating units of measure
 https://pypi.org/project/kanonpy - History of astronomy library                
 https://pypi.org/project/Unum - Units in Python          
 
-## 🌏 GeoPhysics / Geology / Mining           
+## 🌏🌏🌏 GeoPhysics / Geology / Mining           
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
+https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
 
 ### 🔱 Hydrological model    
 https://mhm-ufz.org/
