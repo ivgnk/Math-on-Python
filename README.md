@@ -91,6 +91,7 @@ https://pypi.org/project/number-comparator
 https://pypi.org/project/gaussianprimes - Generate Gaussian primes               
 https://pypi.org/project/trprimes       
 https://pypi.org/project/pyunionfind - A union-find disjoint sets data structure            
+https://pypi.org/project/primefac - factoring integers into primes     
 
 ### 🌌 Random data
 https://pypi.org/project/pyrandwalk -  Random Walks           
@@ -165,6 +166,7 @@ https://pypi.org/project/benfordviz
 https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
 **https://pypi.org/project/powerlaw** -  Analysis of Heavy-Tailed Distributions           
 https://pypi.org/project/applied-stats - compute MLEs / probabilities         
+https://pypi.org/project/causality - causal inference     
 
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
@@ -223,6 +225,9 @@ https://pypi.org/project/optimization-dashboard
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 https://pypi.org/project/sqnomad -     
 https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
+https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
+https://pypi.org/project/gaussian-proc - Gaussian process regression     
+https://pypi.org/project/cyclicbm - Cyclic Boosting         
 
 
 
@@ -374,7 +379,7 @@ https://pypi.org/project/pygamer
 Polygons, Circles, Fourier Transforms, Matrices, Graphs, Triangulations, and Polynomials, etc.                  
 https://pypi.org/project/EventGeometry -  computing the Energy Mover's Distance and related geometric quantities          
 https://pypi.org/project/Geometry3D -  3D Geometry Lib        
-
+https://pypi.org/project/beizer-curves - or generating beizer curves        
 
 
    
@@ -383,6 +388,7 @@ https://pypi.org/project/Geometry3D -  3D Geometry Lib
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 **https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
 **https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree
+https://pypi.org/project/grapharray -  for treating arrays defined on a network, which allows for fast computation and easy visualization           
 
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
@@ -400,6 +406,7 @@ https://pypi.org/project/graphhierarchy/
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 https://pypi.org/project/IdealFlowNetwork          
 https://pypi.org/project/paper-network - random networks           
+https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs          
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
