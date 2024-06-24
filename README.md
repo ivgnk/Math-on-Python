@@ -163,6 +163,8 @@ https://pypi.org/project/bcpseg - Bayesian Change Point Segmentation
 https://pypi.org/project/equadratures  - Polynomial approximations         
 https://pypi.org/project/cardano-method -  cubic equation solver       
 https://github.com/stephenhky/MoguNumerics - Exponential and sigmoid curve fitting; Dynamic programming: Damerau-Levenshtein distance; Topological data analysis; Multivariate Gaussian distribution sampling; Probability crosswalk;                 
+https://pypi.org/project/samply - computing samplings in arbitrary dimensions
+
 
 #### Solving problems from the video channels                  
 https://www.youtube.com/@Postupashki/videos              
@@ -182,10 +184,10 @@ https://pypi.org/project/influence/
 https://pypi.org/project/ccc-calculator/
 https://pypi.org/project/seqgentools/
 
-## 📊 Statistics               
+## 📊📊 Statistics / Regression                   
+https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
-https://pypi.org/project/autoregression  
 https://pypi.org/project/pysurvival            https://square.github.io/pysurvival                
 https://pypi.org/project/PyNonpar - Nonparametric Test Statistics       
 https://pypi.org/project/mgcpy/           https://mgc.neurodata.io          
@@ -194,7 +196,6 @@ https://pypi.org/project/distimate
 https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
 https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%26R             
 https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution functions          
-**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                   
 **https://pypi.org/project/boisgera-pioupiou/** - A nano probabilistic programming language for Python            
 https://pypi.org/project/causaldag/
 
@@ -210,6 +211,12 @@ https://pypi.org/project/dycelib -  exploring dice outcomes and other finite dis
 https://pypi.org/project/applied-stats - compute MLEs / probabilities         
 https://pypi.org/project/causality - causal inference
 https://pypi.org/project/wasserstein - Wasserstein distances - https://en.wikipedia.org/wiki/Wasserstein_metric            
+
+### 📈 Regression 📉
+https://pypi.org/project/clogistic/ - Constrained Logistic Regression
+https://pypi.org/project/gaussian-proc - Gaussian process regression     
+https://pypi.org/project/autoregression  
+**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                   
 
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
@@ -251,13 +258,14 @@ https://pypi.org/project/tensordiff -  finite difference derivatives in any numb
 
 https://pypi.org/project/bquadpy - Numerical integration, quadrature for various domains           
 https://pypi.org/project/pinns - Solve differntial equations using neural networks -  Звёзд: 6           
+https://github.com/scaomath/galerkin-transformer - Звёзд: 211          
 
 
 
 
 
 
-## 🎬 Optimization / Fitting  / Regression          
+## 🎬 Optimization / Fitting  
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort=
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/benchmark-functions/ - benchmark functions collection  for assessing the performances of optimisation problems on deterministic functions
@@ -283,15 +291,18 @@ https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto
 https://pypi.org/project/sqnomad -     
 https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
-https://pypi.org/project/gaussian-proc - Gaussian process regression     
 https://pypi.org/project/cyclicbm - Cyclic Boosting         
 https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 https://pypi.org/project/aeecde - Adaptive Differential Evolution      
+https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
+
 
 ### ❄️ Clustering 
 https://pypi.org/project/fastcluster - Fast hierarchical clustering routines for R and Python
 https://pypi.org/project/infostop - Temporospatial clustering in Python. Well suited for mobility data        
+https://pypi.org/project/MiniballCpp - Smallest Enclosing Balls of Points -  Звёзд: 20           
+
 
 
 
@@ -414,6 +425,8 @@ https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in 
 https://pypi.org/project/pftracker - Face tracking based on particle filter        
 
 https://pypi.org/project/pycontour -  2D Contour Processing       
+https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis and Testing in Python - A collection of scalar functions       
+https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20        
 
  
 
@@ -441,6 +454,9 @@ https://pypi.org/project/Unum - Units in Python
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
+**https://pypi.org/project/geoscilabs** - to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz - Звёзд: 48        
+**https://github.com/geoscixyz/geosci-labs**          
+
 
 ### 🔱 Hydrological model    
 https://mhm-ufz.org/
