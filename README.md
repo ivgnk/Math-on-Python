@@ -6,8 +6,18 @@ Small and not only small mathematical problems on Python
 https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022
 https://pypi.org/project/xmos-ai-tools-beta 20/03/2022
 https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022           
-https://pypi.org/project/cauldron-notebook -  Data Analysis Environment  01/04/2022            
 
+
+https://pypi.org/project/cauldron-notebook -  Data Analysis Environment  01/04/2022     
+https://pypi.org/project/diffsort - Differentiable Sorting Networks - 22/03/2022           
+https://pypi.org/project/recsim-ng - https://pypi.org/project/recsim-ng -  Звёзд: 115        
+https://pypi.org/project/occamypy - Object-Oriented Optimization Framework for Large-Scale Inverse Problems -  Звёзд: 55  
+
+https://pypi.org/project/mxnet -  ultra-scalable deep learning framework - 18/05/2022     
+https://attic.apache.org/projects/mxnet.html        
+
+### ❓❗ Algorithm for Recommendation        
+https://pypi.org/project/pysarplus/          
 
 
 ## ✨ repositories
@@ -137,6 +147,7 @@ https://pypi.org/project/pyroots/ -    single variable function solvers (roots)
 **https://pypi.org/project/sym/** - wrapper for symbolic manipulation libraries in Python               
 https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
 https://pypi.org/project/bcpseg - Bayesian Change Point Segmentation            
+https://pypi.org/project/equadratures  - Polynomial approximations         
 
 
 #### Solving problems from the video channels                  
@@ -187,6 +198,8 @@ https://pypi.org/project/causality - causal inference
 
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
+**https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
+
 https://pypi.org/project/abcpmc      
 https://pypi.org/project/bayes-tda/
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
@@ -194,6 +207,7 @@ https://pypi.org/project/naivebayesgauss/
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 https://pypi.org/project/suftware - implementation of Bayesian Field Theory algorithms for low-dimensional statistical inference
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
+https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
 
 
 
@@ -217,6 +231,9 @@ https://pypi.org/project/FDGPU - inite difference derivatives in any number of d
 https://pypi.org/project/finitediff - Finite difference weights for any derivative order on arbitrarily spaced grids        
 https://pypi.org/project/desolver - Differential Equation System Solver        
 https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions          
+
+https://pypi.org/project/bquadpy - Numerical integration, quadrature for various domains - 
+
 
 
 
@@ -282,6 +299,7 @@ https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprog
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
 https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods  
 https://pypi.org/project/regressions - Generates statistical regression models for data sets         
+https://pypi.org/project/rfcorr - Random Forest-inspired correlation/dependence methods -  Звёзд: 14 - 03/05/2022       
 
 
 
@@ -446,6 +464,11 @@ https://pypi.org/project/paper-network - random networks
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs          
 https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time Series Data on Complex Networks           
 https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
+https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звёзд: 33           
+
+### 🌳 Tree 
+https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
+https://pypi.org/project/c45-decision-tree  12/07/2023 
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
@@ -459,6 +482,9 @@ https://pypi.org/project/dicetables
 ## 🎡 Dynamic systems    
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
+https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems                
+https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
+
 
 
 https://pypi.org/project/apecosm  
