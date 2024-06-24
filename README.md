@@ -2,18 +2,24 @@
 Small and not only small mathematical problems on Python             
 
 
-## 🚗 ML / DL / AI / DS                     
+## 🚗 ML / DL / AI / DS      
+https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51          
+https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3       
+
 https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022
 https://pypi.org/project/xmos-ai-tools-beta 20/03/2022
 https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022           
 
+https://pypi.org/project/wnetron - Viewer for neural network, deep learning, and machine learning models -  Звёзд: 26688       
 
 https://pypi.org/project/cauldron-notebook -  Data Analysis Environment  01/04/2022     
 https://pypi.org/project/diffsort - Differentiable Sorting Networks - 22/03/2022           
 https://pypi.org/project/recsim-ng - https://pypi.org/project/recsim-ng -  Звёзд: 115        
 https://pypi.org/project/occamypy - Object-Oriented Optimization Framework for Large-Scale Inverse Problems -  Звёзд: 55  
 
-https://pypi.org/project/mxnet -  ultra-scalable deep learning framework - 18/05/2022     
+https://pypi.org/project/vulpes - classification, regression models and clustering algorithms           
+https://github.com/waikato-ufdl -  Deep Learning at the University of Waikato, NZ                
+https://pypi.org/project/mxnet -  ultra-scalable deep learning framework - 18/05/2022        
 https://attic.apache.org/projects/mxnet.html        
 
 ### ❓❗ Algorithm for Recommendation        
@@ -114,8 +120,10 @@ https://pypi.org/project/gaussianprimes - Generate Gaussian primes
 https://pypi.org/project/trprimes       
 https://pypi.org/project/pyunionfind - A union-find disjoint sets data structure            
 https://pypi.org/project/primefac - factoring integers into primes     
+https://pypi.org/project/primegenerator 
 
 ### 🌌 Random data
+**https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437             
 https://pypi.org/project/pyrandwalk -  Random Walks           
 **https://pypi.org/project/SyncRNG** - Generate the same random numbers in R and Python - Звёзд: 19            
 
@@ -194,7 +202,8 @@ https://pypi.org/project/benfordviz
 https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
 **https://pypi.org/project/powerlaw** -  Analysis of Heavy-Tailed Distributions           
 https://pypi.org/project/applied-stats - compute MLEs / probabilities         
-https://pypi.org/project/causality - causal inference     
+https://pypi.org/project/causality - causal inference
+https://pypi.org/project/wasserstein - Wasserstein distances - https://en.wikipedia.org/wiki/Wasserstein_metric            
 
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
@@ -267,6 +276,7 @@ https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimi
 https://pypi.org/project/gaussian-proc - Gaussian process regression     
 https://pypi.org/project/cyclicbm - Cyclic Boosting         
 https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
+https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 
 ### ❄️ Clustering 
 https://pypi.org/project/fastcluster - Fast hierarchical clustering routines for R and Python
@@ -342,7 +352,9 @@ https://github.com/quantopian/pyfolio
 https://github.com/quantopian/empyrical -  financial risk metrics          
 https://pypi.org/project/beacon-trellis          
 https://pypi.org/project/trapeza - financial transactions and trading                         
-### Enegy
+https://pypi.org/project/pqr - backtesting factor strategies        
+
+### Energy
 https://pypi.org/project/aristop - optimization of energy systems             
 
 
@@ -363,6 +375,7 @@ https://pypi.org/project/stsb2 - **structural time series grammar and models**
 https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers           
 https://pypi.org/project/pecuzal-embedding - PECUZAL automatic embedding of uni- and multivariate time series           
 https://pypi.org/project/csaps - Cubic spline approximation (smoothing)       
+https://pypi.org/project/alexandria-python -  Bayesian time-series econometrics applications             
 
 https://pypi.org/project/chainfix -  data types for signal processing and blockchain applications     
 https://pypi.org/project/timexseries-clustering/ - time-series-clustering      
@@ -408,6 +421,13 @@ https://pypi.org/project/ounce/ - manipulating units of measure
 https://pypi.org/project/kanonpy - History of astronomy library                
 https://pypi.org/project/Unum - Units in Python          
 
+## 🌏 GeoPhysics / Geology / Mining           
+https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
+https://pypi.org/project/dcf -  generating discounted cashflows 
+
+### 🔱 Hydrological model    
+https://mhm-ufz.org/
+https://pypi.org/project/basinex 
 
 
 ## 📏 Geometry 🌑                      
@@ -465,6 +485,7 @@ https://pypi.org/project/viridicle - Fast stochastic ecological simulations on g
 https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time Series Data on Complex Networks           
 https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
 https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звёзд: 33           
+https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
 
 ### 🌳 Tree 
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
