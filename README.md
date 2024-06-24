@@ -2,10 +2,11 @@
 Small and not only small mathematical problems on Python             
 
 
-## 🚗 ML / DL/ AI             
+## 🚗 ML / DL / AI / DS                     
 https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022
 https://pypi.org/project/xmos-ai-tools-beta 20/03/2022
 https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022           
+https://pypi.org/project/cauldron-notebook -  Data Analysis Environment  01/04/2022            
 
 
 
@@ -192,6 +193,9 @@ https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing
 https://pypi.org/project/naivebayesgauss/   
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 https://pypi.org/project/suftware - implementation of Bayesian Field Theory algorithms for low-dimensional statistical inference
+https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
+
+
 
 
 
@@ -268,6 +272,8 @@ https://pypi.org/project/dfoalgos
 https://pypi.org/project/SQSnobFit/       
 https://pypi.org/project/SQImFil/      
 https://github.com/mjhough/dfo_alg       
+https://pypi.org/project/directsearch -  A derivative-free solver for unconstrained minimization
+
 
 ### 💢 Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
@@ -342,6 +348,7 @@ https://pypi.org/project/csaps - Cubic spline approximation (smoothing)
 
 https://pypi.org/project/chainfix -  data types for signal processing and blockchain applications     
 https://pypi.org/project/timexseries-clustering/ - time-series-clustering      
+https://pypi.org/project/nsgt - Non-Stationary Gabor Transform (NSGT) https://grrrr.org/research/software/nsgt/       https://en.wikipedia.org/wiki/Gabor_transform             
 
 ## ✳️ Maps / Images / Tomography         
 https://pypi.org/search/?q=SIFT     
