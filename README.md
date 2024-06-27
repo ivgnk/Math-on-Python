@@ -24,7 +24,11 @@ https://github.com/waikato-ufdl -  Deep Learning at the University of Waikato, N
 https://pypi.org/project/mxnet -  ultra-scalable deep learning framework - 18/05/2022        
 https://attic.apache.org/projects/mxnet.html        
 https://pypi.org/project/model-card-toolkit - Звёзд: 409          
-https://pypi.org/project/whispercpp - Port of OpenAI's Whisper model - Звёзд: 313                
+https://pypi.org/project/whispercpp - Port of OpenAI's Whisper model - Звёзд: 313  
+https://pypi.org/project/imbalance-metrics 
+
+### 🔥 Generative               
+https://pypi.org/project/discoart - Звёзд: 3835               
 
 
 ## Tools for / DL / AI / DS      
@@ -34,7 +38,8 @@ https://pypi.org/project/scikit-ntk -  neural tangent kernel for scikit-learn's 
 
 ### ❓❗ Algorithm for Recommendation   
 **https://pypi.org/search/?q=Algorithm+for+Recommendation**
-https://pypi.org/project/pysarplus/          
+https://pypi.org/project/pysarplus/       
+https://pypi.org/project/obp - Звёзд: 624             
 
 
 ## ✨ repositories
@@ -232,6 +237,7 @@ https://github.com/scaomath/galerkin-transformer - Звёзд: 211
 https://pypi.org/project/elvet - neural network-based differential equation and variational problem solver
 https://pypi.org/project/gradgen - Gradient computation 
 https://pypi.org/project/nssvie - Numerical solution of stochastic Volterra integral equations            
+https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation 
 
 ## 📊📊 Statistics / Regression                   
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
@@ -386,10 +392,11 @@ https://pypi.org/project/rfcorr - Random Forest-inspired correlation/dependence 
 
 
 
-### ⬇️ global minimum 
+### ⬇️ Global minimum / Global optimisation                   
 **https://pypi.org/project/cma/** -  Covariance Matrix Adaptation Evolution Strategy for non-linear numerical optimization in Python - Звёзд: 1046      
 https://pypi.org/project/tgo - Finds the global minimum           
-https://pypi.org/project/organisms         
+https://pypi.org/project/organisms  
+https://pypi.org/project/shgo/
 
 ## ♏ Cellular Automata /  finite state machines           
 https://pypi.org/project/GameOfLife (GOL)                       
@@ -503,6 +510,8 @@ https://pypi.org/project/topopy - computing topological data structures - Звё
 
 
 ## ⚡ Physics  
+https://pypi.org/project/refidx - Refractive index database                   
+
 ### 1️⃣ Units 
 https://pypi.org/project/unitcalc/
 https://pypi.org/project/ounce/ - manipulating units of measure        
@@ -511,7 +520,14 @@ https://pypi.org/project/Unum - Units in Python
 https://pypi.org/project/measurement/
 https://pypi.org/project/totemp - Temperature Converter          
 
-### 🌏🌏🌏 GeoPhysics / Geology / Mining           
+### 🌏🌏🌏 GeoPhysics / Geology / Mining
+**https://geostat-framework.org/** - geo-statistical model with Python          
+1) https://github.com/GeoStat-Framework/GSTools - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more -  529 stars        
+2) **https://www.opengeosys.org** - numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media       
+https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
+3) https://github.com/GeoStat-Framework/AnaFlow - analytical and semi-analytical solutions for the groundwater-flow equation             
+4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns                
+
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
