@@ -146,8 +146,12 @@ https://pypi.org/project/find-primes -  find primes and factors of big numbers
 
 https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
 
-### 🌌 Random data
-**https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437             
+### 🌌 Random data / Stochastic processes
+**https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437              
+https://github.com/StochSS - Stochastic Simulation Service             
+https://pypi.org/project/stochss-compute          
+
+
 https://pypi.org/project/pyrandwalk -  Random Walks           
 **https://pypi.org/project/SyncRNG** - Generate the same random numbers in R and Python - Звёзд: 19            
 https://pypi.org/project/pyrandvec - Generate random vectors whose components sum up to one              
@@ -204,6 +208,7 @@ _**https://github.com/bjodah/pyneqsys - solving non-linear equation systems from
 #### Propagate uncertainty in calculations
 https://pypi.org/project/uncvalue/
 
+
 ### As itertools
 **https://pypi.org/project/more-itertools**
 https://pypi.org/project/a-pandas-ex-combinatoric-iterators-to-df/
@@ -238,6 +243,8 @@ https://pypi.org/project/elvet - neural network-based differential equation and 
 https://pypi.org/project/gradgen - Gradient computation 
 https://pypi.org/project/nssvie - Numerical solution of stochastic Volterra integral equations            
 https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation 
+https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive Multi-dimensional Integration - 4 stars              
+
 
 ## 📊📊 Statistics / Regression                   
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
@@ -271,6 +278,8 @@ https://pypi.org/project/skm-pyutils/
 
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
+https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty              
+https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods        
 
 
 
@@ -295,6 +304,9 @@ https://pypi.org/project/suftware - implementation of Bayesian Field Theory algo
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
 https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
+https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution 
+
+
 
 ### Queueing theory / Теория массового обслуживания        
 https://pypi.org/project/queueing-tool -  Звёзд: 63 
@@ -329,6 +341,7 @@ https://pypi.org/project/benchmark-functions/ - benchmark functions collection  
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 **https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox          
 https://pypi.org/project/lightgbm-tools 
+https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 
 https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
@@ -470,8 +483,9 @@ https://pypi.org/project/nsgt - Non-Stationary Gabor Transform (NSGT) https://gr
 https://pypi.org/project/pydaddy - analyse stochastic time series data
 https://pypi.org/project/bm4d - BM4D denoising         
 https://pypi.org/project/derrom -  to perform computationally efficient regression on high-dimensional time-series data -  Звёзд: 6                      
+https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation - Звёзд: 18                        
 
-## ✳️ Maps / Images / Tomography  / Topology       
+## ✳️ Maps / Images / Tomography  / Topology / Meshs       
 https://pypi.org/search/?q=SIFT     
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
 **https://pypi.org/project/pygalmesh/** - Create high-quality meshes            
@@ -494,8 +508,13 @@ https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis 
 https://pypi.org/project/pywoc - 2-D comparison           
 https://pypi.org/project/fast-barnes-py -  fast Barnes interpolation to remodel data values recorded at irregularly distributed points into a representative analytical field - Звёзд: 28      
 https://pypi.org/project/paddleseg - image segmentation          
-https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
+https://pypi.org/project/polygone-nms/ - polygon Non-Maximum Suppression (NMS) (computer vision method)             
+https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation - Звёзд: 18             
 
+### 💮 Meshs
+https://pypi.org/project/pymedit           
+https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
+https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 
 ### Image background remover                
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
@@ -600,6 +619,8 @@ https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звё
 https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
 **https://pypi.org/project/graph-theory/** - Звёзд: 81
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
+https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11                 
+https://pypi.org/project/pygraphia           
 
 ### 🌳 Tree 
 https://pypi.org/project/py-itree - A Interval Tree Library - Звёзд: 12
@@ -623,6 +644,10 @@ https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабири
 ## 🎡 Dynamic systems    
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
 **https://pypi.org/project/pysindy/** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351               
+https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
+https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
+https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5              
+
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems                
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
