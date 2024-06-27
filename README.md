@@ -1,3 +1,5 @@
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=70
+
 # Math             
 Small and not only small mathematical problems on Python             
 
@@ -78,6 +80,7 @@ https://github.com/LLNL/sundials/releases**
 https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 **https://tulip.labri.fr/site/** - information visualization framework dedicated to the analysis and visualization of relational data            
 **http://www.deltares.nl/en/software/rtc-tools/** - hydro models         
+**https://www.decision-deck.org/project/** -  Open Source software tools to support the Multi-Criteria Decision Aiding (MCDA)               
 
 ## testing the operation of functions from scipy.optimize                 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **Testing of optimization functions is necessary                      
@@ -99,11 +102,13 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
 # 🏠 PyPi                                  
 ## ♏ Algo & Structurs collections   
-### :J::A::X: JAX                 
+### JAX                 
 **https://pypi.org/project/jax** - Differentiate, compile, and transform Numpy code - Звёзд: 28984
 **https://github.com/google/jax** - Composable transformations of Python+NumPy programs: differentiate, vectorize and more - 29k stars                
 **https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900 
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX
+
+https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
 https://pypi.org/project/mathpy                    
 https://github.com/mauriceling/copads         
@@ -246,6 +251,8 @@ https://pypi.org/project/seqgentools/
 ## 🎩 ODE / PDE / SDE /  derivatives / integrals   
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
+**https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
+
 https://pypi.org/project/gwr-inversion                     
 https://github.com/JoshKarpel/idesolver     
 https://pypi.org/project/differint -  Звёзд: 50
@@ -311,6 +318,9 @@ https://pypi.org/project/causality - causal inference
 https://pypi.org/project/wasserstein - Wasserstein distances - https://en.wikipedia.org/wiki/Wasserstein_metric            
 https://pypi.org/project/skm-pyutils/
 https://pypi.org/project/lmoments3 -  L-moments to calculate optimal parameters for a number of distributions - Звёзд: 6       
+https://pypi.org/project/CausalDisco - Causal Discovery
+https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCDA is a data standard which allows to represent MultiCriteria Decision Analysis (MCDA) data elements in XML according to a clearly defined grammar    
+ 
 
 
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
