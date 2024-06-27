@@ -3,6 +3,7 @@ Small and not only small mathematical problems on Python
 
 
 ## 🚗 ML / DL / AI / DS      
+**https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726             
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
 https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
@@ -308,6 +309,7 @@ https://pypi.org/project/difftopk - Differentiable Sorting, Ranking, and Top-k /
 ## 🎬 Optimization / Fitting  
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
+**https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment           
 
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
@@ -484,6 +486,9 @@ https://pypi.org/project/pycontour -  2D Contour Processing
 https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis and Testing in Python - A collection of scalar functions       
 https://pypi.org/project/pywoc - 2-D comparison           
 https://pypi.org/project/fast-barnes-py -  fast Barnes interpolation to remodel data values recorded at irregularly distributed points into a representative analytical field - Звёзд: 28      
+https://pypi.org/project/paddleseg - image segmentation          
+https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
+
 
 ### Image background remover                
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
@@ -581,6 +586,9 @@ https://pypi.org/project/emgraph/ - graph representation learning (graph embeddi
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
 
 ### 🌳 Tree 
+https://pypi.org/project/py-itree - A Interval Tree Library - Звёзд: 12
+
+
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
 https://pypi.org/project/c45-decision-tree  12/07/2023 
 https://pypi.org/project/dm-tree -  library for working with nested data structures -  921 stars               
@@ -598,6 +606,7 @@ https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабири
 
 ## 🎡 Dynamic systems    
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
+**https://pypi.org/project/pysindy/** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351               
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems                
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
