@@ -98,7 +98,13 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
 # 🏠 PyPi                                  
-## ♏ Algo & Structurs collections                   
+## ♏ Algo & Structurs collections   
+### :J::A::X: JAX                 
+**https://pypi.org/project/jax** - Differentiate, compile, and transform Numpy code - Звёзд: 28984
+**https://github.com/google/jax** - Composable transformations of Python+NumPy programs: differentiate, vectorize and more - 29k stars                
+**https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900 
+https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX
+
 https://pypi.org/project/mathpy                    
 https://github.com/mauriceling/copads         
 https://github.com/whym1here/Algopylib               
@@ -134,6 +140,7 @@ https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures
 
 ## 🔢 Number theory
 **https://pypi.org/project/libnum - Working with numbers (primes, modular, etc.)**           
+**https://pypi.org/project/nzmath/** - number theory oriented calculation system - **https://nzmath.sourceforge.io**                   
 https://pypi.org/project/more-itertools                  
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
 https://pypi.org/project/aznt/    
