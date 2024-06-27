@@ -22,6 +22,9 @@ https://pypi.org/project/vulpes - classification, regression models and clusteri
 https://github.com/waikato-ufdl -  Deep Learning at the University of Waikato, NZ                
 https://pypi.org/project/mxnet -  ultra-scalable deep learning framework - 18/05/2022        
 https://attic.apache.org/projects/mxnet.html        
+https://pypi.org/project/model-card-toolkit - Звёзд: 409          
+https://pypi.org/project/whispercpp - Port of OpenAI's Whisper model - Звёзд: 313                
+
 
 ## Tools for / DL / AI / DS      
 ### sci-kit learn
@@ -57,6 +60,7 @@ https://github.com/LLNL/sundials/releases**
 **https://www.pyomo.org**
 **https://www.dagitty.net** - draw and analyze causal diagrams             
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
+**https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
 
 
 ## testing the operation of functions from scipy.optimize                 
@@ -89,6 +93,10 @@ https://pypi.org/project/jheaps - various heap implementations
 https://pypi.org/project/polyrat - Polynomial and rational function library           
 https://github.com/discretegames/DSAs - sorting      
 https://pypi.org/project/cog-suspect/ - Special Structure Detection          
+https://pypi.org/project/openmtpk -  Numbery Theory and Cryptographic algorithms, Linear Algebra, and Machine/Deep learning - 8 stars             
+https://pypi.org/project/athena-mathlab -  reduction of high dimensional parameter spaces in the context of numerical analysis. It allows the use of several dimensionality reduction techniques such as Active Subspaces (AS), Kernel-based Active Subspaces (KAS), and Nonlinear Level-set Learning (NLL) - Звёзд: 50            
+
+
 
 ### ◀️Numeric intervals▶️
 **https://pypi.org/project/portion/** - Data structure and operations for intervals
@@ -128,12 +136,15 @@ https://pypi.org/project/trprimes
 https://pypi.org/project/pyunionfind - A union-find disjoint sets data structure            
 https://pypi.org/project/primefac - factoring integers into primes     
 https://pypi.org/project/primegenerator 
+https://pypi.org/project/find-primes -  find primes and factors of big numbers                
+
+https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
 
 ### 🌌 Random data
 **https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437             
 https://pypi.org/project/pyrandwalk -  Random Walks           
 **https://pypi.org/project/SyncRNG** - Generate the same random numbers in R and Python - Звёзд: 19            
-
+https://pypi.org/project/pyrandvec - Generate random vectors whose components sum up to one              
 
 https://pypi.org/project/codeviking.random -  random number generators with many useful random number generation methods      
 
@@ -219,6 +230,7 @@ https://pypi.org/project/pinns - Solve differntial equations using neural networ
 https://github.com/scaomath/galerkin-transformer - Звёзд: 211          
 https://pypi.org/project/elvet - neural network-based differential equation and variational problem solver
 https://pypi.org/project/gradgen - Gradient computation 
+https://pypi.org/project/nssvie - Numerical solution of stochastic Volterra integral equations            
 
 ## 📊📊 Statistics / Regression                   
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
@@ -275,6 +287,7 @@ https://pypi.org/project/naivebayesgauss/
 https://pypi.org/project/suftware - implementation of Bayesian Field Theory algorithms for low-dimensional statistical inference
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
+https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
 
 ### Queueing theory / Теория массового обслуживания        
 https://pypi.org/project/queueing-tool -  Звёзд: 63 
@@ -316,7 +329,6 @@ https://pypi.org/project/pyeq2/
 https://pypi.org/project/DFOGN/
 https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
-https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/smogn/    
 https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms      
 https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization          
@@ -324,7 +336,6 @@ https://pypi.org/project/peerless
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 https://pypi.org/project/sqnomad -     
-https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
 https://pypi.org/project/cyclicbm - Cyclic Boosting         
 https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
@@ -332,8 +343,14 @@ https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods�
 https://pypi.org/project/aeecde - Adaptive Differential Evolution      
 https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
 https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization algorithm -  Звёзд: 12          
+https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Framework)  domains for 2D grid worlds -  4 stars                  
+https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
+https://pypi.org/project/PICOS - interface to conic optimization solvers                
 
-
+### Linear programming             
+**https://pypi.org/project/lippy** -  Звёзд: 18           
+https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
+https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 
 ### 🐝 Particle Swarm Optimization 🐜                       
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
@@ -389,6 +406,8 @@ https://pypi.org/project/pyemma - Emma's Markov Model Algorithms
 https://pypi.org/project/zeus-mcmc/ - zeus: Lightning Fast MCMC -  Звёзд: 219       
 https://pypi.org/project/kratosmultilevelmontecarloapplication/ - MultilevelMonteCarloApplication provides different algorithms,                      
 belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest.               
+https://pypi.org/project/kratosmultilevelmontecarloapplication - MultilevelMonteCarloApplication provides different algorithms, belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest       
+
 
 ## 🎨 Particle simulation                    
 https://github.com/simon-r/PyParticles 
@@ -440,9 +459,10 @@ https://pypi.org/project/timexseries-clustering/ - time-series-clustering
 https://pypi.org/project/nsgt - Non-Stationary Gabor Transform (NSGT) https://grrrr.org/research/software/nsgt/       https://en.wikipedia.org/wiki/Gabor_transform             
 
 https://pypi.org/project/pydaddy - analyse stochastic time series data
-https://pypi.org/project/bm4d - BM4D denoising           
+https://pypi.org/project/bm4d - BM4D denoising         
+https://pypi.org/project/derrom -  to perform computationally efficient regression on high-dimensional time-series data -  Звёзд: 6                      
 
-## ✳️ Maps / Images / Tomography         
+## ✳️ Maps / Images / Tomography  / Topology       
 https://pypi.org/search/?q=SIFT     
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
 **https://pypi.org/project/pygalmesh/** - Create high-quality meshes            
@@ -451,7 +471,6 @@ https://github.com/je-c/pixel_reshaper - A package to structure and convert imag
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
 https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
 **https://github.com/lightly-ai/lightly** - self-supervised learning on images                
-**https://pypi.org/project/scikit-tda/** - Topological Data Analysis for humans        
 https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer          
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
@@ -463,9 +482,19 @@ https://pypi.org/project/pftracker - Face tracking based on particle filter
 
 https://pypi.org/project/pycontour -  2D Contour Processing       
 https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis and Testing in Python - A collection of scalar functions       
-https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20        
 https://pypi.org/project/pywoc - 2-D comparison           
 https://pypi.org/project/fast-barnes-py -  fast Barnes interpolation to remodel data values recorded at irregularly distributed points into a representative analytical field - Звёзд: 28      
+
+### Image background remover                
+https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
+https://pypi.org/project/iremover/          
+
+
+### 🎀 Topology       
+**https://ya.ru/search/?text=use+of+topological+methods+in+geology+and+geophysics**                       
+https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io                          
+https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
+**https://pypi.org/project/scikit-tda/** - Topological Data Analysis for humans        
 
 
 ## ⚡ Physics  
@@ -558,10 +587,12 @@ https://pypi.org/project/dm-tree -  library for working with nested data structu
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
+https://pypi.org/project/GameOfLife (GOL)      
 https://pypi.org/project/TicTacToe3/
 
 https://pypi.org/project/opener - Solve open the lock puzzle            
 https://pypi.org/project/dicetables
+https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
 
 
