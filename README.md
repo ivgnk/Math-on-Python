@@ -26,7 +26,11 @@ https://attic.apache.org/projects/mxnet.html
 https://pypi.org/project/model-card-toolkit - Звёзд: 409          
 https://pypi.org/project/whispercpp - Port of OpenAI's Whisper model - Звёзд: 313  
 https://pypi.org/project/imbalance-metrics 
-**https://pypi.org/project/pycm/** -  Звёзд: 1438               
+**https://pypi.org/project/pycm/** -  Звёзд: 1438   
+https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
+https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Library for Training Binarized Neural Networks            
+
+
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
@@ -72,6 +76,8 @@ https://github.com/LLNL/sundials/releases**
 **https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
 **https://github.com/sigma-py** - collection of Python libraries and command-line tools for mathematical applications             
 https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
+**https://tulip.labri.fr/site/** - information visualization framework dedicated to the analysis and visualization of relational data            
+**http://www.deltares.nl/en/software/rtc-tools/** - hydro models         
 
 ## testing the operation of functions from scipy.optimize                 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **Testing of optimization functions is necessary                      
@@ -297,6 +303,8 @@ https://pypi.org/project/applied-stats - compute MLEs / probabilities
 https://pypi.org/project/causality - causal inference
 https://pypi.org/project/wasserstein - Wasserstein distances - https://en.wikipedia.org/wiki/Wasserstein_metric            
 https://pypi.org/project/skm-pyutils/
+https://pypi.org/project/lmoments3 -  L-moments to calculate optimal parameters for a number of distributions - Звёзд: 6       
+
 
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
@@ -327,6 +335,9 @@ https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statist
 https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
 https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
 https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution 
+https://pypi.org/project/modularbayes - Modular Bayesian Inference       
+
+
 
 
 
@@ -364,6 +375,7 @@ https://pypi.org/project/benchmark-functions/ - benchmark functions collection  
 https://pypi.org/project/lightgbm-tools 
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
+https://pypi.org/project/gpcg - conjugate gradient algorithm (GPCG) for solving bound-constrained quadratic programs - Звёзд: 3             
 
 https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
@@ -466,7 +478,9 @@ https://pypi.org/project/cromosim/
 https://pypi.org/project/CubeFlow
 https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
-## 💰 Quantitative Finance                      
+## 💰 Quantitative Finance          
+**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480           
+
 https://github.com/quantmind                          
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
@@ -538,6 +552,12 @@ https://pypi.org/project/paddleseg - image segmentation
 https://pypi.org/project/polygone-nms/ - polygon Non-Maximum Suppression (NMS) (computer vision method)             
 https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation - Звёзд: 18             
 https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд: 114           
+https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёзд: 114           
+https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22          
+
+
+
+
 
 ### 💮 Meshs / 2D / 3D 
 **https://webpages.tuni.fi/foi**              
@@ -583,7 +603,9 @@ https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 3) https://github.com/GeoStat-Framework/AnaFlow - analytical and semi-analytical solutions for the groundwater-flow equation             
 4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns                
 
-**https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12                                     
+**https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12             
+**https://pypi.org/project/multipoles/** - multipole expansions of electrostatic or gravitational potentials - Звёзд: 37             
+
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
@@ -591,9 +613,11 @@ https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element s
 **https://github.com/geoscixyz/geosci-labs**          
 
 
-### 🔱 Hydrological model    
+### 🔱 Hydro(logical( model    
 https://mhm-ufz.org/
 https://pypi.org/project/basinex 
+https://pypi.org/project/rtc-tools-hydraulic-structures - Hydraulic structures models for RTC-Tools 2.
+
 
 ### ♒ Waves              
 https://pypi.org/project/wafo (2006)         
@@ -633,6 +657,11 @@ https://pypi.org/project/svgpathtools -  manipulating and analyzing SVG Path obj
 **https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree
 https://pypi.org/project/grapharray -  for treating arrays defined on a network, which allows for fast computation and easy visualization           
 **https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                    
+**https://pypi.org/project/tulip-python/** - Large graphs analysis and drawing - **https://tulip.labri.fr/site/**
+https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
+
+
+
 
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
@@ -685,6 +714,9 @@ https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабири
 https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
 https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
 https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5              
+https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics 
+
+
 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems                
