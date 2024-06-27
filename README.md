@@ -192,9 +192,18 @@ https://pypi.org/project/clifford - Numerical Geometric Algebra Module
 https://pypi.org/project/bcpseg - Bayesian Change Point Segmentation            
 https://pypi.org/project/equadratures  - Polynomial approximations         
 https://pypi.org/project/cardano-method -  cubic equation solver       
-https://github.com/stephenhky/MoguNumerics - Exponential and sigmoid curve fitting; Dynamic programming: Damerau-Levenshtein distance; Topological data analysis; Multivariate Gaussian distribution sampling; Probability crosswalk;                 
+https://github.com/stephenhky/MoguNumerics - Exponential and sigmoid curve fitting; Dynamic programming: Damerau-Levenshtein distance; Topological data analysis; Multivariate Gaussian distribution sampling; Probability crosswalk;               
+https://pypi.org/project/cy-root -  multiple root-finding methods - Звёзд: 21            
+
 https://pypi.org/project/samply - computing samplings in arbitrary dimensions
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124           
+https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
+
+
+https://pypi.org/project/neumann -  Applied Mathematics in Physical Sciences: Linear Algebra, solve linear and nonlinear optimization problems, Graph Theory             
+https://pypi.org/project/BNumMet - Linear Systems, Interpolation, Non-Linear, Randomness, Visualizers              
+https://pypi.org/project/cypari -  computer algebra system for number theory computations                
+
 
 
 #### Solving problems from the video channels                  
@@ -364,6 +373,7 @@ https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods�
 https://pypi.org/project/aeecde - Adaptive Differential Evolution      
 https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
 https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization algorithm -  Звёзд: 12          
+**https://pypi.org/project/opof/**
 https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Framework)  domains for 2D grid worlds -  4 stars                  
 https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
 https://pypi.org/project/PICOS - interface to conic optimization solvers                
@@ -510,11 +520,14 @@ https://pypi.org/project/fast-barnes-py -  fast Barnes interpolation to remodel 
 https://pypi.org/project/paddleseg - image segmentation          
 https://pypi.org/project/polygone-nms/ - polygon Non-Maximum Suppression (NMS) (computer vision method)             
 https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation - Звёзд: 18             
+https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд: 114           
 
-### 💮 Meshs
+### 💮 Meshs / 2D / 3D 
+**https://webpages.tuni.fi/foi**              
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
+https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
 
 ### Image background remover                
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
@@ -587,6 +600,7 @@ https://pypi.org/project/beizer-curves - or generating beizer curves
 https://pypi.org/project/polliwog - 2D and 3D computational geometry library       
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language         
 https://pypi.org/project/PyAbel - forward and inverse Abel transforms - Звёзд: 91          
+https://pypi.org/project/svgpathtools -  manipulating and analyzing SVG Path objects and Bezier curves - Звёзд: 530                           
 
     
 ## ☸️ Networks / Graphs / Tree              
