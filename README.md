@@ -67,7 +67,7 @@ https://github.com/LLNL/sundials/releases**
 **https://www.dagitty.net** - draw and analyze causal diagrams             
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
 **https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
-
+**https://github.com/sigma-py** - collection of Python libraries and command-line tools for mathematical applications             
 
 ## testing the operation of functions from scipy.optimize                 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **Testing of optimization functions is necessary                      
@@ -231,6 +231,8 @@ https://pypi.org/project/seqgentools/
 https://pypi.org/project/gwr-inversion                     
 https://github.com/JoshKarpel/idesolver     
 https://pypi.org/project/differint -  Звёзд: 50
+https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
+
 
 https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
@@ -253,6 +255,7 @@ https://pypi.org/project/gradgen - Gradient computation
 https://pypi.org/project/nssvie - Numerical solution of stochastic Volterra integral equations            
 https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation 
 https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive Multi-dimensional Integration - 4 stars              
+**https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 
 
 ## 📊📊 Statistics / Regression                   
@@ -270,7 +273,9 @@ https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%2
 https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution functions          
 **https://pypi.org/project/boisgera-pioupiou/** - A nano probabilistic programming language for Python            
 https://pypi.org/project/causaldag/
+https://pypi.org/project/pdlpy - Probability Distribution Library
 
+https://pypi.org/project/distribution-algebra -  random variables, statistical distributions, and their algebra            
 **https://pypi.org/project/gsa-framework/** - Generic framework for global sensitivity analysis            
 https://pypi.org/project/pysloth - Probabilistic Predictions              
 **https://pypi.org/project/abracadabra** -  Making hypothesis and AB testing magically simple!          
@@ -439,6 +444,7 @@ https://pypi.org/project/zeus-mcmc/ - zeus: Lightning Fast MCMC -  Звёзд: 2
 https://pypi.org/project/kratosmultilevelmontecarloapplication/ - MultilevelMonteCarloApplication provides different algorithms,                      
 belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest.               
 https://pypi.org/project/kratosmultilevelmontecarloapplication - MultilevelMonteCarloApplication provides different algorithms, belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest       
+https://pypi.org/project/control-vegas/ - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas            
 
 
 ## 🎨 Particle simulation                    
@@ -560,6 +566,7 @@ https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 3) https://github.com/GeoStat-Framework/AnaFlow - analytical and semi-analytical solutions for the groundwater-flow equation             
 4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns                
 
+**https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12                                     
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
