@@ -26,9 +26,12 @@ https://attic.apache.org/projects/mxnet.html
 https://pypi.org/project/model-card-toolkit - Звёзд: 409          
 https://pypi.org/project/whispercpp - Port of OpenAI's Whisper model - Звёзд: 313  
 https://pypi.org/project/imbalance-metrics 
+**https://pypi.org/project/pycm/** -  Звёзд: 1438               
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
+https://pypi.org/project/torch-dreams- Звёзд: 237             
+https://pypi.org/project/pymuco - Music Computation Library - https://pymuco.org            
 
 
 ## Tools for / DL / AI / DS      
@@ -68,6 +71,7 @@ https://github.com/LLNL/sundials/releases**
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
 **https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
 **https://github.com/sigma-py** - collection of Python libraries and command-line tools for mathematical applications             
+https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 
 ## testing the operation of functions from scipy.optimize                 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **Testing of optimization functions is necessary                      
@@ -126,6 +130,7 @@ https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures
 **https://pypi.org/project/libnum - Working with numbers (primes, modular, etc.)**           
 https://pypi.org/project/more-itertools                  
 https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
+https://pypi.org/project/aznt/    
 https://pypi.org/project/PyRival       
 https://pypi.org/project/PySieve      
 https://pypi.org/project/pyprimesieve         
@@ -232,7 +237,10 @@ https://pypi.org/project/gwr-inversion
 https://github.com/JoshKarpel/idesolver     
 https://pypi.org/project/differint -  Звёзд: 50
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
+https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
+https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37          
 
+ 
 
 https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
@@ -350,12 +358,12 @@ https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Pro
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/benchmark-functions/ - benchmark functions collection  for assessing the performances of optimisation problems on deterministic functions
-**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 **https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
 **https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox          
 https://pypi.org/project/lightgbm-tools 
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
+https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
 
 https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
@@ -399,7 +407,9 @@ https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Pytho
 https://pypi.org/project/ba-lorre -  Bees Algorithm based Local Optima Region Radius Extimator 
 
 
-### Derivative-free optimization           
+### Derivative-free optimization     
+**https://pypi.org/project/rbfopt/** -  black-box (derivative-free) optimization -  Звёзд: 189        
+**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 https://pypi.org/project/dfbgn              
 https://pypi.org/project/dfoalgos           
 https://pypi.org/project/SQSnobFit/       
@@ -445,6 +455,7 @@ https://pypi.org/project/kratosmultilevelmontecarloapplication/ - MultilevelMont
 belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest.               
 https://pypi.org/project/kratosmultilevelmontecarloapplication - MultilevelMonteCarloApplication provides different algorithms, belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest       
 https://pypi.org/project/control-vegas/ - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas            
+https://pypi.org/project/marchie - Analyzing Discrete Markov Chains         
 
 
 ## 🎨 Particle simulation                    
@@ -535,9 +546,10 @@ https://pypi.org/project/pyformex - create, transform, manipulate and render 3D 
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
 
-### Image background remover                
+### Images (Background remover/ Facial recognition)                          
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
 https://pypi.org/project/iremover/          
+**https://pypi.org/project/fer** - Facial expression recognition from images -  Звёзд: 326
 
 
 ### 🎀 Topology       
@@ -545,6 +557,11 @@ https://pypi.org/project/iremover/
 https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io                          
 https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
 **https://pypi.org/project/scikit-tda/** - Topological Data Analysis for humans        
+https://github.com/cwant/tessagon - Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns - 211 stars    
+
+**https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
+**https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
+https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 
 
 ## ⚡ Physics  
