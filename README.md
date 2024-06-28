@@ -801,50 +801,52 @@ https://pypi.org/project/polygon-contains-point -  checking if a polygon contain
 
     
 ## ☸️ Networks / Graphs / Tree              
-**https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
-**https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
-**https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree                
-https://pypi.org/project/grapharray -  for treating arrays defined on a network, which allows for fast computation and easy visualization           
-**https://pypi.org/project/tulip-python/** - Large graphs analysis and drawing - **https://tulip.labri.fr/site/**               
-https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
-
-https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
-https://pypi.org/project/graphblas-algorithms - Graph algorithms written in GraphBLAS and backend for NetworkX - Звёзд: 68
-https://pypi.org/project/pytoulbar2 - optimizer for cost function networks and discrete additive graphical models - https://github.com/toulbar2/toulbar2 - 51 stars            
-**https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                            
-https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19                    
-https://pypi.org/project/leafy - fast graph algorithms library - Звёзд: 17             
 
 https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. The grounded pipeline, introduced in [1], is a method for building stable, topological descriptors of weighted digraphs -  Звёзд: 3        
-
-
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
 https://pypi.org/project/paramnet       
 https://pypi.org/project/grinpy         
-https://pypi.org/project/stdog - Structure and Dynamics on Graphs      
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
-https://pypi.org/project/graspy/ - A set of python modules for graph statistics  
-https://pypi.org/project/jgrapht/               
-https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks        
-https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs            
-https://pypi.org/project/metagraph - Graph algorithm solver                  
-https://pypi.org/project/graphhierarchy/
-https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
+
 https://pypi.org/project/IdealFlowNetwork          
 https://pypi.org/project/paper-network - random networks           
-https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs          
 https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time Series Data on Complex Networks           
-https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
-https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звёзд: 33           
-https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
-**https://pypi.org/project/graph-theory/** - Звёзд: 81
+
+### ❇️❇️ Graphs       
+**https://pypi.org/project/BisPy_ - computation of the maximum bisimulation of directed graphs                        
+**https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
+**https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
+https://pypi.org/project/grapharray -  for treating arrays defined on a network, which allows for fast computation and easy visualization           
+**https://pypi.org/project/tulip-python/** - Large graphs analysis and drawing - **https://tulip.labri.fr/site/**               
+https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
+
+https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars       
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
-https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11                 
-https://pypi.org/project/pygraphia           
+https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
+https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks - Звёзд: 90
+**https://pypi.org/project/graph-theory/** - Звёзд: 81
+https://pypi.org/project/graphblas-algorithms - Graph algorithms written in GraphBLAS and backend for NetworkX - Звёзд: 68
+https://pypi.org/project/pytoulbar2 - optimizer for cost function networks and discrete additive graphical models - https://github.com/toulbar2/toulbar2 - 51 stars            
+**https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                            
+https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
+https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звёзд: 33     
+https://pypi.org/project/metagraph - Graph algorithm solver -  26 stars
+https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
+https://pypi.org/project/jgrapht - Звёзд: 22     
+https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19                    
+https://pypi.org/project/leafy - fast graph algorithms library - Звёзд: 17             
+https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11  
+https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t graphs (https://en.wikipedia.org/wiki/St-planar_graph) - Звёзд: 10 
+https://pypi.org/project/graphhierarchy -  Звёзд: 9 
+https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
+https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
+https://pypi.org/project/pygraphia - Звёзд: 0          
+https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs -  Звёзд: 0
 
 ### 🌳 Tree 
+**https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree                
 https://github.com/etetoolkit/ete - building, comparing, annotating, manipulating and visualising trees -  767 stars               
 https://pypi.org/project/py-itree - A Interval Tree Library - Звёзд: 12
 **https://pypi.org/project/mistree** - minimum spanning tree (MST), a graph constructed from a distribution of points, draws lines between pairs of points so that all points are linked in a single skeletal structure that contains no loops and has minimal total edge length - https://github.com/knaidoo29/mistree -  47 stars           
