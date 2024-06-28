@@ -479,25 +479,29 @@ https://pypi.org/project/ponio - numerical integrators for solve linear transpor
 https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 
 ### 🐝 Particle Swarm Optimization 🐜 (Evolutionary algorithms)                       
+**https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox -  2k stars         
+**https://pypi.org/project/pyswarms** - Звёзд: 1245
+**https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms -  Звёзд: 490       
+**https://pypi.org/project/mealpy** - Library for Latest Meta-heuristic Algorithms in Python - Звёзд: 816            
+https://pypi.org/project/pyswarm - Звёзд: 309            
+https://pypi.org/project/psopy - Звёзд: 35
+https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Python -  16 stars          
+https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm -  2 stars
+-- Differential Evolution
+https://pypi.org/project/aeecde - Adaptive Differential Evolution - Звёзд: 0     
+https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation -  Звёзд: 0       
+
+-- not github
+**https://pypi.org/project/ba-lorre** -  Bees Algorithm based Local Optima Region Radius Extimator 
+https://pypi.org/project/evoalgos - Modular evolutionary algorithms      
+https://pypi.org/project/bees-algorithm       
+
+
 ####  ✂️ Quality-Diversity
 **https://quality-diversity.github.io** - Quality-Diversity optimization (or illumination) is a new type of evolutionary algorithm that aims at generating large collections of diverse solutions that are all high-performing       
 https://quality-diversity.github.io/papers             
 https://members.loria.fr/JBMouret/qd.html             
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
-
-**https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
-https://pypi.org/project/pyswarm             
-https://pypi.org/project/pyswarms/
-https://pypi.org/project/psopy
-https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm.
-https://pypi.org/project/bees-algorithm/       
-https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Python           
-https://pypi.org/project/ba-lorre -  Bees Algorithm based Local Optima Region Radius Extimator 
-**https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox          
-https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms      
-https://pypi.org/project/aeecde - Adaptive Differential Evolution      
-https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
-
 
 ### Derivative-free optimization     
 **https://pypi.org/project/rbfopt/** -  black-box (derivative-free) optimization -  Звёзд: 189        
@@ -815,7 +819,7 @@ https://pypi.org/project/paper-network - random networks
 https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time Series Data on Complex Networks           
 
 ### ❇️❇️ Graphs       
-**https://pypi.org/project/BisPy_ - computation of the maximum bisimulation of directed graphs                        
+https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 **https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
 https://pypi.org/project/grapharray -  for treating arrays defined on a network, which allows for fast computation and easy visualization           
@@ -840,8 +844,10 @@ https://pypi.org/project/leafy - fast graph algorithms library - Звёзд: 17
 https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11  
 https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t graphs (https://en.wikipedia.org/wiki/St-planar_graph) - Звёзд: 10 
 https://pypi.org/project/graphhierarchy -  Звёзд: 9 
-https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
+https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
+
+https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1          
 https://pypi.org/project/pygraphia - Звёзд: 0          
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs -  Звёзд: 0
 
