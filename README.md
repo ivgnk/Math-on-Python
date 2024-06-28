@@ -224,25 +224,27 @@ https://pypi.org/project/comb-spec-searcher -  Звёзд: 11
 
 
 ### 📝 Calculation 
+**https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
+https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124           
+https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
+https://pypi.org/project/VISualMAth - Звёзд: 99                              
+https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
+https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21            
+https://pypi.org/project/cardano-method -  cubic equation solver -  0 stars      
+
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy       
 https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm              
-https://pypi.org/project/epicycler - Compute and draw epicycler in Python            
+         
 https://pypi.org/project/CROCpy3 - https://en.wikipedia.org/wiki/Receiver_operating_characteristic                    
 https://pypi.org/project/mathtoolspy - for mathematically operations, like integration, solver, distributions and other useful functions            
-https://pypi.org/project/VISualMAth                  
 https://pypi.org/project/pyroots/ -    single variable function solvers (roots)                  
 **https://pypi.org/project/sym/** - wrapper for symbolic manipulation libraries in Python               
 https://pypi.org/project/clifford - Numerical Geometric Algebra Module            
 https://pypi.org/project/bcpseg - Bayesian Change Point Segmentation            
-https://pypi.org/project/equadratures  - Polynomial approximations         
-https://pypi.org/project/cardano-method -  cubic equation solver       
 https://github.com/stephenhky/MoguNumerics - Exponential and sigmoid curve fitting; Dynamic programming: Damerau-Levenshtein distance; Topological data analysis; Multivariate Gaussian distribution sampling; Probability crosswalk;               
-https://pypi.org/project/cy-root -  multiple root-finding methods - Звёзд: 21            
 https://pypi.org/project/sigfig - rounding numbers (with expected results)           
 
 https://pypi.org/project/samply - computing samplings in arbitrary dimensions
-https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124           
-https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
 
 
 https://pypi.org/project/neumann -  Applied Mathematics in Physical Sciences: Linear Algebra, solve linear and nonlinear optimization problems, Graph Theory             
@@ -318,14 +320,11 @@ https://pypi.org/project/entropy-estimators - Estimators for entropy and other i
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
 https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars
 
-
-
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
 https://pypi.org/project/pysurvival            https://square.github.io/pysurvival                
 https://pypi.org/project/PyNonpar - Nonparametric Test Statistics       
 https://pypi.org/project/mgcpy/           https://mgc.neurodata.io          
-https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation
 https://pypi.org/project/distimate 
 https://pypi.org/project/hypothetical - **Hypothesis testing and other testing methods**             
 https://pypi.org/project/GageRnR - https://en.wikipedia.org/wiki/ANOVA_gauge_R%26R             
@@ -352,10 +351,15 @@ https://pypi.org/project/CausalDisco - Causal Discovery
 https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCDA is a data standard which allows to represent MultiCriteria Decision Analysis (MCDA) data elements in XML according to a clearly defined grammar    
 https://pypi.org/project/pyparcs - causal methods - Звёзд: 4              
 
+### ❓ Statistics with uncertainity
+https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
+https://pypi.org/project/uqtestfuns - library of test functions from the uncertainty quantification - Звёзд: 8
+
 https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty              
-https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods        
+https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods    
+https://pypi.org/project/stats-arrays - Standard NumPy array interface for defining uncertain parameters        
 
 ### 🗼 Inferences (Выводы)            
 https://pypi.org/project/causality - causal inference - Звёзд: 1059
@@ -412,12 +416,16 @@ https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7
 
 
 ## 🎬 Optimization / Fitting  
+**https://web.casadi.org** - CasADi is an open-source tool for nonlinear optimization and algorithmic differentiation.
+https://pypi.org/project/csnn - Neural Networks with CasADi            
+
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512          
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment           
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
+https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7          
 
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
@@ -425,7 +433,6 @@ https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort
 https://pypi.org/project/benchmark-functions/ - benchmark functions collection  for assessing the performances of optimisation problems on deterministic functions
 **https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
-**https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox          
 https://pypi.org/project/lightgbm-tools 
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
@@ -441,7 +448,6 @@ https://pypi.org/project/DFOGN/
 https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
 https://pypi.org/project/smogn/    
-https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms      
 https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization          
 https://pypi.org/project/peerless       
 https://pypi.org/project/optimization-dashboard           
@@ -449,9 +455,7 @@ https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto
 https://pypi.org/project/sqnomad -     
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
 https://pypi.org/project/cyclicbm - Cyclic Boosting         
-https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
-https://pypi.org/project/aeecde - Adaptive Differential Evolution      
 https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
 https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization algorithm -  Звёзд: 12          
 **https://pypi.org/project/opof/**
@@ -462,6 +466,7 @@ https://pypi.org/project/swarmist -  Domain Specific Language (DSL) for building
 
 ### 🔑 Bindings for optimizers         
 https://pypi.org/project/pychoco - Choco Constraint programming solver (https://choco-solver.org/) 
+https://pypi.org/project/optlang - Formulate optimization problems using sympy expressions and solve them using interfaces to third-party optimization software (e.g. GLPK - GNU Linear Programming Kit) - Звёзд: 238              
 
 ### ♨️ Fitting
 **https://pypi.org/project/pyeq3/** - equation, curve and surface fitting library - Звёзд: 5       
@@ -474,7 +479,13 @@ https://pypi.org/project/scifit - Звёзд: 1
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 
-### 🐝 Particle Swarm Optimization 🐜                       
+### 🐝 Particle Swarm Optimization 🐜 (Evolutionary algorithms)                       
+####  ✂️ Quality-Diversity
+**https://quality-diversity.github.io** - Quality-Diversity optimization (or illumination) is a new type of evolutionary algorithm that aims at generating large collections of diverse solutions that are all high-performing       
+https://quality-diversity.github.io/papers             
+https://members.loria.fr/JBMouret/qd.html             
+https://pypi.org/project/qdpy - Quality-Diversity algorithms      
+
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms        
 https://pypi.org/project/pyswarm             
 https://pypi.org/project/pyswarms/
@@ -483,6 +494,10 @@ https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, w
 https://pypi.org/project/bees-algorithm/       
 https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Python           
 https://pypi.org/project/ba-lorre -  Bees Algorithm based Local Optima Region Radius Extimator 
+**https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox          
+https://pypi.org/project/evoalgos/ - Modular evolutionary algorithms      
+https://pypi.org/project/aeecde - Adaptive Differential Evolution      
+https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation        
 
 
 ### Derivative-free optimization     
@@ -535,14 +550,16 @@ https://github.com/eigenfoo/littlemcmc
 https://pypi.org/project/paramonte         
 https://pypi.org/project/mchmm - Markov chains and Hidden Markov models           
 https://pypi.org/project/pyemma - Emma's Markov Model Algorithms            
-https://pypi.org/project/zeus-mcmc/ - zeus: Lightning Fast MCMC -  Звёзд: 219       
 https://pypi.org/project/kratosmultilevelmontecarloapplication/ - MultilevelMonteCarloApplication provides different algorithms,                      
 belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest.               
 https://pypi.org/project/kratosmultilevelmontecarloapplication - MultilevelMonteCarloApplication provides different algorithms, belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest       
 https://pypi.org/project/control-vegas/ - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas            
 https://pypi.org/project/marchie - Analyzing Discrete Markov Chains       
+
 **https://pypi.org/project/pymdptoolbox-roi/** - Markov Decision Process (MDP) Toolbox -  Звёзд: 518                 
-https://pypi.org/project/covvvr - Monte Carlo integration - Звёзд: 1               
+https://pypi.org/project/zeus-mcmc/ - zeus: Lightning Fast MCMC -  Звёзд: 219       
+https://pypi.org/project/mc-tk -  Monte-Carlo toolkit for educational purposes - Звёзд: 3           
+https://pypi.org/project/covvvr - Monte Carlo integration - Звёзд: 1      
 
 
 
@@ -571,7 +588,8 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 
 
-## ⏲️ Signal Processing / Time Series / Filtering                                                                
+## ⏲️ Signal Processing / Time Series / Filtering                                         
+**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803             
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://github.com/deeptime-ml/deeptime**
 https://pypi.org/project/kshape - univariate and multivariate time-series clustering - https://github.com/TheDatumOrg/kshape-python -  Звёзд: 320       
@@ -600,6 +618,7 @@ https://pypi.org/project/tsam - Time series aggregation module (tsam) to create 
 
 
 
+
 https://pypi.org/project/chainfix -  data types for signal processing and blockchain applications     
 https://pypi.org/project/timexseries-clustering/ - time-series-clustering      
 https://pypi.org/project/nsgt - Non-Stationary Gabor Transform (NSGT) https://grrrr.org/research/software/nsgt/       https://en.wikipedia.org/wiki/Gabor_transform             
@@ -612,11 +631,9 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 ## ✳️ Maps / Images / Tomography  / Topology / Meshs       
 https://pypi.org/search/?q=SIFT     
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
-**https://pypi.org/project/pygalmesh/** - Create high-quality meshes            
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
-https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
 **https://github.com/lightly-ai/lightly** - self-supervised learning on images                
 https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer          
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
@@ -646,16 +663,21 @@ https://pypi.org/project/simages - Find similar images in a dataset -  Звёз�
 
 
 ### 💮 Meshs / 2D / 3D 
-**https://webpages.tuni.fi/foi**              
+**https://webpages.tuni.fi/foi**   
+**https://pypi.org/project/discretisedfield/**  - Analysis and visualisation of finite-difference fields - Звёзд: 17             
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
 https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
+**https://pypi.org/project/pygalmesh/** - Create high-quality meshes            
+https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
 
+(Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
 https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68          
+https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
 
 
 
@@ -687,15 +709,23 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 ### 🔴🔵 Magn  
 **https://ubermag.github.io** - Micromagnetic simulations 
 (---beg---)           
-https://pypi.org/project/ubermagtable - manipulating tabular data                   
-https://pypi.org/project/mag2exp - Simulate experimental measurements for magnetic materials              
-https://pypi.org/project/oommfc/ - Object Oriented MicroMagnetic Framework (OOMMF) calculator -  Звёзд: 47           
-https://pypi.org/project/micromagnetictests - Testing package for computational magnetism tools - Звёзд: 1           
-(---end---)           
+_**https://pypi.org/user/fangohr/**_                  
+https://pypi.org/project/ubermag - Meta package for Ubermag project - Звёзд: 37          
+https://pypi.org/project/ubermagutil - Utility package used across Ubermag - Звёзд: 5        
 
+https://pypi.org/project/ubermagtable - manipulating tabular data                    
+https://pypi.org/project/mag2exp - Simulate experimental measurements for magnetic materials                        
+https://pypi.org/project/oommfc/ - Object Oriented MicroMagnetic Framework (OOMMF) calculator -  Звёзд: 47                
+
+https://pypi.org/project/micromagneticdata - Python tools for the analysis of computational magnetism data - Звёзд: 3           
+https://pypi.org/project/micromagneticmodel - omain-specific language for computational magnetism - Звёзд: 10             
+https://pypi.org/project/micromagnetictests - Testing package for computational magnetism tools - Звёзд: 1            
+(---end---)           
 
 **https://pypi.org/project/riid** - Machine learning-based models and utilities for radioisotope identification - Звёзд: 15         
 https://pypi.org/project/refidx - Refractive index database                   
+
+https://pypi.org/project/epicycler - Compute and draw epicycler in Python - Звёзд: 15              
 
 ### 1️⃣ Units 
 https://pypi.org/project/unitcalc/
@@ -743,6 +773,7 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 
 
 ## 📏 Geometry 🌑                      
+https://pypi.org/project/archaea - base geometric library - Звёзд: 6
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 https://pypi.org/project/pyhull -
 https://pypi.org/project/tess - A 3D cell-based Voronoi library
@@ -751,7 +782,6 @@ https://pypi.org/project/right-triangle
 https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status for a set of vertices VERT and a general polygon (PSLG) embedded in the two-dimensional plane            
 https://pypi.org/project/twod          
 https://pypi.org/project/Polygon3 - 
-https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
 https://pypi.org/project/vectometry 
 https://pypi.org/project/BDSpace -  to simplify positioning, movement, and trajectory calculation for many different technical problems             
 https://pypi.org/project/angle-headings - calculations with angles              
@@ -782,6 +812,7 @@ https://pypi.org/project/grapharray -  for treating arrays defined on a network,
 https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
 
 https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
+https://pypi.org/project/graphblas-algorithms - Graph algorithms written in GraphBLAS and backend for NetworkX - Звёзд: 68
 https://pypi.org/project/pytoulbar2 - optimizer for cost function networks and discrete additive graphical models - https://github.com/toulbar2/toulbar2 - 51 stars            
 **https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                            
 https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19                    
