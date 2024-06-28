@@ -115,6 +115,9 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://github.com/google/jax** - Composable transformations of Python+NumPy programs: differentiate, vectorize and more - 29k stars                
 **https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900 
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX
+https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX - 
+
+
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
@@ -182,7 +185,11 @@ https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selectio
 **https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437              
 https://github.com/StochSS - Stochastic Simulation Service             
 https://pypi.org/project/stochss-compute          
-https://pypi.org/project/scikit-rmt - Random Matrix Theory - Звёзд: 35
+https://pypi.org/project/simplerandom - Simple random number generators - Звёзд: 62          
+https://pypi.org/project/scikit-rmt - Random Matrix Theory - Звёзд: 35                    
+https://pypi.org/project/rnd-pcw-poly - Generate random piecewise polynomials - 
+
+
 
 
 https://pypi.org/project/pyrandwalk -  Random Walks           
@@ -238,6 +245,7 @@ https://pypi.org/project/neumann -  Applied Mathematics in Physical Sciences: Li
 https://pypi.org/project/BNumMet - Linear Systems, Interpolation, Non-Linear, Randomness, Visualizers              
 https://pypi.org/project/cypari -  computer algebra system for number theory computations                
 **https://pypi.org/project/rdx/** - convert an integer to a string in any base         
+https://pypi.org/project/hermite-function - A Hermite function series module              
 
 
 
@@ -302,7 +310,11 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 ## 📊📊 Statistics / Regression                   
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
+https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
+https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars
+
+
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
@@ -413,6 +425,7 @@ https://pypi.org/project/benchmark-functions/ - benchmark functions collection  
 https://pypi.org/project/lightgbm-tools 
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
+https://pypi.org/project/pyfe3d -  finite element solver for structural analysis and optimization -  Звёзд: 15        
 https://pypi.org/project/gpcg - conjugate gradient algorithm (GPCG) for solving bound-constrained quadratic programs - Звёзд: 3             
 https://pypi.org/project/algormeter - eveloping, testing, measuring and exchange optimizers algorithms                
 
@@ -449,7 +462,8 @@ https://pypi.org/project/pychoco - Choco Constraint programming solver (https://
 ### ♨️ Fitting
 **https://pypi.org/project/pyeq3/** - equation, curve and surface fitting library - Звёзд: 5       
 https://pypi.org/project/quadrilateral-fitter -  fitting irregular quadrilaterals (четырехугольники) from polygons or point clouds - Звёзд: 5            
-https://pypi.org/project/scifit - Звёзд: 1             
+https://pypi.org/project/multinterp - https://pypi.org/project/multinterp - Звёзд: 4              
+https://pypi.org/project/scifit - Звёзд: 1           
 
 ### ↔️ Linear programming             
 **https://pypi.org/project/lippy** -  Звёзд: 18           
@@ -558,6 +572,7 @@ https://pypi.org/project/aristop - optimization of energy systems
 **https://github.com/deeptime-ml/deeptime**
 https://pypi.org/project/kshape - univariate and multivariate time-series clustering - https://github.com/TheDatumOrg/kshape-python -  Звёзд: 320       
 **https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars                 
+**https://pypi.org/project/pyextremes** - Extreme Value Analysis (EVA) https://en.wikipedia.org/wiki/Extreme_value_theory - Звёзд: 233
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77                     
 
 https://pypi.org/project/kaftools/                
@@ -665,6 +680,10 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 
 
 ## ⚡ Physics  
+https://ubermag.github.io - Micromagnetic simulations 
+https://pypi.org/project/ubermagtable - manipulating tabular data 
+
+**https://pypi.org/project/riid** - Machine learning-based models and utilities for radioisotope identification - Звёзд: 15         
 https://pypi.org/project/refidx - Refractive index database                   
 
 ### 1️⃣ Units 
