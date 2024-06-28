@@ -45,10 +45,10 @@ https://github.com/mlandis/phyddle -  deep learning for phylogenetic models
 https://pypi.org/project/discoart - Звёзд: 3835               
 https://pypi.org/project/ctransformers - Звёзд: 1749                
 https://pypi.org/project/torch-dreams- Звёзд: 237             
-https://pypi.org/project/rungpt - Звёзд: 147
+https://pypi.org/project/rungpt - Звёзд: 147             
 https://pypi.org/project/pymuco - Music Computation Library - https://pymuco.org            
 **https://pypi.org/project/chatdocs/**  - Chat with your documents offline using AI -  Звёзд: 670           
-https://pypi.org/project/embedia - Make LLM-powered webapps with ease        
+https://pypi.org/project/embedia - Make LLM-powered webapps with ease         
 
 
 
