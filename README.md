@@ -209,19 +209,18 @@ https://pypi.org/project/normal-form/ -  working with Conjunctive Normal Form (C
 
 
 ## 🔃 Combinatorics 
-**[emlib](https://pypi.org/project/emlib/)** -  Звёзд: 1             
-https://github.com/AdrienC21/CCSD - to generate Combinatorial Complexes using Stochastic Differential Equations. This cutting-edge approach enables the generation of complex objects with higher-order structures and relations, thereby enhancing our ability to learn underlying distributions and produce more realistic objects - 6 stars              
-
-https://pypi.org/project/trotter/
-https://pypi.org/project/partitions/ 
-https://pypi.org/project/combi/ 
-https://github.com/whym1here/Algopylib
-https://pypi.org/project/testflows.combinatorics/
-https://pypi.org/project/infEGE 
 https://pypi.org/project/permutation - Permutations of finitely many positive integers - Звёзд: 16           
 https://pypi.org/project/comb-spec-searcher -  Звёзд: 11            
+**https://pypi.org/project/zython/** - Express constraint programming problem / Constraint programming (CP) is a paradigm for solving combinatorial problems - 8 stars
+https://github.com/AdrienC21/CCSD - to generate Combinatorial Complexes using Stochastic Differential Equations. This cutting-edge approach enables the generation of complex objects with higher-order structures and relations, thereby enhancing our ability to learn underlying distributions and produce more realistic objects - 6 stars              
+https://pypi.org/project/testflows.combinatorics - Звёзд: 2
+**[emlib](https://pypi.org/project/emlib/)** -  Звёзд: 1             
+https://pypi.org/project/trotter/ - Звёзд: 1
+https://pypi.org/project/partitions - Generates partitions of a positive integer - Звёзд: 1
+https://github.com/whym1here/Algopylib -  0 stars
 
-
+https://pypi.org/project/infEGE -  8 stars
+https://pypi.org/project/combi/ 
 
 ### 📝 Calculation 
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
@@ -542,24 +541,22 @@ https://pypi.org/project/pyseagull - GOL
 https://pypi.org/project/finite-state-machines - manipulating finite state machines            
 https://pypi.org/project/python-lifelib       
 
-## 🎲 Monte Carlo simulation / ⛓️ Markov Chains         
-https://pypi.org/project/percolate           
-https://pypi.org/project/discreteMarkovChain/
-https://pypi.org/project/bmcc       
-https://github.com/eigenfoo/littlemcmc        
-https://pypi.org/project/paramonte         
-https://pypi.org/project/mchmm - Markov chains and Hidden Markov models           
-https://pypi.org/project/pyemma - Emma's Markov Model Algorithms            
-https://pypi.org/project/kratosmultilevelmontecarloapplication/ - MultilevelMonteCarloApplication provides different algorithms,                      
-belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest.               
-https://pypi.org/project/kratosmultilevelmontecarloapplication - MultilevelMonteCarloApplication provides different algorithms, belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest       
-https://pypi.org/project/control-vegas/ - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas            
-https://pypi.org/project/marchie - Analyzing Discrete Markov Chains       
+## 🎲 Monte Carlo simulation / ⛓️ Markov Chains      
+**https://pypi.org/project/kratosmultilevelmontecarloapplication** - MultilevelMonteCarloApplication provides different algorithms                      
 
 **https://pypi.org/project/pymdptoolbox-roi/** - Markov Decision Process (MDP) Toolbox -  Звёзд: 518                 
+https://pypi.org/project/particles - Sequential Monte Carlo - Звёзд: 383           
+https://pypi.org/project/pyemma - Emma's Markov Model Algorithms -  Звёзд: 305                     
 https://pypi.org/project/zeus-mcmc/ - zeus: Lightning Fast MCMC -  Звёзд: 219       
+https://pypi.org/project/paramonte - Звёзд: 249        
+https://pypi.org/project/mchmm - Markov chains and Hidden Markov models - Звёзд: 121          
+https://github.com/eigenfoo/littlemcmc -  51 stars       
+https://pypi.org/project/discreteMarkovChain -  Звёзд: 45
+https://pypi.org/project/percolate - 24 stars          
 https://pypi.org/project/mc-tk -  Monte-Carlo toolkit for educational purposes - Звёзд: 3           
+https://pypi.org/project/bmcc -  Звёзд: 2               
 https://pypi.org/project/covvvr - Monte Carlo integration - Звёзд: 1      
+https://pypi.org/project/control-vegas - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas -  1 star           
 
 
 
