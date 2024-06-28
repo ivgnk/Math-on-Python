@@ -733,6 +733,8 @@ https://pypi.org/project/totemp - Temperature Converter
 
 ### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
+↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47
+
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
 🔴 **https://geostat-framework.org/** - geo-statistical model with Python          
@@ -870,9 +872,9 @@ https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
 ## 🎡 Dynamic systems    
-**https://pypi.org/project/pysindy/** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351               
+**https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351               
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
-
+https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578
 https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27                
 https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
@@ -881,12 +883,8 @@ https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lya
 https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5                              
 https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics - Звёзд: 0             
 **https://pypi.org/project/opensimplex-loops** -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images - Звёзд: 0                
-
-↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
-https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems                
-
-https://pypi.org/project/apecosm - ocefnic 
-
+---  
+https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
