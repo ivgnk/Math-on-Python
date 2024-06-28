@@ -6,6 +6,9 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 
 ## 🚗 ML / DL / AI / DS      
+**https://jina.ai/**
+https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
+
 **https://pypi.org/project/paddlehub/** -- Звёзд: 12595 - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)            
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726             
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
@@ -89,6 +92,7 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 **https://tulip.labri.fr/site/** - information visualization framework dedicated to the analysis and visualization of relational data            
 **http://www.deltares.nl/en/software/rtc-tools/** - hydro models         
 **https://www.decision-deck.org/project/** -  Open Source software tools to support the Multi-Criteria Decision Aiding (MCDA)               
+♦️ **https://github.com/SciRuby** - The Ruby Science Foundation: scientific computing in Ruby                
 
 ## testing the operation of functions from scipy.optimize                 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **Testing of optimization functions is necessary                      
@@ -116,7 +120,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900 
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX - 
-
+https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                       
 
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
@@ -680,8 +684,15 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 
 
 ## ⚡ Physics  
-https://ubermag.github.io - Micromagnetic simulations 
-https://pypi.org/project/ubermagtable - manipulating tabular data 
+### 🔴🔵 Magn  
+**https://ubermag.github.io** - Micromagnetic simulations 
+(---beg---)           
+https://pypi.org/project/ubermagtable - manipulating tabular data                   
+https://pypi.org/project/mag2exp - Simulate experimental measurements for magnetic materials              
+https://pypi.org/project/oommfc/ - Object Oriented MicroMagnetic Framework (OOMMF) calculator -  Звёзд: 47           
+https://pypi.org/project/micromagnetictests - Testing package for computational magnetism tools - Звёзд: 1           
+(---end---)           
+
 
 **https://pypi.org/project/riid** - Machine learning-based models and utilities for radioisotope identification - Звёзд: 15         
 https://pypi.org/project/refidx - Refractive index database                   
@@ -717,6 +728,7 @@ https://pypi.org/project/dcf -  generating discounted cashflows
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
 **https://pypi.org/project/geoscilabs** - to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz - Звёзд: 48        
 **https://github.com/geoscixyz/geosci-labs**   
+**https://github.com/QSD-Group** - Tools for quantitative sustainable design (QSD) to guide the research, development, and deployment of technologies and inform decision-making         
 
 
 ### 🔱 Hydro(logical( model    
