@@ -495,7 +495,6 @@ https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation
 https://pypi.org/project/evoalgos - Modular evolutionary algorithms      
 https://pypi.org/project/bees-algorithm       
 
-
 ####  ✂️ Quality-Diversity
 **https://quality-diversity.github.io** - Quality-Diversity optimization (or illumination) is a new type of evolutionary algorithm that aims at generating large collections of diverse solutions that are all high-performing       
 https://quality-diversity.github.io/papers             
@@ -503,18 +502,22 @@ https://members.loria.fr/JBMouret/qd.html
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
 
 ### 🌷 Derivative-free optimization     
-**https://pypi.org/project/rbfopt/** -  black-box (derivative-free) optimization -  Звёзд: 189        
-**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
-https://pypi.org/project/dfbgn - Звёзд: 7             
-https://pypi.org/project/SQSnobFit/       
-https://pypi.org/project/SQImFil/      
-      
-https://pypi.org/project/directsearch -  A derivative-free solver for unconstrained minimization
+⚡ **https://github.com/topics/derivative-free**
+ https://github.com/eyounx/ZOOpt  -  394 stars 
+ https://github.com/polixir/ZOOpt -  65 stars
+ 
+**https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
 https://pypi.org/project/ttopt - Звёзд: 28             
-**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
+https://github.com/strongio/evolutionary-optimization - 26 stars 
+https://github.com/NiMlr/High-Dim-ES-RL -  25 stars            
+https://pypi.org/project/dfbgn - Звёзд: 7             
+https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
+**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 https://github.com/mjhough/dfo_alg - 0 stars
 
 --- not in github                      
+**https://pypi.org/project/SQImFil** - https://qat4chem.lbl.gov/software    
+**https://pypi.org/project/SQSnobFit/** - https://qat4chem.lbl.gov/software
 https://pypi.org/project/dfoalgos                    
 
 ### 💢 Dynamic programming          
