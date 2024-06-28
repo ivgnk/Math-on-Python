@@ -9,6 +9,7 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 **https://jina.ai/**
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
+⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985
 **https://pypi.org/project/paddlehub/** -- Звёзд: 12595 - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)            
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726             
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
@@ -641,9 +642,6 @@ https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
 https://pypi.org/project/pyspod - Python Spectral Proper Orthogonal Decomposition -  Звёзд: 96  - SPOD can be applied to wide-sense stationary data. Examples of these arise in different fields, including fluidmechanics, and weather and climate        
-
-
-
 https://pypi.org/project/gratopy -  tomographic projections, Radon transforms               
 https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
 https://pypi.org/project/pftracker - Face tracking based on particle filter        
@@ -659,34 +657,31 @@ https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд
 https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёзд: 114           
 https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22          
 
-
-
-
-
 ### 💮 Meshs / 2D / 3D 
 **https://webpages.tuni.fi/foi**   
 **https://pypi.org/project/discretisedfield/**  - Analysis and visualisation of finite-difference fields - Звёзд: 17             
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
 https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
-**https://pypi.org/project/pygalmesh/** - Create high-quality meshes            
 https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
 
+**https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars                    
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
+https://pypi.org/project/pyhull - for the computation of the convex hull, Delaunay triangulation and Voronoi diagram - Звёзд: 99
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
+https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github.com/wackywendell/tess/ - 35 stars
+https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
 https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68          
+-- not in github        
 https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
-
 
 
 #### 🎨 Particle simulation                    
 https://github.com/simon-r/PyParticles 
 https://pypi.org/project/cromosim/        
-
-
 
 ### Images (Background remover/ Facial recognition)                          
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
@@ -729,8 +724,8 @@ https://pypi.org/project/refidx - Refractive index database
 https://pypi.org/project/epicycler - Compute and draw epicycler in Python - Звёзд: 15              
 
 ### 1️⃣ Units 
-https://pypi.org/project/unitcalc/
-https://pypi.org/project/ounce/ - manipulating units of measure        
+https://pypi.org/project/unitcalc - Звёзд: 1
+https://pypi.org/project/ounce - manipulating units of measure - Звёзд: 1        
 https://pypi.org/project/kanonpy - History of astronomy library                
 https://pypi.org/project/Unum - Units in Python          
 https://pypi.org/project/measurement/
@@ -773,39 +768,42 @@ https://pypi.org/project/wafo (2006)
 https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms           
 
 
-## 📏 Geometry 🌑                      
+## 📏 Geometry 🌑        
+**https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
+**https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599        
+https://pypi.org/project/Geometry3D -  3D Geometry Lib - Звёзд: 85
+https://pypi.org/project/polliwog - 2D and 3D computational geometry library - Звёзд: 27      
 https://pypi.org/project/archaea - base geometric library - Звёзд: 6
-https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
-https://pypi.org/project/pyhull -
-https://pypi.org/project/tess - A 3D cell-based Voronoi library
-https://pypi.org/project/npeuclid/ -
-https://pypi.org/project/right-triangle 
+https://pypi.org/project/vectometry -  library for simple use of common point and vector operations in 3-dimensional space as well as for 2-dimensions - Звёзд: 5
+https://pypi.org/project/npeuclid - Fast 2D and 3D vector geometry module - Звёзд: 2 
+https://pypi.org/project/twod - Two-Dimensional Geometry Library -  Звёзд: 2             
+https://pypi.org/project/right-triangle - calculations with right-angled triangles - Звёзд: 0 
+
 https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status for a set of vertices VERT and a general polygon (PSLG) embedded in the two-dimensional plane            
-https://pypi.org/project/twod          
-https://pypi.org/project/Polygon3 - 
-https://pypi.org/project/vectometry 
 https://pypi.org/project/BDSpace -  to simplify positioning, movement, and trajectory calculation for many different technical problems             
 https://pypi.org/project/angle-headings - calculations with angles              
 https://pypi.org/project/trjtrypy - Distance between trajectories              
 **https://pypi.org/project/vg/** - vector-geometry and linear-algebra toolbelt               
-https://pypi.org/project/pygamer     
 **https://pypi.org/project/Geom8ry** - computational geometry Geom8ry can handle various 2D - geometrical constructs like Points, Lines, Line Segments,               
 Polygons, Circles, Fourier Transforms, Matrices, Graphs, Triangulations, and Polynomials, etc.                  
 https://pypi.org/project/EventGeometry -  computing the Energy Mover's Distance and related geometric quantities          
-https://pypi.org/project/Geometry3D -  3D Geometry Lib        
+       
 https://pypi.org/project/beizer-curves - or generating beizer curves       
-https://pypi.org/project/polliwog - 2D and 3D computational geometry library       
-**https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language         
+      
+
+
 https://pypi.org/project/PyAbel - forward and inverse Abel transforms - Звёзд: 91          
 https://pypi.org/project/svgpathtools -  manipulating and analyzing SVG Path objects and Bezier curves - Звёзд: 530                           
 https://pypi.org/project/RobustGaussianFittingLibrary -  robust Gaussian fitting of geometric models in presence of outliers (выбросов) - Звёзд: 5                     
 https://pypi.org/project/pyclipper -  Angus Johnson's Clipper library - https://github.com/AngusJohnson/Clipper2 - Polygon Clipping and Offsetting             
 https://pypi.org/project/geomstats - Geometric statistics on manifolds - Звёзд: 1171        
 https://pypi.org/project/polygon-contains-point -  checking if a polygon contains a given point     
+--- not in github        
+**https://pypi.org/project/Polygon3** - package that handles polygonal shapes in 2D (2021) 
+https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 
     
 ## ☸️ Networks / Graphs / Tree              
-
 https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. The grounded pipeline, introduced in [1], is a method for building stable, topological descriptors of weighted digraphs -  Звёзд: 3        
 https://github.com/bryangraham/netrics                 
 https://pypi.org/project/PyGSP/      
@@ -852,56 +850,48 @@ https://pypi.org/project/pygraphia - Звёзд: 0
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs -  Звёзд: 0
 
 ### 🌳 Tree 
-**https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree                
-https://github.com/etetoolkit/ete - building, comparing, annotating, manipulating and visualising trees -  767 stars               
-https://pypi.org/project/py-itree - A Interval Tree Library - Звёзд: 12
-**https://pypi.org/project/mistree** - minimum spanning tree (MST), a graph constructed from a distribution of points, draws lines between pairs of points so that all points are linked in a single skeletal structure that contains no loops and has minimal total edge length - https://github.com/knaidoo29/mistree -  47 stars           
-https://pypi.org/project/boxtree - Quadtree/octree building - 64 stars - https://github.com/inducer/boxtree               
-
-
-
-https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
-https://pypi.org/project/c45-decision-tree  12/07/2023 
 https://pypi.org/project/dm-tree -  library for working with nested data structures -  921 stars               
+https://github.com/etetoolkit/ete - building, comparing, annotating, manipulating and visualising trees -  767 stars               
+https://pypi.org/project/boxtree - Quadtree/octree building - 64 stars - https://github.com/inducer/boxtree               
+**https://pypi.org/project/aabbtree** -  implementation of d-dimensional AABB tree - Звёзд: 58                
+**https://pypi.org/project/mistree** - minimum spanning tree (MST), a graph constructed from a distribution of points, draws lines between pairs of points so that all points are linked in a single skeletal structure that contains no loops and has minimal total edge length - https://github.com/knaidoo29/mistree -  47 stars           
+https://pypi.org/project/Tree - creating and drawing trees -  Звёзд: 21
+https://pypi.org/project/py-itree - A Interval Tree Library - Звёзд: 12
+https://pypi.org/project/c45-decision-tree  12/07/2023 -  Звёзд: 5
+https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022 -  0 stars           
 
 ## 🏀 Games
 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
 https://pypi.org/project/GameOfLife (GOL)      
-https://pypi.org/project/TicTacToe3/
-
+https://pypi.org/project/TicTacToe3
 https://pypi.org/project/opener - Solve open the lock puzzle            
 https://pypi.org/project/dicetables
 https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225         
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
-
-
 ## 🎡 Dynamic systems    
-**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python                 
 **https://pypi.org/project/pysindy/** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351               
-https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
-https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
-**https://pypi.org/project/kedm/** - Empirical Dynamic Modeling (EDM) framework -  Звёзд: 12 - https://sugiharalab.github.io/EDM_Documentation                  
-https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5                              
-https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics              
-https://pypi.org/project/opensimplex-loops -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images                 
-https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lyapunov vectors (CLV) and adjoints of a dynamical system - Звёзд: 7             
+https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
 
+https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
+**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27                
+https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
+**https://pypi.org/project/kedm/** - Empirical Dynamic Modeling (EDM) framework - https://sugiharalab.github.io/EDM_Documentation -  Звёзд: 12                      
+https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lyapunov vectors (CLV) and adjoints of a dynamical system - Звёзд: 7             
+https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5                              
+https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics - Звёзд: 0             
+**https://pypi.org/project/opensimplex-loops** -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images - Звёзд: 0                
 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells !        
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems                
-https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
 
-
-
-https://pypi.org/project/apecosm  
+https://pypi.org/project/apecosm - ocefnic 
 
 
 ## 👁️‍🗨️ Visualization           
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 https://pypi.org/project/mapper (2017)      
 https://github.com/gtaylor/python-colormath    
-https://pypi.org/project/Tree          
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
 https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analysis  https://kepler-mapper.scikit-tda.org/en/latest/                           
