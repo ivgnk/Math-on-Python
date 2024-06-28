@@ -212,14 +212,14 @@ https://pypi.org/project/normal-form/ -  working with Conjunctive Normal Form (C
 ## 🔃 Combinatorics 
 https://pypi.org/project/permutation - Permutations of finitely many positive integers - Звёзд: 16           
 https://pypi.org/project/comb-spec-searcher -  Звёзд: 11            
-**https://pypi.org/project/zython/** - Express constraint programming problem / Constraint programming (CP) is a paradigm for solving combinatorial problems - 8 stars
-https://github.com/AdrienC21/CCSD - to generate Combinatorial Complexes using Stochastic Differential Equations. This cutting-edge approach enables the generation of complex objects with higher-order structures and relations, thereby enhancing our ability to learn underlying distributions and produce more realistic objects - 6 stars              
-https://pypi.org/project/testflows.combinatorics - Звёзд: 2
-**[emlib](https://pypi.org/project/emlib/)** -  Звёзд: 1             
-https://pypi.org/project/trotter/ - Звёзд: 1
-https://pypi.org/project/partitions - Generates partitions of a positive integer - Звёзд: 1
-https://github.com/whym1here/Algopylib -  0 stars
-
+**https://pypi.org/project/zython/** - Express constraint programming problem / Constraint programming (CP) is a paradigm for solving combinatorial problems - 8 stars                
+https://github.com/AdrienC21/CCSD - to generate Combinatorial Complexes using Stochastic Differential Equations - 6 stars              .         
+https://pypi.org/project/testflows.combinatorics - Звёзд: 2                         
+**[emlib](https://pypi.org/project/emlib/)** -  Звёзд: 1                           
+https://pypi.org/project/trotter/ - Звёзд: 1                               
+https://pypi.org/project/partitions - Generates partitions of a positive integer - Звёзд: 1                       
+https://github.com/whym1here/Algopylib -  0 stars                        
+- - -
 https://pypi.org/project/infEGE -  8 stars
 https://pypi.org/project/combi/ 
 
