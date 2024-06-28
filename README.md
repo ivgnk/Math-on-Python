@@ -44,6 +44,7 @@ https://pypi.org/project/torch-dreams- Звёзд: 237
 https://pypi.org/project/rungpt - Звёзд: 147
 https://pypi.org/project/pymuco - Music Computation Library - https://pymuco.org            
 **https://pypi.org/project/chatdocs/**  - Chat with your documents offline using AI -  Звёзд: 670           
+https://pypi.org/project/embedia - Make LLM-powered webapps with ease        
 
 
 
@@ -440,6 +441,7 @@ https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization al
 https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Framework)  domains for 2D grid worlds -  4 stars                  
 https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
 https://pypi.org/project/PICOS - interface to conic optimization solvers                
+https://pypi.org/project/swarmist -  Domain Specific Language (DSL) for building metaheuristic algorithms to solve single-objective continuous optimization over real domains 
 
 ### 🔑 Bindings for optimizers         
 https://pypi.org/project/pychoco - Choco Constraint programming solver (https://choco-solver.org/) 
@@ -526,9 +528,6 @@ https://pypi.org/project/covvvr - Monte Carlo integration - Звёзд: 1
 
 
 
-## 🎨 Particle simulation                    
-https://github.com/simon-r/PyParticles 
-https://pypi.org/project/cromosim/        
 
 ## 🌊 Flows              
 https://pypi.org/project/CubeFlow
@@ -557,8 +556,9 @@ https://pypi.org/project/aristop - optimization of energy systems
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://github.com/deeptime-ml/deeptime**
+https://pypi.org/project/kshape - univariate and multivariate time-series clustering - https://github.com/TheDatumOrg/kshape-python -  Звёзд: 320       
 **https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars                 
-**https://pypi.org/project/ts2vg/** - isibility graphs from time series data - Звёзд: 77                     
+**https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77                     
 
 https://pypi.org/project/kaftools/                
 https://pypi.org/project/PyGSP/            
@@ -578,7 +578,6 @@ https://pypi.org/project/alexandria-python -  Bayesian time-series econometrics 
 **https://pypi.org/project/rego** - Automatic Time Series Forecasting and Missing Value Imputation - Звёзд: 18             
 https://pypi.org/project/ltv-mpc - Linear time-variant model predictive control in Python. quadratic program (QP). This includes linear time-invariant (LTI) and time-variant (LTV) systems with linear constraints -  28 stars       
 https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
-
 
 
 
@@ -637,7 +636,13 @@ https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a do
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
+https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68          
 
+
+
+#### 🎨 Particle simulation                    
+https://github.com/simon-r/PyParticles 
+https://pypi.org/project/cromosim/        
 
 
 
@@ -671,6 +676,7 @@ https://pypi.org/project/measurement/
 https://pypi.org/project/totemp - Temperature Converter          
 
 ### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
+**https://github.com/gwastro** - Gravitational-wave Astronomy                 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
 🔴 **https://geostat-framework.org/** - geo-statistical model with Python          
@@ -685,6 +691,7 @@ https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 **https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12             
 **https://pypi.org/project/multipoles/** - multipole expansions of electrostatic or gravitational potentials - Звёзд: 37             
 **https://pypi.org/project/pyproj** - interface to PROJ (cartographic projections and coordinate transformations library) - Звёзд: 1013            
+https://pypi.org/project/hurst-exponent -
 
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
@@ -732,7 +739,7 @@ https://pypi.org/project/svgpathtools -  manipulating and analyzing SVG Path obj
 https://pypi.org/project/RobustGaussianFittingLibrary -  robust Gaussian fitting of geometric models in presence of outliers (выбросов) - Звёзд: 5                     
 https://pypi.org/project/pyclipper -  Angus Johnson's Clipper library - https://github.com/AngusJohnson/Clipper2 - Polygon Clipping and Offsetting             
 https://pypi.org/project/geomstats - Geometric statistics on manifolds - Звёзд: 1171        
-
+https://pypi.org/project/polygon-contains-point -  checking if a polygon contains a given point     
 
     
 ## ☸️ Networks / Graphs / Tree              
@@ -745,8 +752,9 @@ https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://githu
 
 https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
 https://pypi.org/project/pytoulbar2 - optimizer for cost function networks and discrete additive graphical models - https://github.com/toulbar2/toulbar2 - 51 stars            
-**https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                    
-https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19
+**https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                            
+https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19                    
+https://pypi.org/project/leafy - fast graph algorithms library - Звёзд: 17             
 
 https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. The grounded pipeline, introduced in [1], is a method for building stable, topological descriptors of weighted digraphs -  Звёзд: 3        
 
