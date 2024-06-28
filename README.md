@@ -350,7 +350,22 @@ https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCD
 https://pypi.org/project/pyparcs - causal methods - Звёзд: 4              
 
 ### ❓ Statistics with uncertainity
-https://github.com/topics/uncertainty-quantification 
+#### ⚡⚡⚡ Github
+**https://github.com/topics/uncertainty-quantification?l=python**            
+**https://github.com/topics/uncertainty-estimation?l=python**         
+**https://github.com/topics/predictive-uncertainty?l=python**            
+https://github.com/uncertainty-toolbox/uncertainty-toolbox -  1.8k stars          
+https://github.com/awslabs/fortuna -  864 stars           
+https://github.com/SALib/SALib - Sensitivity Analysis -  847 stars           
+https://github.com/IntelLabs/bayesian-torch - 481 stars  
+https://github.com/jonathf/chaospy - 432 stars          
+https://github.com/SURGroup/UQpy - Uncertainty Quantification - 266 stars        
+https://github.com/IBM/UQ360 - 252 stars              
+https://github.com/deel-ai/puncc - 249 stars      
+https://github.com/simetenn/uncertainpy -  218 stars               
+https://github.com/ENSTA-U2IS-AI/torch-uncertainty - 217 stars       
+
+#### 🏠 Pypi
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
 https://pypi.org/project/uqtestfuns - library of test functions from the uncertainty quantification - Звёзд: 8
@@ -503,7 +518,7 @@ https://members.loria.fr/JBMouret/qd.html
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
 
 ### 🌷 Derivative-free optimization     
-:octocat: **https://github.com/topics/derivative-free**
+⚡⚡ **https://github.com/topics/derivative-free**            
  https://github.com/eyounx/ZOOpt  -  394 stars 
  https://github.com/polixir/ZOOpt -  65 stars
  
