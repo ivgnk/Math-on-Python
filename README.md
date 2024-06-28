@@ -303,8 +303,6 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
 
-
-
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
 https://pypi.org/project/pysurvival            https://square.github.io/pysurvival                
@@ -330,7 +328,6 @@ https://pypi.org/project/benford-py - https://en.wikipedia.org/wiki/Benford%27s_
 https://pypi.org/project/benfordviz                
 **https://pypi.org/project/powerlaw** -  Analysis of Heavy-Tailed Distributions           
 https://pypi.org/project/applied-stats - compute MLEs / probabilities         
-https://pypi.org/project/causality - causal inference
 https://pypi.org/project/wasserstein - Wasserstein distances - https://en.wikipedia.org/wiki/Wasserstein_metric            
 https://pypi.org/project/skm-pyutils/
 https://pypi.org/project/lmoments3 -  L-moments to calculate optimal parameters for a number of distributions - Звёзд: 6       
@@ -338,15 +335,16 @@ https://pypi.org/project/CausalDisco - Causal Discovery
 https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCDA is a data standard which allows to represent MultiCriteria Decision Analysis (MCDA) data elements in XML according to a clearly defined grammar    
 https://pypi.org/project/pyparcs - causal methods - Звёзд: 4              
 
-### 🎲 dyce
-https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
-https://pypi.org/project/dyce -  dice outcomes and other finite discrete probabilities - Звёзд: 33                        
-https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7          
-
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
 https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty              
 https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods        
+
+### 🗼 Inferences (Выводы)            
+https://pypi.org/project/causality - causal inference - Звёзд: 1059
+https://pypi.org/project/elfi - Likelihood-free Inference (Вероятностный вывод) - https://github.com/elfi-dev/elfi - 262 stars       
+https://pypi.org/project/suftware - implementation of **Bayesian** Field Theory algorithms for low-dimensional statistical inference
+https://pypi.org/project/modularbayes - Modular **Bayesian** Inference
 
 ### 📈 Regression 📉
 https://pypi.org/project/clogistic/ - Constrained Logistic Regression
@@ -365,12 +363,10 @@ https://pypi.org/project/bayes-tda/
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
 https://pypi.org/project/naivebayesgauss/   
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
-https://pypi.org/project/suftware - implementation of Bayesian Field Theory algorithms for low-dimensional statistical inference
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
 https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
 https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution 
-https://pypi.org/project/modularbayes - Modular Bayesian Inference
 https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
 https://pypi.org/project/murefi - multiple replicate fitting and Bayesian modeling - Звёзд: 4             
 
@@ -390,6 +386,10 @@ https://pypi.org/project/MiniballCpp - Smallest Enclosing Balls of Points -  З�
 
 https://pypi.org/project/difftopk - Differentiable Sorting, Ranking, and Top-k / Differentiable Top-k Classification Learning -  Звёзд: 65                 
 
+### 🎲 dyce
+https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
+https://pypi.org/project/dyce -  dice outcomes and other finite discrete probabilities - Звёзд: 33                        
+https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7          
 
 
 
@@ -440,6 +440,9 @@ https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization al
 https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Framework)  domains for 2D grid worlds -  4 stars                  
 https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
 https://pypi.org/project/PICOS - interface to conic optimization solvers                
+
+### 🔑 Bindings for optimizers         
+https://pypi.org/project/pychoco - Choco Constraint programming solver (https://choco-solver.org/) 
 
 ### ♨️ Fitting
 **https://pypi.org/project/pyeq3/** - equation, curve and surface fitting library - Звёзд: 5       
@@ -601,6 +604,9 @@ https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
+https://pypi.org/project/pyspod - Python Spectral Proper Orthogonal Decomposition -  Звёзд: 96  - SPOD can be applied to wide-sense stationary data. Examples of these arise in different fields, including fluidmechanics, and weather and climate        
+
+
 
 https://pypi.org/project/gratopy -  tomographic projections, Radon transforms               
 https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
@@ -625,10 +631,15 @@ https://pypi.org/project/simages - Find similar images in a dataset -  Звёз�
 **https://webpages.tuni.fi/foi**              
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
-https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
-https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
+
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
+https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
+https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
+https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
+
+
+
 
 ### Images (Background remover/ Facial recognition)                          
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
@@ -659,7 +670,7 @@ https://pypi.org/project/Unum - Units in Python
 https://pypi.org/project/measurement/
 https://pypi.org/project/totemp - Temperature Converter          
 
-### 🌏🌏🌏 GeoPhysics / Geology / Mining
+### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
 🔴 **https://geostat-framework.org/** - geo-statistical model with Python          
@@ -673,12 +684,13 @@ https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 
 **https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12             
 **https://pypi.org/project/multipoles/** - multipole expansions of electrostatic or gravitational potentials - Звёзд: 37             
+**https://pypi.org/project/pyproj** - interface to PROJ (cartographic projections and coordinate transformations library) - Звёзд: 1013            
 
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
 https://pypi.org/project/dcf -  generating discounted cashflows 
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
 **https://pypi.org/project/geoscilabs** - to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz - Звёзд: 48        
-**https://github.com/geoscixyz/geosci-labs**          
+**https://github.com/geoscixyz/geosci-labs**   
 
 
 ### 🔱 Hydro(logical( model    
