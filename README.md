@@ -9,9 +9,9 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 **https://jina.ai/**
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
-⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985
-**https://pypi.org/project/paddlehub/** -- Звёзд: 12595 - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)            
-**https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726             
+⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                     
+**https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
+**https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
 https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
