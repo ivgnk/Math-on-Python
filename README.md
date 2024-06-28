@@ -81,7 +81,7 @@ https://en.wikipedia.org/wiki/Zenodo
 https://ru.wikipedia.org/wiki/ViXra -  unorthodox and fringe science           
 
 
-## ⭐ OrG                 
+## ⭐🅾️ OrG                 
 **https://sandialabs.github.io/                  
 https://github.com/LLNL/sundials/releases**                 
 **https://www.pyomo.org**
@@ -350,10 +350,11 @@ https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCD
 https://pypi.org/project/pyparcs - causal methods - Звёзд: 4              
 
 ### ❓ Statistics with uncertainity
-https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation
+https://github.com/topics/uncertainty-quantification 
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
 https://pypi.org/project/uqtestfuns - library of test functions from the uncertainty quantification - Звёзд: 8
+https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation - Звёзд: 0
 
 https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty              
 https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods    
@@ -502,7 +503,7 @@ https://members.loria.fr/JBMouret/qd.html
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
 
 ### 🌷 Derivative-free optimization     
-⚡ **https://github.com/topics/derivative-free**
+:octocat: **https://github.com/topics/derivative-free**
  https://github.com/eyounx/ZOOpt  -  394 stars 
  https://github.com/polixir/ZOOpt -  65 stars
  
@@ -575,9 +576,12 @@ https://pypi.org/project/CubeFlow
 https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
 ## 💰 Quantitative Finance          
+## 🅾️ ORG 
+https://github.com/quantmind
+
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480           
 
-https://github.com/quantmind                          
+                          
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
 https://pypi.org/project/pyfolio-qa             
@@ -596,15 +600,15 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                         
 **https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803             
+https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 472           
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://github.com/deeptime-ml/deeptime**
 https://pypi.org/project/kshape - univariate and multivariate time-series clustering - https://github.com/TheDatumOrg/kshape-python -  Звёзд: 320       
 **https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars                 
 **https://pypi.org/project/pyextremes** - Extreme Value Analysis (EVA) https://en.wikipedia.org/wiki/Extreme_value_theory - Звёзд: 233
+https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77                     
 
-https://pypi.org/project/kaftools/                
-https://pypi.org/project/PyGSP/            
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
 https://pypi.org/project/slants - Sequential Learning Algorithm for Nonlinear Time Series (SLANTS)               
@@ -620,7 +624,8 @@ https://pypi.org/project/csaps - Cubic spline approximation (smoothing)
 https://pypi.org/project/alexandria-python -  Bayesian time-series econometrics applications             
 **https://pypi.org/project/rego** - Automatic Time Series Forecasting and Missing Value Imputation - Звёзд: 18             
 https://pypi.org/project/ltv-mpc - Linear time-variant model predictive control in Python. quadratic program (QP). This includes linear time-invariant (LTI) and time-variant (LTV) systems with linear constraints -  28 stars       
-https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
+
+https://pypi.org/project/kaftools/ - Kernel Adaptive Filtering (KAF) methods - Звёзд: 1               
 
 
 
@@ -694,6 +699,7 @@ https://pypi.org/project/iremover/
 
 
 ### 🎀 Topology       
+https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analysis  https://kepler-mapper.scikit-tda.org/en/latest/ - https://github.com/scikit-tda/kepler-mapper  -  623 stars                       
 **https://ya.ru/search/?text=use+of+topological+methods+in+geology+and+geophysics**                       
 https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io                          
 https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
@@ -890,9 +896,10 @@ https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of soci
 https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
-https://pypi.org/project/mapper (2017)      
-https://github.com/gtaylor/python-colormath    
-https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
-https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
-https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analysis  https://kepler-mapper.scikit-tda.org/en/latest/                           
+https://github.com/gtaylor/python-colormath -  453 stars              
+https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves -  Звёзд: 28                
 https://pypi.org/project/llnl-pydv -  1D graphics and data analysis tool, heavily based on the ULTRA plotting tool - Звёзд: 12                 
+https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
+
+--- not in github            
+https://pypi.org/project/mapper (2017) - https://danifold.net/mapper/     
