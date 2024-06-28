@@ -863,11 +863,11 @@ https://pypi.org/project/c45-decision-tree  12/07/2023 -  Звёзд: 5
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022 -  0 stars           
 
 ## 🏀 Games
-**https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**
-https://pypi.org/project/GameOfLife (GOL)      
-https://pypi.org/project/TicTacToe3
-https://pypi.org/project/opener - Solve open the lock puzzle            
-https://pypi.org/project/dicetables
+**https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**            
+https://pypi.org/project/GameOfLife (GOL)            
+https://pypi.org/project/TicTacToe3                    
+https://pypi.org/project/opener - Solve open the lock puzzle                      
+https://pypi.org/project/dicetables              
 https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225         
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
@@ -882,7 +882,7 @@ https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochas
 https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lyapunov vectors (CLV) and adjoints of a dynamical system - Звёзд: 7             
 https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5                              
 https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics - Звёзд: 0             
-**https://pypi.org/project/opensimplex-loops** -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images - Звёзд: 0                
+https://pypi.org/project/opensimplex-loops** -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images - Звёзд: 0                
 ---  
 https://pypi.org/project/apecosm - oceanic -  0 stars
 
