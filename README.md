@@ -116,13 +116,12 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 # 🏠 PyPi                                  
 ## ♏ Algo & Structurs collections   
 ### JAX                 
-**https://pypi.org/project/jax** - Differentiate, compile, and transform Numpy code - Звёзд: 28984
+**https://pypi.org/project/jax** - Differentiate, compile, and transform Numpy code - Звёзд: 28984             
 **https://github.com/google/jax** - Composable transformations of Python+NumPy programs: differentiate, vectorize and more - 29k stars                
-**https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900 
-https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX
-https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX - 
-https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                       
-
+**https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900             
+https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
+https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
+https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
@@ -142,13 +141,12 @@ https://pypi.org/project/trusspy - Truss Solver - Звёзд: 51
 
 
 ### ◀️Numeric intervals▶️
-**https://pypi.org/project/portion/** - Data structure and operations for intervals
-https://pypi.org/project/pynterval/
-https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic                   
-https://pypi.org/project/python-intervals - Data structure and operations for intervals
+**https://pypi.org/project/portion** - Data structure and operations for intervals - Звёзд: 461  (https://pypi.org/project/python-intervals)         
+https://pypi.org/project/pynterval -  Звёзд: 0                     
+https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic -  1 star                  
 
 ### 📀💿 DataBase 💾
-https://pypi.org/project/PyPika - A SQL query builder API for Python
+https://pypi.org/project/PyPika - A SQL query builder API for Python - Звёзд: 2425                     
 
         
 ## 🔺 Complex
@@ -504,17 +502,19 @@ https://quality-diversity.github.io/papers
 https://members.loria.fr/JBMouret/qd.html             
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
 
-### Derivative-free optimization     
+### 🌷 Derivative-free optimization     
 **https://pypi.org/project/rbfopt/** -  black-box (derivative-free) optimization -  Звёзд: 189        
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
-https://pypi.org/project/dfbgn              
-https://pypi.org/project/dfoalgos           
+https://pypi.org/project/dfbgn - Звёзд: 7             
 https://pypi.org/project/SQSnobFit/       
 https://pypi.org/project/SQImFil/      
 https://github.com/mjhough/dfo_alg       
 https://pypi.org/project/directsearch -  A derivative-free solver for unconstrained minimization
 https://pypi.org/project/ttopt - Звёзд: 28             
+**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 
+--- not in github
+https://pypi.org/project/dfoalgos           
 
 ### 💢 Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
@@ -759,7 +759,7 @@ https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element s
 **https://github.com/QSD-Group** - Tools for quantitative sustainable design (QSD) to guide the research, development, and deployment of technologies and inform decision-making         
 
 
-### 🔱 Hydro(logical( model    
+### 🔱 Hydro(logical) model    
 https://mhm-ufz.org/
 https://pypi.org/project/basinex 
 https://pypi.org/project/rtc-tools-hydraulic-structures - Hydraulic structures models for RTC-Tools 2.
@@ -872,7 +872,7 @@ https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
 ## 🎡 Dynamic systems    
-**https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351               
+**https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578
 https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
@@ -882,12 +882,10 @@ https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochas
 https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lyapunov vectors (CLV) and adjoints of a dynamical system - Звёзд: 7             
 https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5                              
 https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics - Звёзд: 0             
-https://pypi.org/project/opensimplex-loops** -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images - Звёзд: 0                
----  
+**https://pypi.org/project/opensimplex-loops** -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images - Звёзд: 0                
 https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
-**https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
 https://pypi.org/project/mapper (2017)      
 https://github.com/gtaylor/python-colormath    
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
