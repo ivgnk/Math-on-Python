@@ -508,13 +508,14 @@ https://pypi.org/project/qdpy - Quality-Diversity algorithms
 https://pypi.org/project/dfbgn - Звёзд: 7             
 https://pypi.org/project/SQSnobFit/       
 https://pypi.org/project/SQImFil/      
-https://github.com/mjhough/dfo_alg       
+      
 https://pypi.org/project/directsearch -  A derivative-free solver for unconstrained minimization
 https://pypi.org/project/ttopt - Звёзд: 28             
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions
+https://github.com/mjhough/dfo_alg - 0 stars
 
---- not in github
-https://pypi.org/project/dfoalgos           
+--- not in github                      
+https://pypi.org/project/dfoalgos                    
 
 ### 💢 Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
@@ -674,9 +675,9 @@ https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звё
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
-https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68          
--- not in github        
-https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python       
+https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68                          
+-- not in github                  
+https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python        
 
 
 #### 🎨 Particle simulation                    
@@ -800,7 +801,7 @@ https://pypi.org/project/RobustGaussianFittingLibrary -  robust Gaussian fitting
 https://pypi.org/project/pyclipper -  Angus Johnson's Clipper library - https://github.com/AngusJohnson/Clipper2 - Polygon Clipping and Offsetting             
 https://pypi.org/project/geomstats - Geometric statistics on manifolds - Звёзд: 1171        
 https://pypi.org/project/polygon-contains-point -  checking if a polygon contains a given point     
---- not in github        
+--- not in github              
 **https://pypi.org/project/Polygon3** - package that handles polygonal shapes in 2D (2021) 
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 
