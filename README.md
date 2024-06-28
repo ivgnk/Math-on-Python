@@ -2,6 +2,7 @@ https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathemat
 
 # Math             
 Small and not only small mathematical problems on Python             
+https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 
 ## 🚗 ML / DL / AI / DS      
@@ -31,7 +32,7 @@ https://pypi.org/project/imbalance-metrics
 **https://pypi.org/project/pycm/** -  Звёзд: 1438   
 https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
 https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Library for Training Binarized Neural Networks            
-
+https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 
 
 ### 🔥 Generative               
@@ -122,7 +123,7 @@ https://github.com/discretegames/DSAs - sorting
 https://pypi.org/project/cog-suspect/ - Special Structure Detection          
 https://pypi.org/project/openmtpk -  Numbery Theory and Cryptographic algorithms, Linear Algebra, and Machine/Deep learning - 8 stars             
 https://pypi.org/project/athena-mathlab -  reduction of high dimensional parameter spaces in the context of numerical analysis. It allows the use of several dimensionality reduction techniques such as Active Subspaces (AS), Kernel-based Active Subspaces (KAS), and Nonlinear Level-set Learning (NLL) - Звёзд: 50            
-
+https://pypi.org/project/trusspy - Truss Solver - Звёзд: 51          
 
 
 ### ◀️Numeric intervals▶️
@@ -252,6 +253,7 @@ https://pypi.org/project/seqgentools/
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
+https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs 
 
 https://pypi.org/project/gwr-inversion                     
 https://github.com/JoshKarpel/idesolver     
@@ -259,7 +261,7 @@ https://pypi.org/project/differint -  Звёзд: 50
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37          
-
+https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
  
 
 https://pypi.org/project/ode-explorer (2020)       
@@ -311,7 +313,6 @@ https://github.com/nudomarinero/wquantiles - Weighted quantiles, including weigh
 **https://pypi.org/project/tsdst/** -  statistical utility tool         
 https://pypi.org/project/benford-py - https://en.wikipedia.org/wiki/Benford%27s_law          
 https://pypi.org/project/benfordviz                
-https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
 **https://pypi.org/project/powerlaw** -  Analysis of Heavy-Tailed Distributions           
 https://pypi.org/project/applied-stats - compute MLEs / probabilities         
 https://pypi.org/project/causality - causal inference
@@ -320,7 +321,11 @@ https://pypi.org/project/skm-pyutils/
 https://pypi.org/project/lmoments3 -  L-moments to calculate optimal parameters for a number of distributions - Звёзд: 6       
 https://pypi.org/project/CausalDisco - Causal Discovery
 https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCDA is a data standard which allows to represent MultiCriteria Decision Analysis (MCDA) data elements in XML according to a clearly defined grammar    
- 
+
+### 🎲 dyce
+https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
+https://pypi.org/project/dyce -  exploring dice outcomes and other finite discrete probabilities - Звёзд: 33                        
+https://pypi.org/project/anydyce/ 
 
 
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
@@ -352,7 +357,8 @@ https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statist
 https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
 https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
 https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution 
-https://pypi.org/project/modularbayes - Modular Bayesian Inference       
+https://pypi.org/project/modularbayes - Modular Bayesian Inference
+https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
 
 
 
@@ -393,6 +399,7 @@ https://pypi.org/project/lightgbm-tools
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
 https://pypi.org/project/gpcg - conjugate gradient algorithm (GPCG) for solving bound-constrained quadratic programs - Звёзд: 3             
+
 
 https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
@@ -445,6 +452,7 @@ https://pypi.org/project/SQSnobFit/
 https://pypi.org/project/SQImFil/      
 https://github.com/mjhough/dfo_alg       
 https://pypi.org/project/directsearch -  A derivative-free solver for unconstrained minimization
+https://pypi.org/project/ttopt - Звёзд: 28             
 
 
 ### 💢 Dynamic programming          
@@ -454,7 +462,10 @@ https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprog
 https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
 https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods  
 https://pypi.org/project/regressions - Generates statistical regression models for data sets         
-https://pypi.org/project/rfcorr - Random Forest-inspired correlation/dependence methods -  Звёзд: 14 - 03/05/2022       
+https://pypi.org/project/rfcorr - Random Forest-inspired correlation/dependence methods - Звёзд: 14 - 03/05/2022       
+https://pypi.org/project/salmon-lm - symbolic algebra of linear regression and modeling - Звёзд: 8
+
+
 
 
 
@@ -484,7 +495,10 @@ https://pypi.org/project/kratosmultilevelmontecarloapplication/ - MultilevelMont
 belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest.               
 https://pypi.org/project/kratosmultilevelmontecarloapplication - MultilevelMonteCarloApplication provides different algorithms, belonging to the Monte Carlo (MC) family, to estimate statistics of scalar and field quantities of interest       
 https://pypi.org/project/control-vegas/ - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas            
-https://pypi.org/project/marchie - Analyzing Discrete Markov Chains         
+https://pypi.org/project/marchie - Analyzing Discrete Markov Chains       
+**https://pypi.org/project/pymdptoolbox-roi/** - Markov Decision Process (MDP) Toolbox -  Звёзд: 518                 
+
+
 
 
 ## 🎨 Particle simulation                    
@@ -518,6 +532,7 @@ https://pypi.org/project/aristop - optimization of energy systems
 ## ⏲️ Signal Processing / Time Series / Filtering                                                                
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://github.com/deeptime-ml/deeptime**
+**https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars       
 https://pypi.org/project/kaftools/                
 https://pypi.org/project/PyGSP/            
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
@@ -533,6 +548,11 @@ https://pypi.org/project/tffpy - Time frequency fading using Gabor multipliers
 https://pypi.org/project/pecuzal-embedding - PECUZAL automatic embedding of uni- and multivariate time series           
 https://pypi.org/project/csaps - Cubic spline approximation (smoothing)       
 https://pypi.org/project/alexandria-python -  Bayesian time-series econometrics applications             
+**https://pypi.org/project/rego** - Automatic Time Series Forecasting and Missing Value Imputation - Звёзд: 18             
+https://pypi.org/project/ltv-mpc - Linear time-variant model predictive control in Python. quadratic program (QP). This includes linear time-invariant (LTI) and time-variant (LTV) systems with linear constraints -  28 stars       
+
+
+
 
 https://pypi.org/project/chainfix -  data types for signal processing and blockchain applications     
 https://pypi.org/project/timexseries-clustering/ - time-series-clustering      
@@ -618,7 +638,9 @@ https://pypi.org/project/totemp - Temperature Converter
 2) **https://www.opengeosys.org** - numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media       
 https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 3) https://github.com/GeoStat-Framework/AnaFlow - analytical and semi-analytical solutions for the groundwater-flow equation             
-4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns                
+4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns
+
+**https://pypi.org/project/valeriepieris/** - smallest circles containing at least a fraction f of the data                   
 
 **https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12             
 **https://pypi.org/project/multipoles/** - multipole expansions of electrostatic or gravitational potentials - Звёзд: 37             
@@ -666,7 +688,7 @@ https://pypi.org/project/polliwog - 2D and 3D computational geometry library
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language         
 https://pypi.org/project/PyAbel - forward and inverse Abel transforms - Звёзд: 91          
 https://pypi.org/project/svgpathtools -  manipulating and analyzing SVG Path objects and Bezier curves - Звёзд: 530                           
-
+https://pypi.org/project/RobustGaussianFittingLibrary -  robust Gaussian fitting of geometric models in presence of outliers (выбросов) - Звёзд: 5                     
     
 ## ☸️ Networks / Graphs / Tree              
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
@@ -708,6 +730,9 @@ https://pypi.org/project/pygraphia
 
 ### 🌳 Tree 
 https://pypi.org/project/py-itree - A Interval Tree Library - Звёзд: 12
+**https://pypi.org/project/mistree** - minimum spanning tree (MST), a graph constructed from a distribution of points, draws lines between pairs of points so that all points are linked in a single skeletal structure that contains no loops and has minimal total edge length - https://github.com/knaidoo29/mistree -  47 stars           
+
+
 
 
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022            
@@ -752,3 +777,4 @@ https://pypi.org/project/Tree
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves      
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
 https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analysis  https://kepler-mapper.scikit-tda.org/en/latest/                           
+https://pypi.org/project/llnl-pydv -  1D graphics and data analysis tool, heavily based on the ULTRA plotting tool - Звёзд: 12                 
