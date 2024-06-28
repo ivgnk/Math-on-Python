@@ -37,6 +37,7 @@ https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy 
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
+https://pypi.org/project/ctransformers - Звёзд: 1749                
 https://pypi.org/project/torch-dreams- Звёзд: 237             
 https://pypi.org/project/pymuco - Music Computation Library - https://pymuco.org            
 
@@ -169,6 +170,7 @@ https://pypi.org/project/primegenerator
 https://pypi.org/project/find-primes -  find primes and factors of big numbers                
 
 https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
+https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selection -  **https://github.com/abess-team** - https://github.com/abess-team/abess-A-Fast-Best-Subset-Selection-Library-in-Python-and-R                    
 
 ### 🌌 Random data / Stochastic processes
 **https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437              
@@ -196,7 +198,6 @@ https://pypi.org/project/partitions/
 https://pypi.org/project/combi/ 
 https://github.com/whym1here/Algopylib
 https://pypi.org/project/testflows.combinatorics/
-https://pypi.org/project/dyce/ -  dice outcomes and other finite discrete probabilities          
 https://pypi.org/project/infEGE 
 https://pypi.org/project/permutation - Permutations of finitely many positive integers - Звёзд: 16           
 https://pypi.org/project/comb-spec-searcher -  Звёзд: 11            
@@ -218,6 +219,7 @@ https://pypi.org/project/equadratures  - Polynomial approximations
 https://pypi.org/project/cardano-method -  cubic equation solver       
 https://github.com/stephenhky/MoguNumerics - Exponential and sigmoid curve fitting; Dynamic programming: Damerau-Levenshtein distance; Topological data analysis; Multivariate Gaussian distribution sampling; Probability crosswalk;               
 https://pypi.org/project/cy-root -  multiple root-finding methods - Звёзд: 21            
+https://pypi.org/project/sigfig - rounding numbers (with expected results)           
 
 https://pypi.org/project/samply - computing samplings in arbitrary dimensions
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124           
@@ -304,6 +306,7 @@ https://pypi.org/project/tracywidom - Generate Tracy-Widom distribution function
 **https://pypi.org/project/boisgera-pioupiou/** - A nano probabilistic programming language for Python            
 https://pypi.org/project/causaldag/
 https://pypi.org/project/pdlpy - Probability Distribution Library
+https://pypi.org/project/asalix - collection of mathematical tools and utilities designed to support Lean **Six Sigma** practitioners - Звёзд: 5       
 
 https://pypi.org/project/distribution-algebra -  random variables, statistical distributions, and their algebra            
 **https://pypi.org/project/gsa-framework/** - Generic framework for global sensitivity analysis            
@@ -324,17 +327,13 @@ https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCD
 
 ### 🎲 dyce
 https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
-https://pypi.org/project/dyce -  exploring dice outcomes and other finite discrete probabilities - Звёзд: 33                        
-https://pypi.org/project/anydyce/ 
-
+https://pypi.org/project/dyce -  dice outcomes and other finite discrete probabilities - Звёзд: 33                        
+https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7          
 
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
 https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty              
 https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods        
-
-
-
 
 ### 📈 Regression 📉
 https://pypi.org/project/clogistic/ - Constrained Logistic Regression
@@ -359,6 +358,7 @@ https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks 
 https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution 
 https://pypi.org/project/modularbayes - Modular Bayesian Inference
 https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
+https://pypi.org/project/murefi - multiple replicate fitting and Bayesian modeling - Звёзд: 4             
 
 
 
@@ -385,6 +385,8 @@ https://pypi.org/project/difftopk - Differentiable Sorting, Ranking, and Top-k /
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment           
+https://pypi.org/project/quadrilateral-fitter -  fitting irregular quadrilaterals (четырехугольники) from polygons or point clouds - Звёзд: 5            
+
 
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512          
@@ -399,7 +401,7 @@ https://pypi.org/project/lightgbm-tools
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
 https://pypi.org/project/gpcg - conjugate gradient algorithm (GPCG) for solving bound-constrained quadratic programs - Звёзд: 3             
-
+https://pypi.org/project/algormeter - eveloping, testing, measuring and exchange optimizers algorithms                
 
 https://pypi.org/project/pao -  Adversarial Optimization         
 https://pypi.org/project/ncpol2sdpa    
@@ -427,7 +429,9 @@ https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Fr
 https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
 https://pypi.org/project/PICOS - interface to conic optimization solvers                
 
-### Linear programming             
+### Fitting
+
+### ↔️ Linear programming             
 **https://pypi.org/project/lippy** -  Звёзд: 18           
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
@@ -550,6 +554,7 @@ https://pypi.org/project/csaps - Cubic spline approximation (smoothing)
 https://pypi.org/project/alexandria-python -  Bayesian time-series econometrics applications             
 **https://pypi.org/project/rego** - Automatic Time Series Forecasting and Missing Value Imputation - Звёзд: 18             
 https://pypi.org/project/ltv-mpc - Linear time-variant model predictive control in Python. quadratic program (QP). This includes linear time-invariant (LTI) and time-variant (LTV) systems with linear constraints -  28 stars       
+https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
 
 
 
@@ -602,6 +607,7 @@ https://pypi.org/project/pymedit
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
+https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
 
 ### Images (Background remover/ Facial recognition)                          
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
@@ -633,7 +639,9 @@ https://pypi.org/project/measurement/
 https://pypi.org/project/totemp - Temperature Converter          
 
 ### 🌏🌏🌏 GeoPhysics / Geology / Mining
-**https://geostat-framework.org/** - geo-statistical model with Python          
+🔴 https://pypi.org/project/simpeg
+https://pypi.org/project/simpeg-archive
+🔴 **https://geostat-framework.org/** - geo-statistical model with Python          
 1) https://github.com/GeoStat-Framework/GSTools - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more -  529 stars        
 2) **https://www.opengeosys.org** - numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media       
 https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
@@ -746,6 +754,7 @@ https://pypi.org/project/TicTacToe3/
 
 https://pypi.org/project/opener - Solve open the lock puzzle            
 https://pypi.org/project/dicetables
+https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225         
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
 
@@ -757,6 +766,7 @@ https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical syste
 https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
 https://pypi.org/project/contique - Numerical continuation of nonlinear equilibrium equations -  Звёзд: 5              
 https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of social dynamics 
+https://pypi.org/project/opensimplex-loops -  generate seamlessly-looping animated images and closed curves, and seamlessy-tileable images                 
 
 
 
