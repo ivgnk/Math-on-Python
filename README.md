@@ -1,5 +1,3 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=70
-
 # Math             
 Small and not only small mathematical problems on Python             
 https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
@@ -430,46 +428,60 @@ https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7
 
 
 ## 🎬 Optimization / Fitting  
+### ⚡⚡⚡ Github 
+https://github.com/topics/optimization?l=python -  2,149 public repo             
+https://github.com/topics/bayesian-optimization?l=python - 258 public repo               
+https://github.com/topics/particle-swarm-optimization?l=python -  189 public repo              
+https://github.com/topics/heuristic-algorithms?l=python - 7 public repo               
+https://github.com/topics/fish-swarms?l=python - 3 public repo       
+
+https://github.com/bayesian-optimization/BayesianOptimization - 7.6k star         
+https://github.com/guofei9987/scikit-opt - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman) - 5k stars                  
+https://github.com/google/vizier - 1190 star          
+https://github.com/EmuKit/emukit  - 576 star
+https://github.com/chrisstroemel/Simple - Experimental Global Optimization Algorithm - 478 stars                     
+
+### 🏠 Pypi
 **https://web.casadi.org** - CasADi is an open-source tool for nonlinear optimization and algorithmic differentiation.
 https://pypi.org/project/csnn - Neural Networks with CasADi            
 
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
+https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512          
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
-https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment           
-https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
-https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7          
+**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                          
 
+https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
+https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
+https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
+https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7          
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
+https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment - Звёзд: 1          
+
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
 https://pypi.org/project/benchmark-functions/ - benchmark functions collection  for assessing the performances of optimisation problems on deterministic functions
 **https://pypi.org/project/optobench/** - Benchmark (Test) Functions for Optimization
-**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
-https://pypi.org/project/lightgbm-tools 
-https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
+https://pypi.org/project/pao -  Adversarial Optimization -  Звёзд: 17        
 https://pypi.org/project/qmm - Quadratic Majorize-Minimize -  Звёзд: 15         
 https://pypi.org/project/pyfe3d -  finite element solver for structural analysis and optimization -  Звёзд: 15        
 https://pypi.org/project/gpcg - conjugate gradient algorithm (GPCG) for solving bound-constrained quadratic programs - Звёзд: 3             
-https://pypi.org/project/algormeter - eveloping, testing, measuring and exchange optimizers algorithms                
+https://pypi.org/project/algormeter - eveloping, testing, measuring and exchange optimizers algorithms           
+https://pypi.org/project/cfrainbow - Implementations Of Counterfactual Regret Minimization In Its Many Shapes & Colors -  Звёзд: 2       
+https://pypi.org/project/lightgbm-tools - Gradient boosting framework that uses tree based learning algorithms - Звёзд: 2 
 
-https://pypi.org/project/pao -  Adversarial Optimization         
-https://pypi.org/project/ncpol2sdpa    
 https://pypi.org/project/pymprog/          https://pymprog.sourceforge.net       
-https://pypi.org/project/pyeq2/
 https://pypi.org/project/DFOGN/
 https://pypi.org/project/levmar/ -  Levenberg-Marquardt (LM) optimization algorithm            
 https://pypi.org/project/light-famd/ - includes a variety of methods including principal component analysis (PCA) and multiply correspondence analysis (MCA)           
-https://pypi.org/project/smogn/    
 https://pypi.org/project/peak-engines - Machine learning framework built on second-order optimization          
 https://pypi.org/project/peerless       
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 https://pypi.org/project/sqnomad -     
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
-https://pypi.org/project/cyclicbm - Cyclic Boosting         
-https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
+         
 https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
 https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization algorithm -  Звёзд: 12          
 **https://pypi.org/project/opof/**
@@ -477,6 +489,15 @@ https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Fr
 https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
 https://pypi.org/project/PICOS - interface to conic optimization solvers                
 https://pypi.org/project/swarmist -  Domain Specific Language (DSL) for building metaheuristic algorithms to solve single-objective continuous optimization over real domains 
+
+### 📈 Regression 
+https://pypi.org/project/smogn - Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise -  Звёзд: 305            
+
+https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
+https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods  
+https://pypi.org/project/regressions - Generates statistical regression models for data sets -  48 stars              
+https://pypi.org/project/rfcorr - Random Forest-inspired correlation/dependence methods - Звёзд: 14 - 03/05/2022       
+https://pypi.org/project/salmon-lm - symbolic algebra of linear regression and modeling - Звёзд: 8
 
 ### 🔑 Bindings for optimizers         
 https://pypi.org/project/pychoco - Choco Constraint programming solver (https://choco-solver.org/) 
@@ -486,7 +507,10 @@ https://pypi.org/project/optlang - Formulate optimization problems using sympy e
 **https://pypi.org/project/pyeq3/** - equation, curve and surface fitting library - Звёзд: 5       
 https://pypi.org/project/quadrilateral-fitter -  fitting irregular quadrilaterals (четырехугольники) from polygons or point clouds - Звёзд: 5            
 https://pypi.org/project/multinterp - https://pypi.org/project/multinterp - Звёзд: 4              
-https://pypi.org/project/scifit - Звёзд: 1           
+https://pypi.org/project/scifit - Звёзд: 1    
+--- not in github          
+https://pypi.org/project/pyeq2 - Large curve fitting and surface fitting library with hundreds of named equations                    
+
 
 ### ↔️ Linear programming             
 **https://pypi.org/project/lippy** -  Звёзд: 18           
@@ -536,28 +560,16 @@ https://github.com/mjhough/dfo_alg - 0 stars
 **https://pypi.org/project/SQSnobFit/** - https://qat4chem.lbl.gov/software
 https://pypi.org/project/dfoalgos                    
 
-### 💢 Dynamic programming          
-https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
-
-### 📈 Regression 
-https://pypi.org/project/mlr -Linear regression utility with inference tests, residual analysis, outlier visualization, multicollinearity test, and other features             
-https://pypi.org/project/PyQt-Fit/ - Parametric and non-parametric regression, with plotting and testing methods  
-https://pypi.org/project/regressions - Generates statistical regression models for data sets         
-https://pypi.org/project/rfcorr - Random Forest-inspired correlation/dependence methods - Звёзд: 14 - 03/05/2022       
-https://pypi.org/project/salmon-lm - symbolic algebra of linear regression and modeling - Звёзд: 8
-
-
-
-
-
-
 ### ⬇️ Global minimum / Global optimisation                   
 **https://pypi.org/project/cma/** -  Covariance Matrix Adaptation Evolution Strategy for non-linear numerical optimization in Python - Звёзд: 1046      
+https://pypi.org/project/ncpol2sdpa - global polynomial optimization - 48 stars      
 https://pypi.org/project/tgo - Finds the global minimum           
 https://pypi.org/project/organisms  
 https://pypi.org/project/shgo/
 https://pypi.org/project/gofit - GOFit: Global Optimization for Fitting problems - Звёзд: 1                        
 
+### 💢 Dynamic programming          
+https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
 
 
 ## ♏ Cellular Automata /  finite state machines           
