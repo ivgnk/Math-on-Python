@@ -448,6 +448,7 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512          
+https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                          
@@ -543,14 +544,14 @@ https://pypi.org/project/qdpy - Quality-Diversity algorithms
 
 ### 🌷 Derivative-free optimization     
 ⚡⚡ **https://github.com/topics/derivative-free**            
- https://github.com/eyounx/ZOOpt  -  394 stars 
- https://github.com/polixir/ZOOpt -  65 stars
- 
+ https://github.com/eyounx/ZOOpt  -  394 stars            
 **https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
-https://pypi.org/project/ttopt - Звёзд: 28             
-https://github.com/strongio/evolutionary-optimization - 26 stars 
-https://github.com/NiMlr/High-Dim-ES-RL -  25 stars            
-https://pypi.org/project/dfbgn - Звёзд: 7             
+ https://pypi.org/project/fcmaes - Звёзд: 107             
+https://github.com/polixir/ZOOpt -  65 stars                       
+https://pypi.org/project/ttopt - Звёзд: 28                       
+https://github.com/strongio/evolutionary-optimization - 26 stars                   
+https://github.com/NiMlr/High-Dim-ES-RL -  25 stars                     
+https://pypi.org/project/dfbgn - Звёзд: 7                  
 https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 https://github.com/mjhough/dfo_alg - 0 stars
@@ -567,6 +568,9 @@ https://pypi.org/project/tgo - Finds the global minimum
 https://pypi.org/project/organisms  
 https://pypi.org/project/shgo/
 https://pypi.org/project/gofit - GOFit: Global Optimization for Fitting problems - Звёзд: 1                        
+https://pypi.org/project/vpso - Myopic and Non-Myopic Global Optimization -  Звёзд: 1              
+
+
 
 ### 💢 Dynamic programming          
 https://pypi.org/project/dynprogstorage   https://github.com/robingirard/dynprogstorage - Dynamic programming optimisation tool
@@ -781,11 +785,14 @@ https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 3) https://github.com/GeoStat-Framework/AnaFlow - analytical and semi-analytical solutions for the groundwater-flow equation             
 4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns
 
+**https://pypi.org/project/pyproj** - interface to PROJ (cartographic projections and coordinate transformations library) - Звёзд: 1013            
+
 **https://pypi.org/project/valeriepieris/** - smallest circles containing at least a fraction f of the data                   
 
 **https://pypi.org/project/fast-poisson-solver/** - solver for the Poisson equation - электростатическое поле, гравитационное поле, стационарное поле температуры, поле давления, поле потенциала скорости в гидродинамике.-  Звёзд: 12             
 **https://pypi.org/project/multipoles/** - multipole expansions of electrostatic or gravitational potentials - Звёзд: 37             
-**https://pypi.org/project/pyproj** - interface to PROJ (cartographic projections and coordinate transformations library) - Звёзд: 1013            
+https://pypi.org/project/geoana - collection of (mostly) analytic functions in geophysics - Звёзд: 20
+
 https://pypi.org/project/hurst-exponent -
 
 https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetics + Steel Cased Wells              
@@ -794,6 +801,8 @@ https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element s
 **https://pypi.org/project/geoscilabs** - to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz - Звёзд: 48        
 **https://github.com/geoscixyz/geosci-labs**   
 **https://github.com/QSD-Group** - Tools for quantitative sustainable design (QSD) to guide the research, development, and deployment of technologies and inform decision-making         
+--- not in github              
+https://pypi.org/project/lightmorphic - Lightmorphic signatures analysis toolkit - Spatiotemporal lightmorphic computing     
 
 
 ### 🔱 Hydro(logical) model    
@@ -809,7 +818,8 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 
 ## 📏 Geometry 🌑        
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
-**https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599        
+**https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599      
+https://pypi.org/project/solidpython2 - interface to the OpenSCAD declarative geometry language - Звёзд: 119           
 https://pypi.org/project/Geometry3D -  3D Geometry Lib - Звёзд: 85
 https://pypi.org/project/polliwog - 2D and 3D computational geometry library - Звёзд: 27      
 https://pypi.org/project/archaea - base geometric library - Звёзд: 6
@@ -913,7 +923,8 @@ https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабири
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578
 https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
-**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27                
+**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27   
+https://pypi.org/project/muygpys - Scalable Approximate Gaussian Process using Local Kriging - Звёзд: 22              
 https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
 **https://pypi.org/project/kedm/** - Empirical Dynamic Modeling (EDM) framework - https://sugiharalab.github.io/EDM_Documentation -  Звёзд: 12                      
 https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lyapunov vectors (CLV) and adjoints of a dynamical system - Звёзд: 7             
