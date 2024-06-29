@@ -1,3 +1,5 @@
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=55
+
 # Math             
 Small and not only small mathematical problems on Python             
 https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
@@ -119,6 +121,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900             
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
+https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
@@ -178,6 +181,7 @@ https://pypi.org/project/pyunionfind - A union-find disjoint sets data structure
 https://pypi.org/project/primefac - factoring integers into primes     
 https://pypi.org/project/primegenerator 
 https://pypi.org/project/find-primes -  find primes and factors of big numbers                
+https://pypi.org/project/numx/ - Import Numbers      
 
 https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
 https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selection -  **https://github.com/abess-team** - https://github.com/abess-team/abess-A-Fast-Best-Subset-Selection-Library-in-Python-and-R                    
@@ -220,6 +224,8 @@ https://pypi.org/project/infEGE -  8 stars
 https://pypi.org/project/combi/ 
 
 ### 📝 Calculation 
+**https://pypi.org/project/ai4xde/** - library for scientific machine learning and physics-informed learning 
+- - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124           
 https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
@@ -373,8 +379,10 @@ https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis an
 https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods    
 https://pypi.org/project/stats-arrays - Standard NumPy array interface for defining uncertain parameters        
 
-### 🗼 Inferences (Выводы)            
+### 🗼 Inferences (Выводы)   
+**https://github.com/sbi-dev** = Simulation-based inference toolbox                
 https://pypi.org/project/causality - causal inference - Звёзд: 1059
+https://pypi.org/project/sbi - Simulation-based inference is the process of finding parameters of a simulator from observations - Звёзд: 541                
 https://pypi.org/project/elfi - Likelihood-free Inference (Вероятностный вывод) - https://github.com/elfi-dev/elfi - 262 stars       
 https://pypi.org/project/suftware - implementation of **Bayesian** Field Theory algorithms for low-dimensional statistical inference
 https://pypi.org/project/modularbayes - Modular **Bayesian** Inference
@@ -412,10 +420,15 @@ https://pypi.org/project/queueing-tool -  Звёзд: 63
 https://pypi.org/project/queueing-systems/
 
 
-### ❄️ Clustering / Classification         
-https://pypi.org/project/fastcluster - Fast hierarchical clustering routines for R and Python
-https://pypi.org/project/infostop - Temporospatial clustering in Python. Well suited for mobility data        
+### ❄️ Clustering / Classification   
+⚡ ⚡ ⚡ https://github.com/topics/clustering
+https://github.com/pycaret/pycaret - low-code machine learning library - 8.6k stars                   
+https://github.com/mapbox/supercluster -  2k stars         
+
+https://pypi.org/project/fastcluster - Fast hierarchical clustering routines for R and Python - https://github.com/fastcluster/fastcluster - 131 stars                 
+https://pypi.org/project/infostop - Temporospatial clustering in Python. Well suited for mobility data - Звёзд: 61        
 https://pypi.org/project/MiniballCpp - Smallest Enclosing Balls of Points -  Звёзд: 20           
+https://pypi.org/project/metacluster - etaheuristic-based Clustering Problems - Звёзд: 9             
 
 https://pypi.org/project/difftopk - Differentiable Sorting, Ranking, and Top-k / Differentiable Top-k Classification Learning -  Звёзд: 65                 
 
@@ -446,6 +459,7 @@ https://github.com/chrisstroemel/Simple - Experimental Global Optimization Algor
 https://pypi.org/project/csnn - Neural Networks with CasADi            
 
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
+**https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars             
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512          
 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
@@ -453,10 +467,13 @@ https://pypi.org/project/pylops - linear operators to allow solving large-scale 
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                          
 
+**https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
 https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
+https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
-https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7          
+https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7 
+https://pypi.org/project/ProMCDA - Probabilistic Multi Criteria Decision Analysis - Звёзд: 5             
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment - Звёзд: 1          
 
@@ -520,14 +537,15 @@ https://pypi.org/project/conv-opt - High-level Python package for solving linear
 
 ### 🐝 Particle Swarm Optimization 🐜 (Evolutionary algorithms)                       
 **https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox -  2k stars         
-**https://pypi.org/project/pyswarms** - Звёзд: 1245
+**https://pypi.org/project/pyswarms** - Звёзд: 1245                  
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms -  Звёзд: 490       
 **https://pypi.org/project/mealpy** - Library for Latest Meta-heuristic Algorithms in Python - Звёзд: 816            
 https://pypi.org/project/pyswarm - Звёзд: 309            
-https://pypi.org/project/psopy - Звёзд: 35
-https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Python -  16 stars          
-https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm -  2 stars
--- Differential Evolution
+https://pypi.org/project/psopy - Звёзд: 35              
+https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Python -  16 stars               
+https://pypi.org/project/reflame - REvolutionizing Functional Link Artificial neural networks by MEtaheuristic algorithms - Звёзд: 6         
+https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm -  2 stars                
+-- Differential Evolution                           
 https://pypi.org/project/aeecde - Adaptive Differential Evolution - Звёзд: 0     
 https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation -  Звёзд: 0       
 
@@ -670,8 +688,11 @@ https://pypi.org/project/bm4d - BM4D denoising
 https://pypi.org/project/derrom -  to perform computationally efficient regression on high-dimensional time-series data -  Звёзд: 6                      
 https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation - Звёзд: 18                        
 
-## ✳️ Maps / Images / Tomography  / Topology / Meshs       
+## ✳️ Maps / Images / Tomography  / Topology / Meshs     
+
+### 🐠 Images
 https://pypi.org/search/?q=SIFT     
+https://pypi.org/project/ipol - https://git.sr.ht/~coco/clipol
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
@@ -696,6 +717,7 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд: 114           
 https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёзд: 114           
 https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22          
+https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://github.com/s-emanuilov/vector_forge - convert individual images into feature vectors by specifying your desired model -  0 stars               
 
 ### 💮 Meshs / 2D / 3D 
 **https://webpages.tuni.fi/foi**   
@@ -713,6 +735,7 @@ https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github
 https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
+https://pypi.org/project/discretisedfield - analysis and visualisation of finite-difference fields -  Звёзд: 17             
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
 https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68                          
 -- not in github                  
@@ -730,19 +753,30 @@ https://pypi.org/project/iremover/
 
 
 ### 🎀 Topology       
+⚡⚡⚡ **GitHub**                          
+https://github.com/topics/topology?l=python                
+https://github.com/giotto-ai/giotto-tda - 828 stars            
+https://github.com/scikit-tda/scikit-tda -  504 stars      
+https://github.com/williamhunter/topy - Topology Optimization using Python - 464 stars          
+https://github.com/pysal/spaghetti - SPAtial GrapHs: nETworks, Topology, & Inference - 259 stars             
+https://github.com/stephenhky/PyTDA - Topological Data Analysis - 170 stars              
+
 https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analysis  https://kepler-mapper.scikit-tda.org/en/latest/ - https://github.com/scikit-tda/kepler-mapper  -  623 stars                       
 **https://ya.ru/search/?text=use+of+topological+methods+in+geology+and+geophysics**                       
-https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io                          
-https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
-**https://pypi.org/project/scikit-tda/** - Topological Data Analysis for humans        
-https://github.com/cwant/tessagon - Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns - 211 stars    
 
+**https://pypi.org/project/scikit-tda/** - Topological Data Analysis for humans -  Звёзд: 504        
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
+
+https://github.com/cwant/tessagon - Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns - 211 stars    
+https://pypi.org/project/mogutda - Topological Data Analysis -  Звёзд: 113       
+https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
+https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io  -  Звёзд: 0     
+
 **https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
 https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 
 
-## ⚡ Physics  
+## ⚡⚡ Physics ⚡⚡ 
 ### 🔴🔵 Magn  
 **https://ubermag.github.io** - Micromagnetic simulations 
 (---beg---)           
@@ -773,6 +807,10 @@ https://pypi.org/project/measurement/
 https://pypi.org/project/totemp - Temperature Converter          
 
 ### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
+**https://github.com/pysal** - Python Spatial Analysis Library
+**https://github.com/erdogant/findpeaks** - detection of peaks and valleys in a 1d-vector or 2d-array (image) -  216 stars   
+**https://github.com/mattijn/topojson** - Encode spatial data as topology -  175 stars               
+
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47
 
