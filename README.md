@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=55
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=52
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -9,9 +9,13 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 **https://jina.ai/**
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
-⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                     
+⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
+https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
+https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250                   
+https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467          
+
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
 https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
@@ -231,7 +235,8 @@ https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124
 https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
-https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21            
+https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21    
+https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - Звёзд: 7       
 https://pypi.org/project/cardano-method -  cubic equation solver -  0 stars      
 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy       
@@ -281,6 +286,7 @@ https://pypi.org/project/seqgentools/
 **https://pypi.org/project/pdepy/**   
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
 https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs 
+https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars          
 
 https://pypi.org/project/gwr-inversion                     
 https://github.com/JoshKarpel/idesolver     
@@ -319,6 +325,7 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
+https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
 https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars
 
@@ -629,7 +636,7 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 https://github.com/quantmind
 
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480           
-
+https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
                           
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
@@ -647,7 +654,10 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 
 
-## ⏲️ Signal Processing / Time Series / Filtering                                         
+## ⏲️ Signal Processing / Time Series / Filtering                                      
+https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539         
+
+
 **https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803             
 https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 472           
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
@@ -656,7 +666,8 @@ https://pypi.org/project/kshape - univariate and multivariate time-series cluste
 **https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars                 
 **https://pypi.org/project/pyextremes** - Extreme Value Analysis (EVA) https://en.wikipedia.org/wiki/Extreme_value_theory - Звёзд: 233
 https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
-**https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77                     
+**https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77       
+https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4              
 
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
@@ -726,6 +737,9 @@ https://pypi.org/project/pymedit
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
 https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds            
 https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
+https://pypi.org/project/ashx/   https://pypi.org/project/geolia - Geometry and mesh tools        
+
+
 
 **https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars                    
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
@@ -804,7 +818,10 @@ https://pypi.org/project/ounce - manipulating units of measure - Звёзд: 1
 https://pypi.org/project/kanonpy - History of astronomy library                
 https://pypi.org/project/Unum - Units in Python          
 https://pypi.org/project/measurement/
-https://pypi.org/project/totemp - Temperature Converter          
+https://pypi.org/project/totemp - Temperature Converter  
+https://pypi.org/project/unitclass - Physical unit class suitable for calculations in the sciences 
+
+
 
 ### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
 **https://github.com/pysal** - Python Spatial Analysis Library
@@ -813,6 +830,16 @@ https://pypi.org/project/totemp - Temperature Converter
 
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47
+
+### Maps & Charts                    
+https://github.com/lanl/scico - solving the inverse problems that arise in scientific imaging applications -  89 stars          
+https://pypi.org/project/structure-tensor - Fast and simple to use 2D and 3D structure tensor - Звёзд: 46 - Градиенты              
+https://pypi.org/project/mantel - Mantel test, a significance test of the correlation between two distance matrices - Звёзд: 31             
+
+https://pypi.org/project/anomalytics - statistical methods for the purpose of detecting any sort of anomaly -  Звёзд: 4           
+https://pypi.org/project/tetrachotomy - Hunting poles and zeros in the complex plane - Звёзд: 1 - Поиск аномалий                    
+
+- - -
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
@@ -930,6 +957,7 @@ https://pypi.org/project/netin - to study inequalities in social networks - Зв
 https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t graphs (https://en.wikipedia.org/wiki/St-planar_graph) - Звёзд: 10 
 https://pypi.org/project/graphhierarchy -  Звёзд: 9 
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
+https://pypi.org/project/graphflow - r Graph Flow Analysis -  Звёзд: 8      
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
 
 https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1          
