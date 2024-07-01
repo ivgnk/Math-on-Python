@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=52
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=50
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -410,24 +410,22 @@ https://pypi.org/project/pyRobustRegressionLib - near and non-linear robust regr
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
-https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
-https://pypi.org/project/pyopenbt - OpenBT implementing Bayesian regression tree models -  Звёзд: 2          
-
-https://pypi.org/project/abcpmc      
-https://pypi.org/project/bayes-tda/
-https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing         
-https://pypi.org/project/naivebayesgauss/   
-**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python                
+**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                                      
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
-https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models         
-https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
-https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution 
+https://pypi.org/project/bamt - data modeling and analysis tool based on Bayesian networks -  116 stars
+https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
+https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing - 40 stars        
 https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
 https://pypi.org/project/murefi - multiple replicate fitting and Bayesian modeling - Звёзд: 4             
+https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
+https://pypi.org/project/pyopenbt - OpenBT implementing Bayesian regression tree models -  Звёзд: 2          
+https://pypi.org/project/bayes-tda/ - Point process model for Bayesian inference with persistence diagrams - Звёзд: 2          
+https://pypi.org/project/microarviz - Exploratory analysis of Bayesian models -  Звёзд: 1        
+https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distribution - Звёзд: 0        
+https://pypi.org/project/naivebayesgauss - aive Bayes Gaussian algorithm - Звёзд: 0         
 
-
-
-
+-- not in github           
+https://pypi.org/project/abcpmc - approximate bayesian computing with population monte carlo                   
 
 ### Queueing theory / Теория массового обслуживания        
 https://pypi.org/project/queueing-tool -  Звёзд: 63 
