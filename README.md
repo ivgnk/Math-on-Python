@@ -5,12 +5,13 @@ Small and not only small mathematical problems on Python
 https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 
-## 🚗 ML / DL / AI / DS      
+## 🚗 ML / DL / AI / DS / Neural Networks     
 **https://jina.ai/**
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
+**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars           
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250                   
@@ -231,12 +232,15 @@ https://pypi.org/project/combi/
 **https://pypi.org/project/ai4xde/** - library for scientific machine learning and physics-informed learning 
 - - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
-https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124           
+https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124     
+https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
+
 https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
 https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21    
 https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - Звёзд: 7       
+https://pypi.org/project/matmath/ - A simple and efficient module for matrix and vector manipulation - Звёзд: 4              
 https://pypi.org/project/cardano-method -  cubic equation solver -  0 stars      
 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy       
@@ -322,12 +326,13 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 
 
 ## 📊📊 Statistics / Regression                   
-**https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
+https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565             
+**https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245                        
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
-https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars
+https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars                                    
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
@@ -398,13 +403,15 @@ https://pypi.org/project/modularbayes - Modular **Bayesian** Inference
 https://pypi.org/project/clogistic/ - Constrained Logistic Regression
 https://pypi.org/project/gaussian-proc - Gaussian process regression     
 https://pypi.org/project/autoregression  
-**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                   
-https://pypi.org/project/ropwr - Robust Piecewise Regression - Звёзд: 10             
+**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                     
+https://pypi.org/project/ropwr - Robust Piecewise Regression - Звёзд: 10          
+https://pypi.org/project/pyRobustRegressionLib - near and non-linear robust regression - Звёзд: 5              
 
 ### 🔠 Bayesian                
 https://github.com/pymc-devs    
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
 https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
+https://pypi.org/project/pyopenbt - OpenBT implementing Bayesian regression tree models -  Звёзд: 2          
 
 https://pypi.org/project/abcpmc      
 https://pypi.org/project/bayes-tda/
@@ -466,9 +473,9 @@ https://github.com/chrisstroemel/Simple - Experimental Global Optimization Algor
 https://pypi.org/project/csnn - Neural Networks with CasADi            
 
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
-**https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars             
+**https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
+
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
-https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512          
 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
@@ -481,7 +488,6 @@ https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Researc
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7 
 https://pypi.org/project/ProMCDA - Probabilistic Multi Criteria Decision Analysis - Звёзд: 5             
-https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment - Звёзд: 1          
 
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
@@ -514,6 +520,13 @@ https://pypi.org/project/opof-grid2d/ - OPOF(Open-Source Planner Optimization Fr
 https://pypi.org/project/minizinc/ - MiniZinc is a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems - Звёзд: 137            
 https://pypi.org/project/PICOS - interface to conic optimization solvers                
 https://pypi.org/project/swarmist -  Domain Specific Language (DSL) for building metaheuristic algorithms to solve single-objective continuous optimization over real domains 
+
+### ➖ Linear programming
+**https://pypi.org/project/PuLP** - is an LP modeler, can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems -  Звёзд: 1999
+https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512  
+https://pypi.org/project/lpsolvers/ - Linear programming solvers -  Звёзд: 22              
+https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
+
 
 ### 📈 Regression 
 https://pypi.org/project/smogn - Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise -  Звёзд: 305            
@@ -792,6 +805,7 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 
 ## ⚡⚡ Physics ⚡⚡ 
 ### 🔴🔵 Magn  
+**https://pypi.org/project/pygasflow** - Ideal Gasdynamics utilities - Звёзд: 22                
 **https://ubermag.github.io** - Micromagnetic simulations 
 (---beg---)           
 _**https://pypi.org/user/fangohr/**_                  
@@ -814,6 +828,7 @@ https://pypi.org/project/epicycler - Compute and draw epicycler in Python - Зв
 
 ### 1️⃣ Units 
 https://pypi.org/project/unitcalc - Звёзд: 1
+https://pypi.org/project/measured  - working with measurements and quantities -  Звёзд: 10
 https://pypi.org/project/ounce - manipulating units of measure - Звёзд: 1        
 https://pypi.org/project/kanonpy - History of astronomy library                
 https://pypi.org/project/Unum - Units in Python          
@@ -825,12 +840,14 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 
 ### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
 **https://github.com/pysal** - Python Spatial Analysis Library
+**https://github.com/GeoStat-Framework/GSTool** - 530 stars 
+https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
 **https://github.com/erdogant/findpeaks** - detection of peaks and valleys in a 1d-vector or 2d-array (image) -  216 stars   
 **https://github.com/mattijn/topojson** - Encode spatial data as topology -  175 stars               
 
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
-↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47
-
+↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
+https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12              
 ### Maps & Charts                    
 https://github.com/lanl/scico - solving the inverse problems that arise in scientific imaging applications -  89 stars          
 https://pypi.org/project/structure-tensor - Fast and simple to use 2D and 3D structure tensor - Звёзд: 46 - Градиенты              
@@ -843,7 +860,7 @@ https://pypi.org/project/tetrachotomy - Hunting poles and zeros in the complex p
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
-🔴 **https://geostat-framework.org/** - geo-statistical model with Python          
+🔴 **https://geostat-framework.org/** - geo-statistical model with Python   s       
 1) https://github.com/GeoStat-Framework/GSTools - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more -  529 stars        
 2) **https://www.opengeosys.org** - numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media       
 https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
@@ -947,6 +964,8 @@ https://pypi.org/project/graphblas-algorithms - Graph algorithms written in Grap
 https://pypi.org/project/pytoulbar2 - optimizer for cost function networks and discrete additive graphical models - https://github.com/toulbar2/toulbar2 - 51 stars            
 **https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                            
 https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
+https://pypi.org/project/planarity -Graph planarity tools - Звёзд: 35
+
 https://pypi.org/project/BondGraphTools - Bond Graph Modelling Toolkit -  Звёзд: 33     
 https://pypi.org/project/metagraph - Graph algorithm solver -  26 stars
 https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23           
@@ -959,6 +978,7 @@ https://pypi.org/project/graphhierarchy -  Звёзд: 9
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
 https://pypi.org/project/graphflow - r Graph Flow Analysis -  Звёзд: 8      
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
+
 
 https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1          
 https://pypi.org/project/pygraphia - Звёзд: 0          
