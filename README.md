@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=50
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=48                    
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -10,11 +10,13 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
+https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars           
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250                   
+https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
 https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467          
 
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
@@ -836,26 +838,14 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 
 
 
-### 🌏🌏🌏 GeoPhysics / Geology / Geodezy / Mining
-**https://github.com/pysal** - Python Spatial Analysis Library
+### 🌏🌏🌏 GeoPhysics / Geology / Geodezy-Spatial / Mining
+https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                  
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars 
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
-**https://github.com/erdogant/findpeaks** - detection of peaks and valleys in a 1d-vector or 2d-array (image) -  216 stars   
-**https://github.com/mattijn/topojson** - Encode spatial data as topology -  175 stars               
 
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
 https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12              
-### Maps & Charts                    
-https://github.com/lanl/scico - solving the inverse problems that arise in scientific imaging applications -  89 stars          
-https://pypi.org/project/structure-tensor - Fast and simple to use 2D and 3D structure tensor - Звёзд: 46 - Градиенты              
-https://pypi.org/project/mantel - Mantel test, a significance test of the correlation between two distance matrices - Звёзд: 31             
-
-https://pypi.org/project/anomalytics - statistical methods for the purpose of detecting any sort of anomaly -  Звёзд: 4           
-https://pypi.org/project/tetrachotomy - Hunting poles and zeros in the complex plane - Звёзд: 1 - Поиск аномалий                    
-
-- - -
- Geodezy
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
@@ -885,6 +875,22 @@ https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element s
 **https://github.com/QSD-Group** - Tools for quantitative sustainable design (QSD) to guide the research, development, and deployment of technologies and inform decision-making         
 --- not in github              
 https://pypi.org/project/lightmorphic - Lightmorphic signatures analysis toolkit - Spatiotemporal lightmorphic computing     
+
+- - -
+### 📐 Geodezy-Spatial / Maps & Charts                       
+**https://github.com/pysal** - Python Spatial Analysis Library
+https://github.com/pysal/pysal - 1.3k stars          
+**https://pypi.org/project/haversine/** - Calculate the distance between 2 points on Earth -  Звёзд: 313        
+**https://github.com/erdogant/findpeaks** - detection of peaks and valleys in a 1d-vector or 2d-array (image) -  216 stars   
+**https://github.com/mattijn/topojson** - Encode spatial data as topology -  175 stars               
+https://pypi.org/project/beetroots - BayEsian infErence with spaTial Regularization of nOisy multi-line ObservaTion mapS - Звёзд: 5             
+
+https://pypi.org/project/anomalytics - statistical methods for the purpose of detecting any sort of anomaly -  Звёзд: 4           
+https://pypi.org/project/tetrachotomy - Hunting poles and zeros in the complex plane - Звёзд: 1 - Поиск аномалий                    
+
+https://github.com/lanl/scico - solving the inverse problems that arise in scientific imaging applications -  89 stars          
+https://pypi.org/project/structure-tensor - Fast and simple to use 2D and 3D structure tensor - Звёзд: 46 - Градиенты              
+https://pypi.org/project/mantel - Mantel test, a significance test of the correlation between two distance matrices - Звёзд: 31             
 
 
 ### 🔱 Hydro(logical) model    
@@ -947,6 +953,8 @@ https://pypi.org/project/IdealFlowNetwork
 https://pypi.org/project/paper-network - random networks           
 https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time Series Data on Complex Networks           
 
+https://pypi.org/project/bamt-light - data modeling and analysis tool based on Bayesian networks - 116 stars        
+
 ### ❇️❇️ Graphs       
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
@@ -955,7 +963,8 @@ https://pypi.org/project/grapharray -  for treating arrays defined on a network,
 **https://pypi.org/project/tulip-python/** - Large graphs analysis and drawing - **https://tulip.labri.fr/site/**               
 https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
 
-https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars       
+**https://pypi.org/project/networkit/** -  high-performance network analysis - Звёзд: 751                  
+https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars   
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
 https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks - Звёзд: 90
@@ -978,7 +987,7 @@ https://pypi.org/project/graphhierarchy -  Звёзд: 9
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
 https://pypi.org/project/graphflow - r Graph Flow Analysis -  Звёзд: 8      
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
-
+https://pypi.org/project/knows - Property graph benchmark that creates graphs with specified node and edge numbers, supporting multiple output formats and visualization -  Звёзд: 2
 
 https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1          
 https://pypi.org/project/pygraphia - Звёзд: 0          
