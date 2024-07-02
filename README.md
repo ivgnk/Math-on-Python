@@ -855,9 +855,11 @@ https://pypi.org/project/anomalytics - statistical methods for the purpose of de
 https://pypi.org/project/tetrachotomy - Hunting poles and zeros in the complex plane - Звёзд: 1 - Поиск аномалий                    
 
 - - -
+ Geodezy
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
+🔴 **https://pypi.org/project/pygmi** -  Звёзд: 65           
 🔴 **https://geostat-framework.org/** - geo-statistical model with Python   s       
 1) https://github.com/GeoStat-Framework/GSTools - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more -  529 stars        
 2) **https://www.opengeosys.org** - numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media       
@@ -907,6 +909,7 @@ https://pypi.org/project/vectometry -  library for simple use of common point an
 https://pypi.org/project/npeuclid - Fast 2D and 3D vector geometry module - Звёзд: 2 
 https://pypi.org/project/twod - Two-Dimensional Geometry Library -  Звёзд: 2             
 https://pypi.org/project/right-triangle - calculations with right-angled triangles - Звёзд: 0 
+**https://pypi.org/project/vus/** - Volume Under the Surface  - Звёзд: 0                   
 
 https://github.com/dengwirda/inpoly-python - returns the "inside/outside" status for a set of vertices VERT and a general polygon (PSLG) embedded in the two-dimensional plane            
 https://pypi.org/project/BDSpace -  to simplify positioning, movement, and trajectory calculation for many different technical problems             
@@ -916,7 +919,6 @@ https://pypi.org/project/trjtrypy - Distance between trajectories
 **https://pypi.org/project/Geom8ry** - computational geometry Geom8ry can handle various 2D - geometrical constructs like Points, Lines, Line Segments,               
 Polygons, Circles, Fourier Transforms, Matrices, Graphs, Triangulations, and Polynomials, etc.                  
 https://pypi.org/project/EventGeometry -  computing the Energy Mover's Distance and related geometric quantities          
-       
 https://pypi.org/project/beizer-curves - or generating beizer curves       
       
 
@@ -981,6 +983,7 @@ https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs -
 https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1          
 https://pypi.org/project/pygraphia - Звёзд: 0          
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs -  Звёзд: 0
+**https://pypi.org/project/graph-generators/** - compute various classes of networkx graphs - Звёзд: 0               
 
 ### 🌳 Tree 
 https://pypi.org/project/dm-tree -  library for working with nested data structures -  921 stars               
