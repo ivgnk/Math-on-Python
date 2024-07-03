@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=48                    
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=46
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -121,13 +121,14 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
 # 🏠 PyPi                                  
-## ♏ Algo & Structurs collections   
+## ♏ Algo & Structures collections   
 ### JAX                 
 **https://pypi.org/project/jax** - Differentiate, compile, and transform Numpy code - Звёзд: 28984             
 **https://github.com/google/jax** - Composable transformations of Python+NumPy programs: differentiate, vectorize and more - 29k stars                
 **https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900             
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
+https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
 
@@ -238,6 +239,7 @@ https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
 
 https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
+https://pypi.org/project/Splipy - Spline modelling library -  Звёзд: 100             
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
 https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21    
@@ -450,6 +452,7 @@ https://pypi.org/project/difftopk - Differentiable Sorting, Ranking, and Top-k /
 https://pypi.org/project/dycelib -  exploring dice outcomes and other finite discrete probabilities            
 https://pypi.org/project/dyce -  dice outcomes and other finite discrete probabilities - Звёзд: 33                        
 https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7          
+https://pypi.org/project/icepool - Dice probability package - Звёзд: 44                 
 
 
 
@@ -481,6 +484,7 @@ https://pypi.org/project/pylops - linear operators to allow solving large-scale 
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                          
 
+**https://pypi.org/project/qpbenchmark** - Benchmark for quadratic programming solvers available in Python -  Звёзд: 97
 **https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
 https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
 https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
@@ -680,6 +684,8 @@ https://pypi.org/project/kshape - univariate and multivariate time-series cluste
 **https://pypi.org/project/pyextremes** - Extreme Value Analysis (EVA) https://en.wikipedia.org/wiki/Extreme_value_theory - Звёзд: 233
 https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77       
+https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy related timeseries -  Звёзд: 44   
+https://pypi.org/project/yaflpy - Kalman filter variants - Звёзд: 20           
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4              
 
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
@@ -722,7 +728,8 @@ https://github.com/je-c/pixel_reshaper - A package to structure and convert imag
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
 **https://github.com/lightly-ai/lightly** - self-supervised learning on images                
-https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer          
+https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer       
+https://pypi.org/project/pymandel - Fractal generation GUI application - Звёзд: 15              
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
@@ -981,6 +988,7 @@ https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23
 https://pypi.org/project/jgrapht - Звёзд: 22     
 https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19                    
 https://pypi.org/project/leafy - fast graph algorithms library - Звёзд: 17             
+https://pypi.org/project/nographs - Graph analysis – the lazy (evaluation) way: Analysis on the fly, for graphs, that are computed and/or adapted on the fly - Звёзд: 16             
 https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11  
 https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t graphs (https://en.wikipedia.org/wiki/St-planar_graph) - Звёзд: 10 
 https://pypi.org/project/graphhierarchy -  Звёзд: 9 
