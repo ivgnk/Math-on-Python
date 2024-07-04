@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=46
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=42            
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -13,7 +13,8 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848                
-**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars           
+**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
+https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250                   
@@ -223,6 +224,7 @@ https://pypi.org/project/normal-form/ -  working with Conjunctive Normal Form (C
 
 ## 🔃 Combinatorics 
 https://pypi.org/project/permutation - Permutations of finitely many positive integers - Звёзд: 16           
+https://pypi.org/project/permuta -  permutation library - Звёзд: 13             
 https://pypi.org/project/comb-spec-searcher -  Звёзд: 11            
 **https://pypi.org/project/zython/** - Express constraint programming problem / Constraint programming (CP) is a paradigm for solving combinatorial problems - 8 stars                
 https://github.com/AdrienC21/CCSD - to generate Combinatorial Complexes using Stochastic Differential Equations - 6 stars              .         
@@ -869,6 +871,8 @@ https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
 
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
+https://pypi.org/project/geoapps - development and sharing of open-source applications in geoscience - Звёзд: 55             
+
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
 https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12              
 
@@ -983,7 +987,7 @@ https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time
 
 https://pypi.org/project/bamt-light - data modeling and analysis tool based on Bayesian networks - 116 stars        
 
-### ❇️❇️ Graphs       
+### ❇️❇️ G_Graphs       
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 **https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
@@ -1016,6 +1020,7 @@ https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t g
 https://pypi.org/project/graphhierarchy -  Звёзд: 9 
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
 https://pypi.org/project/graphflow - r Graph Flow Analysis -  Звёзд: 8      
+https://pypi.org/project/kgraph-ts -  Library for Approximate Nearest Neighbor Search - Звёзд: 6     
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
 https://pypi.org/project/knows - Property graph benchmark that creates graphs with specified node and edge numbers, supporting multiple output formats and visualization -  Звёзд: 2
 
