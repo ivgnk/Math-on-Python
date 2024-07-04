@@ -12,6 +12,7 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
+https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848                
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars           
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
@@ -465,7 +466,7 @@ https://pypi.org/project/icepool - Dice probability package - Звёзд: 44
 
 
 
-## 🎬 Optimization / Fitting  
+## 🎬 O_Optimization / Fitting  
 ### ⚡⚡⚡ Github 
 https://github.com/topics/optimization?l=python -  2,149 public repo             
 https://github.com/topics/bayesian-optimization?l=python - 258 public repo               
@@ -504,6 +505,7 @@ https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Researc
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7 
 https://pypi.org/project/ProMCDA - Probabilistic Multi Criteria Decision Analysis - Звёзд: 5             
+https://pypi.org/project/search-data-explorer -  visualize search-data generated from **Gradient-Free-Optimizers** (1.1k stars) or **Hyperactive** (494 stars) - Звёзд: 2               
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment - Звёзд: 1          
 
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
@@ -660,13 +662,14 @@ https://pypi.org/project/control-vegas - Adaptive multidimensional Monte Carlo i
 https://pypi.org/project/CubeFlow
 https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
-## 💰 Quantitative Finance          
+## 💰 Quantitative Finance (QF)         
 ## 🅾️ ORG 
 https://github.com/quantmind
 
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480           
 https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
-                          
+https://pypi.org/project/okama - Звёзд: 189            
+
 https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
 https://pypi.org/project/pyfolio-qa             
@@ -1040,8 +1043,9 @@ https://pypi.org/project/dicetables
 https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225         
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
-## 🎡 Dynamic systems    
+## 🎡 D_Dynamic systems    
 **https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351                                   
+https://pypi.org/project/pydmd - Dynamic Mode Decomposition (DMD) is a model reduction algorithm -  Звёзд: 829             
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                                     
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578                
 https://pypi.org/project/pykoopman - data-driven approximations to the Koopman operator - Звёзд: 263               
