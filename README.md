@@ -17,9 +17,12 @@ https://github.com/onnx/onnx - Open standard for machine learning interoperabili
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250                   
 https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
+https://pypi.org/project/scikit-fda - Functional Data Analysis -  Звёзд: 287              
 https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467          
 
+https://pypi.org/project/permetrics -  Performance Metrics for Machine Learning Models - Звёзд: 62                       
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
+https://pypi.org/project/polar-diagrams - "Interactive Polar Diagrams for Model Comparison" - https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison - 7 stars              
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
 https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
 
@@ -303,7 +306,7 @@ https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation s
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37          
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
- 
+ https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
 
 https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
@@ -331,11 +334,13 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 
 ## 📊📊 Statistics / Regression                   
 https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565             
+https://pypi.org/project/scikit-posthocs - Statistical post-hoc analysis and outlier detection algorithms - Звёзд: 325               
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245                        
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
+https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35             
 https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars                                    
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
@@ -367,7 +372,10 @@ https://pypi.org/project/skm-pyutils/
 https://pypi.org/project/lmoments3 -  L-moments to calculate optimal parameters for a number of distributions - Звёзд: 6       
 https://pypi.org/project/CausalDisco - Causal Discovery
 https://pypi.org/project/xmcda - Read, write and manipulate XMCDA objects - XMCDA is a data standard which allows to represent MultiCriteria Decision Analysis (MCDA) data elements in XML according to a clearly defined grammar    
-https://pypi.org/project/pyparcs - causal methods - Звёзд: 4              
+https://pypi.org/project/pyparcs - causal methods - Звёзд: 4   
+--- not in github            
+https://pypi.org/project/lea - Discrete probability distributions                          
+
 
 ### ❓ Statistics with uncertainity
 #### ⚡⚡⚡ Github
@@ -482,12 +490,16 @@ https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods�
 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
-**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                          
+**https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars       
+https://pypi.org/project/quadprog - Quadratic Programming Solver -  Звёзд: 185            
+
+ 
 
 **https://pypi.org/project/qpbenchmark** - Benchmark for quadratic programming solvers available in Python -  Звёзд: 97
 **https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
 https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
 https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
+https://pypi.org/project/pyaugmecon - multi-objective optimization solver -  Звёзд: 23       
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7 
@@ -686,6 +698,7 @@ https://pypi.org/project/tsam - Time series aggregation module (tsam) to create 
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77       
 https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy related timeseries -  Звёзд: 44   
 https://pypi.org/project/yaflpy - Kalman filter variants - Звёзд: 20           
+**https://pypi.org/project/sampen/** - calculate an estimation of the Sample Entropy of a time series -  Звёзд: 10           
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4              
 
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
@@ -752,6 +765,7 @@ https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://g
 
 ### 💮 Meshs / 2D / 3D 
 **https://webpages.tuni.fi/foi**   
+https://pypi.org/project/distance3d/
 **https://pypi.org/project/discretisedfield/**  - Analysis and visualisation of finite-difference fields - Звёзд: 17             
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
@@ -916,6 +930,9 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 **https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599      
 https://pypi.org/project/solidpython2 - interface to the OpenSCAD declarative geometry language - Звёзд: 119           
 https://pypi.org/project/Geometry3D -  3D Geometry Lib - Звёзд: 85
+**https://pypi.org/project/distance3d/** - Distance computation and collision detection in 3D -  Звёзд: 50            
+
+
 https://pypi.org/project/polliwog - 2D and 3D computational geometry library - Звёзд: 27      
 https://pypi.org/project/archaea - base geometric library - Звёзд: 6
 https://pypi.org/project/vectometry -  library for simple use of common point and vector operations in 3-dimensional space as well as for 2-dimensions - Звёзд: 5
@@ -970,6 +987,7 @@ https://pypi.org/project/grapharray -  for treating arrays defined on a network,
 **https://pypi.org/project/tulip-python/** - Large graphs analysis and drawing - **https://tulip.labri.fr/site/**               
 https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
 
+https://pypi.org/project/pykeen - training and evaluating multimodal knowledge graph embeddings - Звёзд: 1580               
 **https://pypi.org/project/networkit/** -  high-performance network analysis - Звёзд: 751                  
 https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars   
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
@@ -1023,12 +1041,13 @@ https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
 
 ## 🎡 Dynamic systems    
-**https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351
-https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                 
-https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578
+**https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351                                   
+https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                                     
+https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578                
+https://pypi.org/project/pykoopman - data-driven approximations to the Koopman operator - Звёзд: 263               
 https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
-**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27   
-https://pypi.org/project/muygpys - Scalable Approximate Gaussian Process using Local Kriging - Звёзд: 22              
+**https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27             
+https://pypi.org/project/muygpys - Scalable Approximate Gaussian Process using Local Kriging - Звёзд: 22                        
 https://pypi.org/project/spatialpy - simulation of spatial deterministic/stochastic reaction-diffusion-advection problems embedded in Lagrangian reference frame particle based fluid dynamics domain         
 **https://pypi.org/project/kedm/** - Empirical Dynamic Modeling (EDM) framework - https://sugiharalab.github.io/EDM_Documentation -  Звёзд: 12                      
 https://pypi.org/project/lyapynov - to compute Lyapunov exponents, covariant Lyapunov vectors (CLV) and adjoints of a dynamical system - Звёзд: 7             
