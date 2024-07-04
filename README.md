@@ -49,13 +49,14 @@ https://pypi.org/project/model-card-toolkit - Звёзд: 409
 https://pypi.org/project/whispercpp - Port of OpenAI's Whisper model - Звёзд: 313  
 https://pypi.org/project/imbalance-metrics 
 **https://pypi.org/project/pycm/** -  Звёзд: 1438   
-https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
 https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Library for Training Binarized Neural Networks            
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
 ### 🌁 Neural Networks
+https://pypi.org/project/onnxruntime-cann - engine for Open Neural Network Exchange (ONNX) models - Звёзд: 13468
 https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446       
+https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
@@ -607,7 +608,10 @@ https://pypi.org/project/bees-algorithm
 **https://quality-diversity.github.io** - Quality-Diversity optimization (or illumination) is a new type of evolutionary algorithm that aims at generating large collections of diverse solutions that are all high-performing       
 https://quality-diversity.github.io/papers             
 https://members.loria.fr/JBMouret/qd.html             
+https://pypi.org/project/ribs - quality diversity optimization - type of evolutionary algorithm that aims at generating large collections of diverse solutions - Звёзд: 205     
+--- not in github         
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
+
 
 ### 🌷 Derivative-free optimization     
 ⚡⚡ **https://github.com/topics/derivative-free**            
@@ -699,6 +703,8 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 ## ⏲️ Signal Processing / Time Series / Filtering                                      
 https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539         
+
+https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com/laszukdawid/PyEMD - 841 stars         
 
 
 **https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803             
@@ -801,6 +807,8 @@ https://pypi.org/project/dmsh - High-quality 2D mesh generator based on distmesh
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
 https://pypi.org/project/pyhull - for the computation of the convex hull, Delaunay triangulation and Voronoi diagram - Звёзд: 99
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
+https://pypi.org/project/pyfvm - Finite volume discretizations - Звёзд: 61           
+
 https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github.com/wackywendell/tess/ - 35 stars
 https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
@@ -932,6 +940,7 @@ https://github.com/pysal/pysal - 1.3k stars
 **https://github.com/mattijn/topojson** - Encode spatial data as topology -  175 stars               
 https://pypi.org/project/beetroots - BayEsian infErence with spaTial Regularization of nOisy multi-line ObservaTion mapS - Звёзд: 5             
 
+♥️ **https://pypi.org/project/peakoscope/** - Data analysis of peak and valley regions - Звёзд: 2      
 https://pypi.org/project/anomalytics - statistical methods for the purpose of detecting any sort of anomaly -  Звёзд: 4           
 https://pypi.org/project/tetrachotomy - Hunting poles and zeros in the complex plane - Звёзд: 1 - Поиск аномалий                    
 
