@@ -803,7 +803,7 @@ https://pypi.org/project/iremover/
 **https://pypi.org/project/fer** - Facial expression recognition from images -  Звёзд: 326
 
 
-### 🎀 Topology       
+### 🎀 T_Topology       
 ⚡⚡⚡ **GitHub**                          
 https://github.com/topics/topology?l=python                
 https://github.com/giotto-ai/giotto-tda - 828 stars            
@@ -819,6 +819,7 @@ https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analys
 **https://docs.scikit-tda.org/en/latest/** - Topological Data Analysis Python libraries intended for non-topologists          
 
 https://github.com/cwant/tessagon - Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns - 211 stars    
+https://github.com/scikit-tda/persim - Persistence Diagrams - [Topological Data Analysis](https://en.wikipedia.org/wiki/Topological_data_analysis) -  121 stars
 https://pypi.org/project/mogutda - Topological Data Analysis -  Звёзд: 113       
 https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
 https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io  -  Звёзд: 0     
