@@ -53,10 +53,13 @@ https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Librar
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
-### 🌁 Neural Networks
+### 🌁 N_Neural Networks
 https://pypi.org/project/onnxruntime-cann - engine for Open Neural Network Exchange (ONNX) models - Звёзд: 13468
 https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446       
+https://pypi.org/project/norse - library for deep learning with spiking neural networks -  Звёзд: 628         
+https://pypi.org/project/brainpy -  Brain Dynamics Programming - https://github.com/brainpy/BrainPy - 489 stars          
 https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
+https://pypi.org/project/LinSATNet - neural network layer to enforce the satisfiability of positive linear constraints to the output of neural networks. The gradient through the layer is exactly computed. This package now works with PyTorch - Звёзд: 36            
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
@@ -300,6 +303,9 @@ https://pypi.org/project/seqgentools/
 ## 🎩 ODE / PDE / SDE /  derivatives / integrals   
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
+https://pypi.org/project/diffeqpy - Solving Differential Equations - Звёзд: 507               
+
+
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
 https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs 
 https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars          
@@ -913,6 +919,7 @@ https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns
 
 **https://pypi.org/project/pyproj** - interface to PROJ (cartographic projections and coordinate transformations library) - Звёзд: 1013            
+**https://pypi.org/project/pyshtools** - Spherical Harmonic Tools - operations on global gravitational and magnetic field data - Звёзд: 356        
 
 **https://pypi.org/project/valeriepieris/** - smallest circles containing at least a fraction f of the data                   
 
@@ -1007,6 +1014,7 @@ https://pypi.org/project/postman_problems
 https://pypi.org/project/paramnet       
 https://pypi.org/project/grinpy         
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
+https://pypi.org/project/louvain -  methods of community detection in large networks              
 
 https://pypi.org/project/IdealFlowNetwork          
 https://pypi.org/project/paper-network - random networks           
