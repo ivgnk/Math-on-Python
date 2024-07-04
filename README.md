@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=42            
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=38              
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -15,6 +15,7 @@ https://github.com/onnx/onnx - Open standard for machine learning interoperabili
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848                
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
+**https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
@@ -492,6 +493,7 @@ https://github.com/guofei9987/scikit-opt - Genetic Algorithm, Particle Swarm Opt
 https://github.com/google/vizier - 1190 star          
 https://github.com/EmuKit/emukit  - 576 star
 https://github.com/chrisstroemel/Simple - Experimental Global Optimization Algorithm - 478 stars                     
+https://pypi.org/project/opengen - Nonconvex embedded optimization: code generation for fast real-time optimization -  477 stars             
 
 ### 🏠 Pypi
 **https://web.casadi.org** - CasADi is an open-source tool for nonlinear optimization and algorithmic differentiation.
