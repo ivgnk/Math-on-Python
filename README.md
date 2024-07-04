@@ -52,6 +52,8 @@ https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Librar
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
+### 🌁 Neural Networks
+https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446       
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
@@ -199,21 +201,18 @@ https://pypi.org/project/numx/ - Import Numbers
 https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
 https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selection -  **https://github.com/abess-team** - https://github.com/abess-team/abess-A-Fast-Best-Subset-Selection-Library-in-Python-and-R                    
 
-### 🌌 Random data / Stochastic processes
+### 🌌 R_Random data / Stochastic processes
 **https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437              
 https://github.com/StochSS - Stochastic Simulation Service             
 https://pypi.org/project/stochss-compute          
 https://pypi.org/project/simplerandom - Simple random number generators - Звёзд: 62          
 https://pypi.org/project/scikit-rmt - Random Matrix Theory - Звёзд: 35                    
-https://pypi.org/project/rnd-pcw-poly - Generate random piecewise polynomials - 
-
-
-
-
-https://pypi.org/project/pyrandwalk -  Random Walks           
+https://pypi.org/project/pyrandwalk -  Random Walks-  Звёзд: 21           
 **https://pypi.org/project/SyncRNG** - Generate the same random numbers in R and Python - Звёзд: 19            
-https://pypi.org/project/pyrandvec - Generate random vectors whose components sum up to one              
-
+**https://pypi.org/project/gaussianfft** - Gaussian Random Fields, using the fast Fourier transform - Звёзд: 6
+https://pypi.org/project/rnd-pcw-poly - Generate random piecewise polynomials - Звёзд: 0             
+https://pypi.org/project/pyrandvec - Generate random vectors whose components sum up to one - Звёзд: 0                           
+--- not in github            
 https://pypi.org/project/codeviking.random -  random number generators with many useful random number generation methods      
 
 ### Bool logic
@@ -310,6 +309,7 @@ https://pypi.org/project/torchquad - torch-based numerical integration methods -
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37          
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
  https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
+ https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
 
 https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
@@ -343,8 +343,9 @@ https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
-https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35             
-https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars                                    
+https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
+https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
+https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars                                              
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
@@ -464,6 +465,7 @@ https://pypi.org/project/dycelib -  exploring dice outcomes and other finite dis
 https://pypi.org/project/dyce -  dice outcomes and other finite discrete probabilities - Звёзд: 33                        
 https://pypi.org/project/anydyce - Visualization tools for dyce -  Звёзд: 7          
 https://pypi.org/project/icepool - Dice probability package - Звёзд: 44                 
+https://pypi.org/project/pydiceroll - rolling a lot of dice  - Звёзд: 0             
 
 
 
@@ -501,7 +503,11 @@ https://pypi.org/project/quadprog - Quadratic Programming Solver -  Звёзд: 
 **https://pypi.org/project/qpbenchmark** - Benchmark for quadratic programming solvers available in Python -  Звёзд: 97
 **https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
 https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
+https://github.com/PyLops/pyproximal - solve non-smooth, constrained convex problems with proximal algorithms -  46 stars            
 https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
+https://pypi.org/project/cobyqa - Constrained Optimization BY Quadratic Approximations - Звёзд: 30                  
+
+
 https://pypi.org/project/pyaugmecon - multi-objective optimization solver -  Звёзд: 23       
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
@@ -699,6 +705,9 @@ https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 472
 https://pypi.org/project/kshape - univariate and multivariate time-series clustering - https://github.com/TheDatumOrg/kshape-python -  Звёзд: 320       
 **https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars                 
 **https://pypi.org/project/pyextremes** - Extreme Value Analysis (EVA) https://en.wikipedia.org/wiki/Extreme_value_theory - Звёзд: 233
+**https://pypi.org/project/xskillscore** - Metrics for verifying forecasts - Звёзд: 217            
+
+
 https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77       
 https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy related timeseries -  Звёзд: 44   
@@ -747,7 +756,6 @@ https://github.com/je-c/pixel_reshaper - A package to structure and convert imag
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
 **https://github.com/lightly-ai/lightly** - self-supervised learning on images                
 https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer       
-https://pypi.org/project/pymandel - Fractal generation GUI application - Звёзд: 15              
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
@@ -766,7 +774,12 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд: 114           
 https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёзд: 114           
 https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22          
-https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://github.com/s-emanuilov/vector_forge - convert individual images into feature vectors by specifying your desired model -  0 stars               
+https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://github.com/s-emanuilov/vector_forge - convert individual images into feature vectors by specifying your desired model -  0 stars             
+
+#### 💦 Fractal generation
+https://pypi.org/project/pymandel - Fractal generation GUI application - Звёзд: 15              
+https://pypi.org/project/fractalshades - Fractal deep-zoom explorer package for Mandelbrot fractal - 27 stars           
+
 
 ### 💮 Meshs / 2D / 3D 
 **https://webpages.tuni.fi/foi**   
