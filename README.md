@@ -13,11 +13,13 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848                
+https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
-https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250                   
+https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
+https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935          
 https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
 https://pypi.org/project/scikit-fda - Functional Data Analysis -  Звёзд: 287              
 https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467          
@@ -515,6 +517,7 @@ https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 
 https://pypi.org/project/ProMCDA - Probabilistic Multi Criteria Decision Analysis - Звёзд: 5             
 https://pypi.org/project/search-data-explorer -  visualize search-data generated from **Gradient-Free-Optimizers** (1.1k stars) or **Hyperactive** (494 stars) - Звёзд: 2               
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment - Звёзд: 1          
+**https://github.com/SimonBlanke/Surfaces** - collection and visualization of single objective black-box functions for optimization benchmarking - Звёзд: 1            
 
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
@@ -793,7 +796,8 @@ https://pypi.org/project/ashx/   https://pypi.org/project/geolia - Geometry and 
 
 
 
-**https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars                    
+**https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars    
+https://pypi.org/project/dmsh - High-quality 2D mesh generator based on distmesh - Звёзд: 210          
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
 https://pypi.org/project/pyhull - for the computation of the convex hull, Delaunay triangulation and Voronoi diagram - Звёзд: 99
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
@@ -835,6 +839,7 @@ https://pypi.org/project/kmapper -  Mapper algorithm for Topological Data Analys
 
 https://github.com/cwant/tessagon - Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns - 211 stars    
 https://github.com/scikit-tda/persim - Persistence Diagrams - [Topological Data Analysis](https://en.wikipedia.org/wiki/Topological_data_analysis) -  121 stars
+https://pypi.org/project/tadasets - Great data sets for Topological Data Analysis - Звёзд: 121          
 https://pypi.org/project/mogutda - Topological Data Analysis -  Звёзд: 113       
 https://pypi.org/project/topopy - computing topological data structures - Звёзд: 20         
 https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.io  -  Звёзд: 0     
