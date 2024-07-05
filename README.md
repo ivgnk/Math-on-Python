@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=38              
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=33                               
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -145,6 +145,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
 https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
+https://pypi.org/project/blackjax-nightly - Flexible and fast sampling - Звёзд: 756            
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
 https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
@@ -512,6 +513,7 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
 **https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
+https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1192             
 
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548                         
@@ -534,6 +536,7 @@ https://pypi.org/project/cobyqa - Constrained Optimization BY Quadratic Approxim
 
 https://pypi.org/project/pyaugmecon - multi-objective optimization solver -  Звёзд: 23       
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
+https://pypi.org/project/pyorlib - library for operations research -  Звёзд: 8            
 https://pypi.org/project/enoppy - ENOPPY (ENgineering Optimization Problems in PYthon)  - Звёзд: 9              
 https://pypi.org/project/qubolite - quadratic binary optimization - Звёзд: 7 
 https://pypi.org/project/ProMCDA - Probabilistic Multi Criteria Decision Analysis - Звёзд: 5             
@@ -637,12 +640,14 @@ https://pypi.org/project/ribs - quality diversity optimization - type of evoluti
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
 
 
-### 🌷 Derivative-free optimization     
+### 🌷 DDerivative-free (D_F) optimization     
 ⚡⚡ **https://github.com/topics/derivative-free**            
  https://github.com/eyounx/ZOOpt  -  394 stars            
 **https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
- https://pypi.org/project/fcmaes - Звёзд: 107             
-https://github.com/polixir/ZOOpt -  65 stars                       
+ https://pypi.org/project/fcmaes - Звёзд: 107          
+ https://pypi.org/project/Py-BOBYQA - derivative-free solver for (bound constrained) general objective minimization - Звёзд: 73                 
+https://github.com/polixir/ZOOpt -  65 stars         
+https://pypi.org/project/DFO-LS - derivative-free solver for (bound constrained) nonlinear least-squares minimization - Звёзд: 38           
 https://pypi.org/project/ttopt - Звёзд: 28                       
 https://github.com/strongio/evolutionary-optimization - 26 stars                   
 https://github.com/NiMlr/High-Dim-ES-RL -  25 stars                     
@@ -682,12 +687,13 @@ https://pypi.org/project/pyseagull - GOL
 https://pypi.org/project/finite-state-machines - manipulating finite state machines            
 https://pypi.org/project/python-lifelib       
 
-## 🎲 Monte Carlo simulation / ⛓️ Markov Chains      
+## 🎲 Monte Carlo simulation / ⛓️ M_Markov Chains      
 **https://pypi.org/project/kratosmultilevelmontecarloapplication** - MultilevelMonteCarloApplication provides different algorithms                      
 
 **https://pypi.org/project/pymdptoolbox-roi/** - Markov Decision Process (MDP) Toolbox -  Звёзд: 518                 
 https://pypi.org/project/particles - Sequential Monte Carlo - Звёзд: 383           
-https://pypi.org/project/pyemma - Emma's Markov Model Algorithms -  Звёзд: 305                     
+https://pypi.org/project/pyemma - Emma's Markov Model Algorithms -  Звёзд: 305    
+https://pypi.org/project/cellrank/ - study cellular dynamics based on Markov state modeling of multi-view single-cell data -  Звёзд: 324           
 https://pypi.org/project/zeus-mcmc/ - zeus: Lightning Fast MCMC -  Звёзд: 219       
 https://pypi.org/project/paramonte - Звёзд: 249        
 https://pypi.org/project/mchmm - Markov chains and Hidden Markov models - Звёзд: 121          
@@ -698,6 +704,7 @@ https://pypi.org/project/mc-tk -  Monte-Carlo toolkit for educational purposes -
 https://pypi.org/project/bmcc -  Звёзд: 2               
 https://pypi.org/project/covvvr - Monte Carlo integration - Звёзд: 1      
 https://pypi.org/project/control-vegas - Adaptive multidimensional Monte Carlo integration - https://github.com/crumpstrr33/covvvr  - https://github.com/gplepage/vegas -  1 star           
+https://pypi.org/project/hidden-py -  discrete-output hidden Markov models - Звёзд: 1       
 
 
 
@@ -730,8 +737,9 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 
 
-## ⏲️ Signal Processing / Time Series (T_S)/ Filtering                                      
-https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539         
+## ⏲️ Signal Processing / Time Series (T_S)/ Filtering       
+**https://pypi.org/project/filterpywhl/** - Kalman filtering and optimal estimation library -  Звёзд: 3218                
+https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539          
 
 https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com/laszukdawid/PyEMD - 841 stars        
 https://pypi.org/project/EMD-signal/ - Implementation of the Empirical Mode Decomposition (EMD) and its variations - 841 stars        
