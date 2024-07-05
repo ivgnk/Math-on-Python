@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 ## 🚗 ML / DL / AI / DS / Neural Networks     
 **https://jina.ai/**
+https://github.com/bluesky - cientific data acquisition, management, and analysis            
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
@@ -203,8 +204,9 @@ https://pypi.org/project/trprimes
 https://pypi.org/project/pyunionfind - A union-find disjoint sets data structure            
 https://pypi.org/project/primefac - factoring integers into primes     
 https://pypi.org/project/primegenerator 
-https://pypi.org/project/find-primes -  find primes and factors of big numbers                
-https://pypi.org/project/numx/ - Import Numbers      
+https://pypi.org/project/sequentium -  various well-known sequences - Звёзд: 2                    
+https://pypi.org/project/numx/ - Import Numbers - Звёзд: 0                 
+https://pypi.org/project/find-primes -  find primes and factors of big numbers - Звёзд: 0                                 
 
 https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
 https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selection -  **https://github.com/abess-team** - https://github.com/abess-team/abess-A-Fast-Best-Subset-Selection-Library-in-Python-and-R                    
@@ -817,9 +819,10 @@ https://pypi.org/project/pymandel - Fractal generation GUI application - Звё�
 https://pypi.org/project/HofstadterTools - analyzing the Hofstadter model - Звёзд: 14
 
 
-### 💮 Meshs / 2D / 3D 
+### 💮 M_Meshs / 2D / 3D 
 **https://webpages.tuni.fi/foi**   
 https://pypi.org/project/distance3d/
+**https://s3dlib.org/**
 **https://pypi.org/project/discretisedfield/**  - Analysis and visualisation of finite-difference fields - Звёзд: 17             
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
@@ -827,20 +830,20 @@ https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds
 https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
 https://pypi.org/project/ashx/   https://pypi.org/project/geolia - Geometry and mesh tools        
 
-
-
 **https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars    
 https://pypi.org/project/dmsh - High-quality 2D mesh generator based on distmesh - Звёзд: 210          
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
 https://pypi.org/project/pyhull - for the computation of the convex hull, Delaunay triangulation and Voronoi diagram - Звёзд: 99
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
+**https://pypi.org/project/contourpy - calculating contours of 2D quadrilateral grids** - Звёзд: 66         
 https://pypi.org/project/pyfvm - Finite volume discretizations - Звёзд: 61           
 
 https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github.com/wackywendell/tess/ - 35 stars
 https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
-https://pypi.org/project/discretisedfield - analysis and visualisation of finite-difference fields -  Звёзд: 17             
+https://pypi.org/project/discretisedfield - analysis and visualisation of finite-difference fields -  Звёзд: 17            
+**https://pypi.org/project/s3dlib/** - create 3D surface and line objects (rendered in Matplotlib) - Звёзд: 17            
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
 https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68                          
 -- not in github                  
@@ -922,6 +925,7 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                  
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars 
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
+https://pypi.org/project/frouros - **drift detection** in machine learning systems - Звёзд: 172             
 
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
 https://pypi.org/project/geoapps - development and sharing of open-source applications in geoscience - Звёзд: 55             
