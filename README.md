@@ -147,6 +147,7 @@ https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing t
 https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
+https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
@@ -361,7 +362,7 @@ https://pypi.org/project/biogeme - maximum likelihood estimation of parametric m
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
-https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars                                              
+https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars  
 https://pypi.org/project/stat-analysis - collection of common statistical methods for data analysis - Звёзд: 0               
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
@@ -428,9 +429,10 @@ https://pypi.org/project/stats-arrays - Standard NumPy array interface for defin
 **https://github.com/sbi-dev** = Simulation-based inference toolbox                
 https://pypi.org/project/causality - causal inference - Звёзд: 1059
 https://pypi.org/project/sbi - Simulation-based inference is the process of finding parameters of a simulator from observations - Звёзд: 541                
-https://pypi.org/project/elfi - Likelihood-free Inference (Вероятностный вывод) - https://github.com/elfi-dev/elfi - 262 stars       
-https://pypi.org/project/suftware - implementation of **Bayesian** Field Theory algorithms for low-dimensional statistical inference
-https://pypi.org/project/modularbayes - Modular **Bayesian** Inference
+https://pypi.org/project/elfi - Likelihood-free Inference (Вероятностный вывод) - https://github.com/elfi-dev/elfi - 262 stars      
+https://pypi.org/project/suftware - implementation of **Bayesian** Field Theory algorithms for low-dimensional statistical inference - Звёзд: 9
+https://pypi.org/project/scmodels - Structural Causal Models -  Звёзд: 5
+https://pypi.org/project/modularbayes - Modular **Bayesian** Inference -  Звёзд: 1
 
 ### 📈 Regression 📉
 https://pypi.org/project/clogistic/ - Constrained Logistic Regression
