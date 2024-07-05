@@ -17,6 +17,7 @@ https://pypi.org/project/optuna -  hyperparameter optimization framework - Зв�
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
+https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
@@ -347,11 +348,12 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 **https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 
 
-## 📊📊 Statistics / Regression                   
+## 📊📊 S_Statistics / Regression                   
 https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565             
 https://pypi.org/project/scikit-posthocs - Statistical post-hoc analysis and outlier detection algorithms - Звёзд: 325               
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245                        
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
+https://pypi.org/project/boost-histogram - The Boost::Histogram Python wrapper - Звёзд: 142                    
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
@@ -516,6 +518,7 @@ https://pypi.org/project/quadprog - Quadratic Programming Solver -  Звёзд: 
 
 **https://pypi.org/project/qpbenchmark** - Benchmark for quadratic programming solvers available in Python -  Звёзд: 97
 **https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
+https://pypi.org/project/desc-opt - Computes, analyzes and **optimizes** 3D MHD equilibria for stellarators and tokamaks - Звёзд: 78            
 https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
 https://github.com/PyLops/pyproximal - solve non-smooth, constrained convex problems with proximal algorithms -  46 stars            
 https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
@@ -570,6 +573,10 @@ https://pypi.org/project/lpsolvers/ - Linear programming solvers -  Звёзд: 
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
 https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
 https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
+
+### 2️⃣ Quadratic programming
+https://pypi.org/project/qpalm/ - Proximal Augmented Lagrangian method for Quadratic Programs -  Звёзд: 13          
+https://pypi.org/project/TBFLib - ToriBird's Formula library (TBFLib) - Звёзд: 0          
 
 
 ### 📈 Regression 
@@ -714,7 +721,7 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 
 
-## ⏲️ Signal Processing / Time Series / Filtering                                      
+## ⏲️ Signal Processing / Time Series (T_S)/ Filtering                                      
 https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539         
 
 https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com/laszukdawid/PyEMD - 841 stars        
@@ -737,7 +744,8 @@ https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy r
 https://pypi.org/project/somata - State-space Oscillator Modeling And Time-series Analysis - Звёзд: 21            
 https://pypi.org/project/yaflpy - Kalman filter variants - Звёзд: 20           
 **https://pypi.org/project/sampen/** - calculate an estimation of the Sample Entropy of a time series -  Звёзд: 10           
-https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4              
+https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4       
+https://pypi.org/project/hints-kmcs - calculating pairwise and higher-order interactions of N-dimensional state variables from measured time series -  Звёзд: 4          
 
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
@@ -779,7 +787,6 @@ https://github.com/je-c/pixel_reshaper - A package to structure and convert imag
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
 **https://github.com/lightly-ai/lightly** - self-supervised learning on images                
-https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer       
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
@@ -804,8 +811,10 @@ https://pypi.org/project/removebg-infusiblecoder - Remove image background -  З
 https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://github.com/s-emanuilov/vector_forge - convert individual images into feature vectors by specifying your desired model -  0 stars             
 
 #### 💦 Fractal generation
-https://pypi.org/project/pymandel - Fractal generation GUI application - Звёзд: 15              
 https://pypi.org/project/fractalshades - Fractal deep-zoom explorer package for Mandelbrot fractal - 27 stars           
+https://pypi.org/project/Aptus - Aptus: A Mandelbrot set explorer and renderer - 20 stars                 
+https://pypi.org/project/pymandel - Fractal generation GUI application - Звёзд: 15              
+https://pypi.org/project/HofstadterTools - analyzing the Hofstadter model - Звёзд: 14
 
 
 ### 💮 Meshs / 2D / 3D 
@@ -909,7 +918,7 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 
 
 
-### 🌏🌏🌏 GeoPhysics / Geology / Geodezy-Spatial / Mining
+### 🌏🌏🌏 G_GeoPhysics / Geology / Geodezy-Spatial / Mining
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                  
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars 
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
@@ -918,7 +927,8 @@ https://pypi.org/project/gstools-core - A Rust implementation of the core algori
 https://pypi.org/project/geoapps - development and sharing of open-source applications in geoscience - Звёзд: 55             
 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
-https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12              
+https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12 
+https://pypi.org/project/phyddle/ - deep learning for phylogenetic models -  Звёзд: 3            
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
