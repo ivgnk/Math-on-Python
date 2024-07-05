@@ -238,7 +238,8 @@ https://pypi.org/project/testflows.combinatorics - Звёзд: 2
 **[emlib](https://pypi.org/project/emlib/)** -  Звёзд: 1                           
 https://pypi.org/project/trotter/ - Звёзд: 1                               
 https://pypi.org/project/partitions - Generates partitions of a positive integer - Звёзд: 1                       
-https://github.com/whym1here/Algopylib -  0 stars                        
+https://github.com/whym1here/Algopylib -  0 stars    
+https://pypi.org/project/pycycles/ - Permutation and permutation groups -  0 stars    
 - - -
 https://pypi.org/project/infEGE -  8 stars
 https://pypi.org/project/combi/ 
@@ -316,7 +317,8 @@ https://github.com/JoshKarpel/idesolver
 https://pypi.org/project/differint -  Звёзд: 50
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
-https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37          
+https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37 
+https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
  https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
  https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
@@ -503,6 +505,7 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 **https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
 
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
+https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548                         
 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
@@ -563,7 +566,10 @@ https://pypi.org/project/swarmist -  Domain Specific Language (DSL) for building
 **https://pypi.org/project/PuLP** - is an LP modeler, can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems -  Звёзд: 1999
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512  
 https://pypi.org/project/lpsolvers/ - Linear programming solvers -  Звёзд: 22              
+**https://pypi.org/project/lippy** -  Звёзд: 18           
 https://pypi.org/project/dantzig - linear programming library -  Звёзд: 4       
+https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
+https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 
 
 ### 📈 Regression 
@@ -588,10 +594,6 @@ https://pypi.org/project/scifit - Звёзд: 1
 https://pypi.org/project/pyeq2 - Large curve fitting and surface fitting library with hundreds of named equations                    
 
 
-### ↔️ Linear programming             
-**https://pypi.org/project/lippy** -  Звёзд: 18           
-https://pypi.org/project/ponio - numerical integrators for solve linear transport equation   
-https://pypi.org/project/conv-opt - High-level Python package for solving linear and quadratic optimization problems using multiple solvers            
 
 ### 🐝 Particle Swarm Optimization 🐜 (Evolutionary algorithms)                       
 **https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox -  2k stars         
@@ -648,6 +650,9 @@ https://pypi.org/project/organisms
 https://pypi.org/project/shgo/
 https://pypi.org/project/gofit - GOFit: Global Optimization for Fitting problems - Звёзд: 1                        
 https://pypi.org/project/vpso - Myopic and Non-Myopic Global Optimization -  Звёзд: 1              
+https://pypi.org/project/josiann - Simulated Annealing for noisy cost function - Звёзд: 1             
+
+
 
 
 
@@ -712,7 +717,8 @@ https://pypi.org/project/aristop - optimization of energy systems
 ## ⏲️ Signal Processing / Time Series / Filtering                                      
 https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539         
 
-https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com/laszukdawid/PyEMD - 841 stars         
+https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com/laszukdawid/PyEMD - 841 stars        
+https://pypi.org/project/EMD-signal/ - Implementation of the Empirical Mode Decomposition (EMD) and its variations - 841 stars        
 
 
 **https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803             
@@ -728,6 +734,7 @@ https://pypi.org/project/kshape - univariate and multivariate time-series cluste
 https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77       
 https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy related timeseries -  Звёзд: 44   
+https://pypi.org/project/somata - State-space Oscillator Modeling And Time-series Analysis - Звёзд: 21            
 https://pypi.org/project/yaflpy - Kalman filter variants - Звёзд: 20           
 **https://pypi.org/project/sampen/** - calculate an estimation of the Sample Entropy of a time series -  Звёзд: 10           
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4              
@@ -791,6 +798,9 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд: 114           
 https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёзд: 114           
 https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22          
+https://pypi.org/project/removebg-infusiblecoder - Remove image background -  Звёзд: 1             
+
+
 https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://github.com/s-emanuilov/vector_forge - convert individual images into feature vectors by specifying your desired model -  0 stars             
 
 #### 💦 Fractal generation
@@ -1061,7 +1071,8 @@ https://pypi.org/project/kgraph-ts -  Library for Approximate Nearest Neighbor S
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
 https://pypi.org/project/knows - Property graph benchmark that creates graphs with specified node and edge numbers, supporting multiple output formats and visualization -  Звёзд: 2
 
-https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1          
+https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1                    
+https://pypi.org/project/dhgraph - Python Module for Directed Hypergraphs (a generalization of digraph.) - Звёзд: 1             
 https://pypi.org/project/pygraphia - Звёзд: 0          
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs -  Звёзд: 0
 **https://pypi.org/project/graph-generators/** - compute various classes of networkx graphs - Звёзд: 0               
