@@ -362,6 +362,7 @@ https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд:
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
 https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars                                              
+https://pypi.org/project/stat-analysis - collection of common statistical methods for data analysis - Звёзд: 0               
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
@@ -746,7 +747,8 @@ https://pypi.org/project/kshape - univariate and multivariate time-series cluste
 
 https://pypi.org/project/tsam - Time series aggregation module (tsam) to create typical periods -  Звёзд: 142                      
 **https://pypi.org/project/ts2vg/** - visibility graphs from time series data - Звёзд: 77       
-https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy related timeseries -  Звёзд: 44   
+https://pypi.org/project/enlopy -  generate, process, analyze, and plot energy related timeseries -  Звёзд: 44 
+https://pypi.org/project/ennemi - Non-linear correlation detection with mutual information - Звёзд: 35                
 https://pypi.org/project/somata - State-space Oscillator Modeling And Time-series Analysis - Звёзд: 21            
 https://pypi.org/project/yaflpy - Kalman filter variants - Звёзд: 20           
 **https://pypi.org/project/sampen/** - calculate an estimation of the Sample Entropy of a time series -  Звёзд: 10           
@@ -1037,12 +1039,10 @@ https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (
 
     
 ## ☸️ Networks / Graphs / Tree              
+https://pypi.org/project/pyunicorn - Unified complex network and recurrence analysis toolbox - Звёзд: 195            
+https://github.com/bryangraham/netrics - econometric analysis of networks -  20 stars                 
 https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. The grounded pipeline, introduced in [1], is a method for building stable, topological descriptors of weighted digraphs -  Звёзд: 3        
-https://github.com/bryangraham/netrics                 
-https://pypi.org/project/PyGSP/      
 https://pypi.org/project/postman_problems           
-https://pypi.org/project/paramnet       
-https://pypi.org/project/grinpy         
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
 https://pypi.org/project/louvain -  methods of community detection in large networks              
 
@@ -1065,6 +1065,8 @@ https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://githu
 https://pypi.org/project/pykeen - training and evaluating multimodal knowledge graph embeddings - Звёзд: 1580               
 **https://pypi.org/project/networkit/** -  high-performance network analysis - Звёзд: 751                  
 https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars   
+https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 473     
+
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
 https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks - Звёзд: 90
@@ -1081,6 +1083,8 @@ https://pypi.org/project/galib/ - A library for graph analysis -  Звёзд: 23
 https://pypi.org/project/jgrapht - Звёзд: 22     
 https://pypi.org/project/altgraph/ -  graph (network) package (fork of graphlib) - Звёзд: 19                    
 https://pypi.org/project/leafy - fast graph algorithms library - Звёзд: 17             
+https://pypi.org/project/grinpy  - Graph invariants -  Звёзд: 16       
+
 https://pypi.org/project/nographs - Graph analysis – the lazy (evaluation) way: Analysis on the fly, for graphs, that are computed and/or adapted on the fly - Звёзд: 16             
 https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11  
 https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t graphs (https://en.wikipedia.org/wiki/St-planar_graph) - Звёзд: 10 
@@ -1096,6 +1100,8 @@ https://pypi.org/project/dhgraph - Python Module for Directed Hypergraphs (a gen
 https://pypi.org/project/pygraphia - Звёзд: 0          
 https://pypi.org/project/viridicle - Fast stochastic ecological simulations on graphs -  Звёзд: 0
 **https://pypi.org/project/graph-generators/** - compute various classes of networkx graphs - Звёзд: 0               
+https://pypi.org/project/paramnet - NetworkX graphs with required node/edge parameters - Звёзд: 0                     
+
 
 ### 🌳 Tree 
 https://pypi.org/project/dm-tree -  library for working with nested data structures -  921 stars               
