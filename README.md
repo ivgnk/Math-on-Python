@@ -439,14 +439,16 @@ https://pypi.org/project/autoregression
 https://pypi.org/project/ropwr - Robust Piecewise Regression - Звёзд: 10          
 https://pypi.org/project/pyRobustRegressionLib - near and non-linear robust regression - Звёзд: 5              
 
-### 🔠 Bayesian                
+### 🔠 B_Bayesian                
 https://github.com/pymc-devs    
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
+https://pypi.org/project/arviz - Exploratory analysis of Bayesian models - Звёзд: 1555
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                                      
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/bamt - data modeling and analysis tool based on Bayesian networks -  116 stars
 https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing - 40 stars        
+https://pypi.org/project/BayesABTest - AB tests in a Bayesian framework - Звёзд: 19             
 https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
 https://pypi.org/project/murefi - multiple replicate fitting and Bayesian modeling - Звёзд: 4             
 https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
@@ -644,7 +646,9 @@ https://github.com/NiMlr/High-Dim-ES-RL -  25 stars
 https://pypi.org/project/dfbgn - Звёзд: 7                  
 https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
+**https://pypi.org/project/search-data-collector/** -  Звёзд: 1       
 https://github.com/mjhough/dfo_alg - 0 stars
+https://pypi.org/project/deforce/ - Derivative-Free Algorithms for Optimizing Cascade Forward Neural Networks - Звёзд: 0             
 
 --- not in github                      
 **https://pypi.org/project/SQImFil** - https://qat4chem.lbl.gov/software    
@@ -1049,6 +1053,8 @@ https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time
 https://pypi.org/project/bamt-light - data modeling and analysis tool based on Bayesian networks - 116 stars        
 
 ### ❇️❇️ G_Graphs       
+**https://pypi.org/project/networkx/**  - Python package for creating and manipulating graphs and networks - Звёзд: 14440                     
+
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
 **https://pypi.org/project/Gato/** - Graph Animation Toolbox: animating algorithms on graphs            
@@ -1110,6 +1116,9 @@ https://pypi.org/project/opener - Solve open the lock puzzle
 https://pypi.org/project/dicetables              
 https://pypi.org/project/mazelib - creating and solving mazes - Звёзд: 225         
 https://pypi.org/project/mazelib-alt/ - creating and solving mazes (лабиринты) -  Звёзд: 225             
+
+### 🏀🏀 Game theory 🏀🏀
+https://pypi.org/project/pygambit - computation in game theory - Звёзд: 381              
 
 ## 🎡 D_Dynamic systems    
 **https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351                                   
