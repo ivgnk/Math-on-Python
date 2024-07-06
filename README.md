@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=33                               
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=29                                                   
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -7,6 +7,8 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 ## 🚗 ML / DL / AI / DS / Neural Networks     
 **https://jina.ai/**
+⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
+
 https://github.com/bluesky - cientific data acquisition, management, and analysis            
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
@@ -27,12 +29,18 @@ https://pypi.org/project/torch-xla - XLA bridge for PyTorch -  Звёзд: 2375
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
 https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935          
 **https://pypi.org/project/talos/** -  changes the ordinary Keras, TensorFlow (tf.keras), and PyTorch workflow by fully automating hyperparameter tuning and model evaluation -  Звёзд: 1617        
+**https://pypi.org/project/tensorflow-model-analysis/** - analyzing TensorFlow models - Звёзд: 1245         
+
+https://pypi.org/project/tensorflow-transform/ - library for data preprocessing with TensorFlow - Звёзд: 983               
+https://pypi.org/project/tensorflow-data-validation - TensorFlow Data Validation - exploring and validating machine learning data - Звёзд: 754              
+
 https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
 https://pypi.org/project/scikit-fda - Functional Data Analysis -  Звёзд: 287              
 https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467          
 
 https://pypi.org/project/permetrics -  Performance Metrics for Machine Learning Models - Звёзд: 62                       
-https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
+https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51    
+https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor - library for parsing and manipulating structured data inside of tensorflow - 32 stars           
 **https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars
 https://pypi.org/project/polar-diagrams - "Interactive Polar Diagrams for Model Comparison" - https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison - 7 stars              
 
@@ -160,6 +168,8 @@ https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звё�
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
 https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
+https://pypi.org/project/quadax - Numerical quadrature with JAX - Звёзд: 34                      
+
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
@@ -338,8 +348,9 @@ https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers wr
 https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
 https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33           
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
- https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
- https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
+https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
+https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
+https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
 
 https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
@@ -560,6 +571,7 @@ https://pypi.org/project/ProMCDA - Probabilistic Multi Criteria Decision Analysi
 https://pypi.org/project/search-data-explorer -  visualize search-data generated from **Gradient-Free-Optimizers** (1.1k stars) or **Hyperactive** (494 stars) - Звёзд: 2               
 https://pypi.org/project/ab-testing-analysis - AB test analysis toolbox for analyzing and reporting the results of an ab test experiment - Звёзд: 1          
 **https://github.com/SimonBlanke/Surfaces** - collection and visualization of single objective black-box functions for optimization benchmarking - Звёзд: 1            
+https://pypi.org/project/nullspace-optimizer - nonlinear constrained optimization                  
 
 https://github.com/SimonBlanke?tab=repositories&q=&type=&language=python&sort                     
 **https://pypi.org/project/UO-test-functions/** - functions collections for unconstrained optimization based on sympy                      
@@ -964,6 +976,7 @@ https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
 https://pypi.org/project/frouros - **drift detection** in machine learning systems - Звёзд: 172             
 
+https://pypi.org/project/cf-python - CF-compliant (Climate and Forecast) earth science data analysis library - https://github.com/NCAS-CMS/cf-python -  112 stars              
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
 https://pypi.org/project/geoapps - development and sharing of open-source applications in geoscience - Звёзд: 55             
 
@@ -1161,7 +1174,9 @@ https://pypi.org/project/pygambit - computation in game theory - Звёзд: 381
 **https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351                                   
 https://pypi.org/project/pydmd - Dynamic Mode Decomposition (DMD) is a model reduction algorithm -  Звёзд: 829             
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                                     
-https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578                
+https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578     
+**https://pypi.org/project/pysd/** - System Dynamics Modeling - Звёзд: 354             
+
 https://pypi.org/project/pykoopman - data-driven approximations to the Koopman operator - Звёзд: 263               
 https://pypi.org/project/gillespy2 -  stochastic simulation of biochemical systems -  Звёзд: 71       
 **https://pypi.org/project/nevopy/** - An open source neuroevolution framework for Python -  Звёзд: 27             
