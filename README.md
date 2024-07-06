@@ -20,16 +20,23 @@ https://pypi.org/project/optuna -  hyperparameter optimization framework - Зв�
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 **https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
-https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832              
+https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
+https://pypi.org/project/torch-xla - XLA bridge for PyTorch -  Звёзд: 2375                 
+
+
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
 https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935          
+**https://pypi.org/project/talos/** -  changes the ordinary Keras, TensorFlow (tf.keras), and PyTorch workflow by fully automating hyperparameter tuning and model evaluation -  Звёзд: 1617        
 https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
 https://pypi.org/project/scikit-fda - Functional Data Analysis -  Звёзд: 287              
 https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467          
 
 https://pypi.org/project/permetrics -  Performance Metrics for Machine Learning Models - Звёзд: 62                       
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51                  
+**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars
 https://pypi.org/project/polar-diagrams - "Interactive Polar Diagrams for Model Comparison" - https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison - 7 stars              
+
+
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
 https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
 
@@ -139,13 +146,17 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 # 🏠 PyPi                                  
 ## ♏ Algo & Structures collections   
 ### JAX                 
+Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
+Представляет объединение измененной версии autograd (автоматическое получение градиентной функции через дифференцирование функции)             
+и TensorFlow's XLA (Ускоренная линейная алгебра (Accelerated Linear Algebra)).                         
 **https://pypi.org/project/jax** - Differentiate, compile, and transform Numpy code - Звёзд: 28984             
 **https://github.com/google/jax** - Composable transformations of Python+NumPy programs: differentiate, vectorize and more - 29k stars                
-**https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1900             
+**https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1913                               
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
 https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
-https://pypi.org/project/blackjax-nightly - Flexible and fast sampling - Звёзд: 756            
+https://pypi.org/project/blackjax-nightly - Flexible and fast sampling - Звёзд: 756      
+https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
 https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
@@ -319,11 +330,13 @@ https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars
 
 https://pypi.org/project/gwr-inversion                     
 https://github.com/JoshKarpel/idesolver     
+https://pypi.org/project/pyodesys - https://pypi.org/project/pyodesys/ - Звёзд: 91               
 https://pypi.org/project/differint -  Звёзд: 50
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37 
 https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
+https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33           
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
  https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
  https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
@@ -361,9 +374,13 @@ https://pypi.org/project/boost-histogram - The Boost::Histogram Python wrapper -
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
+https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64        
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
-https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars  
+https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars 
+**https://pypi.org/project/phitter/** - Find the best probability distribution for your dataset - Звёзд: 4                 
+
+
 https://pypi.org/project/stat-analysis - collection of common statistical methods for data analysis - Звёзд: 0               
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
@@ -640,7 +657,7 @@ https://pypi.org/project/ribs - quality diversity optimization - type of evoluti
 https://pypi.org/project/qdpy - Quality-Diversity algorithms      
 
 
-### 🌷 DDerivative-free (D_F) optimization     
+### 🌷 Derivative-free (D_F) optimization     
 ⚡⚡ **https://github.com/topics/derivative-free**            
  https://github.com/eyounx/ZOOpt  -  394 stars            
 **https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
@@ -652,6 +669,7 @@ https://pypi.org/project/ttopt - Звёзд: 28
 https://github.com/strongio/evolutionary-optimization - 26 stars                   
 https://github.com/NiMlr/High-Dim-ES-RL -  25 stars                     
 https://pypi.org/project/dfbgn - Звёзд: 7                  
+https://pypi.org/project/graforvfl - Gradient-Free Optimization Framework for Boosting Random Vector Functional Link Network - Звёзд: 5               
 https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 **https://pypi.org/project/search-data-collector/** -  Звёзд: 1       
@@ -745,7 +763,8 @@ https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com
 https://pypi.org/project/EMD-signal/ - Implementation of the Empirical Mode Decomposition (EMD) and its variations - 841 stars        
 
 
-**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803             
+**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803   
+https://pypi.org/project/temporian - Звёзд: 645               
 https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 472           
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://github.com/deeptime-ml/deeptime**
@@ -800,6 +819,7 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 ### 🐠 Images
 https://pypi.org/search/?q=SIFT     
 https://pypi.org/project/ipol - https://git.sr.ht/~coco/clipol
+**https://github.com/danielgatis/rembg** -  remove images background - 15.4k stars                    
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
@@ -813,6 +833,7 @@ https://pypi.org/project/gratopy -  tomographic projections, Radon transforms
 https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
 https://pypi.org/project/pftracker - Face tracking based on particle filter        
 
+**https://pypi.org/project/deeprobust** - PyTorch library for adversarial robustness learning for image and graph data -  Звёзд: 956             
 https://pypi.org/project/pycontour -  2D Contour Processing       
 https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis and Testing in Python - A collection of scalar functions       
 https://pypi.org/project/pywoc - 2-D comparison           
