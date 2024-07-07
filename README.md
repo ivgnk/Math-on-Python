@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=29                                                   
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=27                                                   
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -6,6 +6,9 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 
 ## 🚗 ML / DL / AI / DS / Neural Networks     
+**https://github.com/topics/recommendation-system**                 
+**https://github.com/topics/recommender-system**              
+
 **https://jina.ai/**
 ⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
 
@@ -15,7 +18,8 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
-https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848                
+https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
+https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
@@ -235,6 +239,7 @@ https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_
 https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selection -  **https://github.com/abess-team** - https://github.com/abess-team/abess-A-Fast-Best-Subset-Selection-Library-in-Python-and-R                    
 
 ### 🌌 R_Random data / Stochastic processes
+**https://pypi.org/project/opensimplex** - noise generation function like Perlin or Simplex noise, but better  https://en.wikipedia.org/wiki/Simplex_noise  https://en.wikipedia.org/wiki/Perlin_noise                               
 **https://pypi.org/project/stochastic** - realizations of stochastic processes - Звёзд: 437              
 https://github.com/StochSS - Stochastic Simulation Service             
 https://pypi.org/project/stochss-compute          
@@ -255,6 +260,8 @@ https://pypi.org/project/normal-form/ -  working with Conjunctive Normal Form (C
 
 
 ## 🔃 Combinatorics 
+https://pypi.org/project/y0 - causal modeling - Звёзд: 42  y0 has a fully featured internal domain specific language for representing probability expressions                         
+https://pypi.org/project/logics - framework for mathematical logic -  Звёзд: 21             
 https://pypi.org/project/permutation - Permutations of finitely many positive integers - Звёзд: 16           
 https://pypi.org/project/permuta -  permutation library - Звёзд: 13             
 https://pypi.org/project/comb-spec-searcher -  Звёзд: 11            
@@ -277,6 +284,7 @@ https://pypi.org/project/combi/
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124     
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
 
+https://pypi.org/project/galgebra - Symbolic Geometric Algebra/Calculus package for SymPy - Звёзд: 223                     
 https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
 https://pypi.org/project/Splipy - Spline modelling library -  Звёзд: 100             
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
@@ -377,6 +385,7 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 
 
 ## 📊📊 S_Statistics / Regression                   
+**https://pypi.org/project/scann/** - Scalable Nearest Neighbor search library - Звёзд: 33387                      
 https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565             
 https://pypi.org/project/scikit-posthocs - Statistical post-hoc analysis and outlier detection algorithms - Звёзд: 325               
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245                        
@@ -561,7 +570,7 @@ https://github.com/PyLops/pyproximal - solve non-smooth, constrained convex prob
 https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
 https://pypi.org/project/cobyqa - Constrained Optimization BY Quadratic Approximations - Звёзд: 30                  
 
-
+https://pypi.org/project/pycutest/ - CUTEst optimization test environment - Звёзд: 27                
 https://pypi.org/project/pyaugmecon - multi-objective optimization solver -  Звёзд: 23       
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
 https://pypi.org/project/pyorlib - library for operations research -  Звёзд: 8            
@@ -682,6 +691,7 @@ https://github.com/strongio/evolutionary-optimization - 26 stars
 https://github.com/NiMlr/High-Dim-ES-RL -  25 stars                     
 https://pypi.org/project/dfbgn - Звёзд: 7                  
 https://pypi.org/project/graforvfl - Gradient-Free Optimization Framework for Boosting Random Vector Functional Link Network - Звёзд: 5               
+https://pypi.org/project/cuatro -  quadratic model-based derivative-free optimization solver, CUATRO (short for Convex qUAdratic Trust-Region Optimizer) - Звёзд: 3             
 https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 **https://pypi.org/project/search-data-collector/** -  Звёзд: 1       
@@ -693,15 +703,18 @@ https://pypi.org/project/deforce/ - Derivative-Free Algorithms for Optimizing Ca
 **https://pypi.org/project/SQSnobFit/** - https://qat4chem.lbl.gov/software
 https://pypi.org/project/dfoalgos                    
 
-### ⬇️ Global minimum / Global optimisation                   
+### ⬇️ Global minimum / Global optimisation (G_O)                  
 **https://pypi.org/project/cma/** -  Covariance Matrix Adaptation Evolution Strategy for non-linear numerical optimization in Python - Звёзд: 1046      
 https://pypi.org/project/ncpol2sdpa - global polynomial optimization - 48 stars      
 https://pypi.org/project/tgo - Finds the global minimum           
 https://pypi.org/project/organisms  
 https://pypi.org/project/shgo/
+https://pypi.org/project/pyhms - The HMS (Hierarchic Memetic Strategy) is a composite global optimization strategy - 4 stars                
 https://pypi.org/project/gofit - GOFit: Global Optimization for Fitting problems - Звёзд: 1                        
 https://pypi.org/project/vpso - Myopic and Non-Myopic Global Optimization -  Звёзд: 1              
 https://pypi.org/project/josiann - Simulated Annealing for noisy cost function - Звёзд: 1             
+https://pypi.org/project/porgo -  portable universal library in global optimization -  Звёзд: 1           
+
 
 
 
@@ -814,6 +827,7 @@ https://pypi.org/project/ltv-mpc - Linear time-variant model predictive control 
 
 https://pypi.org/project/kaftools/ - Kernel Adaptive Filtering (KAF) methods - Звёзд: 1               
 
+https://pypi.org/project/pypfilt - A bootstrap particle filter that can be used for recursive Bayesian estimation and forecasting               
 
 
 
@@ -1089,6 +1103,8 @@ https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. Th
 https://pypi.org/project/postman_problems           
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
 https://pypi.org/project/louvain -  methods of community detection in large networks              
+https://pypi.org/project/cynetdiff - Network diffusion processes aim to model the spread of trends through social networks, represented using graphs -  Звёзд: 3                
+
 
 https://pypi.org/project/IdealFlowNetwork          
 https://pypi.org/project/paper-network - random networks           
@@ -1098,6 +1114,8 @@ https://pypi.org/project/bamt-light - data modeling and analysis tool based on B
 
 ### ❇️❇️ G_Graphs       
 **https://pypi.org/project/networkx/**  - Python package for creating and manipulating graphs and networks - Звёзд: 14440                     
+
+https://pypi.org/project/igraph - High performance graph data structures and algorithms - Звёзд: 1268               
 
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
@@ -1191,6 +1209,7 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
 https://github.com/gtaylor/python-colormath -  453 stars              
+https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves -  Звёзд: 28                
 https://pypi.org/project/llnl-pydv -  1D graphics and data analysis tool, heavily based on the ULTRA plotting tool - Звёзд: 12                 
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
