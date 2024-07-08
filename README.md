@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=27                                                   
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=24                                                                     
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -17,6 +17,7 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
+https://pypi.org/project/onnxruntime-training-cpu - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13499           
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
@@ -384,6 +385,7 @@ https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers wr
 https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
 https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33           
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
+https://pypi.org/project/pyodeint - Python binding for odeint from boost -  Звёзд: 19             
 https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
 https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
 https://pypi.org/project/fastvpinns - tensor-driven variational physics-informed neural network library for solving PDEs - Звёзд: 12            
@@ -475,7 +477,6 @@ https://github.com/uncertainty-toolbox/uncertainty-toolbox -  1.8k stars
 https://github.com/awslabs/fortuna -  864 stars           
 https://github.com/SALib/SALib - Sensitivity Analysis -  847 stars           
 https://github.com/IntelLabs/bayesian-torch - 481 stars  
-https://github.com/jonathf/chaospy - 432 stars          
 https://github.com/SURGroup/UQpy - Uncertainty Quantification - 266 stars        
 https://github.com/IBM/UQ360 - 252 stars              
 https://github.com/deel-ai/puncc - 249 stars      
@@ -484,6 +485,8 @@ https://github.com/ENSTA-U2IS-AI/torch-uncertainty - 217 stars
 
 #### 🏠 Pypi
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
+https://pypi.org/project/chaospy - https://github.com/jonathf/chaospy - performing uncertainty quantification - 432 stars          
+
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
 https://pypi.org/project/uqtestfuns - library of test functions from the uncertainty quantification - Звёзд: 8
 https://pypi.org/project/measurement-stats  -  Measurement statistics with uncertainties and error propagation - Звёзд: 0
@@ -584,7 +587,8 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1192             
 
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
-https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548                         
+https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548               
+https://pypi.org/project/hyperactive - hyperparameter optimization toolbox for convenient and fast prototyping -  Звёзд: 494                 
 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
@@ -710,6 +714,7 @@ https://pypi.org/project/qdpy - Quality-Diversity algorithms
 
 ### 🌷 Derivative-free (D_F) optimization     
 ⚡⚡ **https://github.com/topics/derivative-free**            
+https://pypi.org/project/gradient-free-optimizers - Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces - Звёзд: 1127           
  https://github.com/eyounx/ZOOpt  -  394 stars            
 **https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
  https://pypi.org/project/fcmaes - Звёзд: 107          
@@ -980,6 +985,7 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 ## 🎹  ⚡⚡⚡⚡ Finite Element Method (FEM)
 **https://github.com/topics/finite-elements** 
 https://pypi.org/project/nutils/ - Numerical Utilities for Finite Element Analysis - https://github.com/evalf/nutils -  87 stars          
+https://pypi.org/project/pyoomph - multi-physics finite element framework based on oomph-lib and GiNaC - Звёзд: 1             
 
 
 
@@ -1024,6 +1030,7 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 ### 🌏🌏🌏 G_GeoPhysics / Geology / Geodezy-Spatial / Mining
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                  
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars 
+https://pypi.org/project/gstools/ - geostatistical toolbox - Звёзд: 532        
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
 https://pypi.org/project/frouros - **drift detection** in machine learning systems - Звёзд: 172             
 
