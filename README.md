@@ -25,10 +25,7 @@ https://pypi.org/project/optuna -  hyperparameter optimization framework - Зв�
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
-**https://pypi.org/project/pytorch-forecasting** - Звёзд: 3726                    
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
-https://pypi.org/project/torch-xla - XLA bridge for PyTorch -  Звёзд: 2375                 
-
 
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
 https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935          
@@ -45,7 +42,6 @@ https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467
 https://pypi.org/project/permetrics -  Performance Metrics for Machine Learning Models - Звёзд: 62                       
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51    
 https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor - library for parsing and manipulating structured data inside of tensorflow - 32 stars           
-**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars
 https://pypi.org/project/polar-diagrams - "Interactive Polar Diagrams for Model Comparison" - https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison - 7 stars              
 
 
@@ -54,7 +50,6 @@ https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automa
 
 https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022                    
 https://pypi.org/project/xmos-ai-tools-beta 20/03/2022              
-https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022                       
 
 https://pypi.org/project/wnetron - Viewer for neural network, deep learning, and machine learning models -  Звёзд: 26688          
 
@@ -74,6 +69,21 @@ https://pypi.org/project/imbalance-metrics
 https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Library for Training Binarized Neural Networks            
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
+
+### 📶 PyTorch 
+**https://github.com/topics/pytorch**       
+https://github.com/pytorch/pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration - 80.2k stars                 
+https://pypi.org/project/pytorch-forecasting - Звёзд: 3744         
+https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022 - Звёзд: 3744                      
+                   
+https://pypi.org/project/torch-xla - XLA bridge for PyTorch -  Звёзд: 2375                 
+**https://pypi.org/project/deeprobust** - PyTorch library for adversarial robustness learning for image and graph data -  Звёзд: 956             
+https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch - Звёзд: 639             
+**https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch  (A collection of infrastructure and tools for research in neural network interpretability) -  593 stars                     
+https://pypi.org/project/posteriors - Uncertainty quantification with PyTorch - https://github.com/normal-computing/posteriors -  278 stars              
+**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars  
+
+
 
 ### 🌁 N_Neural Networks
 https://pypi.org/project/onnxruntime-cann - engine for Open Neural Network Exchange (ONNX) models - Звёзд: 13468
@@ -170,7 +180,10 @@ https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently
 https://pypi.org/project/blackjax-nightly - Flexible and fast sampling - Звёзд: 756      
 https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
-https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                        
+https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                  
+https://pypi.org/project/optimistix - Nonlinear optimisation in JAX and Equinox - Звёзд: 265             
+
+
 https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
 https://pypi.org/project/quadax - Numerical quadrature with JAX - Звёзд: 34                      
 
@@ -603,7 +616,6 @@ https://pypi.org/project/peerless
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 https://pypi.org/project/sqnomad -     
-https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch       
          
 https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
 https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization algorithm -  Звёзд: 12          
@@ -759,12 +771,13 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 ## 💰 Quantitative Finance (QF)         
 ## 🅾️ ORG 
 https://github.com/quantmind
+**https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
 
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480           
 https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
 https://pypi.org/project/okama - Звёзд: 189            
+https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43        
 
-https://github.com/quantmind/awesome-open-finance                            
 https://pypi.org/project/dynts (2011)        
 https://pypi.org/project/pyfolio-qa             
 https://github.com/quantopian/pyfolio       
@@ -852,14 +865,12 @@ https://github.com/je-c/pixel_reshaper - A package to structure and convert imag
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
 **https://github.com/lightly-ai/lightly** - self-supervised learning on images                
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
-**https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch             
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
 https://pypi.org/project/pyspod - Python Spectral Proper Orthogonal Decomposition -  Звёзд: 96  - SPOD can be applied to wide-sense stationary data. Examples of these arise in different fields, including fluidmechanics, and weather and climate        
 https://pypi.org/project/gratopy -  tomographic projections, Radon transforms               
 https://pypi.org/project/bm3d-streak-removal - filtering of correlated noise in sinogram domain (Radon transforms)
 https://pypi.org/project/pftracker - Face tracking based on particle filter        
 
-**https://pypi.org/project/deeprobust** - PyTorch library for adversarial robustness learning for image and graph data -  Звёзд: 956             
 https://pypi.org/project/pycontour -  2D Contour Processing       
 https://pypi.org/project/flatpy -  samplings in arbitrary dimensions / Analysis and Testing in Python - A collection of scalar functions       
 https://pypi.org/project/pywoc - 2-D comparison           
@@ -948,8 +959,16 @@ https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.i
 **https://regina-normal.github.io/** -  tool for studying low-dimensional topology         
 https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 
+## 🎹  ⚡⚡⚡⚡ Finite Element Method (FEM)
+**https://github.com/topics/finite-elements** 
+https://pypi.org/project/nutils/ - Numerical Utilities for Finite Element Analysis - https://github.com/evalf/nutils -  87 stars          
+
+
 
 ## ⚡⚡ Physics ⚡⚡ 
+
+https://pypi.org/project/thermosteam - standalone thermodynamic engine capable of estimating mixture properties, solving thermodynamic phase equilibria, and modeling stoichiometric reactions -  Звёзд: 57            
+
 ### 🔴🔵 Magn  
 **https://pypi.org/project/pygasflow** - Ideal Gasdynamics utilities - Звёзд: 22                
 **https://ubermag.github.io** - Micromagnetic simulations 
@@ -1057,11 +1076,12 @@ https://pypi.org/project/wafo (2006)
 https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms           
 
 
-## 📏 Geometry 🌑        
+## 📏 Geometry 🌑 (Geom_)       
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
 **https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599      
 https://pypi.org/project/solidpython2 - interface to the OpenSCAD declarative geometry language - Звёзд: 119           
 https://pypi.org/project/Geometry3D -  3D Geometry Lib - Звёзд: 85
+https://pypi.org/project/pypoman -  polyhedral geometry - Звёзд: 62         
 **https://pypi.org/project/distance3d/** - Distance computation and collision detection in 3D -  Звёзд: 50            
 
 
@@ -1096,9 +1116,15 @@ https://pypi.org/project/polygon-contains-point -  checking if a polygon contain
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 
     
-## ☸️ Networks / Graphs / Tree              
+## ☸️ Networks / Graphs / Tree (Ne_t)             
+https://pypi.org/project/networkx -  creating and manipulating graphs and networks - Звёзд: 14449    
+https://pypi.org/project/pygraphviz - Python interface to Graphviz (create, edit, read, write, and draw graphs) -  Звёзд: 746             
 https://pypi.org/project/pyunicorn - Unified complex network and recurrence analysis toolbox - Звёзд: 195            
+https://pypi.org/project/networkx-viewer - Interactive viewer for networkx graphs -  Звёзд: 136                     
+
+
 https://github.com/bryangraham/netrics - econometric analysis of networks -  20 stars                 
+https://pypi.org/project/evorbf -  Evolving Radial Basis Function Network by Intelligent Nature-inspired Algorithms - Звёзд: 5                   
 https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. The grounded pipeline, introduced in [1], is a method for building stable, topological descriptors of weighted digraphs -  Звёзд: 3        
 https://pypi.org/project/postman_problems           
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
