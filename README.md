@@ -21,19 +21,16 @@ https://github.com/onnx/onnx - Open standard for machine learning interoperabili
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
-**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
 
+
 https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
 https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935          
 **https://pypi.org/project/talos/** -  changes the ordinary Keras, TensorFlow (tf.keras), and PyTorch workflow by fully automating hyperparameter tuning and model evaluation -  Звёзд: 1617        
-**https://pypi.org/project/tensorflow-model-analysis/** - analyzing TensorFlow models - Звёзд: 1245         
 
-https://pypi.org/project/tensorflow-transform/ - library for data preprocessing with TensorFlow - Звёзд: 983               
-https://pypi.org/project/tensorflow-data-validation - TensorFlow Data Validation - exploring and validating machine learning data - Звёзд: 754              
 
 https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
 https://pypi.org/project/scikit-fda - Functional Data Analysis -  Звёзд: 287              
@@ -41,11 +38,11 @@ https://pypi.org/project/shorttext/- Short Text Mining -  Звёзд: 467
 
 https://pypi.org/project/permetrics -  Performance Metrics for Machine Learning Models - Звёзд: 62                       
 https://pypi.org/project/kxy - Pre-Learning and Post-Learning Analysis Toolkit - 06/06/2022 - Звёзд: 51    
-https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor - library for parsing and manipulating structured data inside of tensorflow - 32 stars           
 https://pypi.org/project/polar-diagrams - "Interactive Polar Diagrams for Model Comparison" - https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison - 7 stars              
 
 
 https://pypi.org/project/tlearner - neural network transfer learning - Звёзд: 3             
+**https://pypi.org/project/mlpr/** - machine learning pipeline and creation of reports -  Звёзд: 0           
 https://pypi.org/project/nocode-auton  https://autonn.github.io/AutoNN/ - Automated machine learning / No-Code ML Framework for beginners           
 
 https://github.com/lobe  https://pypi.org/project/lobe   23/02/2022                    
@@ -70,6 +67,22 @@ https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Librar
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
+### TensorFlow                
+**https://github.com/topics/tensorflow**   
+https://github.com/tensorflow/tensorflow - Open Source Machine Learning Framework for Everyone - 184k stars                 
+**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
+https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
+https://pypi.org/project/tfx/ - TensorFlow Extended (TFX) is a TensorFlow-based general-purpose machine learning platform implemented at Google - Звёзд: 2090                  
+https://pypi.org/project/ml-pipelines-sdk - ML Pipelines SDK (A dependency-light distribution of the core pipeline authoring functionality of TensorFlow Extended (TFX)) - Звёзд: 2090          
+
+https://pypi.org/project/tensorflow-gnn -  building scalable graph neural networks -  Звёзд: 1305             
+**https://pypi.org/project/tensorflow-model-analysis/** - analyzing TensorFlow models - Звёзд: 1245         
+https://pypi.org/project/tensorflow-transform/ - library for data preprocessing with TensorFlow - Звёзд: 983               
+**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803   
+https://pypi.org/project/tensorflow-data-validation - TensorFlow Data Validation - exploring and validating machine learning data - Звёзд: 754              
+https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor - library for parsing and manipulating structured data inside of tensorflow - 32 stars           
+
+
 ### 📶 PyTorch 
 **https://github.com/topics/pytorch**       
 https://github.com/pytorch/pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration - 80.2k stars                 
@@ -87,7 +100,8 @@ https://pypi.org/project/posteriors - Uncertainty quantification with PyTorch - 
 
 ### 🌁 N_Neural Networks
 https://pypi.org/project/onnxruntime-cann - engine for Open Neural Network Exchange (ONNX) models - Звёзд: 13468
-https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446       
+https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446  
+https://pypi.org/project/tract - Python bindings for tract, a neural network inference engine - Звёзд: 2125
 https://pypi.org/project/norse - library for deep learning with spiking neural networks -  Звёзд: 628         
 https://pypi.org/project/brainpy -  Brain Dynamics Programming - https://github.com/brainpy/BrainPy - 489 stars          
 https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
@@ -177,7 +191,7 @@ Google JAX — фреймворк машинного обучения для п�
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
 https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
-https://pypi.org/project/blackjax-nightly - Flexible and fast sampling - Звёзд: 756      
+https://pypi.org/project/blackjax - Flexible and fast sampling - Звёзд: 758                       
 https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                  
@@ -209,6 +223,7 @@ https://pypi.org/project/trusspy - Truss Solver - Звёзд: 51
 **https://pypi.org/project/portion** - Data structure and operations for intervals - Звёзд: 461  (https://pypi.org/project/python-intervals)         
 https://pypi.org/project/pynterval -  Звёзд: 0                     
 https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic -  1 star                  
+https://pypi.org/project/intervalframe -  interval manipulation - Звёзд: 1      
 
 ### 📀💿 DataBase 💾
 https://pypi.org/project/PyPika - A SQL query builder API for Python - Звёзд: 2425                     
@@ -369,8 +384,9 @@ https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers wr
 https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
 https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33           
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
-https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
 https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
+https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
+https://pypi.org/project/fastvpinns - tensor-driven variational physics-informed neural network library for solving PDEs - Звёзд: 12            
 https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
 
 https://pypi.org/project/ode-explorer (2020)       
@@ -500,6 +516,7 @@ https://pypi.org/project/arviz - Exploratory analysis of Bayesian models - Зв�
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                                      
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/bamt - data modeling and analysis tool based on Bayesian networks -  116 stars
+https://pypi.org/project/pymc-bart -Bayesian Additive Regression Trees for Probabilistic Programming with PyMC - Звёзд: 82                 
 https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing - 40 stars        
 https://pypi.org/project/BayesABTest - AB tests in a Bayesian framework - Звёзд: 19             
@@ -562,6 +579,7 @@ https://pypi.org/project/opengen - Nonconvex embedded optimization: code generat
 https://pypi.org/project/csnn - Neural Networks with CasADi            
 
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
+**https://pypi.org/project/ortools/** - operations research tools developed at Google -  Звёзд: 10776                  
 **https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
 https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1192             
 
@@ -701,6 +719,7 @@ https://pypi.org/project/DFO-LS - derivative-free solver for (bound constrained)
 https://pypi.org/project/ttopt - Звёзд: 28                       
 https://github.com/strongio/evolutionary-optimization - 26 stars                   
 https://github.com/NiMlr/High-Dim-ES-RL -  25 stars                     
+https://pypi.org/project/protes -  (PRobabilistic Optimizer with TEnsor Sampling) for derivative-free optimization of the multidimensional arrays and discretized multivariate functions - Звёзд: 23             
 https://pypi.org/project/dfbgn - Звёзд: 7                  
 https://pypi.org/project/graforvfl - Gradient-Free Optimization Framework for Boosting Random Vector Functional Link Network - Звёзд: 5               
 https://pypi.org/project/cuatro -  quadratic model-based derivative-free optimization solver, CUATRO (short for Convex qUAdratic Trust-Region Optimizer) - Звёзд: 3             
@@ -773,8 +792,8 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 https://github.com/quantmind
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
 
-**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480           
-https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
+**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480   
+https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843           
 https://pypi.org/project/okama - Звёзд: 189            
 https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43        
 
@@ -801,7 +820,6 @@ https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com
 https://pypi.org/project/EMD-signal/ - Implementation of the Empirical Mode Decomposition (EMD) and its variations - 841 stars        
 
 
-**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803   
 https://pypi.org/project/temporian - Звёзд: 645               
 https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 472           
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
