@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=24                                                                     
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=21                   
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -442,7 +442,8 @@ https://pypi.org/project/boost-histogram - The Boost::Histogram Python wrapper -
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
-https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64        
+https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64    
+https://pypi.org/project/cubist -  fitting Quinlan's Cubist regression model - Звёзд: 38              
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
 https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars 
@@ -626,7 +627,8 @@ https://github.com/PyLops/pyproximal - solve non-smooth, constrained convex prob
 https://pypi.org/project/pysamoo - https://github.com/anyoptimization/pysamoo - Surrogate-Assisted Multi-objective Optimization - 40 stars
 https://pypi.org/project/cobyqa - Constrained Optimization BY Quadratic Approximations - Звёзд: 30                  
 
-https://pypi.org/project/pycutest/ - CUTEst optimization test environment - Звёзд: 27                
+https://pypi.org/project/pycutest/ - CUTEst optimization test environment - Звёзд: 27          
+https://pypi.org/project/trustregion - Trust-region subproblem solvers for nonlinear/nonconvex optimization - Звёзд: 25                 
 https://pypi.org/project/pyaugmecon - multi-objective optimization solver -  Звёзд: 23       
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
 https://pypi.org/project/pyorlib - library for operations research -  Звёзд: 8            
@@ -659,6 +661,7 @@ https://pypi.org/project/peerless
 https://pypi.org/project/optimization-dashboard           
 https://pypi.org/project/pfevaluator -  evaluating performance metrics of Pareto fronts in multiple/many objective optimization problems              
 https://pypi.org/project/sqnomad -     
+https://pypi.org/project/pyslsqp -  solve nonlinear programming (NLP) problem - Звёзд: 0     
          
 https://pypi.org/project/hyperoptim - Hyperparameter Optimization using Genetic Algorithms           
 https://pypi.org/project/pyMMAopt/ - Method of Moving Asymptotes optimization algorithm -  Звёзд: 12          
@@ -925,7 +928,8 @@ https://pypi.org/project/polygone-nms/ - polygon Non-Maximum Suppression (NMS) (
 https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation - Звёзд: 18             
 https://pypi.org/project/seepeeyou - utilities for image processing - Звёзд: 114           
 https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёзд: 114           
-https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22          
+https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22         
+https://pypi.org/project/PyDesigner-DWI - preprocessing pipeline to bring pre- and post- processing to every MRI imaging scientist - 20 stars                
 https://pypi.org/project/removebg-infusiblecoder - Remove image background -  Звёзд: 1             
 
 
@@ -1007,7 +1011,11 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 
 ## 🎹  ⚡⚡⚡⚡ Finite Element Method (FEM)
 **https://github.com/topics/finite-elements** 
+https://github.com/polyfem/         
+
+https://github.com/polyfem/polyfem - 445 stars                  
 https://pypi.org/project/nutils/ - Numerical Utilities for Finite Element Analysis - https://github.com/evalf/nutils -  87 stars          
+https://pypi.org/project/pyfreefem/ - https://github.com/odevauchelle/pyFreeFem  -  interfacing Python and FreeFEM - https://freefem.org - 17 stars              
 https://pypi.org/project/pyoomph - multi-physics finite element framework based on oomph-lib and GiNaC - Звёзд: 1             
 
 
@@ -1124,9 +1132,11 @@ https://pypi.org/project/wafo (2006)
 https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms           
 
 
-## 📏 Geometry 🌑 (Geom_)       
+## 📏 Geometry 🌑 (G_Geom_)   
+**https://github.com/CGAL** - geometric algorithms         
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
 **https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599           
+https://github.com/CGAL/cgal-swig-bindings - CGAL bindings using SWIG -  338 stars               
 https://pypi.org/project/centerline - Calculate the centerline of a polygon - Звёзд: 253             
 
 https://pypi.org/project/solidpython2 - interface to the OpenSCAD declarative geometry language - Звёзд: 119           
@@ -1229,9 +1239,11 @@ https://pypi.org/project/nographs - Graph analysis – the lazy (evaluation) way
 https://pypi.org/project/netin - to study inequalities in social networks - Звёзд: 11  
 https://pypi.org/project/slgbuilder -  building and cutting sparse layered s-t graphs (https://en.wikipedia.org/wiki/St-planar_graph) - Звёзд: 10 
 https://pypi.org/project/graphhierarchy -  Звёзд: 9 
+https://github.com/AminAlam/fa2_modified - Fastest Gephi's ForceAtlas2 graph layout algorithm -  8 stars        
 https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд: 8     
 https://pypi.org/project/graphflow - r Graph Flow Analysis -  Звёзд: 8      
-https://pypi.org/project/kgraph-ts -  Library for Approximate Nearest Neighbor Search - Звёзд: 6     
+https://pypi.org/project/kgraph-ts -  Library for Approximate Nearest Neighbor Search - Звёзд: 6   
+https://pypi.org/project/graph-diffusers  - Diffusion operators for graph machine learning based on GraphBLAS -  Звёзд: 3              
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
 https://pypi.org/project/knows - Property graph benchmark that creates graphs with specified node and edge numbers, supporting multiple output formats and visualization -  Звёзд: 2
 
@@ -1295,3 +1307,5 @@ https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI t
 
 --- not in github            
 https://pypi.org/project/mapper (2017) - https://danifold.net/mapper/     
+https://pypi.org/project/pytecplot  - https://www.tecplot.com/docs/pytecplot          
+
