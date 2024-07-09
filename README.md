@@ -6,8 +6,6 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 
 ## 🚗 ML / DL / AI / DS / Neural Networks     
-**https://github.com/topics/recommendation-system**                 
-**https://github.com/topics/recommender-system**              
 
 **https://jina.ai/**
 ⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
@@ -17,19 +15,23 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
-https://pypi.org/project/onnxruntime-training-cpu - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13499           
+https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
+https://github.com/adap/flower - Flower: A Friendly Federated Learning Framework - https://flower.ai -  4.5k stars             
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
 
 
-https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250   
-https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935          
+https://pypi.org/project/neural-tangents/ - Fast and Easy Infinite Neural Networks - Звёзд: 2250             
+https://pypi.org/project/deepsparse-ent -  integrate ML into your application - Звёзд: 2935           
+https://pypi.org/project/labml - Organize Machine Learning Experiments - Звёзд: 1942              
+
+
 **https://pypi.org/project/talos/** -  changes the ordinary Keras, TensorFlow (tf.keras), and PyTorch workflow by fully automating hyperparameter tuning and model evaluation -  Звёзд: 1617        
 
 
@@ -105,6 +107,10 @@ https://pypi.org/project/mnn - highly efficient and lightweight deep learning fr
 https://pypi.org/project/tract - Python bindings for tract, a neural network inference engine - Звёзд: 2125
 https://pypi.org/project/norse - library for deep learning with spiking neural networks -  Звёзд: 628         
 https://pypi.org/project/brainpy -  Brain Dynamics Programming - https://github.com/brainpy/BrainPy - 489 stars          
+https://pypi.org/project/pymnet - Multilayer network analysis library for Python - Звёзд: 116               
+
+
+
 https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
 https://pypi.org/project/LinSATNet - neural network layer to enforce the satisfiability of positive linear constraints to the output of neural networks. The gradient through the layer is exactly computed. This package now works with PyTorch - Звёзд: 36            
 
@@ -126,7 +132,10 @@ https://pypi.org/project/scikit-ntk -  neural tangent kernel for scikit-learn's 
 
 ### ❓❗ Algorithm for Recommendation   
 **https://pypi.org/search/?q=Algorithm+for+Recommendation**
-https://pypi.org/project/pysarplus/       
+**https://github.com/topics/recommendation-system**                 
+**https://github.com/topics/recommender-system**              
+
+https://pypi.org/project/pysarplus - https://github.com/recommenders-team/recommenders - 18.4k stars      
 https://pypi.org/project/obp - Звёзд: 624             
 
 
@@ -222,6 +231,7 @@ https://pypi.org/project/trusspy - Truss Solver - Звёзд: 51
 
 ### ◀️Numeric intervals▶️
 **https://pypi.org/project/portion** - Data structure and operations for intervals - Звёзд: 461  (https://pypi.org/project/python-intervals)         
+https://github.com/inducer/islpy - Polyhedral Analysis - islpy is a Python wrapper around Sven Verdoolaege's isl, a library for manipulating sets and relations of integer points bounded by linear constraints -  71 stars         
 https://pypi.org/project/pynterval -  Звёзд: 0                     
 https://github.com/FabriceSalvaire/python-interval-arithmetic - interval arithmetic -  1 star                  
 https://pypi.org/project/intervalframe -  interval manipulation - Звёзд: 1      
@@ -389,6 +399,7 @@ https://pypi.org/project/pyodeint - Python binding for odeint from boost -  Зв
 https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
 https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
 https://pypi.org/project/fastvpinns - tensor-driven variational physics-informed neural network library for solving PDEs - Звёзд: 12            
+https://pypi.org/project/CyRK - Runge-Kutta ODE Integrator - Звёзд: 12                
 https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
 
 https://pypi.org/project/ode-explorer (2020)       
@@ -415,7 +426,7 @@ https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive
 **https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 
 
-## 📊📊 S_Statistics / Regression                   
+## 📊📊 S_Statistics / R_Regression                   
 **https://pypi.org/project/scann/** - Scalable Nearest Neighbor search library - Звёзд: 33387                      
 https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565             
 https://pypi.org/project/scikit-posthocs - Statistical post-hoc analysis and outlier detection algorithms - Звёзд: 325               
@@ -500,17 +511,19 @@ https://pypi.org/project/stats-arrays - Standard NumPy array interface for defin
 https://pypi.org/project/causality - causal inference - Звёзд: 1059
 https://pypi.org/project/sbi - Simulation-based inference is the process of finding parameters of a simulator from observations - Звёзд: 541                
 https://pypi.org/project/elfi - Likelihood-free Inference (Вероятностный вывод) - https://github.com/elfi-dev/elfi - 262 stars      
+https://pypi.org/project/fuzzylogic - Fuzzy Logic and Fuzzy Inference - 117 stars          
 https://pypi.org/project/suftware - implementation of **Bayesian** Field Theory algorithms for low-dimensional statistical inference - Звёзд: 9
 https://pypi.org/project/scmodels - Structural Causal Models -  Звёзд: 5
 https://pypi.org/project/modularbayes - Modular **Bayesian** Inference -  Звёзд: 1
 
 ### 📈 Regression 📉
-https://pypi.org/project/clogistic/ - Constrained Logistic Regression
-https://pypi.org/project/gaussian-proc - Gaussian process regression     
-https://pypi.org/project/autoregression  
-**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library                     
+**https://pypi.org/project/probfit/** - Distribution Fitting/Regression Library -  Звёзд: 50                    
+https://pypi.org/project/ImbalancedLearningRegression - preprocesssing imbalanced data for regression - Звёзд: 36              
+https://pypi.org/project/clogistic/ - Constrained Logistic Regression -  Звёзд: 32               
 https://pypi.org/project/ropwr - Robust Piecewise Regression - Звёзд: 10          
-https://pypi.org/project/pyRobustRegressionLib - near and non-linear robust regression - Звёзд: 5              
+https://pypi.org/project/pyRobustRegressionLib - near and non-linear robust regression - Звёзд: 5               
+https://pypi.org/project/autoregression -  Звёзд: 4              
+https://pypi.org/project/gaussian-proc - Gaussian process regression -  2 stars                          
 
 ### 🔠 B_Bayesian                
 https://github.com/pymc-devs    
@@ -797,13 +810,14 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 https://github.com/quantmind
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
 
-**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480   
-https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843           
-https://pypi.org/project/okama - Звёзд: 189            
+https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522               
+**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480              
+https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843                     
+https://pypi.org/project/okama - Звёзд: 189               
+https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
 https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43        
 
 https://pypi.org/project/dynts (2011)        
-https://pypi.org/project/pyfolio-qa             
 https://github.com/quantopian/pyfolio       
 **https://pypi.org/project/appelpy/** 
 https://github.com/quantopian/empyrical -  financial risk metrics          
@@ -1176,6 +1190,8 @@ https://pypi.org/project/grapharray -  for treating arrays defined on a network,
 https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
 
 https://pypi.org/project/pykeen - training and evaluating multimodal knowledge graph embeddings - Звёзд: 1580               
+https://pypi.org/project/graspologic - A set of Python modules for graph statistics - Звёзд: 651          
+
 **https://pypi.org/project/networkit/** -  high-performance network analysis - Звёзд: 751                  
 https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars   
 https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 473     
