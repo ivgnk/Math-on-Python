@@ -20,6 +20,7 @@ https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accele
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
+https://pypi.org/project/optunahub -  registry of third-party Optuna packages - Звёзд: 24             
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968 
 https://pypi.org/project/mlpack - a flexible, fast machine learning library -  Звёзд: 4900               
@@ -209,6 +210,7 @@ https://pypi.org/project/blackjax - Flexible and fast sampling - Звёзд: 758
 https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                  
+https://pypi.org/project/gqylpy-dict - based on the built-in `dict` and serves as an enhancement to it - Звёзд: 289                                  
 https://pypi.org/project/optimistix - Nonlinear optimisation in JAX and Equinox - Звёзд: 265             
 
 
@@ -608,6 +610,7 @@ https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods�
 https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548               
 https://pypi.org/project/hyperactive - hyperparameter optimization toolbox for convenient and fast prototyping -  Звёзд: 494                 
 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
+https://pypi.org/project/iminuit - Minuit was designed to optimize statistical cost functions, for maximum-likelihood and least-squares fits. It provides the best-fit parameters and error estimates from likelihood profile analysis - Звёзд: 278       
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars       
@@ -935,7 +938,7 @@ https://pypi.org/project/pymandel - Fractal generation GUI application - Звё�
 https://pypi.org/project/HofstadterTools - analyzing the Hofstadter model - Звёзд: 14
 
 
-### 💮 M_Meshs / 2D / 3D 
+### 💮 M_Meshs (Maps) / 2D / 3D 
 **https://webpages.tuni.fi/foi**   
 https://pypi.org/project/distance3d/
 **https://s3dlib.org/**
@@ -946,6 +949,7 @@ https://pypi.org/project/anisofilter - Anisotropic filter for 3D point clouds
 https://pypi.org/project/seismicmesh/ - 2D/3D serial and parallel triangular mesh generation for seismology         
 https://pypi.org/project/ashx/   https://pypi.org/project/geolia - Geometry and mesh tools        
 
+https://pypi.org/project/PyKrige - Kriging Toolkit for Python - Звёзд: 740                 
 **https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars    
 https://pypi.org/project/dmsh - High-quality 2D mesh generator based on distmesh - Звёзд: 210          
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
@@ -1122,7 +1126,9 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 
 ## 📏 Geometry 🌑 (Geom_)       
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
-**https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599      
+**https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599           
+https://pypi.org/project/centerline - Calculate the centerline of a polygon - Звёзд: 253             
+
 https://pypi.org/project/solidpython2 - interface to the OpenSCAD declarative geometry language - Звёзд: 119           
 https://pypi.org/project/Geometry3D -  3D Geometry Lib - Звёзд: 85
 https://pypi.org/project/pypoman -  polyhedral geometry - Звёзд: 62         
