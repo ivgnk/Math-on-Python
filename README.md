@@ -21,7 +21,8 @@ https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) 
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
-https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968              
+https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968 
+https://pypi.org/project/mlpack - a flexible, fast machine learning library -  Звёзд: 4900               
 https://github.com/adap/flower - Flower: A Friendly Federated Learning Framework - https://flower.ai -  4.5k stars             
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
@@ -97,7 +98,10 @@ https://pypi.org/project/torch-xla - XLA bridge for PyTorch -  Звёзд: 2375
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch - Звёзд: 639             
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch  (A collection of infrastructure and tools for research in neural network interpretability) -  593 stars                     
 https://pypi.org/project/posteriors - Uncertainty quantification with PyTorch - https://github.com/normal-computing/posteriors -  278 stars              
-**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars  
+**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars                     
+https://pypi.org/project/kerch - Kernel Methods in PyTorch -  Звёзд: 6            
+
+ 
 
 
 
@@ -210,7 +214,7 @@ https://pypi.org/project/optimistix - Nonlinear optimisation in JAX and Equinox 
 
 https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
 https://pypi.org/project/quadax - Numerical quadrature with JAX - Звёзд: 34                      
-
+https://pypi.org/project/thermox - https://github.com/normal-computing/thermox - simulate Ornstein-Uhlenbeck (OU) processes (The Ornstein–Uhlenbeck process is a stationary Gauss–Markov process) - 25 stars       
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
@@ -534,6 +538,7 @@ https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statist
 https://pypi.org/project/bamt - data modeling and analysis tool based on Bayesian networks -  116 stars
 https://pypi.org/project/pymc-bart -Bayesian Additive Regression Trees for Probabilistic Programming with PyMC - Звёзд: 82                 
 https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
+https://github.com/rnburn/bbai - Deterministic algorithms for objective Bayesian inference and hyperparameter optimization - 46 stars               
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing - 40 stars        
 https://pypi.org/project/BayesABTest - AB tests in a Bayesian framework - Звёзд: 19             
 https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
@@ -1276,6 +1281,7 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
 https://github.com/gtaylor/python-colormath -  453 stars              
+https://pypi.org/project/hist - Hist is an analyst-friendly front-end for boost-histogram - Звёзд: 123                      
 https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves -  Звёзд: 28                
 https://pypi.org/project/llnl-pydv -  1D graphics and data analysis tool, heavily based on the ULTRA plotting tool - Звёзд: 12                 
