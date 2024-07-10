@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=19                   
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=18                   
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -36,8 +36,12 @@ https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accele
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
+
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
+https://pypi.org/project/flwr - Learning Framework - Звёзд: 4463            
+https://pypi.org/project/optuna-distributed - Distributed hyperparameter optimization made easy -  Звёзд: 26                      
 https://pypi.org/project/optunahub -  registry of third-party Optuna packages - Звёзд: 24             
+
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968 
 https://pypi.org/project/mlpack - a flexible, fast machine learning library -  Звёзд: 4900               
@@ -119,7 +123,8 @@ https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimi
 https://pypi.org/project/posteriors - Uncertainty quantification with PyTorch - https://github.com/normal-computing/posteriors -  278 stars              
 **https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars       
 https://pypi.org/project/torch-cfd - PyTorch Computational Fluid Dynamics Library -  Звёзд: 9        
-https://pypi.org/project/kerch - Kernel Methods in PyTorch -  Звёзд: 6            
+https://pypi.org/project/kerch - Kernel Methods in PyTorch -  Звёзд: 6        
+https://pypi.org/project/terge - merging PyTorch models - Звёзд: 5         
 
  
 
@@ -137,6 +142,7 @@ https://pypi.org/project/pymnet - Multilayer network analysis library for Python
 
 https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
 https://pypi.org/project/LinSATNet - neural network layer to enforce the satisfiability of positive linear constraints to the output of neural networks. The gradient through the layer is exactly computed. This package now works with PyTorch - Звёзд: 36            
+https://pypi.org/project/fkan - Fractional Kolmogorov-Arnold  neural Network (fKAN) -  7 stars              
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
@@ -233,7 +239,8 @@ https://pypi.org/project/gqylpy-dict - based on the built-in `dict` and serves a
 https://pypi.org/project/optimistix - Nonlinear optimisation in JAX and Equinox - Звёзд: 265             
 
 
-https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212          
+https://pypi.org/project/kfac-jax - approximate curvature estimation and optimization using KFAC -  Звёзд: 212                      
+https://pypi.org/project/interpax - Interpolation and function approximation with JAX - Звёзд: 95                 
 https://pypi.org/project/quadax - Numerical quadrature with JAX - Звёзд: 34                      
 https://pypi.org/project/thermox - https://github.com/normal-computing/thermox - simulate Ornstein-Uhlenbeck (OU) processes (The Ornstein–Uhlenbeck process is a stationary Gauss–Markov process) - 25 stars       
 
@@ -417,6 +424,7 @@ https://github.com/JoshKarpel/idesolver
 https://pypi.org/project/pyodesys - https://pypi.org/project/pyodesys/ - Звёзд: 91               
 https://pypi.org/project/differint -  Звёзд: 50
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
+https://pypi.org/project/shenfun - Automated Spectral-Galerkin framework for solving partial differential equations (PDEs) -  Звёзд: 193                   
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37 
 https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
@@ -778,6 +786,7 @@ https://pypi.org/project/gradient-free-optimizers - Simple and reliable optimiza
  https://pypi.org/project/fcmaes - Звёзд: 107          
  https://pypi.org/project/Py-BOBYQA - derivative-free solver for (bound constrained) general objective minimization - Звёзд: 73                 
 https://github.com/polixir/ZOOpt -  65 stars         
+https://pypi.org/project/mafese - Feature Selection using Metaheuristics Made Easy: Open Source MAFESE Library in Python - Звёзд: 55               
 https://pypi.org/project/DFO-LS - derivative-free solver for (bound constrained) nonlinear least-squares minimization - Звёзд: 38           
 https://pypi.org/project/ttopt - Звёзд: 28                       
 https://github.com/strongio/evolutionary-optimization - 26 stars                   
@@ -1161,11 +1170,13 @@ https://pypi.org/project/structure-tensor - Fast and simple to use 2D and 3D str
 https://pypi.org/project/mantel - Mantel test, a significance test of the correlation between two distance matrices - Звёзд: 31             
 
 
-### 🔱 Hydro(logical) model    
+### 🔱 Hydro(logical) // Flow (incl. electric) models    
 https://mhm-ufz.org/
 https://pypi.org/project/basinex 
 https://pypi.org/project/rtc-tools-hydraulic-structures - Hydraulic structures models for RTC-Tools 2.
 
+https://github.com/MATPOWER/matpower - state power flow simulation and optimization for MATLAB and Octave - 402 stars
+https://pypi.org/project/matpower - Package for Easy Access to MATPOWER Power System Simulation Package -  Звёзд: 20        
 
 ### ♒ Waves              
 https://pypi.org/project/wafo (2006)         
