@@ -102,7 +102,7 @@ https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy 
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
 ### TensorFlow                
-**https://github.com/topics/tensorflow**   
+💜 **https://github.com/topics/tensorflow**   
 https://github.com/tensorflow/tensorflow - Open Source Machine Learning Framework for Everyone - 184k stars                                
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars                   
 https://pypi.org/project/tensorboard -  suite of web applications for inspecting and understanding your TensorFlow runs and graphs - Звёзд: 6604                                         
@@ -119,7 +119,7 @@ https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor
 
 
 ### 📶 PyTorch 
-**https://github.com/topics/pytorch**       
+💜 **https://github.com/topics/pytorch**       
 https://pypi.org/project/torch - https://github.com/pytorch/pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration - Звёзд: 80257                 
 https://pypi.org/project/pytorch-forecasting - Звёзд: 3744         
 https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022 - Звёзд: 3744                      
@@ -170,9 +170,9 @@ https://pypi.org/project/kydavra
 https://pypi.org/project/scikit-ntk -  neural tangent kernel for scikit-learn's Gaussian process module - Звёзд: 21                    
 
 ### ❓❗ Algorithm for Recommendation   
-**https://pypi.org/search/?q=Algorithm+for+Recommendation**
-**https://github.com/topics/recommendation-system**                 
-**https://github.com/topics/recommender-system**              
+💜 **https://pypi.org/search/?q=Algorithm+for+Recommendation**
+💜 **https://github.com/topics/recommendation-system**                 
+💜 **https://github.com/topics/recommender-system**              
 
 https://pypi.org/project/pysarplus - https://github.com/recommenders-team/recommenders - 18.4k stars      
 https://pypi.org/project/obp - Звёзд: 624             
@@ -424,39 +424,37 @@ https://pypi.org/project/ccc-calculator/
 https://pypi.org/project/seqgentools/
 
 ## 🎩 ODE / PDE / SDE /  derivatives / integrals   
+💜 **https://github.com/topics/differential-equations** - 855 public repo                         
+💜 https://github.com/topics/differentialequations - 37 public repo                      
+💜 **https://github.com/topics/differential-algebraic-equations** -  28 public repo                                  
+
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
 
 🌋 https://pypi.org/project/diffeqpy - https://numfocus.org/project/sciml - Solving Differential Equations - https://github.com/SciML/diffeqpy - Звёзд: 507               
-
 🌋 https://numfocus.org/project/petsc - https://pypi.org/project/petsc - https://github.com/petsc/petsc -  data structures and routines for the scalable (parallel) solution of scientific  applications modeled by partial differential equations - 394 stars                
 
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
-https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs 
 https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars          
 
 https://pypi.org/project/gwr-inversion                     
-https://github.com/JoshKarpel/idesolver     
+https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/pyodesys - https://pypi.org/project/pyodesys/ - Звёзд: 91               
 https://pypi.org/project/differint -  Звёзд: 50
-https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
-https://pypi.org/project/shenfun - Automated Spectral-Galerkin framework for solving partial differential equations (PDEs) -  Звёзд: 193                   
-https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
-https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37 
 https://pypi.org/project/cubature - Numerical integration technique -  Звёзд: 36            
-https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33           
+https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33
+https://github.com/JoshKarpel/idesolver - numerical integro-differential equation solver - 30 stars    
+
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
 https://pypi.org/project/pyodeint - Python binding for odeint from boost -  Звёзд: 19             
 https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
 https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
-https://pypi.org/project/fastvpinns - tensor-driven variational physics-informed neural network library for solving PDEs - Звёзд: 12            
 https://pypi.org/project/CyRK - Runge-Kutta ODE Integrator - Звёзд: 12                
 https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
 
 https://pypi.org/project/ode-explorer (2020)       
 https://pypi.org/project/desolvex/
 https://pypi.org/project/pylsewave/         
-https://pypi.org/project/ader     
 
 https://github.com/mattloper/chumpy     
 https://pypi.org/project/integrators 
@@ -472,10 +470,23 @@ https://github.com/scaomath/galerkin-transformer - Звёзд: 211
 https://pypi.org/project/elvet - neural network-based differential equation and variational problem solver
 https://pypi.org/project/gradgen - Gradient computation 
 https://pypi.org/project/nssvie - Numerical solution of stochastic Volterra integral equations            
-https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation 
 https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive Multi-dimensional Integration - 4 stars              
 **https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 
+### ODE 
+💜 **https://github.com/topics/ode** - 386 public repo                                                
+https://pypi.org/project/heyoka - of ordinary differential equations (ODEs) via Taylor’s method -  Звёзд: 61           
+https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
+https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation -  Звёзд: 1
+
+### PDE 
+💜 **https://github.com/topics/partial-differential-equations** - 403 public repo                                                                                      
+💜 **https://github.com/topics/pde** - 359 public repo                                                                      
+https://pypi.org/project/shenfun - Automated Spectral-Galerkin framework for solving partial differential equations (PDEs) -  Звёзд: 193                                    
+https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37                    
+https://pypi.org/project/ader -  solving any (potentially very stiff) hyperbolic system of PDEs -  Звёзд: 13                         
+https://pypi.org/project/fastvpinns - tensor-driven variational physics-informed neural network library for solving PDEs - Звёзд: 12                              
+https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs - Звёзд: 1
 
 ## 📊📊 S_Statistics / R_Regression                   
 **https://pypi.org/project/scann/** - Scalable Nearest Neighbor search library - Звёзд: 33387                      
@@ -539,9 +550,9 @@ https://pypi.org/project/lea - Discrete probability distributions
 https://openturns.github.io/openturns/latest/contents.html  **https://openturns.github.io/www** -  An Open source initiative for the Treatment of Uncertainties, Risks'N Statistics                     
 
 #### ⚡⚡⚡ Github
-**https://github.com/topics/uncertainty-quantification?l=python**            
-**https://github.com/topics/uncertainty-estimation?l=python**         
-**https://github.com/topics/predictive-uncertainty?l=python**            
+💜 **https://github.com/topics/uncertainty-quantification?l=python**            
+💜 **https://github.com/topics/uncertainty-estimation?l=python**         
+💜 **https://github.com/topics/predictive-uncertainty?l=python**            
 https://github.com/uncertainty-toolbox/uncertainty-toolbox -  1.8k stars          
 https://github.com/awslabs/fortuna -  864 stars           
 https://github.com/SALib/SALib - Sensitivity Analysis -  847 stars           
@@ -622,7 +633,7 @@ https://pypi.org/project/queueing-systems/
 
 
 ### ❄️ Clustering / Classification   
-⚡ ⚡ ⚡ https://github.com/topics/clustering
+💜 **https://github.com/topics/clustering**
 https://github.com/pycaret/pycaret - low-code machine learning library - 8.6k stars                   
 https://github.com/mapbox/supercluster -  2k stars         
 
@@ -645,15 +656,15 @@ https://pypi.org/project/pydiceroll - rolling a lot of dice  - Звёзд: 0
 
 ## 🎬 O_Optimization / Fitting  
 ### ⚡⚡⚡ Github 
-https://github.com/topics/optimization?l=python -  2,149 public repo             
-https://github.com/Thinklab-SJTU/awesome-ml4co - Awesome machine learning for combinatorial optimization papers -  1.5k stars                         
-https://github.com/topics/bayesian-optimization?l=python - 258 public repo               
-https://github.com/topics/particle-swarm-optimization?l=python -  189 public repo              
-https://github.com/topics/heuristic-algorithms?l=python - 7 public repo               
-https://github.com/topics/fish-swarms?l=python - 3 public repo       
+💜 https://github.com/topics/optimization?l=python -  2,149 public repo             
+💜 https://github.com/topics/bayesian-optimization?l=python - 258 public repo               
+💜 https://github.com/topics/particle-swarm-optimization?l=python -  189 public repo              
+💜 https://github.com/topics/heuristic-algorithms?l=python - 7 public repo               
+💜 https://github.com/topics/fish-swarms?l=python - 3 public repo       
 
 https://github.com/bayesian-optimization/BayesianOptimization - 7.6k star         
 https://github.com/guofei9987/scikit-opt - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman) - 5k stars                  
+https://github.com/Thinklab-SJTU/awesome-ml4co - Awesome machine learning for combinatorial optimization papers -  1.5k stars                         
 https://github.com/google/vizier - 1190 star          
 https://github.com/EmuKit/emukit  - 576 star
 https://github.com/chrisstroemel/Simple - Experimental Global Optimization Algorithm - 478 stars                     
@@ -800,7 +811,7 @@ https://pypi.org/project/qdpy - Quality-Diversity algorithms
 
 
 ### 🌷 Derivative-free (D_F) optimization     
-⚡⚡ **https://github.com/topics/derivative-free**            
+💜 **https://github.com/topics/derivative-free**            
 https://pypi.org/project/gradient-free-optimizers - Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces - Звёзд: 1127           
  https://github.com/eyounx/ZOOpt  -  394 stars            
 **https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
@@ -1066,7 +1077,7 @@ https://pypi.org/project/iremover/
 
 ### 🎀 T_Topology       
 ⚡⚡⚡ **GitHub**                          
-https://github.com/topics/topology?l=python                
+💜 **https://github.com/topics/topology**?l=python                
 https://github.com/giotto-ai/giotto-tda - 828 stars            
 https://github.com/scikit-tda/scikit-tda -  504 stars      
 https://github.com/williamhunter/topy - Topology Optimization using Python - 464 stars          
@@ -1090,8 +1101,7 @@ https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.i
 https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 
 ## 🎹  ⚡⚡⚡⚡ Finite Element Method (FEM)
-
-**https://github.com/topics/finite-elements** 
+💜 **https://github.com/topics/finite-elements** 
 
 🌋 https://numfocus.org/project/fenics-project -  automated finite element library used to solve equations used in modeling, featuring a domain-specific language and automated code generation  
 🌋 https://github.com/orgs/FEniCS/repositories?q=lang%3Apython+sort%3Astars
@@ -1362,7 +1372,7 @@ https://pypi.org/project/c45-decision-tree  12/07/2023 -  Звёзд: 5
 https://pypi.org/project/DTAnalyze -  Decision Tree Analysis 15/05/2022 -  0 stars           
 
 ## 🏀 Games
-**https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**            
+💜 **https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Games%2FEntertainment**            
 https://pypi.org/project/GameOfLife (GOL)            
 https://pypi.org/project/TicTacToe3                    
 https://pypi.org/project/opener - Solve open the lock puzzle                      
