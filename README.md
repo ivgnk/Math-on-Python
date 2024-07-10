@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=20                   
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=19                   
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -93,6 +93,7 @@ https://github.com/mlandis/phyddle -  deep learning for phylogenetic models
 **https://github.com/topics/tensorflow**   
 https://github.com/tensorflow/tensorflow - Open Source Machine Learning Framework for Everyone - 184k stars                 
 **https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
+https://pypi.org/project/tensorboard -  suite of web applications for inspecting and understanding your TensorFlow runs and graphs - Звёзд: 6604                     
 https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
 https://pypi.org/project/tfx/ - TensorFlow Extended (TFX) is a TensorFlow-based general-purpose machine learning platform implemented at Google - Звёзд: 2090                  
 https://pypi.org/project/ml-pipelines-sdk - ML Pipelines SDK (A dependency-light distribution of the core pipeline authoring functionality of TensorFlow Extended (TFX)) - Звёзд: 2090          
@@ -116,7 +117,8 @@ https://pypi.org/project/torch-xla - XLA bridge for PyTorch -  Звёзд: 2375
 https://pypi.org/project/geotorch - Constrained Optimization and Manifold Optimization in Pytorch - Звёзд: 639             
 **https://github.com/greentfrapp/lucent** - Lucid library adapted for PyTorch  (A collection of infrastructure and tools for research in neural network interpretability) -  593 stars                     
 https://pypi.org/project/posteriors - Uncertainty quantification with PyTorch - https://github.com/normal-computing/posteriors -  278 stars              
-**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars                     
+**https://pypi.org/project/torch-afem** - PyTorch Finite Element Method - 10 stars       
+https://pypi.org/project/torch-cfd - PyTorch Computational Fluid Dynamics Library -  Звёзд: 9        
 https://pypi.org/project/kerch - Kernel Methods in PyTorch -  Звёзд: 6            
 
  
@@ -312,6 +314,7 @@ https://pypi.org/project/pyrandwalk -  Random Walks-  Звёзд: 21
 **https://pypi.org/project/gaussianfft** - Gaussian Random Fields, using the fast Fourier transform - Звёзд: 6
 https://pypi.org/project/rnd-pcw-poly - Generate random piecewise polynomials - Звёзд: 0             
 https://pypi.org/project/pyrandvec - Generate random vectors whose components sum up to one - Звёзд: 0                           
+https://pypi.org/project/uc-sgsim - Random Field Generation - Звёзд: 0                           
 --- not in github            
 https://pypi.org/project/codeviking.random -  random number generators with many useful random number generation methods      
 
@@ -339,7 +342,7 @@ https://pypi.org/project/pycycles/ - Permutation and permutation groups -  0 sta
 https://pypi.org/project/infEGE -  8 stars
 https://pypi.org/project/combi/ 
 
-### 📝 Calculation 
+### 📝 C_Calculation 
 **https://pypi.org/project/ai4xde/** - library for scientific machine learning and physics-informed learning 
 - - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
@@ -352,7 +355,8 @@ https://pypi.org/project/Splipy - Spline modelling library -  Звёзд: 100
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
 https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21    
-https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - Звёзд: 7       
+https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - Звёзд: 7 
+https://pypi.org/project/rounders - round-function equivalents with different rounding-modes -  Звёзд: 4          
 https://pypi.org/project/matmath/ - A simple and efficient module for matrix and vector manipulation - Звёзд: 4              
 https://pypi.org/project/cardano-method -  cubic equation solver -  0 stars      
 
@@ -463,7 +467,9 @@ https://pypi.org/project/hepstats - statistics tools and utilities from High Ene
 https://pypi.org/project/cubist -  fitting Quinlan's Cubist regression model - Звёзд: 38              
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
-https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars 
+https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars
+https://pypi.org/project/diversipy - https://github.com/DavidWalz/diversipy - Sample in hypercubes, select diverse subsets, and measure diversity -  8 stars                     
+https://pypi.org/project/tea-tasting -  statistical analysis of A/B tests - Звёзд: 6           
 **https://pypi.org/project/phitter/** - Find the best probability distribution for your dataset - Звёзд: 4                 
 
 
@@ -1105,6 +1111,7 @@ https://pypi.org/project/geoapps - development and sharing of open-source applic
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
 https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12 
 https://pypi.org/project/phyddle/ - deep learning for phylogenetic models -  Звёзд: 3            
+https://pypi.org/project/plate-simulation - 
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
