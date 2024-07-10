@@ -103,12 +103,12 @@ https://github.com/mlandis/phyddle -  deep learning for phylogenetic models
 
 ### TensorFlow                
 **https://github.com/topics/tensorflow**   
-https://github.com/tensorflow/tensorflow - Open Source Machine Learning Framework for Everyone - 184k stars                 
-**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars 
-https://pypi.org/project/tensorboard -  suite of web applications for inspecting and understanding your TensorFlow runs and graphs - Звёзд: 6604                     
-https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359        
-https://pypi.org/project/tfx/ - TensorFlow Extended (TFX) is a TensorFlow-based general-purpose machine learning platform implemented at Google - Звёзд: 2090                  
-https://pypi.org/project/ml-pipelines-sdk - ML Pipelines SDK (A dependency-light distribution of the core pipeline authoring functionality of TensorFlow Extended (TFX)) - Звёзд: 2090          
+https://github.com/tensorflow/tensorflow - Open Source Machine Learning Framework for Everyone - 184k stars                                
+**https://pypi.org/project/dm-sonnet/** - building neural networks in TensorFlow - 9.7k stars                   
+https://pypi.org/project/tensorboard -  suite of web applications for inspecting and understanding your TensorFlow runs and graphs - Звёзд: 6604                                         
+https://pypi.org/project/tff-nightly - High-performance TensorFlow library for quantitative finance -  Звёзд: 4359                              
+https://pypi.org/project/tfx/ - TensorFlow Extended (TFX) is a TensorFlow-based general-purpose machine learning platform implemented at Google - Звёзд: 2090                               
+https://pypi.org/project/ml-pipelines-sdk - ML Pipelines SDK (A dependency-light distribution of the core pipeline authoring functionality of TensorFlow Extended (TFX)) - Звёзд: 2090                     
 
 https://pypi.org/project/tensorflow-gnn -  building scalable graph neural networks -  Звёзд: 1305             
 **https://pypi.org/project/tensorflow-model-analysis/** - analyzing TensorFlow models - Звёзд: 1245         
