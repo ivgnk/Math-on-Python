@@ -13,11 +13,14 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 **https://github.com/Microsoft**                          
 **https://github.com/aws/**                       
 **https://github.com/apple**                   
-
-**https://github.com/intel**                               
+           
+**https://github.com/facebook**                       
+**https://github.com/intel**  
+               
+**https://github.com/oracle**                  
 !**https://github.com/salesforce**                      
 https://github.com/netflix                      
-https://github.com/amd                    
+https://github.com/amd                           
 
 
 **https://jina.ai/**
@@ -856,6 +859,7 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 
 ## ⏲️ Signal Processing / Time Series (T_S)/ Filtering       
+**https://github.com/facebook/prophet** - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth -  18k stars             
 **https://pypi.org/project/filterpywhl/** - Kalman filtering and optimal estimation library -  Звёзд: 3218                
 https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539          
 
@@ -866,7 +870,9 @@ https://pypi.org/project/EMD-signal/ - Implementation of the Empirical Mode Deco
 https://pypi.org/project/temporian - Звёзд: 645               
 https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 472           
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
-**https://github.com/deeptime-ml/deeptime**
+https://github.com/salesforce/DeepTime - PyTorch code for Learning Deep Time-index Models for Time Series Forecasting -  350 stars  ???          
+
+**https://github.com/deeptime-ml/deeptime** - analysis of time series data including dimensionality reduction, clustering, and Markov model estimation - 727 stars             
 https://pypi.org/project/kshape - univariate and multivariate time-series clustering - https://github.com/TheDatumOrg/kshape-python -  Звёзд: 320       
 **https://pypi.org/project/antropy/** - entropy and complexity of (EEG) time-series - 277 stars                 
 **https://pypi.org/project/pyextremes** - Extreme Value Analysis (EVA) https://en.wikipedia.org/wiki/Extreme_value_theory - Звёзд: 233
