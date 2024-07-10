@@ -1,9 +1,9 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=18                   
-🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface
-🌋 https://numfocus.org/sponsored-projects/affiliated-projects
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=18                                    
+🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
+🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
 
-https://scientific-python.org
-https://joss.theoj.org - Journal of Open Source Software -  https://elibrary.ru/title_about_new.asp?id=108489
+https://scientific-python.org                    
+https://joss.theoj.org - Journal of Open Source Software -  https://elibrary.ru/title_about_new.asp?id=108489                          
 
 # Math             
 Small and not only small mathematical problems on Python             
