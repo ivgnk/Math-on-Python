@@ -32,15 +32,15 @@ https://github.com/amd
 https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers                
 
 **https://jina.ai/**
-⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
+⚡ **https://github.com/orgs/google/repositories?q=language%3APython**                             
 
-https://github.com/bluesky - cientific data acquisition, management, and analysis            
-https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
+https://github.com/bluesky - cientific data acquisition, management, and analysis                   
+https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud                                
 
-🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars
-⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
+🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
+⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                          
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
-https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524
+https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524                                        
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
