@@ -434,10 +434,12 @@ https://pypi.org/project/seqgentools/
 🌋 https://pypi.org/project/diffeqpy - https://numfocus.org/project/sciml - Solving Differential Equations - https://github.com/SciML/diffeqpy - Звёзд: 507               
 🌋 https://numfocus.org/project/petsc - https://pypi.org/project/petsc - https://github.com/petsc/petsc -  data structures and routines for the scalable (parallel) solution of scientific  applications modeled by partial differential equations - 394 stars                
 
+**https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
 https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars          
 
 https://pypi.org/project/gwr-inversion                     
+https://github.com/mattloper/chumpy - Autodifferentiation tool for Python - 194 stars    
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/pyodesys - https://pypi.org/project/pyodesys/ - Звёзд: 91               
 https://pypi.org/project/differint -  Звёзд: 50
@@ -445,38 +447,36 @@ https://pypi.org/project/cubature - Numerical integration technique -  Звёз�
 https://pypi.org/project/pycvodes - binding for cvodes from the sundials library - Звёзд: 33
 https://github.com/JoshKarpel/idesolver - numerical integro-differential equation solver - 30 stars    
 
-https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules             
 https://pypi.org/project/pyodeint - Python binding for odeint from boost -  Звёзд: 19             
 https://pypi.org/project/pyfmmlib - wrapper for fmmlib2d and fmmlib3d implementations of the fast multipole method for Laplace and Helmholtz potentials - Звёзд: 15             
 https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Library (GSL) -  Звёзд: 14                
 https://pypi.org/project/CyRK - Runge-Kutta ODE Integrator - Звёзд: 12                
 https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
+https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules - Звёзд: 1                     
 
-https://pypi.org/project/ode-explorer (2020)       
-https://pypi.org/project/desolvex/
-https://pypi.org/project/pylsewave/         
-
-https://github.com/mattloper/chumpy     
 https://pypi.org/project/integrators 
 https://pypi.org/project/integral    
-https://pypi.org/project/FDGPU - inite difference derivatives in any number of dimensions       
+https://pypi.org/project/FDGPU - Finite difference derivatives in any number of dimensions       
 https://pypi.org/project/finitediff - Finite difference weights for any derivative order on arbitrarily spaced grids        
 https://pypi.org/project/desolver - Differential Equation System Solver        
-https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions               
 
 https://pypi.org/project/bquadpy - Numerical integration, quadrature for various domains           
 https://pypi.org/project/pinns - Solve differntial equations using neural networks -  Звёзд: 6           
 https://github.com/scaomath/galerkin-transformer - Звёзд: 211          
 https://pypi.org/project/elvet - neural network-based differential equation and variational problem solver
-https://pypi.org/project/gradgen - Gradient computation 
 https://pypi.org/project/nssvie - Numerical solution of stochastic Volterra integral equations            
 https://pypi.org/project/cubepy - https://github.com/Areustle/cubepy -  Adaptive Multi-dimensional Integration - 4 stars              
-**https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
+https://pypi.org/project/gradgen - Gradient computation -  3 stars
+
+--- Not in github              
+https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions                
+
 
 ### ODE 
 💜 **https://github.com/topics/ode** - 386 public repo                                                
 https://pypi.org/project/heyoka - of ordinary differential equations (ODEs) via Taylor’s method -  Звёзд: 61           
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
+https://pypi.org/project/ode-explorer (2020) - 8 stars                     
 https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation -  Звёзд: 1
 
 ### PDE 
@@ -487,6 +487,9 @@ https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers wr
 https://pypi.org/project/ader -  solving any (potentially very stiff) hyperbolic system of PDEs -  Звёзд: 13                         
 https://pypi.org/project/fastvpinns - tensor-driven variational physics-informed neural network library for solving PDEs - Звёзд: 12                              
 https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs - Звёзд: 1
+https://pypi.org/project/desolvex -  solution of partial differential equations - Звёзд: 0
+https://pypi.org/project/pylsewave -  pulse wave dynamics and/or any hyperbolic system of PDEs - https://github.com/giorgosR/pylsewave -  0 stars        
+
 
 ## 📊📊 S_Statistics / R_Regression                   
 **https://pypi.org/project/scann/** - Scalable Nearest Neighbor search library - Звёзд: 33387                      
