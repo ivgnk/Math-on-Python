@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=18                                    
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=17                                                          
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
 
@@ -27,11 +27,13 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 https://github.com/netflix                      
 https://github.com/amd                           
 
+**https://jina.ai/**  
+
 🌋 https://numfocus.org/project/shogun - Shogun Machine Learning Toolbox - https://github.com/shogun-toolbox/shogun - 3020 stars             
 
 https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers                
 
-**https://jina.ai/**
+
 ⚡ **https://github.com/orgs/google/repositories?q=language%3APython**                             
 
 https://github.com/bluesky - cientific data acquisition, management, and analysis                   
@@ -39,7 +41,8 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 
 🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                          
-https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
+https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200   
+https://pypi.org/project/jina - Multimodal AI services & pipelines - Звёзд: 20561                     
 https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524                                        
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
@@ -257,6 +260,8 @@ https://pypi.org/project/kfac-jax - approximate curvature estimation and optimiz
 https://pypi.org/project/interpax - Interpolation and function approximation with JAX - Звёзд: 95                 
 https://pypi.org/project/quadax - Numerical quadrature with JAX - Звёзд: 34                      
 https://pypi.org/project/thermox - https://github.com/normal-computing/thermox - simulate Ornstein-Uhlenbeck (OU) processes (The Ornstein–Uhlenbeck process is a stationary Gauss–Markov process) - 25 stars       
+- - -
+https://pypi.org/project/modelx - Build and run complex models composed of formulas and data -  Звёзд: 90                  
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
 
@@ -371,7 +376,7 @@ https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
 
 https://pypi.org/project/galgebra - Symbolic Geometric Algebra/Calculus package for SymPy - Звёзд: 223                     
-https://pypi.org/project/orthopy-gpl - Orthogonal polynomials in all shapes and sizes - 182 stars                
+https://pypi.org/project/orthopy - Orthogonal polynomials in all shapes and sizes - 182 stars                
 https://pypi.org/project/Splipy - Spline modelling library -  Звёзд: 100             
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
@@ -434,11 +439,13 @@ https://pypi.org/project/seqgentools/
 🌋 https://pypi.org/project/diffeqpy - https://numfocus.org/project/sciml - Solving Differential Equations - https://github.com/SciML/diffeqpy - Звёзд: 507               
 🌋 https://numfocus.org/project/petsc - https://pypi.org/project/petsc - https://github.com/petsc/petsc -  data structures and routines for the scalable (parallel) solution of scientific  applications modeled by partial differential equations - 394 stars                
 
+**https://pypi.org/project/quadpy** - Numerical integration, quadrature for various domains - Звёзд: 758                
 **https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
 https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars          
 
 https://pypi.org/project/gwr-inversion                     
+https://pypi.org/project/integral - **https://github.com/brainpy/BrainPy** - framework for computational neuroscience and brain-inspired computation - 491 stars                             
 https://github.com/mattloper/chumpy - Autodifferentiation tool for Python - 194 stars    
 https://pypi.org/project/torchquad - torch-based numerical integration methods -  Звёзд: 172            
 https://pypi.org/project/pyodesys - https://pypi.org/project/pyodesys/ - Звёзд: 91               
@@ -453,9 +460,9 @@ https://pypi.org/project/pygslodeiv2 -  binding for odeiv2 in GNU Scientific Lib
 https://pypi.org/project/CyRK - Runge-Kutta ODE Integrator - Звёзд: 12                
 https://pypi.org/project/fredipy - https://pypi.org/project/fredipy/ - Звёзд: 1       
 https://pypi.org/project/quadrature - quadrature integration methods for vector-valued real function. The adaptive quadrature are based on Gauss-Kronrod rules - Звёзд: 1                     
+https://pypi.org/project/pynumint -  Numerical Integration -  0 stars                
 
-https://pypi.org/project/integrators 
-https://pypi.org/project/integral    
+
 https://pypi.org/project/FDGPU - Finite difference derivatives in any number of dimensions       
 https://pypi.org/project/finitediff - Finite difference weights for any derivative order on arbitrarily spaced grids        
 https://pypi.org/project/desolver - Differential Equation System Solver        
@@ -470,6 +477,7 @@ https://pypi.org/project/gradgen - Gradient computation -  3 stars
 
 --- Not in github              
 https://pypi.org/project/tensordiff -  finite difference derivatives in any number of dimensions                
+https://pypi.org/project/integrators -  backend-free numerical integration library for differential equations                          
 
 
 ### ODE 
@@ -501,7 +509,8 @@ https://pypi.org/project/boost-histogram - The Boost::Histogram Python wrapper -
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
-https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64    
+https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64                    
+https://pypi.org/project/gumbi - Gaussian Process model from tabular data -  Звёзд: 48                   
 https://pypi.org/project/cubist -  fitting Quinlan's Cubist regression model - Звёзд: 38              
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
@@ -831,6 +840,7 @@ https://pypi.org/project/dfbgn - Звёзд: 7
 https://pypi.org/project/graforvfl - Gradient-Free Optimization Framework for Boosting Random Vector Functional Link Network - Звёзд: 5               
 https://pypi.org/project/cuatro -  quadratic model-based derivative-free optimization solver, CUATRO (short for Convex qUAdratic Trust-Region Optimizer) - Звёзд: 3             
 https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
+https://pypi.org/project/moptipy - metaheuristic optimization - Звёзд: 19                  
 https://pypi.org/project/moptipyapps -  Applications of Metaheuristic Optimization in Python -  Звёзд: 2          
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 **https://pypi.org/project/search-data-collector/** -  Звёзд: 1       
@@ -954,6 +964,9 @@ https://pypi.org/project/ennemi - Non-linear correlation detection with mutual i
 https://pypi.org/project/somata - State-space Oscillator Modeling And Time-series Analysis - Звёзд: 21            
 https://pypi.org/project/yaflpy - Kalman filter variants - Звёзд: 20           
 **https://pypi.org/project/sampen/** - calculate an estimation of the Sample Entropy of a time series -  Звёзд: 10           
+https://pypi.org/project/tsb-kit - Time Series Anomaly Detection toolkit -  Звёзд: 5               
+
+
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4       
 https://pypi.org/project/hints-kmcs - calculating pairwise and higher-order interactions of N-dimensional state variables from measured time series -  Звёзд: 4          
 
@@ -1036,10 +1049,21 @@ https://pypi.org/project/pymandel - Fractal generation GUI application - Звё�
 https://pypi.org/project/HofstadterTools - analyzing the Hofstadter model - Звёзд: 14
 
 
-### 💮 M_Meshs (Maps) / 2D / 3D 
+### 💮 M_Meshs (Maps) / 2D / 3D                 
+💜 https://github.com/topics/mesh - 1,171 public repo         
+💜 https://github.com/topics/mesh?l=python - 253 public repo                 
+💜 https://github.com/topics/mesh-processing?l=python - 37 public repo                
+💜 https://github.com/topics/meshviewer - 26 public repo                 
+💜 https://github.com/topics/triangular-meshes - 5 public repo               
+
+https://github.com/search?q=topic%3Amesh+org%3Ameshpro+fork%3Atrue&type=repositories
+
 **https://webpages.tuni.fi/foi**   
+**https://github.com/meshpro** - Mesh tools for professionals         
 https://pypi.org/project/distance3d/
 **https://s3dlib.org/**
+
+https://pypi.org/project/meshplex - Compute all sorts of interesting points, areas, and volumes in simplex (triangle, tetrahedral, n-simplex) meshes of any dimension -  Звёзд: 104              
 **https://pypi.org/project/discretisedfield/**  - Analysis and visualisation of finite-difference fields - Звёзд: 17             
 https://pypi.org/project/pymedit           
 https://pypi.org/project/pyformex - create, transform, manipulate and render 3D geometry                                 
@@ -1049,6 +1073,8 @@ https://pypi.org/project/ashx/   https://pypi.org/project/geolia - Geometry and 
 
 https://pypi.org/project/PyKrige - Kriging Toolkit for Python - Звёзд: 740                 
 **https://pypi.org/project/pygalmesh** - Create high-quality meshes - 560 stars    
+https://pypi.org/project/meshzoo - Collection of explicitly constructed meshes -  315 stars                  
+
 https://pypi.org/project/dmsh - High-quality 2D mesh generator based on distmesh - Звёзд: 210          
 (Simpeg) https://pypi.org/project/discretize - Discretization tools for finite volume and inverse problems - Звёзд: 163       
 https://pypi.org/project/pyhull - for the computation of the convex hull, Delaunay triangulation and Voronoi diagram - Звёзд: 99
