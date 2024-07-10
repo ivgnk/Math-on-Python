@@ -1,4 +1,5 @@
 https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=18                   
+https://joss.theoj.org - Journal of Open Source Software -  https://elibrary.ru/title_about_new.asp?id=108489
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -15,14 +16,16 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 **https://github.com/apple**                   
            
 **https://github.com/facebook**                       
-**https://github.com/intel**  
+**https://github.com/intel**      
                
 **https://github.com/oracle**                  
 !**https://github.com/salesforce**                      
 https://github.com/netflix                      
 https://github.com/amd                           
 
-https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers 
+https://numfocus.org/project/shogun - Shogun Machine Learning Toolbox - https://github.com/shogun-toolbox/shogun - 3020 stars             
+
+https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers                
 
 **https://jina.ai/**
 ⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
@@ -44,7 +47,7 @@ https://pypi.org/project/optunahub -  registry of third-party Optuna packages - 
 
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968 
-https://pypi.org/project/mlpack - a flexible, fast machine learning library -  Звёзд: 4900               
+https://pypi.org/project/mlpack - a flexible, fast machine learning library -  Звёзд: 4900 - https://numfocus.org/project/mlpack                               
 https://github.com/adap/flower - Flower: A Friendly Federated Learning Framework - https://flower.ai -  4.5k stars             
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
@@ -220,8 +223,12 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 **https://docs.scipy.org/doc/scipy/reference/signal.html**             
 
 **https://oeis.org** - The On-Line Encyclopedia of Integer Sequences® (OEIS®)
+
 # 🏠 PyPi                                  
+
 ## ♏ Algo & Structures collections   
+https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars 
+
 ### JAX                 
 Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
 Представляет объединение измененной версии autograd (автоматическое получение градиентной функции через дифференцирование функции)             
@@ -574,8 +581,8 @@ https://pypi.org/project/gaussian-proc - Gaussian process regression -  2 stars
 
 ### 🔠 B_Bayesian                
 **https://numfocus.org/project/stan**
-
-https://github.com/pymc-devs    
+**https://numfocus.org/project/pymc** - statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms. 
+https://github.com/pymc-devs - Bayesian Modeling and Probabilistic Programming   
 
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
 **https://pypi.org/project/pystan** - Bayesian modeling, inference, and visualization - https://github.com/stan-dev/stan -  2553 stars
@@ -863,22 +870,24 @@ https://pypi.org/project/hidden-py -  discrete-output hidden Markov models - З�
 
 
 ## 🌊 Flows              
+**https://numfocus.org/project/cantera** -  Chemical kinetics, thermodynamics, and transport tool suite - https://github.com/Cantera/cantera -  583 stars           
 https://pypi.org/project/CubeFlow
 https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
-## 💰 Quantitative Finance (QF)         
+## 💰 Quantitative Finance (QF, Q_F)         
 ## 🅾️ ORG 
-https://github.com/quantmind
+https://numfocus.org/project/quantecon - computational tools for economists - https://github.com/QuantEcon/QuantEcon.py - 1897 stars         
+https://github.com/quantmind                 
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
-**https://econ-ark.org** - world of economic modeling
+**https://econ-ark.org** - world of economic modeling                        
 
-https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522               
+https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522                        
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480              
 https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843                     
-https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320        
+https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320                  
 https://pypi.org/project/okama - Звёзд: 189               
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
-https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43        
+https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43                 
 
 https://pypi.org/project/dynts (2011)        
 https://github.com/quantopian/pyfolio       
@@ -960,7 +969,9 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 ## ✳️ Maps / Images / Tomography  / Topology / Meshs     
 
 ### 🐠 Images
+https://numfocus.org/project/scikit-image - scientific image analysis - https://pypi.org/project/scikit-image/ - https://github.com/scikit-image/scikit-image -  6k stars
 https://pypi.org/search/?q=SIFT     
+
 https://pypi.org/project/ipol - https://git.sr.ht/~coco/clipol
 **https://github.com/danielgatis/rembg** -  remove images background - 15.4k stars                    
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
@@ -1066,7 +1077,12 @@ https://pypi.org/project/regina - Regina-Normal - https://regina-normal.github.i
 https://snappy.computop.org - studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures             
 
 ## 🎹  ⚡⚡⚡⚡ Finite Element Method (FEM)
+
 **https://github.com/topics/finite-elements** 
+
+https://numfocus.org/project/fenics-project -  automated finite element library used to solve equations used in modeling, featuring a domain-specific language and automated code generation  
+https://github.com/orgs/FEniCS/repositories?q=lang%3Apython+sort%3Astars
+
 https://github.com/polyfem/         
 
 https://github.com/polyfem/polyfem - 445 stars                  
@@ -1360,6 +1376,7 @@ https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of soci
 https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
+https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
 https://github.com/gtaylor/python-colormath -  453 stars              
 https://pypi.org/project/hist - Hist is an analyst-friendly front-end for boost-histogram - Звёзд: 123                      
 https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
