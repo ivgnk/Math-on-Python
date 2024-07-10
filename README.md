@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=21                   
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=20                   
 
 # Math             
 Small and not only small mathematical problems on Python             
@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 https://github.com/netflix                      
 https://github.com/amd                           
 
+https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers 
 
 **https://jina.ai/**
 ⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
@@ -51,7 +52,7 @@ https://pypi.org/project/labml - Organize Machine Learning Experiments - Звё�
 
 
 **https://pypi.org/project/talos/** -  changes the ordinary Keras, TensorFlow (tf.keras), and PyTorch workflow by fully automating hyperparameter tuning and model evaluation -  Звёзд: 1617        
-
+https://github.com/Thinklab-SJTU/awesome-ml4co - Awesome machine learning for combinatorial optimization papers -  1.5k stars                  
 
 https://pypi.org/project/dhg - Deep Learning Framework for Graph Neural Network and Hypergraph Neural Networks - Звёзд: 558
 https://pypi.org/project/scikit-fda - Functional Data Analysis -  Звёзд: 287              
@@ -106,7 +107,7 @@ https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor
 
 ### 📶 PyTorch 
 **https://github.com/topics/pytorch**       
-https://github.com/pytorch/pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration - 80.2k stars                 
+https://pypi.org/project/torch - https://github.com/pytorch/pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration - Звёзд: 80257                 
 https://pypi.org/project/pytorch-forecasting - Звёзд: 3744         
 https://pypi.org/project/pytorch-forecasting-unofficial-hotfix - Forecasting timeseries with PyTorch -  19/03/2022 - Звёзд: 3744                      
                    
@@ -467,6 +468,7 @@ https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github
 
 
 https://pypi.org/project/stat-analysis - collection of common statistical methods for data analysis - Звёзд: 0               
+https://pypi.org/project/trata -  standard and adaptive sampling - Звёзд: 0                                     
 
 https://pypi.org/project/imputena -  automated and customized treatment of missing values in datasets               
 https://pypi.org/project/pyerf        
@@ -503,6 +505,9 @@ https://pypi.org/project/lea - Discrete probability distributions
 
 
 ### ❓ Statistics with uncertainity
+#### ⭐🅾️ ORG
+https://openturns.github.io/openturns/latest/contents.html  **https://openturns.github.io/www** -  An Open source initiative for the Treatment of Uncertainties, Risks'N Statistics                     
+
 #### ⚡⚡⚡ Github
 **https://github.com/topics/uncertainty-quantification?l=python**            
 **https://github.com/topics/uncertainty-estimation?l=python**         
@@ -515,11 +520,15 @@ https://github.com/SURGroup/UQpy - Uncertainty Quantification - 266 stars
 https://github.com/IBM/UQ360 - 252 stars              
 https://github.com/deel-ai/puncc - 249 stars      
 https://github.com/simetenn/uncertainpy -  218 stars               
-https://github.com/ENSTA-U2IS-AI/torch-uncertainty - 217 stars       
+https://github.com/ENSTA-U2IS-AI/torch-uncertainty - 217 stars 
+
+https://pypi.org/project/otsvm/
 
 #### 🏠 Pypi
 https://pypi.org/project/emukit -  decision making under uncertainty -  Звёзд: 576           
 https://pypi.org/project/chaospy - https://github.com/jonathf/chaospy - performing uncertainty quantification - 432 stars          
+**https://pypi.org/project/openturns** - Uncertainty treatment library -  224 stars
+https://pypi.org/project/otsvm - https://github.com/openturns/otsvm - 1 star                   
 
 https://pypi.org/project/confseq - Confidence sequences and uniform boundaries - Звёзд: 53       
 https://pypi.org/project/uqtestfuns - library of test functions from the uncertainty quantification - Звёзд: 8
@@ -602,6 +611,7 @@ https://pypi.org/project/pydiceroll - rolling a lot of dice  - Звёзд: 0
 ## 🎬 O_Optimization / Fitting  
 ### ⚡⚡⚡ Github 
 https://github.com/topics/optimization?l=python -  2,149 public repo             
+https://github.com/Thinklab-SJTU/awesome-ml4co - Awesome machine learning for combinatorial optimization papers -  1.5k stars                         
 https://github.com/topics/bayesian-optimization?l=python - 258 public repo               
 https://github.com/topics/particle-swarm-optimization?l=python -  189 public repo              
 https://github.com/topics/heuristic-algorithms?l=python - 7 public repo               
@@ -633,10 +643,12 @@ https://pypi.org/project/iminuit - Minuit was designed to optimize statistical c
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars       
 https://pypi.org/project/quadprog - Quadratic Programming Solver -  Звёзд: 185            
 
- 
-
+- - -           
+💥 Benchmark 💥                   
+**https://pypi.org/project/opfunu/** - Optimization Benchmark Functions  - Звёзд: 110
 **https://pypi.org/project/qpbenchmark** - Benchmark for quadratic programming solvers available in Python -  Звёзд: 97
 **https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
+- - -                
 https://pypi.org/project/desc-opt - Computes, analyzes and **optimizes** 3D MHD equilibria for stellarators and tokamaks - Звёзд: 78            
 https://pypi.org/project/cyclicbm - Cyclic Boosting - Звёзд: 54
 https://github.com/PyLops/pyproximal - solve non-smooth, constrained convex problems with proximal algorithms -  46 stars            
@@ -769,6 +781,7 @@ https://pypi.org/project/dfbgn - Звёзд: 7
 https://pypi.org/project/graforvfl - Gradient-Free Optimization Framework for Boosting Random Vector Functional Link Network - Звёзд: 5               
 https://pypi.org/project/cuatro -  quadratic model-based derivative-free optimization solver, CUATRO (short for Convex qUAdratic Trust-Region Optimizer) - Звёзд: 3             
 https://pypi.org/project/directsearch - A derivative-free solver for unconstrained minimization -  Звёзд: 2
+https://pypi.org/project/moptipyapps -  Applications of Metaheuristic Optimization in Python -  Звёзд: 2          
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
 **https://pypi.org/project/search-data-collector/** -  Звёзд: 1       
 https://github.com/mjhough/dfo_alg - 0 stars
@@ -860,7 +873,8 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 ## ⏲️ Signal Processing / Time Series (T_S)/ Filtering       
 **https://github.com/facebook/prophet** - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth -  18k stars             
-**https://pypi.org/project/filterpywhl/** - Kalman filtering and optimal estimation library -  Звёзд: 3218                
+**https://pypi.org/project/filterpywhl/** - Kalman filtering and optimal estimation library -  Звёзд: 3218 
+**https://pypi.org/project/salesforce-merlion/** - A Machine Learning Framework for Time Series Intelligence - Звёзд: 3306                 
 https://pypi.org/project/ruptures - Change point detection for signals in Python -  Звёзд: 1539          
 
 https://pypi.org/project/emd - Empirical Mode Decomposition - https://github.com/laszukdawid/PyEMD - 841 stars        
