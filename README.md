@@ -1,4 +1,8 @@
 https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=18                   
+🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface
+🌋 https://numfocus.org/sponsored-projects/affiliated-projects
+
+https://scientific-python.org
 https://joss.theoj.org - Journal of Open Source Software -  https://elibrary.ru/title_about_new.asp?id=108489
 
 # Math             
@@ -23,7 +27,7 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 https://github.com/netflix                      
 https://github.com/amd                           
 
-https://numfocus.org/project/shogun - Shogun Machine Learning Toolbox - https://github.com/shogun-toolbox/shogun - 3020 stars             
+🌋 https://numfocus.org/project/shogun - Shogun Machine Learning Toolbox - https://github.com/shogun-toolbox/shogun - 3020 stars             
 
 https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers                
 
@@ -33,6 +37,7 @@ https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 3
 https://github.com/bluesky - cientific data acquisition, management, and analysis            
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud
 
+🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985     
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200     
 https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524
@@ -173,7 +178,7 @@ https://pypi.org/project/pysarplus - https://github.com/recommenders-team/recomm
 https://pypi.org/project/obp - Звёзд: 624             
 
 
-## ✨ repositories
+## ✨ Text repositories
 https://en.wikipedia.org/wiki/List_of_preprint_repositories             
 **https://ru.wikipedia.org/wiki/ArXiv.org**  - mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics, mathematical finance and economics                  
 https://synthical.com/ - computer science, mathematics, economics, physics, cryptography                
@@ -227,7 +232,8 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 # 🏠 PyPi                                  
 
 ## ♏ Algo & Structures collections   
-https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars 
+🌋 https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars 
+🌋 https://numfocus.org/project/cupy - https://github.com/cupy/cupy - NumPy & SciPy for GPU  -  8k stars
 
 ### JAX                 
 Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
@@ -420,8 +426,10 @@ https://pypi.org/project/seqgentools/
 ## 🎩 ODE / PDE / SDE /  derivatives / integrals   
 **https://computing.llnl.gov/projects/sundials**
 **https://pypi.org/project/pdepy/**   
-https://pypi.org/project/diffeqpy - Solving Differential Equations - Звёзд: 507               
 
+🌋 https://pypi.org/project/diffeqpy - https://numfocus.org/project/sciml - Solving Differential Equations - https://github.com/SciML/diffeqpy - Звёзд: 507               
+
+🌋 https://numfocus.org/project/petsc - https://pypi.org/project/petsc - https://github.com/petsc/petsc -  data structures and routines for the scalable (parallel) solution of scientific  applications modeled by partial differential equations - 394 stars                
 
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
 https://pypi.org/project/hedges -  Discontinuous Galerkin Python solver for 1D Hyperbolic PDEs 
@@ -580,14 +588,14 @@ https://pypi.org/project/autoregression -  Звёзд: 4
 https://pypi.org/project/gaussian-proc - Gaussian process regression -  2 stars                          
 
 ### 🔠 B_Bayesian                
-**https://numfocus.org/project/stan**
-**https://numfocus.org/project/pymc** - statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms. 
+🌋 **https://numfocus.org/project/stan**
+🌋 **https://numfocus.org/project/pymc** - statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms. 
 https://github.com/pymc-devs - Bayesian Modeling and Probabilistic Programming   
 
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
 **https://pypi.org/project/pystan** - Bayesian modeling, inference, and visualization - https://github.com/stan-dev/stan -  2553 stars
 
-https://pypi.org/project/arviz - Exploratory analysis of Bayesian models - Звёзд: 1555
+🌋 **https://pypi.org/project/arviz** - Exploratory analysis of Bayesian models - Звёзд: 1555 - https://numfocus.org/project/arviz 
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                                      
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/bamt - data modeling and analysis tool based on Bayesian networks -  116 stars
@@ -870,13 +878,13 @@ https://pypi.org/project/hidden-py -  discrete-output hidden Markov models - З�
 
 
 ## 🌊 Flows              
-**https://numfocus.org/project/cantera** -  Chemical kinetics, thermodynamics, and transport tool suite - https://github.com/Cantera/cantera -  583 stars           
+🌋 **https://numfocus.org/project/cantera** -  Chemical kinetics, thermodynamics, and transport tool suite - https://github.com/Cantera/cantera -  583 stars           
 https://pypi.org/project/CubeFlow
 https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
 ## 💰 Quantitative Finance (QF, Q_F)         
 ## 🅾️ ORG 
-https://numfocus.org/project/quantecon - computational tools for economists - https://github.com/QuantEcon/QuantEcon.py - 1897 stars         
+🌋 **https://numfocus.org/project/quantecon** - computational tools for economists - https://github.com/QuantEcon/QuantEcon.py - 1897 stars         
 https://github.com/quantmind                 
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
 **https://econ-ark.org** - world of economic modeling                        
@@ -969,16 +977,21 @@ https://pypi.org/project/spatiotemporal -  spatial and temporal autocorrelation 
 ## ✳️ Maps / Images / Tomography  / Topology / Meshs     
 
 ### 🐠 Images
-https://numfocus.org/project/scikit-image - scientific image analysis - https://pypi.org/project/scikit-image/ - https://github.com/scikit-image/scikit-image -  6k stars
+🌋 **https://numfocus.org/project/scikit-image** - scientific image analysis - https://pypi.org/project/scikit-image/ - https://github.com/scikit-image/scikit-image -  6k stars         
+🌋 https://numfocus.org/project/itk -  image analysis - https://pypi.org/project/itk - Звёзд: 1374   
+
 https://pypi.org/search/?q=SIFT     
+
+
+
 
 https://pypi.org/project/ipol - https://git.sr.ht/~coco/clipol
 **https://github.com/danielgatis/rembg** -  remove images background - 15.4k stars                    
+**https://github.com/lightly-ai/lightly** - self-supervised learning on images  -  2.8k stars               
 **https://github.com/PaddlePaddle/Paddle3D** - 3D computer vision development toolkit -  551 stars       
 https://github.com/je-c/pixel_reshaper - A package to structure and convert image datasets from .csv to .png representation for classification           
 **https://pypi.org/project/nvector/** - Solves all kinds of geographical position calculations               
 https://pypi.org/project/gpssi - Sampling image segmentations with Gaussian process             
-**https://github.com/lightly-ai/lightly** - self-supervised learning on images                
 https://pypi.org/project/dicpp - Digital Image Correlation (DIC) Post Processing              
 https://pypi.org/project/traja - trajectory analysis and visualization tool     
 https://pypi.org/project/pyspod - Python Spectral Proper Orthogonal Decomposition -  Звёзд: 96  - SPOD can be applied to wide-sense stationary data. Examples of these arise in different fields, including fluidmechanics, and weather and climate        
@@ -1080,8 +1093,8 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 
 **https://github.com/topics/finite-elements** 
 
-https://numfocus.org/project/fenics-project -  automated finite element library used to solve equations used in modeling, featuring a domain-specific language and automated code generation  
-https://github.com/orgs/FEniCS/repositories?q=lang%3Apython+sort%3Astars
+🌋 https://numfocus.org/project/fenics-project -  automated finite element library used to solve equations used in modeling, featuring a domain-specific language and automated code generation  
+🌋 https://github.com/orgs/FEniCS/repositories?q=lang%3Apython+sort%3Astars
 
 https://github.com/polyfem/         
 
@@ -1131,10 +1144,14 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 
 
 ### 🌏🌏🌏 G_GeoPhysics / Geology / Geodezy-Spatial / Mining
-https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                  
-**https://github.com/GeoStat-Framework/GSTool** - 530 stars 
+🌋 https://numfocus.org/project/pangeo - https://pangeo.io - community for big data geoscience - https://github.com/pangeo-data 
+🌋 https://numfocus.org/project/gdal - https://pypi.org/project/GDAL -  Geospatial Data Abstraction Library - Звёзд: 4653                               
+🌋 https://numfocus.org/project/geopandas - https://pypi.org/project/geopandas - working with geospatial data in Python easier -  Звёзд: 4351              
+
+https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                      
+**https://github.com/GeoStat-Framework/GSTool** - 530 stars                          
 https://pypi.org/project/gstools/ - geostatistical toolbox - Звёзд: 532        
-https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools            
+https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools             
 https://pypi.org/project/frouros - **drift detection** in machine learning systems - Звёзд: 172             
 
 https://pypi.org/project/cf-python - CF-compliant (Climate and Forecast) earth science data analysis library - https://github.com/NCAS-CMS/cf-python -  112 stars              
@@ -1252,7 +1269,7 @@ https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (
 
     
 ## ☸️ Networks / Graphs / Tree (Ne_t)             
-https://pypi.org/project/networkx -  creating and manipulating graphs and networks - Звёзд: 14449    
+🌋 **https://pypi.org/project/networkx** - https://numfocus.org/project/networkx -  creating and manipulating graphs and networks - Звёзд: 14449    
 https://pypi.org/project/pygraphviz - Python interface to Graphviz (create, edit, read, write, and draw graphs) -  Звёзд: 746             
 https://pypi.org/project/pyunicorn - Unified complex network and recurrence analysis toolbox - Звёзд: 195            
 https://pypi.org/project/networkx-viewer - Interactive viewer for networkx graphs -  Звёзд: 136                     
@@ -1376,7 +1393,9 @@ https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of soci
 https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
-https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
+🌋 https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
+🌋 https://numfocus.org/project/napari - n-dimensional image viewer - https://pypi.org/project/napari - Звёзд: 2126                               
+🌋 https://numfocus.org/project/holoviz - High-level tools to simplify visualization in Python - https://github.com/holoviz/holoviz -  818 stars            
 https://github.com/gtaylor/python-colormath -  453 stars              
 https://pypi.org/project/hist - Hist is an analyst-friendly front-end for boost-histogram - Звёзд: 123                      
 https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
