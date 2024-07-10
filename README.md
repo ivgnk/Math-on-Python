@@ -231,10 +231,10 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 
 # 🏠 PyPi                                  
 
-## ♏ Algo & Structures collections   
-🌋 https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars 
-🌋 https://numfocus.org/project/cupy - https://github.com/cupy/cupy - NumPy & SciPy for GPU  -  8k stars
-
+## ♏ Algo & Structures collections                       
+🌋 https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars                     
+🌋 https://numfocus.org/project/cupy - https://github.com/cupy/cupy - NumPy & SciPy for GPU  -  8k stars                            
+                   
 ### JAX                 
 Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
 Представляет объединение измененной версии autograd (автоматическое получение градиентной функции через дифференцирование функции)             
