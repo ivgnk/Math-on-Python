@@ -127,7 +127,8 @@ https://pypi.org/project/kerch - Kernel Methods in PyTorch -  Звёзд: 6
 https://pypi.org/project/terge - merging PyTorch models - Звёзд: 5         
 
  
-
+### P_Pandas
+https://pypi.org/project/cubedpandas -  Multi-dimensional data analysis for Pandas dataframes - Звёзд: 2         
 
 
 ### 🌁 N_Neural Networks
@@ -572,8 +573,13 @@ https://pypi.org/project/autoregression -  Звёзд: 4
 https://pypi.org/project/gaussian-proc - Gaussian process regression -  2 stars                          
 
 ### 🔠 B_Bayesian                
+**https://numfocus.org/project/stan**
+
 https://github.com/pymc-devs    
+
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
+**https://pypi.org/project/pystan** - Bayesian modeling, inference, and visualization - https://github.com/stan-dev/stan -  2553 stars
+
 https://pypi.org/project/arviz - Exploratory analysis of Bayesian models - Звёзд: 1555
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                                      
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
@@ -864,10 +870,12 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 ## 🅾️ ORG 
 https://github.com/quantmind
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
+**https://econ-ark.org** - world of economic modeling
 
 https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522               
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480              
 https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843                     
+https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320        
 https://pypi.org/project/okama - Звёзд: 189               
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
 https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43        
