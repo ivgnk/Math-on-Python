@@ -7,6 +7,19 @@ https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics
 
 ## 🚗 ML / DL / AI / DS / Neural Networks     
 
+### Main ORG ⭐🅾️
+**https://github.com/NVIDIA**                  
+**https://github.com/Google**                     
+**https://github.com/Microsoft**                          
+**https://github.com/aws/**                       
+**https://github.com/apple**                   
+
+**https://github.com/intel**                               
+!**https://github.com/salesforce**                      
+https://github.com/netflix                      
+https://github.com/amd                    
+
+
 **https://jina.ai/**
 ⚡ **https://github.com/orgs/google/repositories?q=language%3APython**
 
@@ -1222,6 +1235,9 @@ https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 20
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks - Звёзд: 90
 **https://pypi.org/project/graph-theory/** - Звёзд: 81
 https://pypi.org/project/graphblas-algorithms - Graph algorithms written in GraphBLAS and backend for NetworkX - Звёзд: 68
+https://pypi.org/project/pynauty - Isomorphism testing and automorphisms of graphs - Звёзд: 51                   
+
+
 https://pypi.org/project/pytoulbar2 - optimizer for cost function networks and discrete additive graphical models - https://github.com/toulbar2/toulbar2 - 51 stars            
 **https://pypi.org/project/graphtools/** - building and manipulating graphs - Звёзд: 41                            
 https://pypi.org/project/emgraph/ - graph representation learning (graph embedding) - Звёзд: 38                 
