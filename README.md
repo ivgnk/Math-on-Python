@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=15                                                          
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=14                                                          
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
 
@@ -143,9 +143,13 @@ https://pypi.org/project/cubedpandas -  Multi-dimensional data analysis for Pand
 
 
 ### 🌁 N_Neural Networks
+**https://github.com/larq** - Open-Source Deep Learning Library for Training Binarized Neural Networks        
+
 https://pypi.org/project/onnxruntime-cann - engine for Open Neural Network Exchange (ONNX) models - Звёзд: 13468
 https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446  
 https://pypi.org/project/tract - Python bindings for tract, a neural network inference engine - Звёзд: 2125
+https://pypi.org/project/sparseml - applying sparsification recipes to neural networks -  Звёзд: 2010   
+https://github.com/larq/larq - Open-Source Deep Learning Library for Training Binarized Neural Networks -  696 stars                  
 https://pypi.org/project/norse - library for deep learning with spiking neural networks -  Звёзд: 628         
 https://pypi.org/project/brainpy -  Brain Dynamics Programming - https://github.com/brainpy/BrainPy - 489 stars          
 https://pypi.org/project/pymnet - Multilayer network analysis library for Python - Звёзд: 116               
@@ -625,7 +629,8 @@ https://github.com/pymc-devs - Bayesian Modeling and Probabilistic Programming
 **https://pypi.org/project/pyGPGO/** - Bayesian optimization for Python -  236 stars                                      
 https://pypi.org/project/bayesian-bootstrap - Bayesian Bootstrapping for statistics and regression models - Звёзд: 119                    
 https://pypi.org/project/bamt - data modeling and analysis tool based on Bayesian networks -  116 stars
-https://pypi.org/project/pymc-bart -Bayesian Additive Regression Trees for Probabilistic Programming with PyMC - Звёзд: 82                 
+https://pypi.org/project/pymc-bart -Bayesian Additive Regression Trees for Probabilistic Programming with PyMC - Звёзд: 82  
+https://pypi.org/project/pocomc -  for fast Bayesian posterior and model evidence estimation. It leverages the Preconditioned Monte Carlo (PMC) algorithm - Звёзд: 72             
 https://pypi.org/project/pypmc - adaptive importance sampling featuring implementations of variational Bayes, population Monte Carlo, and Markov chains - Звёзд: 48          
 https://github.com/rnburn/bbai - Deterministic algorithms for objective Bayesian inference and hyperparameter optimization - 46 stars               
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing - 40 stars        
@@ -900,6 +905,7 @@ https://pypi.org/project/mchmm - Markov chains and Hidden Markov models - Звё
 https://github.com/eigenfoo/littlemcmc -  51 stars       
 https://pypi.org/project/discreteMarkovChain -  Звёзд: 45
 https://pypi.org/project/percolate - 24 stars          
+https://pypi.org/project/entropy-pooling  - Entropy Pooling is a powerful method for implementing subjective views and performing stress-tests for fully general Monte Carlo distributions - Звёзд: 21     
 https://pypi.org/project/mc-tk -  Monte-Carlo toolkit for educational purposes - Звёзд: 3           
 https://pypi.org/project/bmcc -  Звёзд: 2               
 https://pypi.org/project/covvvr - Monte Carlo integration - Звёзд: 1      
@@ -934,7 +940,8 @@ https://github.com/fasiondog/hikyuu - Hikyuu Quant Framework - 2.1k stars
 https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320                  
 https://pypi.org/project/okama - Звёзд: 189               
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
-https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43                 
+https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43                    
+https://pypi.org/project/quantfinlib - Fundamental package for quantitative finance with Python - Звёзд: 0                 
 
 https://pypi.org/project/dynts (2011)        
 https://github.com/quantopian/pyfolio       
@@ -1107,7 +1114,9 @@ https://pypi.org/project/miniball - smallest bounding ball of a point set, in ar
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/discretisedfield - analysis and visualisation of finite-difference fields -  Звёзд: 17            
 **https://pypi.org/project/s3dlib/** - create 3D surface and line objects (rendered in Matplotlib) - Звёзд: 17            
-https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4           
+https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4      
+https://pypi.org/project/ndpolator - n-dimensional linear interpolation and extrapolation on sparse grids -  Звёзд: 3              
+
 https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68                          
 -- not in github                  
 https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh in Python        
@@ -1295,7 +1304,8 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
 **https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599           
 https://github.com/CGAL/cgal-swig-bindings - CGAL bindings using SWIG -  338 stars               
-https://pypi.org/project/centerline - Calculate the centerline of a polygon - Звёзд: 253             
+https://pypi.org/project/bezier - Helper for Bézier Curves, Triangles, and Higher Order Objects - Звёзд: 255                      
+https://pypi.org/project/centerline - Calculate the centerline of a polygon - Звёзд: 253                      
 
 https://pypi.org/project/solidpython2 - interface to the OpenSCAD declarative geometry language - Звёзд: 119           
 https://pypi.org/project/Geometry3D -  3D Geometry Lib - Звёзд: 85
@@ -1374,7 +1384,7 @@ https://pypi.org/project/graspologic - A set of Python modules for graph statist
 **https://pypi.org/project/networkit/** -  high-performance network analysis - Звёзд: 751                  
 https://pypi.org/project/graspy/ - A set of python modules for graph statistics -  601 stars   
 https://pypi.org/project/PyGSP - Graph Signal Processing - Звёзд: 473     
-
+https://pypi.org/project/pygmtools - https://github.com/Thinklab-SJTU/pygmtools - A Python Graph Matching Toolkit - - 277 stars         
 https://pypi.org/project/PyMaxflow - for graph construction and maxflow computation (commonly known as graph cuts) -  Звёзд: 242       
 https://pypi.org/project/pyrgg - Python Random Graph Generator -  Звёзд: 204                    
 https://pypi.org/project/bigraph/ -  for link prediction in bipartite graphs and networks - Звёзд: 90
@@ -1405,7 +1415,9 @@ https://pypi.org/project/stdog - Structure and Dynamics on Graphs  - Звёзд:
 https://pypi.org/project/graphflow - r Graph Flow Analysis -  Звёзд: 8      
 https://pypi.org/project/kgraph-ts -  Library for Approximate Nearest Neighbor Search - Звёзд: 6   
 https://pypi.org/project/graph-diffusers  - Diffusion operators for graph machine learning based on GraphBLAS -  Звёзд: 3              
+https://pypi.org/project/geospaNN -  Neural networks for geospatial data - Звёзд: 3                
 https://pypi.org/project/pynauty-nice - Automorphism and isomorphism of graphs - Звёзд: 2
+**https://pypi.org/project/nevis/** -  landscape of Great Britain as a testbed for optimisation and sampling methods -  Звёзд: 2                
 https://pypi.org/project/knows - Property graph benchmark that creates graphs with specified node and edge numbers, supporting multiple output formats and visualization -  Звёзд: 2
 
 https://pypi.org/project/pygplib -  First-Order Graph Property Library - Звёзд: 1                    
