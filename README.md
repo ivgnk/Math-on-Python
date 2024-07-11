@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=17                                                          
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=15                                                          
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
 
@@ -501,13 +501,15 @@ https://pypi.org/project/pylsewave -  pulse wave dynamics and/or any hyperbolic 
 
 ## 📊📊 S_Statistics / R_Regression                   
 **https://pypi.org/project/scann/** - Scalable Nearest Neighbor search library - Звёзд: 33387                      
-https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565             
+https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565    
+https://pypi.org/project/simsimd - Computing dot-products, similarity measures, and distances between low- and high-dimensional vectors is ubiquitous in Machine Learning, Scientific Computing, Geo-Spatial Analysis, and Information Retrieval - Звёзд: 808               
 https://pypi.org/project/scikit-posthocs - Statistical post-hoc analysis and outlier detection algorithms - Звёзд: 325               
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245                        
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
+https://pypi.org/project/mpcrl - Reinforcement Learning with Model Predictive Control - Звёзд: 164                 
 https://pypi.org/project/boost-histogram - The Boost::Histogram Python wrapper - Звёзд: 142                    
 https://pypi.org/project/entropy-estimators - Estimators for entropy and other information theoretic quantities of continuous distributions -  Звёзд: 124              
-https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102        
+https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102                 
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
 https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64                    
 https://pypi.org/project/gumbi - Gaussian Process model from tabular data -  Звёзд: 48                   
@@ -515,6 +517,7 @@ https://pypi.org/project/cubist -  fitting Quinlan's Cubist regression model - �
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
 https://pypi.org/project/feedx - A/B experiments on shopping feeds - Звёзд: 31             
 https://pypi.org/project/SBCK - Statistical Bias Correction Kit - https://github.com/yrobink/SBCK -  20 stars
+https://pypi.org/project/pyDOE3 - Design of experiments - Звёзд: 18                   
 https://pypi.org/project/diversipy - https://github.com/DavidWalz/diversipy - Sample in hypercubes, select diverse subsets, and measure diversity -  8 stars                     
 https://pypi.org/project/tea-tasting -  statistical analysis of A/B tests - Звёзд: 6           
 **https://pypi.org/project/phitter/** - Find the best probability distribution for your dataset - Звёзд: 4                 
@@ -770,6 +773,10 @@ https://pypi.org/project/conv-opt - High-level Python package for solving linear
 ### 2️⃣ Quadratic programming
 https://pypi.org/project/qpalm/ - Proximal Augmented Lagrangian method for Quadratic Programs -  Звёзд: 13          
 https://pypi.org/project/TBFLib - ToriBird's Formula library (TBFLib) - Звёзд: 0          
+
+### NonLinear programming
+https://pypi.org/project/casadi - **https://github.com/casadi** - https://web.casadi.org - framework for algorithmic differentiation and numeric optimization - Звёзд: 1617           
+https://pypi.org/project/csnlp - Nonlinear Progamming with CasADi - Звёзд: 8                     
 
 
 ### 📈 Regression 
@@ -1211,7 +1218,8 @@ https://pypi.org/project/geoapps - development and sharing of open-source applic
 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
 https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12 
-https://pypi.org/project/phyddle/ - deep learning for phylogenetic models -  Звёзд: 3            
+https://pypi.org/project/phyddle/ - deep learning for phylogenetic models -  Звёзд: 3       
+https://pypi.org/project/segmentae - Anomaly Detection Optimization - Звёзд: 3             
 https://pypi.org/project/plate-simulation - 
 
 🔴 https://pypi.org/project/simpeg
