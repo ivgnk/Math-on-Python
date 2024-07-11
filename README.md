@@ -715,6 +715,7 @@ https://pypi.org/project/cobyqa - Constrained Optimization BY Quadratic Approxim
 
 https://pypi.org/project/pycutest/ - CUTEst optimization test environment - Звёзд: 27          
 https://pypi.org/project/trustregion - Trust-region subproblem solvers for nonlinear/nonconvex optimization - Звёзд: 25                 
+https://pypi.org/project/lapx - Linear Assignment Problem solver (LAPJV/LAPMOD) - Звёзд: 23           
 https://pypi.org/project/pyaugmecon - multi-objective optimization solver -  Звёзд: 23       
 https://pypi.org/project/qaekwy  - Client library for Qaekwy Operational Research Solver - Звёзд: 8            
 https://pypi.org/project/pyorlib - library for operations research -  Звёзд: 8            
@@ -906,7 +907,13 @@ https://pypi.org/project/hidden-py -  discrete-output hidden Markov models - З�
 https://pypi.org/project/CubeFlow
 https://pypi.org/project/Hydrograph-py - hydrological Python package           
 
-## 💰 Quantitative Finance (QF, Q_F)         
+## 💰 Quantitative Finance (QF, Q_F)    
+💜 https://github.com/topics/quant?l=python -  250 public repo Python                
+💜 https://github.com/topics/backtesting-trading-strategies?l=python - 94 public repo Python                  
+💜 https://github.com/topics/algo-trading?l=python - 80 public repo Python       
+💜 https://github.com/topics/backtest?l=python -  64 public repo Python       
+💜 https://github.com/topics/system-trading?l=python -  14 public repo Python                
+
 ## 🅾️ ORG 
 🌋 **https://numfocus.org/project/quantecon** - computational tools for economists - https://github.com/QuantEcon/QuantEcon.py - 1897 stars         
 https://github.com/quantmind                 
@@ -914,8 +921,9 @@ https://github.com/quantmind
 **https://econ-ark.org** - world of economic modeling                        
 
 https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522                        
-**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480              
-https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843                     
+**https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480               
+https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843            
+https://github.com/fasiondog/hikyuu - Hikyuu Quant Framework - 2.1k stars            
 https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320                  
 https://pypi.org/project/okama - Звёзд: 189               
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
@@ -969,6 +977,9 @@ https://pypi.org/project/tsb-kit - Time Series Anomaly Detection toolkit -  Зв
 
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4       
 https://pypi.org/project/hints-kmcs - calculating pairwise and higher-order interactions of N-dimensional state variables from measured time series -  Звёзд: 4          
+https://pypi.org/project/foxplot - Plot time-series data from line-delimited JSON -  Звёзд: 3             
+
+
 
 https://pypi.org/project/filterpy - Kalman filters and other optimal and non-optimal estimation filters                
 https://pypi.org/project/average - Moving averaging schemes (exponentially weighted, polynomial-decay)           
@@ -1038,6 +1049,7 @@ https://pypi.org/project/imscript - Image Processing with Unix Pipes - Звёз�
 https://pypi.org/project/simages - Find similar images in a dataset -  Звёзд: 22         
 https://pypi.org/project/PyDesigner-DWI - preprocessing pipeline to bring pre- and post- processing to every MRI imaging scientist - 20 stars                
 https://pypi.org/project/removebg-infusiblecoder - Remove image background -  Звёзд: 1             
+https://pypi.org/project/curve-apps - Auto-detection of trends and edges in geoscientific data - Find edges on 2D grids or vertices - Звёзд: 0
 
 
 https://pypi.org/project/vector-forge - https://www.vector-forge.com - https://github.com/s-emanuilov/vector_forge - convert individual images into feature vectors by specifying your desired model -  0 stars             
@@ -1204,13 +1216,18 @@ https://pypi.org/project/plate-simulation -
 
 🔴 https://pypi.org/project/simpeg
 https://pypi.org/project/simpeg-archive
-🔴 **https://pypi.org/project/pygmi** -  Звёзд: 65           
+https://pypi.org/project/Mira-SimPEG -  Звёзд: 489          
+🔴 **https://pypi.org/project/pygmi** -  Звёзд: 65
 🔴 **https://geostat-framework.org/** - geo-statistical model with Python   s       
 1) https://github.com/GeoStat-Framework/GSTools - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more -  529 stars        
 2) **https://www.opengeosys.org** - numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media       
 https://pypi.org/project/ogs5py - a python API for OpenGeoSys5
 3) https://github.com/GeoStat-Framework/AnaFlow - analytical and semi-analytical solutions for the groundwater-flow equation             
 4) https://github.com/GeoStat-Framework/welltestpy -  to handle, process, plot and analyse data from well based field campaigns
+
+🔴 **https://github.com/MiraGeoscience** - **https://www.mirageoscience.com**
+https://github.com/MiraGeoscience/geoapp - applications using solutions from Mira Geoscience -  55 stars           
+
 
 **https://pypi.org/project/pyproj** - interface to PROJ (cartographic projections and coordinate transformations library) - Звёзд: 1013            
 **https://pypi.org/project/pyshtools** - Spherical Harmonic Tools - operations on global gravitational and magnetic field data - Звёзд: 356        
@@ -1227,6 +1244,8 @@ https://pypi.org/project/CasingSimulations - Casing Simulations: Electromagnetic
 https://pypi.org/project/dcf -  generating discounted cashflows 
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
 **https://pypi.org/project/geoscilabs** - to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz - Звёзд: 48        
+https://pypi.org/project/peak-finder-app -  detection and grouping of time-domain electromagnetic (TEM) anomalies measured along flight lines - Звёзд: 0             
+
 **https://github.com/geoscixyz/geosci-labs**   
 **https://github.com/QSD-Group** - Tools for quantitative sustainable design (QSD) to guide the research, development, and deployment of technologies and inform decision-making         
 --- not in github              
@@ -1321,7 +1340,7 @@ https://pypi.org/project/postman_problems
 https://pypi.org/project/pynetworks -  provides structure for networks of interconnected nodes using the DOT language            
 https://pypi.org/project/louvain -  methods of community detection in large networks              
 https://pypi.org/project/cynetdiff - Network diffusion processes aim to model the spread of trends through social networks, represented using graphs -  Звёзд: 3                
-
+https://pypi.org/project/octree-creation-app - Octree creation app -  Звёзд: 0                       
 
 https://pypi.org/project/IdealFlowNetwork          
 https://pypi.org/project/paper-network - random networks           
