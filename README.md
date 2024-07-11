@@ -1,4 +1,4 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=14                                                          
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=13                                                          
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
 
@@ -41,14 +41,18 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 
 🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                          
-https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200   
-https://pypi.org/project/jina - Multimodal AI services & pipelines - Звёзд: 20561                     
-https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524                                        
+https://pypi.org/project/jina - Multimodal AI services & pipelines - Звёзд: 20561          
+- - -
+https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200           
+https://github.com/microsoft/onnxruntime - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator -  13.5k stars                
+https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accelerator for Machine Learning models - Звёзд: 13524                
+- - -
 **https://pypi.org/project/paddlehub/** - pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) - Звёзд: 12595                    
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
+**https://pypi.org/project/openvino** -  optimizing and deploying AI inference - Звёзд: 6357               
 https://pypi.org/project/flwr - Learning Framework - Звёзд: 4463            
 https://pypi.org/project/optuna-distributed - Distributed hyperparameter optimization made easy -  Звёзд: 26                      
 https://pypi.org/project/optunahub -  registry of third-party Optuna packages - Звёзд: 24             
@@ -157,7 +161,8 @@ https://pypi.org/project/pymnet - Multilayer network analysis library for Python
 
 
 https://pypi.org/project/larq-zoo - Reference implementations of popular Binarized Neural Networks -  103 stars
-https://pypi.org/project/LinSATNet - neural network layer to enforce the satisfiability of positive linear constraints to the output of neural networks. The gradient through the layer is exactly computed. This package now works with PyTorch - Звёзд: 36            
+https://pypi.org/project/LinSATNet - neural network layer to enforce the satisfiability of positive linear constraints to the output of neural networks. The gradient through the layer is exactly computed. This package now works with PyTorch - Звёзд: 36    
+https://pypi.org/project/NNGT - https://github.com/tfardet/NNGT -   generate and study graphs and detailed spatial or biological networks -  14 stars           
 https://pypi.org/project/fkan - Fractional Kolmogorov-Arnold  neural Network (fKAN) -  7 stars              
 
 ### 🔥 Generative               
@@ -388,7 +393,9 @@ https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 2
 https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - Звёзд: 7 
 https://pypi.org/project/rounders - round-function equivalents with different rounding-modes -  Звёзд: 4          
 https://pypi.org/project/matmath/ - A simple and efficient module for matrix and vector manipulation - Звёзд: 4              
+**https://pypi.org/project/pyNFFT2** - computing the nonequispaced discrete Fourier transform (NDFT) in one or more dimensions, of arbitrary input size, and of complex data -  Звёзд: 1
 https://pypi.org/project/cardano-method -  cubic equation solver -  0 stars      
+
 
 **https://pypi.org/project/vector-shortcuts/** - Vector and linear algebra toolbelt for NumPy       
 https://pypi.org/project/vincenty - inverse geodetic problem. It is based on the WGS 84 reference ellipsoid and is accurate to within 1 mm              
@@ -487,6 +494,7 @@ https://pypi.org/project/integrators -  backend-free numerical integration libra
 ### ODE 
 💜 **https://github.com/topics/ode** - 386 public repo                                                
 https://pypi.org/project/heyoka - of ordinary differential equations (ODEs) via Taylor’s method -  Звёзд: 61           
+https://pypi.org/project/pySDC - spectral deferred correction (SDC) approach - Звёзд: 32          
 https://pypi.org/project/pyoscode - Oscillatory ordinary differential equation solver -  Звёзд: 29           
 https://pypi.org/project/ode-explorer (2020) - 8 stars                     
 https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation -  Звёзд: 1
@@ -636,7 +644,10 @@ https://github.com/rnburn/bbai - Deterministic algorithms for objective Bayesian
 https://github.com/tcassou/babtest -  Bayesian Tests / AB Testing - 40 stars        
 https://pypi.org/project/BayesABTest - AB tests in a Bayesian framework - Звёзд: 19             
 https://pypi.org/project/changepoint - A Bayesian change point library ( change point detection for steams of data) -  Звёзд: 10                     
-https://pypi.org/project/murefi - multiple replicate fitting and Bayesian modeling - Звёзд: 4             
+https://pypi.org/project/murefi - multiple replicate fitting and Bayesian modeling - Звёзд: 4         
+https://pypi.org/project/barmpy - Bayesian Additive Regression Models -  Звёзд: 4          
+
+
 https://pypi.org/project/bnlib -  modeling large systems with Bayesian networks - creating and using probabilistic graphical models - Звёзд: 1           
 https://pypi.org/project/pyopenbt - OpenBT implementing Bayesian regression tree models -  Звёзд: 2          
 https://pypi.org/project/bayes-tda/ - Point process model for Bayesian inference with persistence diagrams - Звёзд: 2          
@@ -700,9 +711,11 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1192             
 
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
-https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548               
+https://github.com/scipopt/PySCIPOpt - https://www.scipopt.org - solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price - 773 stars              
+https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548                                  
 https://pypi.org/project/hyperactive - hyperparameter optimization toolbox for convenient and fast prototyping -  Звёзд: 494                 
-https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars             
+https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars   
+https://pypi.org/project/skscope - Sparsity-Constraint OPtimization via itErative-algorithm - Звёзд: 299              
 https://pypi.org/project/iminuit - Minuit was designed to optimize statistical cost functions, for maximum-likelihood and least-squares fits. It provides the best-fit parameters and error estimates from likelihood profile analysis - Звёзд: 278       
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
 **https://pypi.org/project/cocopp** -  framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 250                   
@@ -817,6 +830,8 @@ https://pypi.org/project/psopy - Звёзд: 35
 https://pypi.org/project/crfmnes - CR-FM-NES for numerical optimization in Python -  16 stars               
 https://pypi.org/project/reflame - REvolutionizing Functional Link Artificial neural networks by MEtaheuristic algorithms - Звёзд: 6         
 https://github.com/vsartor/mendel-opt - implementation of a Genetic Algorithm, which is a heuristic optimization algorithm -  2 stars                
+https://pypi.org/project/dxnesici -  Natural Evolution Strategy (NES) for Mixed-Integer Black-Box Optimization (MI-BBO) - Звёзд: 1
+
 -- Differential Evolution                           
 https://pypi.org/project/aeecde - Adaptive Differential Evolution - Звёзд: 0     
 https://pypi.org/project/delo - Differential Evolution with Elo-based adaptation -  Звёзд: 0       
@@ -856,7 +871,7 @@ https://pypi.org/project/directsearch - A derivative-free solver for unconstrain
 https://pypi.org/project/moptipy - metaheuristic optimization - Звёзд: 19                  
 https://pypi.org/project/moptipyapps -  Applications of Metaheuristic Optimization in Python -  Звёзд: 2          
 **https://pypi.org/project/gradient-free-objective-functions** - A collection and visualization of black-box objective functions -  1 star          
-**https://pypi.org/project/search-data-collector/** -  Звёзд: 1       
+**https://pypi.org/project/search-data-collector/** -  Звёзд: 1     
 https://github.com/mjhough/dfo_alg - 0 stars
 https://pypi.org/project/deforce/ - Derivative-Free Algorithms for Optimizing Cascade Forward Neural Networks - Звёзд: 0             
 
@@ -1262,6 +1277,9 @@ https://pypi.org/project/dcf -  generating discounted cashflows
 https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware           
 **https://pypi.org/project/geoscilabs** - to power the notebooks and interactive examples for https://em.geosci.xyz and https://gpg.geosci.xyz - Звёзд: 48        
 https://pypi.org/project/peak-finder-app -  detection and grouping of time-domain electromagnetic (TEM) anomalies measured along flight lines - Звёзд: 0             
+**https://pypi.org/project/curvesimilarities/** - Curve similarity measures -  Звёзд: 0        
+
+
 
 **https://github.com/geoscixyz/geosci-labs**   
 **https://github.com/QSD-Group** - Tools for quantitative sustainable design (QSD) to guide the research, development, and deployment of technologies and inform decision-making         
