@@ -259,6 +259,7 @@ Google JAX — фреймворк машинного обучения для п�
 **https://pypi.org/project/equinox** - https://pypi.org/project/equinox/  -  Звёзд: 1913                               
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
+https://pypi.org/project/diffrax -  JAX-based library providing numerical differential equation solvers (ODE/SDE/CDE (ordinary/stochastic/controlled)) - Звёзд: 1325             
 https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
 https://pypi.org/project/blackjax - Flexible and fast sampling - Звёзд: 758                       
 https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
@@ -315,10 +316,10 @@ https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures
 **https://pypi.org/project/libnum - Working with numbers (primes, modular, etc.)**           
 **https://pypi.org/project/nzmath/** - number theory oriented calculation system - **https://nzmath.sourceforge.io**                   
 https://pypi.org/project/more-itertools                  
-https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences                   
+https://pypi.org/project/OEISsequences -  functions to generate The On-Line Encyclopedia of Integer Sequences (OEIS) sequences -  Звёзд: 3                          
 https://pypi.org/project/aznt/    
 https://pypi.org/project/PyRival       
-https://pypi.org/project/PySieve      
+https://pypi.org/project/PySieve - Fast prime factorization using the msieve library - Звёзд: 2     
 https://pypi.org/project/pyprimesieve         
 https://pypi.org/project/utools (2016)              
 https://pypi.org/project/x2x (2016)       
@@ -385,10 +386,12 @@ https://pypi.org/project/combi/
 - - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124     
+**https://pypi.org/project/pyamg/** -  solving large-scale linear systems with optimal or near-optimal efficiency - Звёзд: 545          
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
 
 https://pypi.org/project/galgebra - Symbolic Geometric Algebra/Calculus package for SymPy - Звёзд: 223                     
 https://pypi.org/project/orthopy - Orthogonal polynomials in all shapes and sizes - 182 stars                
+https://pypi.org/project/csaps - Cubic spline approximation (smoothing) -https://pypi.org/project/pyvoronoi/ Звёзд: 161               
 https://pypi.org/project/Splipy - Spline modelling library -  Звёзд: 100             
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
@@ -610,12 +613,16 @@ https://pypi.org/project/anduryl -  ANDURIL — A MATLAB toolbox for ANalysis an
 https://pypi.org/project/llnl-ibis -  uncertainity quantification and sensitivity methods    
 https://pypi.org/project/stats-arrays - Standard NumPy array interface for defining uncertain parameters        
 
-### 🗼 Inferences (Выводы)   
-**https://github.com/sbi-dev** = Simulation-based inference toolbox                
+### 🗼 I_Inferences (Выводы)   
+**https://github.com/sbi-dev** = Simulation-based inference toolbox        
+ 🔴 **https://pypi.org/project/tigramite/** - Tigramite causal inference for time series  - Звёзд: 1251                  
+
 https://pypi.org/project/causality - causal inference - Звёзд: 1059
 https://pypi.org/project/sbi - Simulation-based inference is the process of finding parameters of a simulator from observations - Звёзд: 541                
 https://pypi.org/project/elfi - Likelihood-free Inference (Вероятностный вывод) - https://github.com/elfi-dev/elfi - 262 stars      
 https://pypi.org/project/fuzzylogic - Fuzzy Logic and Fuzzy Inference - 117 stars          
+https://pypi.org/project/hypex - Fast and customizable framework for Causal Inference - Звёзд: 76          
+https://pypi.org/project/azcausal - Casual Inference - Звёзд: 32                     
 https://pypi.org/project/suftware - implementation of **Bayesian** Field Theory algorithms for low-dimensional statistical inference - Звёзд: 9
 https://pypi.org/project/scmodels - Structural Causal Models -  Звёзд: 5
 https://pypi.org/project/modularbayes - Modular **Bayesian** Inference -  Звёзд: 1
@@ -713,6 +720,7 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
 **https://pypi.org/project/ortools/** - operations research tools developed at Google -  Звёзд: 10776                  
 **https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
+**https://pypi.org/project/POT/** - Python Optimal Transport Library - Звёзд: 2328             
 https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1192             
 
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
@@ -1130,6 +1138,7 @@ https://pypi.org/project/pyfvm - Finite volume discretizations - Звёзд: 61
 
 https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github.com/wackywendell/tess/ - 35 stars
 https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
+https://pypi.org/project/pyvoronoi - Cython wrapper for the Boost Voronoi library - Звёзд: 26             
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/discretisedfield - analysis and visualisation of finite-difference fields -  Звёзд: 17            
@@ -1193,9 +1202,10 @@ https://pypi.org/project/pyoomph - multi-physics finite element framework based 
 
 
 
-## ⚡⚡ Physics ⚡⚡ 
+## ⚡⚡ P_Physics ⚡⚡ 
 
 https://pypi.org/project/thermosteam - standalone thermodynamic engine capable of estimating mixture properties, solving thermodynamic phase equilibria, and modeling stoichiometric reactions -  Звёзд: 57            
+**https://github.com/KratosMultiphysics** - a framework for building parallel multi-disciplinary simulation software
 
 ### 🔴🔵 Magn  
 **https://pypi.org/project/pygasflow** - Ideal Gasdynamics utilities - Звёзд: 22                
@@ -1402,7 +1412,8 @@ https://pypi.org/project/grapharray -  for treating arrays defined on a network,
 **https://pypi.org/project/tulip-python/** - Large graphs analysis and drawing - **https://tulip.labri.fr/site/**               
 https://pypi.org/project/PyMetis/ - Graph Partitioning Package - **https://github.com/inducer**          
 
-https://pypi.org/project/pykeen - training and evaluating multimodal knowledge graph embeddings - Звёзд: 1580               
+https://pypi.org/project/pykeen - training and evaluating multimodal knowledge graph embeddings - Звёзд: 1580    
+https://pypi.org/project/ai-edge-model-explorer-adapter - Model Explorer offers an intuitive and hierarchical visualization of model graphs - Звёзд: 924             
 https://pypi.org/project/graspologic - A set of Python modules for graph statistics - Звёзд: 651          
 
 **https://pypi.org/project/networkit/** -  high-performance network analysis - Звёзд: 751                  
