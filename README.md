@@ -1,4 +1,8 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=13                                                          
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=9                                                          
+numpoly 1.2.13    Выпущен: 1 июл. 2024 г.
+
+
+
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
 
@@ -961,6 +965,7 @@ https://github.com/quantmind
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
 **https://econ-ark.org** - world of economic modeling                        
 
+**https://pypi.org/project/TA-Lib/** - Python wrapper for TA-Lib - Звёзд: 9253             
 https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522                        
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480               
 https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843            
@@ -1156,7 +1161,7 @@ https://pypi.org/project/mesh-generator - Python subroutines to create a 1D mesh
 https://github.com/simon-r/PyParticles 
 https://pypi.org/project/cromosim/        
 
-### Images (Background remover/ Facial recognition)                          
+### I_Images (Background remover/ Facial recognition)                          
 https://pypi.org/project/rembg-aws-lambda - Звёзд: 24                       
 https://pypi.org/project/iremover/          
 **https://pypi.org/project/fer** - Facial expression recognition from images -  Звёзд: 326
