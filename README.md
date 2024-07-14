@@ -52,6 +52,7 @@ https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) 
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 
 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
+**https://pypi.org/project/cleanlab** -  data-centric AI, machine learning  - Звёзд: 9130          
 **https://pypi.org/project/openvino** -  optimizing and deploying AI inference - Звёзд: 6357               
 https://pypi.org/project/flwr - Learning Framework - Звёзд: 4463            
 https://pypi.org/project/optuna-distributed - Distributed hyperparameter optimization made easy -  Звёзд: 26                      
@@ -60,7 +61,8 @@ https://pypi.org/project/optunahub -  registry of third-party Optuna packages - 
 **https://pypi.org/project/autokeras/** - AutoML library for deep learning - https://github.com/keras-team/autokeras - 9.1k stars           
 https://pypi.org/project/example-package-elisno -  data-centric AI, machine learning with label errors -  Звёзд: 8968 
 https://pypi.org/project/mlpack - a flexible, fast machine learning library -  Звёзд: 4900 - https://numfocus.org/project/mlpack                               
-https://github.com/adap/flower - Flower: A Friendly Federated Learning Framework - https://flower.ai -  4.5k stars             
+**https://github.com/adap/flower** - Flower: A Friendly Federated Learning Framework - https://flower.ai -  4.5k stars 
+**https://pypi.org/project/flwr-datasets** - ibrary to quickly and easily create datasets for federated learning, federated evaluation, and federated analytics - Звёзд: 4475           
 https://pypi.org/project/autobnn - training Gaussian process-like Bayesian Neural Networks with composite structure -  Звёзд: 4157             
 https://pypi.org/project/docarray  - The data structure for multimodal data -  Звёзд: 2832  
 
@@ -167,7 +169,8 @@ https://pypi.org/project/fkan - Fractional Kolmogorov-Arnold  neural Network (fK
 
 ### 🔥 Generative               
 https://pypi.org/project/discoart - Звёзд: 3835               
-https://pypi.org/project/ctransformers - Звёзд: 1749                
+https://pypi.org/project/ctransformers - Звёзд: 1749  
+https://pypi.org/project/samila - Generative ART - Звёзд: 1069                     
 https://pypi.org/project/torch-dreams- Звёзд: 237             
 https://pypi.org/project/rungpt - Звёзд: 147             
 https://pypi.org/project/pymuco - Music Computation Library - https://pymuco.org            
@@ -500,8 +503,9 @@ https://pypi.org/project/ode-explorer (2020) - 8 stars
 https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting and animation -  Звёзд: 1
 
 ### PDE 
-💜 **https://github.com/topics/partial-differential-equations** - 403 public repo                                                                                      
+💜 **https://github.com/topics/partial-differential-equations** - 403 public repo      
 💜 **https://github.com/topics/pde** - 359 public repo                                                                      
+**https://pypi.org/project/FiPy** -  finite volume PDE solver in Python - Звёзд: 489            
 https://pypi.org/project/shenfun - Automated Spectral-Galerkin framework for solving partial differential equations (PDEs) -  Звёзд: 193                                    
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37                    
 https://pypi.org/project/ader -  solving any (potentially very stiff) hyperbolic system of PDEs -  Звёзд: 13                         
@@ -656,6 +660,7 @@ https://pypi.org/project/pybalonor - Bayesian analysis of the log-normal distrib
 https://pypi.org/project/naivebayesgauss - aive Bayes Gaussian algorithm - Звёзд: 0         
 
 -- not in github           
+**https://pypi.org/project/pyAgrum** - Bayesian networks and other Probabilistic Graphical Models - https://agrum.gitlab.io               
 https://pypi.org/project/abcpmc - approximate bayesian computing with population monte carlo                   
 
 ### Queueing theory / Теория массового обслуживания        
@@ -1131,6 +1136,7 @@ https://pypi.org/project/discretisedfield - analysis and visualisation of finite
 **https://pypi.org/project/s3dlib/** - create 3D surface and line objects (rendered in Matplotlib) - Звёзд: 17            
 https://pypi.org/project/pyvoro-mmalahe - 2D and 3D Voronoi tessellations -  Звёзд: 4      
 https://pypi.org/project/ndpolator - n-dimensional linear interpolation and extrapolation on sparse grids -  Звёзд: 3              
+**https://pypi.org/project/transrot** - calculate translational vector and rotational matrix between two sets of 3D coordinates -   Звёзд: 0              
 
 https://pypi.org/project/microstructpy - Microstructure modeling, mesh generation, analysis, and visualization - Звёзд: 68                          
 -- not in github                  
