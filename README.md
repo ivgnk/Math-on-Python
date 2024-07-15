@@ -139,6 +139,8 @@ https://pypi.org/project/tensorflow-transform/ - library for data preprocessing 
 **https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 810   
 https://pypi.org/project/tensorflow-data-validation - TensorFlow Data Validation - exploring and validating machine learning data - Звёзд: 754     
 https://pypi.org/project/tensorflow-io-gcs-filesystem - TensorFlow I/O is a collection of file systems and file formats that are not available in TensorFlow's built-in support -  Звёзд: 693           
+https://github.com/tensorflow/decision-forests  - he training, serving and interpretation of Decision Forest models in Keras - 654 stars           
+https://pypi.org/project/ydf - Yggdrasil Decision Forests  - decision forest models such as Random Forest and Gradient Boosted Trees - Звёзд: 452                 
 https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor - library for parsing and manipulating structured data inside of tensorflow - 32 stars           
 
 
@@ -609,6 +611,7 @@ https://github.com/uncertainty-toolbox/uncertainty-toolbox -  1.8k stars
 https://github.com/awslabs/fortuna -  864 stars           
 https://github.com/SALib/SALib - Sensitivity Analysis -  847 stars           
 https://github.com/IntelLabs/bayesian-torch - 481 stars  
+https://pypi.org/project/uncertainties - calculations with values with uncertainties, error propagation - Звёзд: 564                 
 https://github.com/SURGroup/UQpy - Uncertainty Quantification - 266 stars        
 https://github.com/IBM/UQ360 - 252 stars              
 https://github.com/deel-ai/puncc - 249 stars      
@@ -884,7 +887,10 @@ https://pypi.org/project/qdpy - Quality-Diversity algorithms
 
 ### 🌷 Derivative-free (D_F) optimization     
 💜 **https://github.com/topics/derivative-free**            
-https://pypi.org/project/gradient-free-optimizers - Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces - Звёзд: 1127           
+https://pypi.org/project/gradient-free-optimizers - https://github.com/SimonBlanke/Gradient-Free-Optimizers - Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces - Звёзд: 1130                  
+{ https://pypi.org/project/search-data-collector - utility function for the Gradient-Free-Optimizers- and Hyperactive-package - Звёзд: 1                      
+
+https://github.com/SimonBlanke/Gradient-Free-Optimizers 
  https://github.com/eyounx/ZOOpt  -  394 stars            
 **https://pypi.org/project/rbfopt/** - black-box (derivative-free) optimization -  Звёзд: 189        
  https://pypi.org/project/fcmaes - Звёзд: 107          
