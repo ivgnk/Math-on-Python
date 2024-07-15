@@ -1,5 +1,5 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=5                                                                           
-mmgroup 1.0.3        Выпущен: 9 июл. 2024 г.      
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=4                                                                                       
+torch-tb-profiler-ascend        Выпущен: 11 июл. 2024 г.      
 
 
 
@@ -60,6 +60,7 @@ https://pypi.org/project/optuna -  hyperparameter optimization framework - Зв�
 **https://pypi.org/project/cleanlab** -  data-centric AI, machine learning  - Звёзд: 9130          
 **https://pypi.org/project/openvino** -  optimizing and deploying AI inference - Звёзд: 6357               
 https://pypi.org/project/flwr - Learning Framework - Звёзд: 4463            
+https://pypi.org/project/labml-app - Mobile first web app to monitor PyTorch & TensorFlow model training -  Звёзд: 1946                     
 https://pypi.org/project/optuna-distributed - Distributed hyperparameter optimization made easy -  Звёзд: 26                      
 https://pypi.org/project/optunahub -  registry of third-party Optuna packages - Звёзд: 24             
 
@@ -423,6 +424,7 @@ https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - �
 https://pypi.org/project/rounders - round-function equivalents with different rounding-modes -  Звёзд: 4          
 https://pypi.org/project/matmath/ - A simple and efficient module for matrix and vector manipulation - Звёзд: 4              
 **https://pypi.org/project/pyNFFT2** - computing the nonequispaced discrete Fourier transform (NDFT) in one or more dimensions, of arbitrary input size, and of complex data -  Звёзд: 1
+https://pypi.org/project/linsolve -  linearizing and solving systems of equations - Звёзд: 0                 
 https://pypi.org/project/cardano-method -  cubic equation solver -  0 stars      
 
 
@@ -482,6 +484,7 @@ https://pypi.org/project/seqgentools/
 **https://pypi.org/project/quadpy** - Numerical integration, quadrature for various domains - Звёзд: 758                
 **https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
 **https://pypi.org/project/findiff** - or finite difference derivatives in any number of dimensions - Звёзд: 409
+**https://pypi.org/project/pymor/** - model order reduction - Звёзд: 291              
 https://pypi.org/project/RBniCS - - reduced order modelling in FEniCS - 92 stars          
 
 https://pypi.org/project/gwr-inversion                     
@@ -998,6 +1001,7 @@ https://github.com/fasiondog/hikyuu - Hikyuu Quant Framework - 2.1k stars
 https://pypi.org/project/skfolio - Portfolio optimization built on top of scikit-learn - Звёзд: 1000              
 https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320                  
 https://pypi.org/project/okama - Investment portfolio analyzing & optimization tools -  Звёзд: 191                
+https://pypi.org/project/fortitudo-tech/- Entropy Pooling views and stress-testing combined with Conditional Value-at-Risk (CVaR) portfolio optimization in Python -  Звёзд: 182              
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
 https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43                    
 https://pypi.org/project/quantfinlib - Fundamental package for quantitative finance with Python - Звёзд: 0                 
@@ -1439,7 +1443,7 @@ https://pypi.org/project/bamt-light - data modeling and analysis tool based on B
 ### ❇️❇️ G_Graphs       
 **https://pypi.org/project/networkx/**  - Python package for creating and manipulating graphs and networks - Звёзд: 14440                     
 
-https://pypi.org/project/igraph - High performance graph data structures and algorithms - Звёзд: 1268               
+https://pypi.org/project/igraph - High performance graph data structures and algorithms - Звёзд: 1271                           
 
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
@@ -1552,6 +1556,8 @@ https://pypi.org/project/hist - Hist is an analyst-friendly front-end for boost-
 https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves -  Звёзд: 28                
 https://pypi.org/project/llnl-pydv -  1D graphics and data analysis tool, heavily based on the ULTRA plotting tool - Звёзд: 12                 
+https://pypi.org/project/polyviz - Interface between Brightway2 and D3.js - Звёзд: 9                
+
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
 
 --- not in github            
