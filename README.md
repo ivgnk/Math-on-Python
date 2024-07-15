@@ -45,6 +45,7 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 
 🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                          
+**https://pypi.org/project/0xibra-scann/** - Scalable Nearest Neighbor search library - Звёзд: 33444              
 https://pypi.org/project/jina - Multimodal AI services & pipelines - Звёзд: 20561          
 - - -
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200           
@@ -113,6 +114,12 @@ https://pypi.org/project/imbalance-metrics
 https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Library for Training Binarized Neural Networks            
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
+
+### D_Data operations 
+**https://pypi.org/project/anesthetic/** - nested sampling post-processing - Звёзд: 55        
+https://pypi.org/project/sheetbuddy -  data summary and analysis from various formats such as CSV, API, URL -  Звёзд: 2           
+
+
 
 ### TensorFlow                
 💜 **https://github.com/topics/tensorflow**   
@@ -268,6 +275,8 @@ https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently
 https://pypi.org/project/blackjax - Flexible and fast sampling - Звёзд: 758                       
 https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
+https://pypi.org/project/ott-jax - Optimal Transport Tools in JAX - Звёзд: 476    
+https://pypi.org/project/dm-pix - https://github.com/google-deepmind/dm_pix - PIX is an image processing library in JAX -  376 stars                   
 https://pypi.org/project/sympy2jax - Turn SymPy expressions into trainable JAX expressions - 308 stars                  
 https://pypi.org/project/gqylpy-dict - based on the built-in `dict` and serves as an enhancement to it - Звёзд: 289                                  
 https://pypi.org/project/optimistix - Nonlinear optimisation in JAX and Equinox - Звёзд: 265             
@@ -970,6 +979,7 @@ https://pypi.org/project/pyfolio-qa - library for performance - Звёзд: 5522
 **https://pypi.org/project/QuantStats/** - Portfolio analytics for quants - Звёзд: 4480               
 https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation -  2843            
 https://github.com/fasiondog/hikyuu - Hikyuu Quant Framework - 2.1k stars            
+https://pypi.org/project/skfolio - Portfolio optimization built on top of scikit-learn - Звёзд: 1000              
 https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320                  
 https://pypi.org/project/okama - Звёзд: 189               
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
@@ -1145,6 +1155,7 @@ https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github
 https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
 https://pypi.org/project/pyvoronoi - Cython wrapper for the Boost Voronoi library - Звёзд: 26             
 https://pypi.org/project/miniball - smallest bounding ball of a point set, in arbitrary number of dimensions - Звёзд: 24         
+https://pypi.org/project/meshkernel - to manipulate meshes - Звёзд: 22
 https://pypi.org/project/VTUinterface - for easy accessing VTU/PVD files as outputed by Finite Element software like OpenGeoSys  -  Звёзд: 15
 https://pypi.org/project/discretisedfield - analysis and visualisation of finite-difference fields -  Звёзд: 17            
 **https://pypi.org/project/s3dlib/** - create 3D surface and line objects (rendered in Matplotlib) - Звёзд: 17            
@@ -1383,14 +1394,15 @@ https://pypi.org/project/polygon-contains-point -  checking if a polygon contain
 https://pypi.org/project/geomi - Planar, solid and higher dimensional geometry (2016)
 
     
-## ☸️ Networks / Graphs / Tree (Ne_t)             
+## ☸️ Networks / Graphs / Tree (N_Net)             
 🌋 **https://pypi.org/project/networkx** - https://numfocus.org/project/networkx -  creating and manipulating graphs and networks - Звёзд: 14449    
 https://pypi.org/project/pygraphviz - Python interface to Graphviz (create, edit, read, write, and draw graphs) -  Звёзд: 746             
 https://pypi.org/project/pyunicorn - Unified complex network and recurrence analysis toolbox - Звёзд: 195            
 https://pypi.org/project/networkx-viewer - Interactive viewer for networkx graphs -  Звёзд: 136                     
 
 
-https://github.com/bryangraham/netrics - econometric analysis of networks -  20 stars                 
+https://github.com/bryangraham/netrics - econometric analysis of networks -  20 stars            
+https://pypi.org/project/cortix/ - https://github.com/dpploy/cortix - library for network dynamics modeling - 11 stars         
 https://pypi.org/project/evorbf -  Evolving Radial Basis Function Network by Intelligent Nature-inspired Algorithms - Звёзд: 5                   
 https://pypi.org/project/grpphati/ - implementation of the grounded pipeline. The grounded pipeline, introduced in [1], is a method for building stable, topological descriptors of weighted digraphs -  Звёзд: 3        
 https://pypi.org/project/postman_problems           
