@@ -1,5 +1,5 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=9                                                          
-numpoly 1.2.13    Выпущен: 1 июл. 2024 г.
+https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=5                                                                           
+mmgroup 1.0.3        Выпущен: 9 июл. 2024 г.      
 
 
 
@@ -118,6 +118,9 @@ https://pypi.org/project/choice-learn - to help you formulate, estimate, and dep
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
 ### D_Data operations 
+https://root.cern ⭐🅾️ -  analyzing petabytes of data, scientifically - data analysis framework 
+{ https://pypi.org/project/uproot - ROOT I/O in pure Python and NumPy -  Звёзд: 224           
+
 https://pypi.org/project/dapper - benchmarks the performance of data assimilation (DA) methods - Звёзд: 336                              
 **https://pypi.org/project/anesthetic/** - nested sampling post-processing - Звёзд: 55        
 https://pypi.org/project/sheetbuddy -  data summary and analysis from various formats such as CSV, API, URL -  Звёзд: 2           
@@ -551,6 +554,7 @@ https://pypi.org/project/entropy-estimators - Estimators for entropy and other i
 https://pypi.org/project/biogeme - maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models - Звёзд: 102                 
 https://pypi.org/project/pycid - Causal Influence Diagram library -  Звёзд: 93          
 https://pypi.org/project/hepstats - statistics tools and utilities from High Energy Physics - Звёзд: 64                    
+https://pypi.org/project/fdasrsf  - functional data analysis using the square root slope framework -  Звёзд: 49                
 https://pypi.org/project/gumbi - Gaussian Process model from tabular data -  Звёзд: 48                   
 https://pypi.org/project/cubist -  fitting Quinlan's Cubist regression model - Звёзд: 38              
 https://pypi.org/project/paramnormal - Conventionally parameterized probability distributions -  Звёзд: 35     
@@ -560,7 +564,7 @@ https://pypi.org/project/pyDOE3 - Design of experiments - Звёзд: 18
 https://pypi.org/project/diversipy - https://github.com/DavidWalz/diversipy - Sample in hypercubes, select diverse subsets, and measure diversity -  8 stars                     
 https://pypi.org/project/tea-tasting -  statistical analysis of A/B tests - Звёзд: 6           
 **https://pypi.org/project/phitter/** - Find the best probability distribution for your dataset - Звёзд: 4                 
-
+https://pypi.org/project/distribution-algebra - random variables, statistical distributions, and their algebra -  Звёзд: 1            
 
 https://pypi.org/project/stat-analysis - collection of common statistical methods for data analysis - Звёзд: 0               
 https://pypi.org/project/trata -  standard and adaptive sampling - Звёзд: 0                                     
@@ -1541,6 +1545,8 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 🌋 https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
 🌋 https://numfocus.org/project/napari - n-dimensional image viewer - https://pypi.org/project/napari - Звёзд: 2126                               
 🌋 https://numfocus.org/project/holoviz - High-level tools to simplify visualization in Python - https://github.com/holoviz/holoviz -  818 stars            
+
+https://pypi.org/project/kmapper -  https://kepler-mapper.scikit-tda.org/en/latest/ - for visualization of high-dimensional data and 3D point cloud data. KeplerMapper can make use of Scikit-Learn API compatible cluster and scaling algorithms - https://github.com/scikit-tda/kepler-mapper  -  623 stars                               
 https://github.com/gtaylor/python-colormath -  453 stars              
 https://pypi.org/project/hist - Hist is an analyst-friendly front-end for boost-histogram - Звёзд: 123                      
 https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
