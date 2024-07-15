@@ -113,9 +113,12 @@ https://pypi.org/project/imbalance-metrics
 **https://pypi.org/project/pycm/** -  Звёзд: 1438   
 https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Library for Training Binarized Neural Networks            
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
+https://pypi.org/project/choice-learn - to help you formulate, estimate, and deploy discrete choice models, e.g., for assortment planning -  Звёзд: 30                    
+
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
 
 ### D_Data operations 
+https://pypi.org/project/dapper - benchmarks the performance of data assimilation (DA) methods - Звёзд: 336                              
 **https://pypi.org/project/anesthetic/** - nested sampling post-processing - Звёзд: 55        
 https://pypi.org/project/sheetbuddy -  data summary and analysis from various formats such as CSV, API, URL -  Звёзд: 2           
 
@@ -133,8 +136,9 @@ https://pypi.org/project/ml-pipelines-sdk - ML Pipelines SDK (A dependency-light
 https://pypi.org/project/tensorflow-gnn -  building scalable graph neural networks -  Звёзд: 1305             
 **https://pypi.org/project/tensorflow-model-analysis/** - analyzing TensorFlow models - Звёзд: 1245         
 https://pypi.org/project/tensorflow-transform/ - library for data preprocessing with TensorFlow - Звёзд: 983               
-**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 803   
-https://pypi.org/project/tensorflow-data-validation - TensorFlow Data Validation - exploring and validating machine learning data - Звёзд: 754              
+**https://pypi.org/project/tfts** - Deep learning time series with TensorFlow - Звёзд: 810   
+https://pypi.org/project/tensorflow-data-validation - TensorFlow Data Validation - exploring and validating machine learning data - Звёзд: 754     
+https://pypi.org/project/tensorflow-io-gcs-filesystem - TensorFlow I/O is a collection of file systems and file formats that are not available in TensorFlow's built-in support -  Звёзд: 693           
 https://pypi.org/project/struct2tensor - https://github.com/google/struct2tensor - library for parsing and manipulating structured data inside of tensorflow - 32 stars           
 
 
@@ -409,6 +413,7 @@ https://pypi.org/project/Splipy - Spline modelling library -  Звёзд: 100
 https://pypi.org/project/VISualMAth - Звёзд: 99                              
 https://pypi.org/project/equadratures - Polynomial approximations - 97 stars        
 https://pypi.org/project/cy-root - multiple root-finding methods - Звёзд: 21    
+https://pypi.org/project/shapelysmooth -  polyline smoothing package for shapely -  Звёзд: 21             
 https://pypi.org/project/wai.ma - library of 2-dimensional matrix algorithms - Звёзд: 7 
 https://pypi.org/project/rounders - round-function equivalents with different rounding-modes -  Звёзд: 4          
 https://pypi.org/project/matmath/ - A simple and efficient module for matrix and vector manipulation - Звёзд: 4              
@@ -849,6 +854,7 @@ https://pypi.org/project/pyeq2 - Large curve fitting and surface fitting library
 ### 🐝 Particle Swarm Optimization 🐜 (Evolutionary algorithms)                       
 **https://github.com/geatpy-dev/geatpy** - Evolutionary algorithm toolbox -  2k stars         
 **https://pypi.org/project/pyswarms** - Звёзд: 1245                  
+https://pypi.org/project/cma - Covariance Matrix Adaptation Evolution Strategy for non-linear numerical optimization - Звёзд: 1053            
 **https://pypi.org/project/swarmlib** - Implementation and visualization of different swarm optimization algorithms -  Звёзд: 490       
 **https://pypi.org/project/mealpy** - Library for Latest Meta-heuristic Algorithms in Python - Звёзд: 816            
 https://pypi.org/project/pyswarm - Звёзд: 309            
@@ -981,7 +987,7 @@ https://pypi.org/project/Riskfolio-Lib - Portfolio Optimization and Quantitative
 https://github.com/fasiondog/hikyuu - Hikyuu Quant Framework - 2.1k stars            
 https://pypi.org/project/skfolio - Portfolio optimization built on top of scikit-learn - Звёзд: 1000              
 https://pypi.org/project/econ-ark -  modeling of economic choices of optimizing and non-optimizing heterogeneous agents - Звёзд: 320                  
-https://pypi.org/project/okama - Звёзд: 189               
+https://pypi.org/project/okama - Investment portfolio analyzing & optimization tools -  Звёзд: 191                
 https://github.com/jialuechen/deepfolio - Portfolio Optimization Library - 59 stars                       
 https://pypi.org/project/empyrical-reloaded - empyrical computes performance and risk statistics commonly used in quantitative finance -  Звёзд: 43                    
 https://pypi.org/project/quantfinlib - Fundamental package for quantitative finance with Python - Звёзд: 0                 
@@ -1034,7 +1040,8 @@ https://pypi.org/project/tsb-kit - Time Series Anomaly Detection toolkit -  Зв
 
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4       
 https://pypi.org/project/hints-kmcs - calculating pairwise and higher-order interactions of N-dimensional state variables from measured time series -  Звёзд: 4          
-https://pypi.org/project/foxplot - Plot time-series data from line-delimited JSON -  Звёзд: 3             
+https://pypi.org/project/foxplot - Plot time-series data from line-delimited JSON -  Звёзд: 3           
+https://pypi.org/project/dspeed - Fast Digital Signal Processing - Звёзд: 2            
 
 
 
@@ -1265,14 +1272,16 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                      
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars                          
 https://pypi.org/project/gstools/ - geostatistical toolbox - Звёзд: 532        
-https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools             
+**https://pypi.org/project/geoh5py/** - API for geoh5, an open file format for geoscientific data - Звёзд: 49           
+https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools -  Звёзд: 10             
 https://pypi.org/project/frouros - **drift detection** in machine learning systems - Звёзд: 172             
 
 https://pypi.org/project/cf-python - CF-compliant (Climate and Forecast) earth science data analysis library - https://github.com/NCAS-CMS/cf-python -  112 stars              
 **https://github.com/gwastro** - Gravitational-wave Astronomy                 
-https://pypi.org/project/geoapps - development and sharing of open-source applications in geoscience - Звёзд: 55             
+https://pypi.org/project/geoapps - development and sharing of open-source applications in geoscience - Звёзд: 55                                
 
 ↙️**https://pypi.org/project/petbox-dca/** - Decline Curve Library↘️ for oil wells ! - Звёзд: 47                
+https://pypi.org/project/ogs6py - python-API for the OpenGeoSys finite element sofware - Звёзд: 15             
 https://pypi.org/project/GlabTop2-py - Glacier bed Topography model - Звёзд: 12 
 https://pypi.org/project/phyddle/ - deep learning for phylogenetic models -  Звёзд: 3       
 https://pypi.org/project/segmentae - Anomaly Detection Optimization - Звёзд: 3             
