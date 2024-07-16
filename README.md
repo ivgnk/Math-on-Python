@@ -1,8 +1,4 @@
-https://numfocus.org/sponsored-projects/affiliated-projects
-No - Gensim
-
-Просмотрено, начиная с 
-mesido 0.1.5.3      Выпущен: 16 июл. 2024 г.      
+[PyPi](https://pypi.org/) Просмотрено, начиная с mesido 0.1.5.3      Выпущен: 16 июл. 2024 г.      
 
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
