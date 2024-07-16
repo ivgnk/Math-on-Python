@@ -1,7 +1,5 @@
-https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Mathematics&o=-created&q=&page=4                                                                                       
-torch-tb-profiler-ascend        Выпущен: 11 июл. 2024 г.      
-
-
+Просмотрено, начиная с 
+mesido 0.1.5.3      Выпущен: 16 июл. 2024 г.      
 
 🌋 https://numfocus.org/sponsored-projects         https://numfocus.org/sponsored-projects/?_sft_project_category=python-interface                       
 🌋 https://numfocus.org/sponsored-projects/affiliated-projects                                   
@@ -368,6 +366,7 @@ https://pypi.org/project/primegenerator
 https://pypi.org/project/sequentium -  various well-known sequences - Звёзд: 2                    
 https://pypi.org/project/numx/ - Import Numbers - Звёзд: 0                 
 https://pypi.org/project/find-primes -  find primes and factors of big numbers - Звёзд: 0                                 
+**https://pypi.org/project/figuratenum/** - generator of infinite sequences of figurate numbers for Python - Звёзд: 0                                  
 
 https://github.com/thatgaypigeon/somos-py - https://en.wikipedia.org/wiki/Somos_sequence  (as Fibo)              
 https://pypi.org/project/scikit-labs - Linear-time Adaptive Best-subset Selection -  **https://github.com/abess-team** - https://github.com/abess-team/abess-A-Fast-Best-Subset-Selection-Library-in-Python-and-R                    
@@ -417,6 +416,7 @@ https://pypi.org/project/combi/
 - - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124     
+**https://pypi.org/project/symbolica/** - fast computer algebra system - Звёзд: 414                
 **https://pypi.org/project/pyamg/** -  solving large-scale linear systems with optimal or near-optimal efficiency - Звёзд: 545          
 https://pypi.org/project/devito - ptimised Finite Difference (FD) computation from high-level symbolic problem definitions -  Звёзд: 539           
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
@@ -848,6 +848,7 @@ https://pypi.org/project/TBFLib - ToriBird's Formula library (TBFLib) - Звёз
 
 ### NonLinear programming
 https://pypi.org/project/casadi - **https://github.com/casadi** - https://web.casadi.org - framework for algorithmic differentiation and numeric optimization - Звёзд: 1617           
+https://pypi.org/project/qmm -  Quadratic Majorization-Minimization - Звёзд: 15
 https://pypi.org/project/csnlp - Nonlinear Progamming with CasADi - Звёзд: 8                     
 
 
@@ -1571,10 +1572,13 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 https://pypi.org/project/kmapper -  https://kepler-mapper.scikit-tda.org/en/latest/ - for visualization of high-dimensional data and 3D point cloud data. KeplerMapper can make use of Scikit-Learn API compatible cluster and scaling algorithms - https://github.com/scikit-tda/kepler-mapper  -  623 stars                               
 https://github.com/gtaylor/python-colormath -  453 stars              
 https://pypi.org/project/hist - Hist is an analyst-friendly front-end for boost-histogram - Звёзд: 123                      
+**https://pypi.org/project/ncvue/** - A minimal GUI for a quick view of netcdf files, aiming to be a drop-in replacement for ncview and panoply - Звёзд: 60         
 https://pypi.org/project/sympy-plot-backends - Backends for plotting with SymPy - Звёзд: 42              
 https://pypi.org/project/roc-utils - Tools to compute and visualize ROC curves -  Звёзд: 28                
 https://pypi.org/project/llnl-pydv -  1D graphics and data analysis tool, heavily based on the ULTRA plotting tool - Звёзд: 12                 
 https://pypi.org/project/polyviz - Interface between Brightway2 and D3.js - Звёзд: 9                
+
+https://pypi.org/project/rankflow - Plot how multiple ranks evolved over processing steps - draw a rankflow - Звёзд: 1          
 
 https://pypi.org/project/caspy3 - A program that provides both a GUI and a CLI to SymPy, a symbolic computation and computer algebra system Python library            
 
