@@ -130,7 +130,11 @@ https://github.com/mlandis/phyddle -  deep learning for phylogenetic models - З
 
 ### D_Data operations 
 🌋 https://github.com/pola-rs/polars - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends - 28.1k stars                 
+🌋 https://taskflow.github.io - General-purpose Parallel and Heterogeneous Task Programming System - https://pypi.org/project/taskflow - https://github.com/taskflow/taskflow - 9.8k stars
+🌋 https://ibis-project.org - dataframe library - https://github.com/ibis-project/ibis - https://pypi.org/project/ibis/ - 4.6k stars         
 🌋 https://pymor.org -  building model order reduction applications - https://pypi.org/project/pymor - Звёзд: 292             
+
+
 
 https://root.cern ⭐🅾️ -  analyzing petabytes of data, scientifically - data analysis framework 
 { https://pypi.org/project/uproot - ROOT I/O in pure Python and NumPy -  Звёзд: 224           
@@ -289,7 +293,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 🌋 https://pypi.org/project/aesara -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1169        
 🌋 https://pypi.org/project/awkward -https://github.com/scikit-hep/awkward -  812 stars               
 {https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures as easily as Numpy - Звёзд: 216}      
-
+🌋 https://xgi.readthedocs.io -modeling and analyzing complex systems with group (higher-order) interactions, i.e. hypergraphs and simplicial complexes - https://github.com/xgi-org/xgi - https://pypi.org/project/xgi - 172 stars       
                    
 ### JAX                 
 Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
@@ -562,7 +566,7 @@ https://pypi.org/project/odeanimate - ODE k mathematical calculation, plotting a
 ### PDE 
 💜 **https://github.com/topics/partial-differential-equations** - 403 public repo      
 💜 **https://github.com/topics/pde** - 359 public repo                                                                      
-**https://pypi.org/project/FiPy** -  finite volume PDE solver in Python - Звёзд: 489            
+**https://pypi.org/project/FiPy** D_Da-  finite volume PDE solver in Python - Звёзд: 489            
 https://pypi.org/project/shenfun - Automated Spectral-Galerkin framework for solving partial differential equations (PDEs) -  Звёзд: 193                                    
 https://pypi.org/project/jax-dips - Differentiable 3D interfacial PDE solvers written in JAX using the Neural Bootstrapping Method -  Звёзд: 37                    
 https://pypi.org/project/ader -  solving any (potentially very stiff) hyperbolic system of PDEs -  Звёзд: 13                         
@@ -572,7 +576,10 @@ https://pypi.org/project/desolvex -  solution of partial differential equations 
 https://pypi.org/project/pylsewave -  pulse wave dynamics and/or any hyperbolic system of PDEs - https://github.com/giorgosR/pylsewave -  0 stars        
 
 
-## 📊📊 S_Statistics / R_Regression                   
+## 📊📊 S_Statistics / R_Regression             
+🌋 https://www.statsmodels.org - statistical models, hypothesis tests, and data exploration - https://pypi.org/project/statsmodels - Звёзд: 9753            
+🌋 https://skforecast.org - ibrary that eases using scikit-learn regressors as single and multi-step forecasters - https://pypi.org/project/skforecast - Звёзд: 1006                  
+
 **https://pypi.org/project/scann/** - Scalable Nearest Neighbor search library - Звёзд: 33387                      
 https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565    
 https://pypi.org/project/simsimd - Computing dot-products, similarity measures, and distances between low- and high-dimensional vectors is ubiquitous in Machine Learning, Scientific Computing, Geo-Spatial Analysis, and Information Retrieval - Звёзд: 808               
@@ -1062,6 +1069,9 @@ https://pypi.org/project/aristop - optimization of energy systems
 
 
 ## ⏲️ Signal Processing / Time Series (T_S)/ Filtering       
+🌋 https://stumpy.readthedocs.io - time series analysis - https://github.com/TDAmeritrade/stumpy - https://pypi.org/project/stumpy - Звёзд: 3086                  
+🌋 https://www.aeon-toolkit.org/en/stable -  for time series tasks such as classification, clustering, segmentation and anomaly detection - https://github.com/aeon-toolkit/aeon - https://pypi.org/project/aeon/ - 905 stars              
+
 **https://github.com/facebook/prophet** - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth -  18k stars             
 **https://pypi.org/project/filterpywhl/** - Kalman filtering and optimal estimation library -  Звёзд: 3218 
 **https://pypi.org/project/salesforce-merlion/** - A Machine Learning Framework for Time Series Intelligence - Звёзд: 3306                 
@@ -1291,6 +1301,7 @@ https://pypi.org/project/pyoomph - multi-physics finite element framework based 
 
 ## ⚡⚡ P_Physics ⚡⚡ 
 🌋 https://pyiron.org -  integrated development environment (IDE) for computational materials science - https://github.com/pyiron/pyiron - 348 stars       
+🌋 https://github.com/Xiangyu-Hu/SPHinXsys - engineering simulation and optimization. It aims at complex systems driven by fluid, structure, multi-body dynamics and beyond -  283 stars
 
 https://pypi.org/project/thermosteam - standalone thermodynamic engine capable of estimating mixture properties, solving thermodynamic phase equilibria, and modeling stoichiometric reactions -  Звёзд: 57            
 **https://github.com/KratosMultiphysics** - a framework for building parallel multi-disciplinary simulation software
@@ -1329,12 +1340,16 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 
 
 
-### 🌏🌏🌏 G_GeoPhysics / Geology / Geodezy-Spatial / Mining
-🌋 https://numfocus.org/project/pangeo - https://pangeo.io - community for big data geoscience - https://github.com/pangeo-data 
+### 🌏🌏🌏 G_GeoPhysics / Geology / Geodezy-Spatial / Mining                         
+🌋 https://numfocus.org/project/pangeo - https://pangeo.io - community for big data geoscience - https://github.com/pangeo-data              
 🌋 https://numfocus.org/project/gdal - https://pypi.org/project/GDAL -  Geospatial Data Abstraction Library - Звёзд: 4653                               
 🌋 https://numfocus.org/project/geopandas - https://pypi.org/project/geopandas - working with geospatial data in Python easier -  Звёзд: 4351              
 🌋 https://pysal.org - geospatial data science - https://github.com/pysal/pysal -  1.3k stars              
+🌋 https://pydmd.github.io/PyDMD -  Dynamic Mode Decomposition (DMD), a data-driven method used for analyzing and extracting spatiotemporal coherent structures from time-varying datasets - https://pypi.org/project/pydmd - Звёзд: 829          
+
 🌋 https://micro-manager.org -  control and automation of microscope hardware - https://github.com/micro-manager/micro-manager
+   
+
 
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                      
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars                          
@@ -1583,7 +1598,6 @@ https://pypi.org/project/pygambit - computation in game theory - Звёзд: 381
 
 ## 🎡 D_Dynamic systems    
 **https://pypi.org/project/pysindy** - Sparse Identification of Nonlinear Dynamics -  Звёзд: 1351                                   
-https://pypi.org/project/pydmd - Dynamic Mode Decomposition (DMD) is a model reduction algorithm -  Звёзд: 829             
 https://pypi.org/project/pynamical - Model, simulate, and visualize discrete nonlinear dynamical systems -  Звёзд: 619                                     
 https://pypi.org/project/simupy -  framework for modeling and simulating dynamical systems - Звёзд: 578     
 **https://pypi.org/project/pysd/** - System Dynamics Modeling - Звёзд: 354             
@@ -1603,14 +1617,16 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 ## 👁️‍🗨️ Visualization           
 🌋 **https://plotly.com/dash** - https://github.com/plotly/dash - Data Apps & Dashboards for Python - 20.9k stars
 🌋 https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
-🌋 https://github.com/bqplot/bqplot - Plotting library for IPython/Jupyter notebooks - 3.6k stars
+🌋 https://www.manim.community - creating (mathematical) animations - 
+{ https://github.com/ManimCommunity/manim - 20.1k stars                   
+{ https://github.com/3b1b/manim -  60.4k stars                 
+🌋 http://www.scikit-yb.org -  visualizes the data science workflow, allowing users to visually steer the feature, algorithm, and hyperparameter selection process - https://github.com/DistrictDataLabs/yellowbrick - https://pypi.org/project/yellowbrick -  Звёзд: 4248      
+🌋 https://github.com/bqplot/bqplot - Plotting library for IPython/Jupyter notebooks - 3.6k stars              
+🌋 https://pyvista.org/ - Visualization Toolkit (VTK) - https://github.com/pyvista/pyvista - 2.5k stars                    
 🌋 https://numfocus.org/project/napari - n-dimensional image viewer - https://pypi.org/project/napari - Звёзд: 2126                               
 🌋 https://www.colour-science.org - https://github.com/colour-science/colour - Colour Science for Python -  2k stars                   
 🌋 https://ipyvizzu.vizzuhq.com/latest -  Build animated charts in Jupyter Notebook and similar environments - https://github.com/vizzuhq/ipyvizzu - 933 stars              
 🌋 https://numfocus.org/project/holoviz - High-level tools to simplify visualization in Python - https://github.com/holoviz/holoviz -  818 stars            
-🌋 https://www.manim.community - creating (mathematical) animations - 
-{ https://github.com/ManimCommunity/manim - 20.1k stars                   
-{ https://github.com/3b1b/manim -  60.4k stars                 
 
 
 https://pypi.org/project/kmapper -  https://kepler-mapper.scikit-tda.org/en/latest/ - for visualization of high-dimensional data and 3D point cloud data. KeplerMapper can make use of Scikit-Learn API compatible cluster and scaling algorithms - https://github.com/scikit-tda/kepler-mapper  -  623 stars                               
