@@ -46,6 +46,7 @@ https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects 
 🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                          
 **https://pypi.org/project/0xibra-scann/** - Scalable Nearest Neighbor search library - Звёзд: 33444              
+**https://pypi.org/project/netron/** - Viewer for neural network, deep learning, and machine learning models - Звёзд: 26893                     
 https://pypi.org/project/jina - Multimodal AI services & pipelines - Звёзд: 20561          
 - - -
 https://github.com/onnx/onnx - Open standard for machine learning interoperability - Звёзд: 17200           
@@ -60,6 +61,9 @@ https://pypi.org/project/optuna -  hyperparameter optimization framework - Зв�
 **https://pypi.org/project/cleanlab** -  data-centric AI, machine learning  - Звёзд: 9130          
 **https://pypi.org/project/openvino** -  optimizing and deploying AI inference - Звёзд: 6357               
 https://pypi.org/project/flwr - Learning Framework - Звёзд: 4463            
+https://pypi.org/project/lightly - A deep learning package for self-supervised learning - Звёзд: 2845              
+
+
 https://pypi.org/project/labml-app - Mobile first web app to monitor PyTorch & TensorFlow model training -  Звёзд: 1946                     
 https://pypi.org/project/optuna-distributed - Distributed hyperparameter optimization made easy -  Звёзд: 26                      
 https://pypi.org/project/optunahub -  registry of third-party Optuna packages - Звёзд: 24             
@@ -116,13 +120,15 @@ https://pypi.org/project/larq - **https://larq.dev/** -  Machine Learning Librar
 https://pypi.org/project/scope-rl/ - offline reinforcement learning, off-policy evaluation, and selection - Звёзд: 103        
 https://pypi.org/project/choice-learn - to help you formulate, estimate, and deploy discrete choice models, e.g., for assortment planning -  Звёзд: 30                    
 
-https://github.com/mlandis/phyddle -  deep learning for phylogenetic models          
+https://github.com/mlandis/phyddle -  deep learning for phylogenetic models - Звёзд: 3                           
 
 ### D_Data operations 
 https://root.cern ⭐🅾️ -  analyzing petabytes of data, scientifically - data analysis framework 
 { https://pypi.org/project/uproot - ROOT I/O in pure Python and NumPy -  Звёзд: 224           
-
 https://pypi.org/project/dapper - benchmarks the performance of data assimilation (DA) methods - Звёзд: 336                              
+https://pypi.org/project/informatics/ - Framework of fast implementation data processing and operating pipelines - Звёзд: 186        
+
+
 **https://pypi.org/project/anesthetic/** - nested sampling post-processing - Звёзд: 55        
 https://pypi.org/project/sheetbuddy -  data summary and analysis from various formats such as CSV, API, URL -  Звёзд: 2           
 
@@ -176,6 +182,7 @@ https://pypi.org/project/onnxruntime-cann - engine for Open Neural Network Excha
 https://pypi.org/project/mnn - highly efficient and lightweight deep learning framework - Звёзд: 8446  
 https://pypi.org/project/tract - Python bindings for tract, a neural network inference engine - Звёзд: 2125
 https://pypi.org/project/sparseml - applying sparsification recipes to neural networks -  Звёзд: 2010   
+
 https://github.com/larq/larq - Open-Source Deep Learning Library for Training Binarized Neural Networks -  696 stars                  
 https://pypi.org/project/norse - library for deep learning with spiking neural networks -  Звёзд: 628         
 https://pypi.org/project/brainpy -  Brain Dynamics Programming - https://github.com/brainpy/BrainPy - 489 stars          
@@ -297,6 +304,7 @@ https://pypi.org/project/interpax - Interpolation and function approximation wit
 https://pypi.org/project/quadax - Numerical quadrature with JAX - Звёзд: 34                      
 https://pypi.org/project/thermox - https://github.com/normal-computing/thermox - simulate Ornstein-Uhlenbeck (OU) processes (The Ornstein–Uhlenbeck process is a stationary Gauss–Markov process) - 25 stars       
 - - -
+⭐ **https://pypi.org/project/pytools/** - things that are “missing” from the Python standard library - Звёзд: 67
 https://pypi.org/project/modelx - Build and run complex models composed of formulas and data -  Звёзд: 90                  
 
 https://pypi.org/project/simframe - Framework for Scientific Simulations -  Звёзд: 12           
@@ -410,6 +418,7 @@ https://pypi.org/project/combi/
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124     
 **https://pypi.org/project/pyamg/** -  solving large-scale linear systems with optimal or near-optimal efficiency - Звёзд: 545          
+https://pypi.org/project/devito - ptimised Finite Difference (FD) computation from high-level symbolic problem definitions -  Звёзд: 539           
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
 
 https://pypi.org/project/galgebra - Symbolic Geometric Algebra/Calculus package for SymPy - Звёзд: 223                     
@@ -549,6 +558,7 @@ https://pypi.org/project/pylsewave -  pulse wave dynamics and/or any hyperbolic 
 https://pypi.org/project/pingouin - statistical package for Python - Звёзд: 1565    
 https://pypi.org/project/simsimd - Computing dot-products, similarity measures, and distances between low- and high-dimensional vectors is ubiquitous in Machine Learning, Scientific Computing, Geo-Spatial Analysis, and Information Retrieval - Звёзд: 808               
 https://pypi.org/project/scikit-posthocs - Statistical post-hoc analysis and outlier detection algorithms - Звёзд: 325               
+https://pypi.org/project/formulaic - An implementation of Wilkinson formulas -  Звёзд: 316              
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245                        
 https://pypi.org/project/ambrozia - A/B tests - Звёзд: 215           
 https://pypi.org/project/mpcrl - Reinforcement Learning with Model Predictive Control - Звёзд: 164                 
@@ -670,6 +680,7 @@ https://pypi.org/project/gaussian-proc - Gaussian process regression -  2 stars
 https://github.com/pymc-devs - Bayesian Modeling and Probabilistic Programming   
 
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
+**https://pypi.org/project/pymc** (formerly PyMC3) -  Bayesian statistical modeling focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms - Звёзд: 8496
 **https://pypi.org/project/pystan** - Bayesian modeling, inference, and visualization - https://github.com/stan-dev/stan -  2553 stars
 
 🌋 **https://pypi.org/project/arviz** - Exploratory analysis of Bayesian models - Звёзд: 1555 - https://numfocus.org/project/arviz 
@@ -749,7 +760,7 @@ https://pypi.org/project/csnn - Neural Networks with CasADi
 **https://pypi.org/project/ortools/** - operations research tools developed at Google -  Звёзд: 10776                  
 **https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
 **https://pypi.org/project/POT/** - Python Optimal Transport Library - Звёзд: 2328             
-https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1192             
+https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1195                             
 
 https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods” ICLR2019 and more  -  Звёзд: 814            
 https://github.com/scipopt/PySCIPOpt - https://www.scipopt.org - solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price - 773 stars              
@@ -765,6 +776,8 @@ https://pypi.org/project/quadprog - Quadratic Programming Solver -  Звёзд: 
 
 - - -           
 💥 Benchmark 💥                   
+**https://pypi.org/project/cocopp** - Benchmarking framework for all types of black-box optimization algorithms, postprocessing -  Звёзд: 254       
+
 **https://pypi.org/project/opfunu/** - Optimization Benchmark Functions  - Звёзд: 110
 **https://pypi.org/project/qpbenchmark** - Benchmark for quadratic programming solvers available in Python -  Звёзд: 97
 **https://pypi.org/project/qpsolvers_benchmark/** - Benchmark for quadratic programming solvers available in Python - 96 stars             
@@ -821,7 +834,7 @@ https://pypi.org/project/PICOS - interface to conic optimization solvers
 https://pypi.org/project/swarmist -  Domain Specific Language (DSL) for building metaheuristic algorithms to solve single-objective continuous optimization over real domains 
 
 ### ➖ Linear programming
-**https://pypi.org/project/PuLP** - is an LP modeler, can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems -  Звёзд: 1999
+**https://pypi.org/project/PuLP** - is an LP modeler, can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems -  Звёзд: 2005
 https://pypi.org/project/mip - for Modeling and Solving Mixed-Integer Linear Programs - Звёзд: 512  
 https://pypi.org/project/lpsolvers/ - Linear programming solvers -  Звёзд: 22              
 **https://pypi.org/project/lippy** -  Звёзд: 18           
@@ -1055,7 +1068,8 @@ https://pypi.org/project/tsb-kit - Time Series Anomaly Detection toolkit -  Зв
 https://pypi.org/project/NODEFit - Fit time-series data with a Neural Differential Equation - Звёзд: 4       
 https://pypi.org/project/hints-kmcs - calculating pairwise and higher-order interactions of N-dimensional state variables from measured time series -  Звёзд: 4          
 https://pypi.org/project/foxplot - Plot time-series data from line-delimited JSON -  Звёзд: 3           
-https://pypi.org/project/dspeed - Fast Digital Signal Processing - Звёзд: 2            
+https://pypi.org/project/dspeed - Fast Digital Signal Processing - Звёзд: 2      
+https://pypi.org/project/dyca -  A method to decompose multivariate signals - Звёзд: 0        
 
 
 
@@ -1171,6 +1185,9 @@ https://pypi.org/project/pyhull - for the computation of the convex hull, Delaun
 https://pypi.org/project/fenics-ufl-legacy - Unified Form Language (UFL) is a domain specific language for declaration of finite element discretizations of variational forms -  Звёзд: 95         
 **https://pypi.org/project/contourpy - calculating contours of 2D quadrilateral grids** - Звёзд: 66         
 https://pypi.org/project/pyfvm - Finite volume discretizations - Звёзд: 61           
+https://pypi.org/project/cashocs - Computational Adjoint-Based Shape Optimization and Optimal Control Software -  Звёзд: 50             
+
+
 
 https://pypi.org/project/tess - A 3D cell-based Voronoi library - https://github.com/wackywendell/tess/ - 35 stars
 https://pypi.org/project/pygamer -  Geometry-preserving Adaptive Mesher - Звёзд: 31              
@@ -1286,6 +1303,7 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                      
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars                          
 https://pypi.org/project/gstools/ - geostatistical toolbox - Звёзд: 532        
+https://pypi.org/project/pyshtools -  spherical harmonic transforms, multitaper spectral analyses, expansions of gridded data into Slepian basis functions, standard operations on global gravitational and magnetic field data - Звёзд: 357     
 **https://pypi.org/project/geoh5py/** - API for geoh5, an open file format for geoscientific data - Звёзд: 49           
 https://pypi.org/project/gstools-core - A Rust implementation of the core algorithms of GSTools -  Звёзд: 10             
 https://pypi.org/project/frouros - **drift detection** in machine learning systems - Звёзд: 172             
