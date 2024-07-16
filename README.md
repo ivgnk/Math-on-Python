@@ -275,6 +275,7 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 ## ♏ Algo & Structures collections                       
 🌋 https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars                     
 🌋 https://numfocus.org/project/cupy - https://github.com/cupy/cupy - NumPy & SciPy for GPU  -  8k stars                            
+🌋 https://pypi.org/project/aesara -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1169        
                    
 ### JAX                 
 Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
@@ -286,7 +287,7 @@ Google JAX — фреймворк машинного обучения для п�
 https://github.com/patrick-kidger/equinox - Elegant easy-to-use neural networks + scientific computing in JAX -  1.9k stars          
 https://pypi.org/project/kernax - Regularized Stein thinning ( post-processing the output of a sampling procedure, such as Markov chain Monte Carlo (MCMC)) using JAX -    
 https://pypi.org/project/diffrax -  JAX-based library providing numerical differential equation solvers (ODE/SDE/CDE (ordinary/stochastic/controlled)) - Звёзд: 1325             
-https://pypi.org/project/aesara-nightly -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1166        
+
 https://pypi.org/project/blackjax - Flexible and fast sampling - Звёзд: 758                       
 https://pypi.org/project/equinox - easy-to-use neural networks in JAX -  Звёзд: 1913                    
 https://pypi.org/project/distrax - Probability distributions - 518 stars           
