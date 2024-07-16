@@ -1,3 +1,6 @@
+https://numfocus.org/sponsored-projects/affiliated-projects
+No - Gensim
+
 Просмотрено, начиная с 
 mesido 0.1.5.3      Выпущен: 16 июл. 2024 г.      
 
@@ -31,6 +34,7 @@ https://github.com/amd
 
 **https://jina.ai/**  
 
+🌋 https://catalyst-team.com - https://github.com/catalyst-team/catalyst - https://github.com/catalyst-team/catalyst - 3.3k stars
 🌋 https://numfocus.org/project/shogun - Shogun Machine Learning Toolbox - https://github.com/shogun-toolbox/shogun - 3020 stars             
 
 https://github.com/Thinklab-SJTU - Thinklab at Shanghai Jiao Tong University - 32 followers                
@@ -42,6 +46,9 @@ https://github.com/bluesky - cientific data acquisition, management, and analysi
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud                                
 
 🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
+🌋 https://github.com/aiidateam - Automated workflows for computational science - https://www.aiida.net 
+{https://github.com/aiidateam/aiida-core 0 -  415 stars }
+
 ⚡ **https://pypi.org/project/labml-nn/** - Звёзд: 50985                          
 **https://pypi.org/project/0xibra-scann/** - Scalable Nearest Neighbor search library - Звёзд: 33444              
 **https://pypi.org/project/netron/** - Viewer for neural network, deep learning, and machine learning models - Звёзд: 26893                     
@@ -276,6 +283,9 @@ https://docs.scipy.org/doc/scipy/tutorial/signal.html#filtering
 🌋 https://numfocus.org/project/xarray - data structures and analysis tools for working with multidimensional labeled datasets and arrays - https://github.com/pydata/xarray -  3.5k stars                     
 🌋 https://numfocus.org/project/cupy - https://github.com/cupy/cupy - NumPy & SciPy for GPU  -  8k stars                            
 🌋 https://pypi.org/project/aesara -  defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays -  Звёзд: 1169        
+🌋 https://pypi.org/project/awkward -https://github.com/scikit-hep/awkward -  812 stars               
+{https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures as easily as Numpy - Звёзд: 216}      
+
                    
 ### JAX                 
 Google JAX — фреймворк машинного обучения для преобразования числовых функций.                     
@@ -338,7 +348,7 @@ https://pypi.org/project/PyPika - A SQL query builder API for Python - Звёз�
 https://pypi.org/project/MDP -  library of widely used data processing algorithms, and the possibility to combine them together to form pipelines for building more complex data processing software           
 https://pypi.org/project/optproblems       
 https://pypi.org/project/machine-learning-lab-dashboard          
-https://pypi.org/project/awkward0 - Manipulate arrays of complex data structures as easily as Numpy                 
+
 
             
 
@@ -413,13 +423,15 @@ https://pypi.org/project/infEGE -  8 stars
 https://pypi.org/project/combi/ 
 
 ### 📝 C_Calculation 
+🌋 https://github.com/devitocodes - https://pypi.org/project/devito - automated finite-differences and stencil computation - Optimised Finite Difference (FD) computation from high-level symbolic problem definitions -  Звёзд: 539           }
+🌋 https://github.com/equadratures/equadratures - uncertainty quantification, machine learning, optimisation, numerical integration and dimension reduction -  98 stars           
 **https://pypi.org/project/ai4xde/** - library for scientific machine learning and physics-informed learning 
 - - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
 https://pypi.org/project/tinyspline - Spline Library -  Звёзд: 1124     
 **https://pypi.org/project/symbolica/** - fast computer algebra system - Звёзд: 414                
 **https://pypi.org/project/pyamg/** -  solving large-scale linear systems with optimal or near-optimal efficiency - Звёзд: 545          
-https://pypi.org/project/devito - ptimised Finite Difference (FD) computation from high-level symbolic problem definitions -  Звёзд: 539           
+
 https://pypi.org/project/optbinning -  Optimal Binning library -  Звёзд: 432                      
 
 https://pypi.org/project/galgebra - Symbolic Geometric Algebra/Calculus package for SymPy - Звёзд: 223                     
@@ -490,6 +502,7 @@ https://pypi.org/project/seqgentools/
 
 🌋 https://pypi.org/project/diffeqpy - https://numfocus.org/project/sciml - Solving Differential Equations - https://github.com/SciML/diffeqpy - Звёзд: 507               
 🌋 https://numfocus.org/project/petsc - https://pypi.org/project/petsc - https://github.com/petsc/petsc -  data structures and routines for the scalable (parallel) solution of scientific  applications modeled by partial differential equations - 394 stars                
+🌋  https://www.clawpack.org - https://github.com/clawpack/clawpack - olving hyperbolic systems of partial differential equations - 172 stars                           
 
 **https://pypi.org/project/quadpy** - Numerical integration, quadrature for various domains - Звёзд: 758                
 **https://pypi.org/project/quadpy-gpl** - https://github.com/sigma-py/quadpy - More than 1500 numerical integration schemes - 756 stars
@@ -738,6 +751,8 @@ https://pypi.org/project/pydiceroll - rolling a lot of dice  - Звёзд: 0
 
 
 ## 🎬 O_Optimization / Fitting  
+🌋 https://www.cvxpy.org - https://github.com/cvxpy/cvxpy - convex optimization problems - 5.2k stars                      
+
 ### ⚡⚡⚡ Github 
 💜 https://github.com/topics/optimization?l=python -  2,149 public repo             
 💜 https://github.com/topics/bayesian-optimization?l=python - 258 public repo               
@@ -848,7 +863,10 @@ https://pypi.org/project/qpalm/ - Proximal Augmented Lagrangian method for Quadr
 https://pypi.org/project/TBFLib - ToriBird's Formula library (TBFLib) - Звёзд: 0          
 
 ### NonLinear programming
+🌋 https://estimagic.org/en/stable - nonlinear optimization  to solve difficult problems with or without constraints -  https://github.com/OpenSourceEconomics/optimagic -  236 stars           
+
 https://pypi.org/project/casadi - **https://github.com/casadi** - https://web.casadi.org - framework for algorithmic differentiation and numeric optimization - Звёзд: 1617           
+
 https://pypi.org/project/qmm -  Quadratic Majorization-Minimization - Звёзд: 15
 https://pypi.org/project/csnlp - Nonlinear Progamming with CasADi - Звёзд: 8                     
 
@@ -1004,6 +1022,7 @@ https://pypi.org/project/Hydrograph-py - hydrological Python package
 
 ## 🅾️ ORG 
 🌋 **https://numfocus.org/project/quantecon** - computational tools for economists - https://github.com/QuantEcon/QuantEcon.py - 1897 stars         
+ ⚡ **https://github.com/OpenSourceEconomics** - 
 https://github.com/quantmind                 
 **https://github.com/quantmind/awesome-open-finance** -  118 stars                                         
 **https://econ-ark.org** - world of economic modeling                        
@@ -1566,9 +1585,14 @@ https://pypi.org/project/cnvm - Continuous-time Noisy Voter Model (CNVM) of soci
 https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
+🌋 **https://plotly.com/dash** - https://github.com/plotly/dash - Data Apps & Dashboards for Python - 20.9k stars
 🌋 https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
+🌋 https://github.com/bqplot/bqplot - Plotting library for IPython/Jupyter notebooks - 3.6k stars
 🌋 https://numfocus.org/project/napari - n-dimensional image viewer - https://pypi.org/project/napari - Звёзд: 2126                               
+🌋 https://www.colour-science.org - https://github.com/colour-science/colour - Colour Science for Python -  2k stars                   
 🌋 https://numfocus.org/project/holoviz - High-level tools to simplify visualization in Python - https://github.com/holoviz/holoviz -  818 stars            
+
+
 
 https://pypi.org/project/kmapper -  https://kepler-mapper.scikit-tda.org/en/latest/ - for visualization of high-dimensional data and 3D point cloud data. KeplerMapper can make use of Scikit-Learn API compatible cluster and scaling algorithms - https://github.com/scikit-tda/kepler-mapper  -  623 stars                               
 https://github.com/gtaylor/python-colormath -  453 stars              
