@@ -46,6 +46,8 @@ https://github.com/bluesky - cientific data acquisition, management, and analysi
 https://pypi.org/project/jcloud - Simplify deploying and managing Jina projects on Jina Cloud                                
 
 🌋 https://numfocus.org/project/scikit-learn - **https://github.com/scikit-learn/scikit-learn** - 58.9k stars                                   
+🌋 https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
+🌋 https://pypi.org/project/Mesa/ - https://github.com/projectmesa/mesa - agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors - 2.3k stars
 🌋 https://github.com/aiidateam - Automated workflows for computational science - https://www.aiida.net 
 {https://github.com/aiidateam/aiida-core 0 -  415 stars }
 
@@ -62,7 +64,6 @@ https://pypi.org/project/onnxruntime-training - ONNX Runtime is a runtime accele
 https://pypi.org/project/nemo-toolkit -  Conversational AI (Vision, Multimodal) - Звёзд: 10848            
 https://pypi.org/project/dopamine-rl - framework for flexible Reinforcement Learning research - Звёзд: 10424                 
 
-https://pypi.org/project/optuna -  hyperparameter optimization framework - Звёзд: 10131 - **https://github.com/optuna**               
 **https://pypi.org/project/cleanlab** -  data-centric AI, machine learning  - Звёзд: 9130          
 **https://pypi.org/project/openvino** -  optimizing and deploying AI inference - Звёзд: 6357               
 https://pypi.org/project/flwr - Learning Framework - Звёзд: 4463            
@@ -128,6 +129,9 @@ https://pypi.org/project/choice-learn - to help you formulate, estimate, and dep
 https://github.com/mlandis/phyddle -  deep learning for phylogenetic models - Звёзд: 3                           
 
 ### D_Data operations 
+🌋 https://github.com/pola-rs/polars - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends - 28.1k stars                 
+🌋 https://pymor.org -  building model order reduction applications - https://pypi.org/project/pymor - Звёзд: 292             
+
 https://root.cern ⭐🅾️ -  analyzing petabytes of data, scientifically - data analysis framework 
 { https://pypi.org/project/uproot - ROOT I/O in pure Python and NumPy -  Звёзд: 224           
 https://pypi.org/project/dapper - benchmarks the performance of data assimilation (DA) methods - Звёзд: 336                              
@@ -425,6 +429,7 @@ https://pypi.org/project/combi/
 ### 📝 C_Calculation 
 🌋 https://github.com/devitocodes - https://pypi.org/project/devito - automated finite-differences and stencil computation - Optimised Finite Difference (FD) computation from high-level symbolic problem definitions -  Звёзд: 539           }
 🌋 https://github.com/equadratures/equadratures - uncertainty quantification, machine learning, optimisation, numerical integration and dimension reduction -  98 stars           
+🌋 https://python-graphblas.readthedocs.io - https://github.com/python-graphblas/python-graphblas - high-performance sparse linear algebra for scalable graph analytics -  121 stars                
 **https://pypi.org/project/ai4xde/** - library for scientific machine learning and physics-informed learning 
 - - -
 **https://pypi.org/project/aesara/** - defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays - Звёзд: 1165       
@@ -692,6 +697,8 @@ https://pypi.org/project/gaussian-proc - Gaussian process regression -  2 stars
 🌋 **https://numfocus.org/project/stan**
 🌋 **https://numfocus.org/project/pymc** - statistical modeling tool for Bayesian statistical modeling and Probabilistic Machine Learning which focuses on advanced Markov chain Monte Carlo and variational fitting algorithms. 
 https://github.com/pymc-devs - Bayesian Modeling and Probabilistic Programming   
+🌋 https://pomegranate.readthedocs.io/en/latest - https://github.com/jmschrei/pomegranate - probabilistic modeling - 3.3k stars 
+{ https://pypi.org/project/pomegranate -  Звёзд: 70
 
 **https://pypi.org/project/micropymc** (PyMC3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara - Звёзд: 8449             
 **https://pypi.org/project/pymc** (formerly PyMC3) -  Bayesian statistical modeling focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms - Звёзд: 8496
@@ -752,6 +759,7 @@ https://pypi.org/project/pydiceroll - rolling a lot of dice  - Звёзд: 0
 
 ## 🎬 O_Optimization / Fitting  
 🌋 https://www.cvxpy.org - https://github.com/cvxpy/cvxpy - convex optimization problems - 5.2k stars                      
+🌋 https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems (inverse problems) - https://github.com/PyLops/pylops -  409 stars   
 
 ### ⚡⚡⚡ Github 
 💜 https://github.com/topics/optimization?l=python -  2,149 public repo             
@@ -782,7 +790,6 @@ https://pypi.org/project/geoopt -  “Riemannian Adaptive Optimization Methods�
 https://github.com/scipopt/PySCIPOpt - https://www.scipopt.org - solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price - 773 stars              
 https://pypi.org/project/qpsolvers/ - Quadratic programming solvers -  Звёзд: 548                                  
 https://pypi.org/project/hyperactive - hyperparameter optimization toolbox for convenient and fast prototyping -  Звёзд: 494                 
-https://pypi.org/project/pylops - linear operators to allow solving large-scale optimization problems - https://github.com/PyLops/pylops -  409 stars   
 https://pypi.org/project/skscope - Sparsity-Constraint OPtimization via itErative-algorithm - Звёзд: 299              
 https://pypi.org/project/iminuit - Minuit was designed to optimize statistical cost functions, for maximum-likelihood and least-squares fits. It provides the best-fit parameters and error estimates from likelihood profile analysis - Звёзд: 278       
 **https://pypi.org/project/spotpy/** - Statistical Parameter Optimization Tool -  Звёзд: 245          
@@ -1264,9 +1271,14 @@ https://snappy.computop.org - studying the topology and geometry of 3-manifolds,
 
 ## 🎹  ⚡⚡⚡⚡ Finite Element Method (FEM)
 💜 **https://github.com/topics/finite-elements** 
-
+🌋 https://mfem.org - library for finite element methods - https://pypi.org/project/mfem - https://github.com/mfem/PyMFEM - 198 stars            
 🌋 https://numfocus.org/project/fenics-project -  automated finite element library used to solve equations used in modeling, featuring a domain-specific language and automated code generation  
 🌋 https://github.com/orgs/FEniCS/repositories?q=lang%3Apython+sort%3Astars
+
+**https://github.com/piScope/** - workbench for data analysis and modeling - 
+{ https://github.com/piScope/piScope - https://pypi.org/project/piscope -  Звёзд: 22 
+{ https://github.com/piScope/PetraM_Base
+{ https://github.com/piScope/PetraM_RF 
 
 https://github.com/polyfem/         
 
@@ -1278,6 +1290,7 @@ https://pypi.org/project/pyoomph - multi-physics finite element framework based 
 
 
 ## ⚡⚡ P_Physics ⚡⚡ 
+🌋 https://pyiron.org -  integrated development environment (IDE) for computational materials science - https://github.com/pyiron/pyiron - 348 stars       
 
 https://pypi.org/project/thermosteam - standalone thermodynamic engine capable of estimating mixture properties, solving thermodynamic phase equilibria, and modeling stoichiometric reactions -  Звёзд: 57            
 **https://github.com/KratosMultiphysics** - a framework for building parallel multi-disciplinary simulation software
@@ -1320,6 +1333,8 @@ https://pypi.org/project/unitclass - Physical unit class suitable for calculatio
 🌋 https://numfocus.org/project/pangeo - https://pangeo.io - community for big data geoscience - https://github.com/pangeo-data 
 🌋 https://numfocus.org/project/gdal - https://pypi.org/project/GDAL -  Geospatial Data Abstraction Library - Звёзд: 4653                               
 🌋 https://numfocus.org/project/geopandas - https://pypi.org/project/geopandas - working with geospatial data in Python easier -  Звёзд: 4351              
+🌋 https://pysal.org - geospatial data science - https://github.com/pysal/pysal -  1.3k stars              
+🌋 https://micro-manager.org -  control and automation of microscope hardware - https://github.com/micro-manager/micro-manager
 
 https://pypi.org/project/adao - Data Assimilation and Optimization - http://www.salome-platform.org                      
 **https://github.com/GeoStat-Framework/GSTool** - 530 stars                          
@@ -1412,6 +1427,7 @@ https://pypi.org/project/pyoptica - Tools to apply light propagation algorithms
 
 
 ## 📏 Geometry 🌑 (G_Geom_)   
+🌋 https://geomstats.github.io - computations, statistics, and machine learning on nonlinear manifolds - https://github.com/geomstats/geomstats - Звёзд: 1173                 
 **https://github.com/CGAL** - geometric algorithms         
 **https://pypi.org/project/solidpython/** - interface to the OpenSCAD declarative geometry language - Звёзд: 1096                   
 **https://pypi.org/project/pytransform3d** - 3D transformations - Звёзд: 599           
@@ -1480,9 +1496,9 @@ https://pypi.org/project/pathpy4 - Network Analytics and Graph Learning for Time
 https://pypi.org/project/bamt-light - data modeling and analysis tool based on Bayesian networks - 116 stars        
 
 ### ❇️❇️ G_Graphs       
-**https://pypi.org/project/networkx/**  - Python package for creating and manipulating graphs and networks - Звёзд: 14440                     
+🌋 https://pypi.org/project/igraph - High performance graph data structures and algorithms - Звёзд: 1271                           
 
-https://pypi.org/project/igraph - High performance graph data structures and algorithms - Звёзд: 1271                           
+**https://pypi.org/project/networkx/**  - Python package for creating and manipulating graphs and networks - Звёзд: 14440                     
 
 https://pypi.org/project/BisPy - computation of the maximum bisimulation of directed graphs                        
 **https://www.pathpy.net/0.1.0-dev - next-generation network analytics and graph learning for time series data on graphs**                  
@@ -1590,8 +1606,11 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 🌋 https://github.com/bqplot/bqplot - Plotting library for IPython/Jupyter notebooks - 3.6k stars
 🌋 https://numfocus.org/project/napari - n-dimensional image viewer - https://pypi.org/project/napari - Звёзд: 2126                               
 🌋 https://www.colour-science.org - https://github.com/colour-science/colour - Colour Science for Python -  2k stars                   
+🌋 https://ipyvizzu.vizzuhq.com/latest -  Build animated charts in Jupyter Notebook and similar environments - https://github.com/vizzuhq/ipyvizzu - 933 stars              
 🌋 https://numfocus.org/project/holoviz - High-level tools to simplify visualization in Python - https://github.com/holoviz/holoviz -  818 stars            
-
+🌋 https://www.manim.community - creating (mathematical) animations - 
+{ https://github.com/ManimCommunity/manim - 20.1k stars                   
+{ https://github.com/3b1b/manim -  60.4k stars                 
 
 
 https://pypi.org/project/kmapper -  https://kepler-mapper.scikit-tda.org/en/latest/ - for visualization of high-dimensional data and 3D point cloud data. KeplerMapper can make use of Scikit-Learn API compatible cluster and scaling algorithms - https://github.com/scikit-tda/kepler-mapper  -  623 stars                               
