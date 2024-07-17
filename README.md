@@ -784,7 +784,7 @@ https://pypi.org/project/opengen - Nonconvex embedded optimization: code generat
 https://pypi.org/project/csnn - Neural Networks with CasADi            
 
 **https://pypi.org/project/lightgbm/** - Звёзд: 16308           
-**https://pypi.org/project/ortools/** - operations research tools developed at Google -  Звёзд: 10776                  
+**https://pypi.org/project/ortools/** - https://github.com/google/or-tools  - operations research tools developed at Google -  Звёзд: 10776                  
 **https://pypi.org/project/pymoo** - Multi-Objective Optimization in Python - **https://github.com/anyoptimization/**pymoo - /NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO/ - 2.1k stars         
 **https://pypi.org/project/POT/** - Python Optimal Transport Library - Звёзд: 2328             
 https://pypi.org/project/google-vizier - framework for blackbox optimization and research - Звёзд: 1195                             
