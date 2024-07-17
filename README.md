@@ -1201,6 +1201,7 @@ https://github.com/search?q=topic%3Amesh+org%3Ameshpro+fork%3Atrue&type=reposito
 https://pypi.org/project/distance3d/
 **https://s3dlib.org/**
 
+**https://pypi.org/project/vedo/** - scientific analysis and visualization of 3D objects and point clouds -  Звёзд: 1985                   
 https://pypi.org/project/meshplex - Compute all sorts of interesting points, areas, and volumes in simplex (triangle, tetrahedral, n-simplex) meshes of any dimension -  Звёзд: 104              
 **https://pypi.org/project/discretisedfield/**  - Analysis and visualisation of finite-difference fields - Звёзд: 17             
 https://pypi.org/project/pymedit           
