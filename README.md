@@ -1624,6 +1624,7 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 🌋 https://ipyvizzu.vizzuhq.com/latest -  Build animated charts in Jupyter Notebook and similar environments - https://github.com/vizzuhq/ipyvizzu - 933 stars              
 🌋 https://numfocus.org/project/holoviz - High-level tools to simplify visualization in Python - https://github.com/holoviz/holoviz -  818 stars            
 
+**https://pypi.org/project/seaborn** - statistical data visualization - Звёзд: 12210           
 
 https://pypi.org/project/kmapper -  https://kepler-mapper.scikit-tda.org/en/latest/ - for visualization of high-dimensional data and 3D point cloud data. KeplerMapper can make use of Scikit-Learn API compatible cluster and scaling algorithms - https://github.com/scikit-tda/kepler-mapper  -  623 stars                               
 https://github.com/gtaylor/python-colormath -  453 stars              
