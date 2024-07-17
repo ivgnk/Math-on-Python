@@ -14,6 +14,8 @@ https://sourceforge.net/projects/golly -  for exploring Conway's Game of Life an
 https://sourceforge.net/projects/fractalscope  - fractal explorer written in Qt                   
 [Delphi] https://sourceforge.net/projects/fraktpro - Fractal generator with formula editor            
 https://sourceforge.net/projects/fractalzoomer - render some of the most known fractal functions             
+🔴[Py] https://sourceforge.net/projects/fractalrendering -  visualization of Mandelbrot and Julia set           
+[Delphi] https://sourceforge.net/projects/cart-qubeat - Reversible cellular automata               
 
 #### Visualisation                
 https://sourceforge.net/projects/labplot                      
