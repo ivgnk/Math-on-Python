@@ -129,7 +129,7 @@ https://github.com/mlandis/phyddle -  deep learning for phylogenetic models - З
 🌋 https://taskflow.github.io - General-purpose Parallel and Heterogeneous Task Programming System - https://pypi.org/project/taskflow - https://github.com/taskflow/taskflow - 9.8k stars
 🌋 https://ibis-project.org - dataframe library - https://github.com/ibis-project/ibis - https://pypi.org/project/ibis/ - 4.6k stars         
 🌋 https://pymor.org -  building model order reduction applications - https://pypi.org/project/pymor - Звёзд: 292             
-
+🔴 **https://github.com/Kanaries/Rath** - automated data exploratory analysis and visualization platform -  4.1k stars
 
 
 https://root.cern ⭐🅾️ -  analyzing petabytes of data, scientifically - data analysis framework 
