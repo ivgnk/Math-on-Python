@@ -1613,10 +1613,10 @@ https://pypi.org/project/apecosm - oceanic -  0 stars
 
 ## 👁️‍🗨️ Visualization           
 🌋 **https://plotly.com/dash** - https://github.com/plotly/dash - Data Apps & Dashboards for Python - 20.9k stars
-🌋 https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
 🌋 https://www.manim.community - creating (mathematical) animations - 
 { https://github.com/ManimCommunity/manim - 20.1k stars                   
 { https://github.com/3b1b/manim -  60.4k stars                 
+🌋 https://numfocus.org/project/bokeh - tools to interactive plots, dashboards, and data applications - https://pypi.org/project/bokeh/ -  https://github.com/bokeh/bokeh - 19k stars          
 🌋 http://www.scikit-yb.org -  visualizes the data science workflow, allowing users to visually steer the feature, algorithm, and hyperparameter selection process - https://github.com/DistrictDataLabs/yellowbrick - https://pypi.org/project/yellowbrick -  Звёзд: 4248      
 🌋 https://github.com/bqplot/bqplot - Plotting library for IPython/Jupyter notebooks - 3.6k stars              
 🌋 https://pyvista.org/ - Visualization Toolkit (VTK) - https://github.com/pyvista/pyvista - 2.5k stars                    
