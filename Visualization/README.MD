@@ -1,5 +1,5 @@
 # Visualization
-## Common
+## Common Info
 2021 **[Топ 6 библиотек Python для визуализации: какую и когда лучше использовать?](https://habr.com/ru/companies/otus/articles/558478/): Matplotlib, Seaborn, Plotly, Bokeh, Altair, Folium**      
 2019 [Обзор пакетов для визуализации данных на Python](https://neurohive.io/ru/osnovy-data-science/obzor-paketov-dlja-postroenija-grafikov-na-python/)          
 
@@ -29,9 +29,19 @@ https://github.com/igraph/python-igraph
 
 [github: PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer](https://github.com/graphistry/pygraphistry)      
 
-#### Articles                     
+#### Articles                    
+Лучшие библиотеки для работы c графами:               
+1. NetworkX                    
+2. igraph                    
+3. Graph-tool              
+4. PyGraphviz            
+5. Snap.py              
+
+
 2024 [Python Graph Visualization](https://blog.tomsawyer.com/python-graph-visualization) : NetworkX, Plotly, Graph-tool, Pyvis         
 2024 [tproger: Обзор библиотек для работы с графами в Python: NetworkX и Graph-tool](https://tproger.ru/articles/obzor-bibliotek-dlya-raboty-s-grafami-v-python--networkx-i-graph-tool)               
+2023 [Graph Visualization in Python](https://memgraph.com/blog/graph-visualization-in-python): Pyvis, Jaal                                        
+
 2023 [habr: Пишем приложение на Python для интерактивной визуализации графов с NetworkX, Plotly и Dash](https://habr.com/ru/articles/728256/)                    
 2022 [habr: Графы в Python: введение и знакомство с лучшими библиотеками](https://habr.com/ru/companies/ruvds/articles/705368/)  
 2021 [Строим интерактивные графы с помощью NetworkX и Plolty](https://newtechaudit.ru/stroim-interaktivnye-grafy-s-pomoshhyu-networkx-i-plolty/)                     
