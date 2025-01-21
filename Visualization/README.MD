@@ -5,10 +5,11 @@
 [Python Data Visualization 2018: Why So Many Libraries?](https://au.pinterest.com/pin/793126184360739265/)
 
 ### Graphs                          
-[pyvis: Interactive network visualizations](https://pyvis.readthedocs.io/en/latest/)       
-2024 [Python Graph Visualization](https://blog.tomsawyer.com/python-graph-visualization) : NetworkX, Plotly, Graph-tool, Pyvis         
-2024 [Обзор библиотек для работы с графами в Python: NetworkX и Graph-tool](https://tproger.ru/articles/obzor-bibliotek-dlya-raboty-s-grafami-v-python--networkx-i-graph-tool)                
+**[pyvis: Interactive network visualizations](https://pyvis.readthedocs.io/en/latest/)***       
 
+2024 [Python Graph Visualization](https://blog.tomsawyer.com/python-graph-visualization) : NetworkX, Plotly, Graph-tool, Pyvis         
+2024 [tproger: Обзор библиотек для работы с графами в Python: NetworkX и Graph-tool](https://tproger.ru/articles/obzor-bibliotek-dlya-raboty-s-grafami-v-python--networkx-i-graph-tool)               
+2022 [habr: Графы в Python: введение и знакомство с лучшими библиотеками](https://habr.com/ru/companies/ruvds/articles/705368/)  
 2021 [Строим интерактивные графы с помощью NetworkX и Plolty](https://newtechaudit.ru/stroim-interaktivnye-grafy-s-pomoshhyu-networkx-i-plolty/)                     
 
 
