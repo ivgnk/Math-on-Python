@@ -15,6 +15,9 @@
 2022 [habr: Графы в Python: введение и знакомство с лучшими библиотеками](https://habr.com/ru/companies/ruvds/articles/705368/)  
 2021 [Строим интерактивные графы с помощью NetworkX и Plolty](https://newtechaudit.ru/stroim-interaktivnye-grafy-s-pomoshhyu-networkx-i-plolty/)                     
 
+[Делаем сетевые графы интерактивными с помощью Python и Pyvis](https://dfedorov.spb.ru/pandas/Делаем%20сетевые%20графы%20интерактивными%20с%20помощью%20Python%20и%20Pyvis.html)           
+**[dfedorov: Анализ данных на языке Python](https://dfedorov.spb.ru/pandas/)**         
+[dfedorov: Видеоуроки Программирование на Python](https://dfedorov.spb.ru/python3/)          
 
 ### Timeline Plot                            
 2021 [Python Timeline Plot](https://deparkes.co.uk/2021/09/05/python-timeline-plot/)                 
