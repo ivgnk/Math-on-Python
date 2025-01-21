@@ -1,5 +1,9 @@
 # Visualization
 ## Common
+2021 **[Топ 6 библиотек Python для визуализации: какую и когда лучше использовать?](https://habr.com/ru/companies/otus/articles/558478/): Matplotlib, Seaborn, Plotly, Bokeh, Altair, Folium**      
+2019 [Обзор пакетов для визуализации данных на Python](https://neurohive.io/ru/osnovy-data-science/obzor-paketov-dlja-postroenija-grafikov-na-python/)          
+
+
 <img src="https://github.com/ivgnk/Math-on-Python/blob/master/Visualization/2020_Python%20visualisation%20libraries.png" width=900>
 
 [Python Data Visualization 2018: Why So Many Libraries?](https://au.pinterest.com/pin/793126184360739265/)
