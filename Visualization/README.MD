@@ -7,8 +7,25 @@
 [habr hubs: Визуализация данных](https://habr.com/ru/hubs/data_visualization/articles)                          
 
 ### Graphs                          
+#### Git info              
+**https://github.com/topics/graph-visualization**      
+https://github.com/topics/graph-visualization?l=python             
+
+https://github.com/topics/network-visualization           
+https://github.com/topics/network-visualization?l=python               
+
+https://github.com/topics/network-analysis              
+**https://github.com/topics/network-analysis?l=python**                                          
+
+https://github.com/topics/networkx              
+https://github.com/igraph/python-igraph             
+
+#### Libraries        
 **[pyvis: Interactive network visualizations](https://pyvis.readthedocs.io/en/latest/)**       
 
+[github: PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer](https://github.com/graphistry/pygraphistry)      
+
+#### Articles                     
 2024 [Python Graph Visualization](https://blog.tomsawyer.com/python-graph-visualization) : NetworkX, Plotly, Graph-tool, Pyvis         
 2024 [tproger: Обзор библиотек для работы с графами в Python: NetworkX и Graph-tool](https://tproger.ru/articles/obzor-bibliotek-dlya-raboty-s-grafami-v-python--networkx-i-graph-tool)               
 2023 [habr: Пишем приложение на Python для интерактивной визуализации графов с NetworkX, Plotly и Dash](https://habr.com/ru/articles/728256/)                    
