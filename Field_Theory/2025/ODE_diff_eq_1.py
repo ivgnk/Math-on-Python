@@ -58,10 +58,13 @@ def du_odn():  # описание функции
     res=dsolve(eq, y(x))
     print('Уравнение\n',eq)
     print('Решение уравнения\n', res)
+    # графики частных решений для y(x)=x*cosh(C1 - log(x)))
     desm = x * cosh(-2-log(x))
     des0=x*cosh(-log(x))
     desp = x*cosh(2-log(x))
-    des_ = x * cosh(log(x)) # НЕ частное решение
+    des_ = x * cosh(log(x)) # частное решение равное x * cosh(-log(x))
+    # cosh - Чётная функция — функция, не изменяющая своего значения
+    # при изменении знака независимой переменной
     # xlim=(-5, 5), ylim=(0, 1)
     plot(desm, des0,  title='Частные решения уравнения 1', xlabel=' x ', ylabel=' y ', legend=True)
     # xlim=(-5, 5), ylim=(-15, 15),
