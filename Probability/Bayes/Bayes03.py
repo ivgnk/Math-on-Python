@@ -7,7 +7,7 @@ P_word_not_spam = 0.05 (слово «приз» в не‑спаме).
 Найти: P_spam_given_word — вероятность спама, если слово есть.
 """
 P_spam = 0.2
-P_not_spam = 0.8
+P_not_spam = 1-P_spam # доля НЕ спама
 P_word_spam = 0.4
 P_word_not_spam = 0.05
 
