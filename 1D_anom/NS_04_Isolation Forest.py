@@ -43,10 +43,9 @@ def detect_anomalies_isolation_forest(data, contamination=0.05, random_state=42)
     anomalies = y_pred == -1
     return anomalies, scores
 
-# --- Пример использования ---
+# --- Случайные данные ---
 np.random.seed(42)
 t = np.arange(1000)
-
 # Нестационарный ряд: тренд + шум + аномалии
 data = 0.01 * t + np.sin(0.03 * t) + np.random.normal(0, 0.5, 1000)
 data[100] = 8  # аномалия (резкий скачок)
@@ -78,9 +77,7 @@ plt.scatter(t[anomalies], scores[anomalies], color='red', s=40, label='Аном�
 plt.title('2. Оценки аномальности: чем ниже значение, тем аномальнее точка')
 plt.xlabel('Время'); plt.ylabel('Оценка аномальности')
 plt.grid(); plt.legend()
-
-plt.tight_layout()
-plt.show()
+plt.tight_layout(); plt.show()
 
 # --- Вывод результатов ---
 print("Индексы аномалий:", np.where(anomalies)[0])
