@@ -1,0 +1,302 @@
+"""
+Alice
+Выделение пространственных гравитационных аномалий: методика и алгоритмы
+Суть задачи
+Требуется выделить участки аномальных значений на профиле гравиметрических измерений, где:
+- значения систематически выше/ниже соседних;
+- аномальные зоны протяжённые (не точечные выбросы);
+- общее число зон — не более 20–40.
+
+Ключевое отличие от поиска отдельных пиков: ищем пространственно согласованные
+аномальные сегменты, а не единичные экстремумы.
+Чтобы весь профиль без остатка состоял из 20-40 аномальных зон,
+т.е. между ними не должно быть промежутков,
+они зоны должны граничить или с краем профиля или с соседними зонами
+"""
+
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.signal import savgol_filter
+
+def generate_test_data(n_points=500, seed=42):
+    """Генерирует тестовые гравиметрические данные: тренд + синусоида + шум."""
+    np.random.seed(seed)
+    x = np.linspace(0, 100, n_points)
+
+    # Полиномиальный тренд (кубический)
+    trend = 0.001 * x**3 - 0.2 * x**2 + 3 * x + 10
+    # Синусоидальные аномалии
+    sinusoid = 8 * np.sin(0.3 * x) + 5 * np.sin(0.1 * x + 1)
+    # Случайный шум
+    noise = 2 * np.random.randn(n_points)
+    # Итоговый сигнал
+    data = trend + sinusoid + noise
+
+    return x, data, trend, sinusoid, noise
+
+def split_into_contiguous_zones(data, x, target_min_zones=20, target_max_zones=40, max_iterations=50):
+    """
+    Разбивает весь профиль на 20–40 смежных аномальных зон без промежутков.
+
+    Алгоритм:
+    1. Начинаем с разбиения на N зон (N в целевом диапазоне).
+    2. Оптимизируем границы зон, чтобы минимизировать внутризонную дисперсию.
+    3. Корректируем число зон до попадания в целевой диапазон.
+    """
+
+    best_zones = []
+    best_score = float('inf')
+
+    fig_info, ax_info = plt.subplots(figsize=(6, 4))
+    plt.subplots_adjust(bottom=0.2)
+    text_box = ax_info.text(0.1, 0.5, '', transform=ax_info.transAxes, fontsize=12)
+    ax_info.set_xlim(0, 1)
+    ax_info.set_ylim(0, 1)
+    ax_info.axis('off')
+
+    for iteration in range(max_iterations):
+        # Определяем число зон для текущей итерации (циклически перебираем в диапазоне)
+        n_zones = target_min_zones + (iteration % (target_max_zones - target_min_zones + 1))
+
+        # Равномерное начальное разбиение
+        zone_length = len(data) // n_zones
+        boundaries = [i * zone_length for i in range(n_zones + 1)]
+        boundaries[-1] = len(data)  # Гарантируем, что последняя зона доходит до конца
+
+        # Оптимизация границ методом динамического программирования
+        optimized_boundaries = optimize_zone_boundaries(data, boundaries, n_zones)
+
+        # Создаём зоны
+        zones = []
+        for i in range(n_zones):
+            start, end = optimized_boundaries[i], optimized_boundaries[i + 1]
+            mean_val = np.mean(data[start:end])
+            zones.append((start, end, mean_val))
+
+        # Оцениваем качество разбиения (сумма внутризонных дисперсий)
+        score = calculate_partition_score(data, zones)
+
+        # Сохраняем лучшее решение
+        if score < best_score:
+            best_score = score
+            best_zones = zones
+
+        # Обновление информации в отдельном окне
+        remaining_iterations = max_iterations - iteration - 1
+        info_text = (
+            f"Итерация: {iteration + 1}/{max_iterations}\n"
+            f"Число зон: {n_zones}\n"
+            f"Качество разбиения: {score:.2f}\n"
+            f"Осталось итераций: {remaining_iterations}\n"
+            f"Лучшее качество: {best_score:.2f}"
+        )
+        text_box.set_text(info_text)
+        fig_info.canvas.draw()
+        plt.pause(0.3)
+
+    plt.close(fig_info)
+    return best_zones
+
+def optimize_zone_boundaries(data, initial_boundaries, n_zones):
+    """Оптимизирует границы зон методом динамического программирования."""
+    n = len(data)
+
+    # Матрица стоимости: cost[i][j] = дисперсия участка от i до j
+    cost = np.zeros((n, n))
+    for i in range(n):
+        for j in range(i + 1, n):
+            segment = data[i:j + 1]
+            cost[i][j] = np.var(segment)
+
+    # Динамическое программирование
+    # dp[k][j] = минимальная стоимость разбиения первых j точек на k зон
+    dp = np.full((n_zones + 1, n + 1), float('inf'))
+    parent = np.zeros((n_zones + 1, n + 1), dtype=int)
+
+    dp[0][0] = 0
+
+    for k in range(1, n_zones + 1):
+        for j in range(k, n + 1):
+            for i in range(k - 1, j):
+                current_cost = dp[k - 1][i] + cost[i][j - 1]
+                if current_cost < dp[k][j]:
+                    dp[k][j] = current_cost
+                    parent[k][j] = i
+
+    # Восстановление оптимальных границ
+    boundaries = []
+    current = n
+    for k in range(n_zones, 0, -1):
+        boundaries.append(current)
+        current = parent[k][current]
+    boundaries.append(0)
+    boundaries.reverse()
+
+    return boundaries
+
+def calculate_partition_score(data, zones):
+    """Рассчитывает качество разбиения как сумму внутризонных дисперсий."""
+    total_score = 0
+    for start, end, _ in zones:
+        segment = data[start:end]
+        total_score += np.var(segment) if len(segment) > 1 else 0
+    return total_score
+
+
+def plot_final_results(x, data, zones, smooth_window=11, polyorder=2):
+    """Финальная визуализация всех результатов после завершения алгоритма."""
+    smoothed = savgol_filter(data, window_length=smooth_window, polyorder=polyorder)
+
+
+    plt.figure(figsize=(14, 8))
+
+    # Исходные данные и сглаженные
+    plt.subplot(2, 1, 1)
+    plt.plot(x, data, 'b-', alpha=0.5, label='Исходные данные')
+    plt.plot(x, smoothed, 'r-', linewidth=2, label='Сглаженные (Савицкий‑Голей)')
+    plt.title('Сглаживание фильтром Савицкого‑Голея')
+    plt.xlabel('Расстояние')
+    plt.ylabel('Значение поля')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+
+    # Аномальные зоны (смежные)
+    plt.subplot(2, 1, 2)
+    plt.plot(x, data, 'b-', linewidth=2, alpha=0.7, label='Исходные данные')
+
+    colors = plt.cm.Set1(np.linspace(0, 1, len(zones)))
+    for i, (start, end, mean_val) in enumerate(zones):
+        # Заливка зоны
+        plt.axvspan(x[start], x[end], alpha=0.3, color=colors[i])
+        # Границы зон
+        plt.axvline(x[start], color=colors[i], linestyle='-', alpha=0.8, linewidth=2)
+        if i == len(zones) - 1:  # последняя граница
+            plt.axvline(x[end], color=colors[i], linestyle='-', alpha=0.8, linewidth=2)
+
+        # Подпись номера зоны
+        mid_x = x[start] + (x[end] - x[start]) / 2
+        plt.text(mid_x, np.max(data)*0.95, f'Зона {i+1}',
+                 ha='center', va='top', fontsize=9, color=colors[i], fontweight='bold')
+        # Дополнительная информация о зоне
+        plt.text(mid_x, np.min(data)*1.05, f'{mean_val:.1f}', ha='center', va='bottom', fontsize=8, color=colors[i])
+
+    plt.title('Разбиение профиля на смежные аномальные зоны (20–40 зон)')
+    plt.xlabel('Расстояние (условные единицы)')
+    plt.ylabel('Значение поля (условные единицы)')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+
+    plt.tight_layout()
+    plt.show()
+
+def plot_partition_statistics(zones, data, x):
+    """Визуализация статистики по разбиению."""
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
+
+    # Распределение длин зон
+    lengths = [zone[1] - zone[0] for zone in zones]
+    ax1.hist(lengths, bins=15, alpha=0.7, color='skyblue', edgecolor='black')
+    ax1.set_xlabel('Длина зоны (количество точек)')
+    ax1.set_ylabel('Частота')
+    ax1.set_title('Распределение длин аномальных зон')
+    ax1.grid(True, alpha=0.3)
+
+    # Средние значения по зонам
+    means = [zone[2] for zone in zones]
+    zone_numbers = range(1, len(zones) + 1)
+    ax2.bar(zone_numbers, means, color=plt.cm.Set1(np.linspace(0, 1, len(zones))), alpha=0.7)
+    ax2.set_xlabel('Номер зоны')
+    ax2.set_ylabel('Среднее значение поля')
+    ax2.set_title('Средние значения по аномальным зонам')
+    ax2.grid(True, alpha=0.3)
+
+    plt.tight_layout()
+    plt.show()
+
+    # Вывод статистики в консоль
+    print("\nСТАТИСТИКА РАЗБИЕНИЯ:")
+    print(f"Общее число зон: {len(zones)}")
+    print(f"Средняя длина зоны: {np.mean(lengths):.1f} точек")
+    print(f"Минимальная длина: {np.min(lengths)} точек")
+    print(f"Максимальная длина: {np.max(lengths)} точек")
+    print(f"Стандартное отклонение длин: {np.std(lengths):.2f}")
+    print(f"Среднее значение поля по всем зонам: {np.mean(means):.2f}")
+
+def main():
+    # Генерация тестовых данных
+    x, data, trend, sinusoid, noise = generate_test_data(n_points=500, seed=42)
+
+    print("Запуск алгоритма разбиения профиля на смежные зоны...")
+    print("Цель: получить 20–40 смежных аномальных зон без промежутков")
+
+    # Поиск оптимального разбиения
+    optimal_zones = split_into_contiguous_zones(
+        data, x,
+        target_min_zones=20,
+        target_max_zones=40,
+        max_iterations=50
+    )
+
+    # Проверка непрерывности разбиения
+    is_continuous = check_continuity(optimal_zones, len(data))
+    if not is_continuous:
+        print("ВНИМАНИЕ: Разбиение не является непрерывным! Проверьте алгоритм.")
+    else:
+        print("✓ Разбиение является непрерывным — все точки профиля входят в зоны")
+
+    # Вывод результатов
+    print("\n" + "="*60)
+    print("ФИНАЛЬНЫЕ РЕЗУЛЬТАТЫ РАЗБИЕНИЯ:")
+    print("="*60)
+    print(f"Получено аномальных зон: {len(optimal_zones)}")
+    print(f"Целевой диапазон: 20–40 зон")
+
+    if len(optimal_zones) == 0:
+        print("ОШИБКА: аномальные зоны не найдены.")
+    else:
+        print("\nПОДРОБНАЯ ИНФОРМАЦИЯ ПО ЗОНАМ:")
+        for i, (start, end, mean_val) in enumerate(optimal_zones):
+            print(f"Зона {i+1}:")
+            print(f"  Координаты: {x[start]:.1f} – {x[end]:.1f}")
+            print(f"  Длина: {end-start} точек")
+            print(f"  Среднее значение: {mean_val:.2f}")
+            print("-"*40)
+
+        # Проверка, что все точки покрыты
+        total_covered = sum(zone[1] - zone[0] for zone in optimal_zones)
+        print(f"\nПРОВЕРКА ПОКРЫТИЯ:")
+        print(f"Всего точек в профиле: {len(data)}")
+        print(f"Покрыто зонами: {total_covered} точек")
+        if total_covered == len(data):
+            print("✓ Весь профиль покрыт без пропусков")
+        else:
+            print(f"✗ Обнаружены пропуски: разница {len(data) - total_covered} точек")
+
+    # Финальная визуализация всех результатов
+    plot_final_results(x, data, optimal_zones, smooth_window=11, polyorder=2)
+
+    # Визуализация статистики
+    plot_partition_statistics(optimal_zones, data, x)
+
+def check_continuity(zones, total_length):
+    """Проверяет, что разбиение непрерывно и покрывает весь профиль."""
+    if not zones:
+        return False
+
+    # Первая зона должна начинаться с 0
+    if zones[0][0] != 0:
+        return False
+
+    # Последняя зона должна заканчиваться в конце профиля
+    if zones[-1][1] != total_length:
+        return False
+
+    # Все зоны должны граничить друг с другом
+    for i in range(1, len(zones)):
+        if zones[i][0] != zones[i-1][1]:
+            return False
+
+    return True
+
+if __name__ == '__main__':
+    main()
